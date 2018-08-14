@@ -16,7 +16,7 @@
     <name>AnimationScreen</name>
     <message>
         <source>To Upper</source>
-        <translation>à supérieur</translation>
+        <translation>Vers supérieur</translation>
     </message>
     <message>
         <source>To Lower</source>
