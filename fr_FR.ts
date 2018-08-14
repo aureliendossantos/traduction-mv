@@ -257,7 +257,7 @@
     </message>
     <message>
         <source>Note</source>
-        <translation>Remarque</translation>
+        <translation>Notes</translation>
     </message>
     <message>
         <source>Text area where you can freely add notes.</source>
@@ -4443,7 +4443,7 @@
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished">Remarque</translation>
+        <translation type="unfinished">Notes</translation>
     </message>
     <message>
         <source>Number</source>
@@ -10201,7 +10201,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Note</source>
-        <translation>Remarque</translation>
+        <translation>Notes</translation>
     </message>
 </context>
 <context>
