@@ -27,23 +27,23 @@
     <name>CharacterGenerator</name>
     <message>
         <source>Parts List</source>
-        <translation>Liste de Pièces</translation>
+        <translation>Liste des éléments</translation>
     </message>
     <message>
         <source>Selects a kind of parts.</source>
-        <translation>Sélectionne un type de pièces.</translation>
+        <translation>Sélectionne un type d’élément.</translation>
     </message>
     <message>
         <source>Randomize</source>
-        <translation>Aléatoire</translation>
+        <translation>Génération aléatoire</translation>
     </message>
     <message>
         <source>Sets all the parts at random.</source>
-        <translation>Règle toutes les pièces dans un ordre aléatoire.</translation>
+        <translation>Choisit tous les éléments aléatoirement.</translation>
     </message>
     <message>
         <source>Face Image</source>
-        <translation>Image du Visage</translation>
+        <translation>Exporter le visage</translation>
     </message>
     <message>
         <source>Opens the export window for face images.</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Personnages Marche</translation>
+        <translation>Exporter la marche</translation>
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Personnages Dommages</translation>
+        <translation>Exporter le KO</translation>
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Battler</source>
-        <translation>Combattant</translation>
+        <translation>Exporter combattant</translation>
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Save Settings</source>
-        <translation>Enregistrer les Réglages</translation>
+        <translation>Enregistrer les réglages</translation>
     </message>
     <message>
         <source>Saves the current settings.</source>
@@ -83,11 +83,11 @@
     </message>
     <message>
         <source>Load Settings</source>
-        <translation>Charger les Réglages</translation>
+        <translation>Charger des réglages</translation>
     </message>
     <message>
         <source>Loads the saved settings.</source>
-        <translation>Charge les réglages enregistrés.</translation>
+        <translation>Charge des réglages enregistrés.</translation>
     </message>
     <message>
         <source>Variation</source>
@@ -122,11 +122,11 @@
     </message>
     <message>
         <source>Front Hair</source>
-        <translation>Cheveux Avant</translation>
+        <translation>Frange</translation>
     </message>
     <message>
         <source>Rear Hair</source>
-        <translation>Cheveux Arrière</translation>
+        <translation>Cheveux</translation>
     </message>
     <message>
         <source>Beard</source>
@@ -154,11 +154,11 @@
     </message>
     <message>
         <source>Facial Mark</source>
-        <translation>Marque sur le Visage</translation>
+        <translation>Signes distinctifs</translation>
     </message>
     <message>
         <source>Beast Ears</source>
-        <translation>Oreilles de Bête</translation>
+        <translation>Oreilles animales/translation>
     </message>
     <message>
         <source>Tail</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Clothing</source>
-        <translation>Vêtement</translation>
+        <translation>Vêtements</translation>
     </message>
     <message>
         <source>Cloak</source>
@@ -190,31 +190,31 @@
     </message>
     <message>
         <source>Skin Color</source>
-        <translation>Couleur de la Peau</translation>
+        <translation>Couleur de peau</translation>
     </message>
     <message>
         <source>Hair Color</source>
-        <translation>Couleur des Cheveux</translation>
+        <translation>Couleur des cheveux</translation>
     </message>
     <message>
         <source>Sub Color</source>
-        <translation>Couleur Secondaire</translation>
+        <translation>Couleur secondaire</translation>
     </message>
     <message>
         <source>Eye Color</source>
-        <translation>Couleur des Yeux</translation>
+        <translation>Couleur des yeux</translation>
     </message>
     <message>
         <source>Facial Mark Color</source>
-        <translation>Couleur de la Marque sur le Visage</translation>
+        <translation>Couleur du signe</translation>
     </message>
     <message>
         <source>Beast Ears Color</source>
-        <translation>Couleur des Oreilles de Bête</translation>
+        <translation>Couleur des oreilles</translation>
     </message>
     <message>
         <source>Tail Color</source>
-        <translation>Couleur de la Queue</translation>
+        <translation>Couleur de la queue</translation>
     </message>
     <message>
         <source>Wing Color</source>
@@ -222,27 +222,27 @@
     </message>
     <message>
         <source>Main Color</source>
-        <translation>Couleur Principale</translation>
+        <translation>Couleur principale</translation>
     </message>
     <message>
         <source>Sub Color 1</source>
-        <translation>Couleur Secondaire 1</translation>
+        <translation>Couleur secondaire 1</translation>
     </message>
     <message>
         <source>Sub Color 2</source>
-        <translation>Couleur Secondaire 2</translation>
+        <translation>Couleur secondaire 2</translation>
     </message>
     <message>
         <source>Sub Color 3</source>
-        <translation>Couleur Secondaire 3</translation>
+        <translation>Couleur secondaire 3</translation>
     </message>
     <message>
         <source>Hair Clip Color</source>
-        <translation>Couleur du Clip à Cheveux</translation>
+        <translation>Couleur de la barrette</translation>
     </message>
     <message>
         <source>Mesh Color</source>
-        <translation>Couleur du Maillage</translation>
+        <translation>Couleur</translation>
     </message>
 </context>
 <context>
@@ -2234,15 +2234,15 @@
     <name>Dialog_CharacterGenerator</name>
     <message>
         <source>Character Generator</source>
-        <translation>Générateur de Personnages</translation>
+        <translation>Générateur de personnage</translation>
     </message>
     <message>
         <source>Male</source>
-        <translation>Mâle</translation>
+        <translation>Homme</translation>
     </message>
     <message>
         <source>Female</source>
-        <translation>Femelle</translation>
+        <translation>Femme</translation>
     </message>
     <message>
         <source>Save settings</source>
@@ -2250,7 +2250,7 @@
     </message>
     <message>
         <source>Load settings</source>
-        <translation>Charger les réglages</translation>
+        <translation>Charger des réglages</translation>
     </message>
     <message>
         <source>Face Image</source>
@@ -2258,15 +2258,15 @@
     </message>
     <message>
         <source>Walk Character</source>
-        <translation>Personnage Marche</translation>
+        <translation>Exporter la marche</translation>
     </message>
     <message>
         <source>Battler</source>
-        <translation>Combattant</translation>
+        <translation>Exporter combattant</translation>
     </message>
     <message>
         <source>Damage Character</source>
-        <translation>Personnage Dommages</translation>
+        <translation>Exporter le KO</translation>
     </message>
     <message>
         <source>Kid</source>
