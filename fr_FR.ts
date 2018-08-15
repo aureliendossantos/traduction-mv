@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les personnages de dommages.</translation>
+        <translation>Ouvre la fenêtre d’exportation pour les personnages de dégâts.</translation>
     </message>
     <message>
         <source>Battler</source>
@@ -265,11 +265,11 @@
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>Image to be displayed as the event.</source>
-        <translation>Image à afficher comme l&apos;évènement.</translation>
+        <translation>Apparence de l&apos;évènement sur la carte.</translation>
     </message>
     <message>
         <source>Include Equipment</source>
@@ -289,15 +289,15 @@
     </message>
     <message>
         <source>Allows HP to drop to 0. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de tomber à 0. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>Permet aux HP de tomber à 0. Si ce n&apos;est pas coché, s&apos;arrête à 1 HP.</translation>
     </message>
     <message>
         <source>Show Level Up</source>
-        <translation>Indiquer le Chgt. de Niveau</translation>
+        <translation>Montrer le niveau supérieur</translation>
     </message>
     <message>
         <source>Displays a message upon leveling up.</source>
-        <translation>Affiche un message au moment du passage au niveau supérieur.</translation>
+        <translation>Affiche un message au passage au niveau suivant.</translation>
     </message>
     <message>
         <source>Loop Horizontally</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Image to be displayed on the menu screen.</source>
-        <translation>Image à afficher sur l&apos;écran de menu.</translation>
+        <translation>L&apos;apparence du personnage dans les menus.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -323,16 +323,16 @@
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>L&apos;apparence du personnage sur la carte.</translation>
     </message>
     <message>
         <source>[SV] Battler</source>
         <comment>[SV] Battler Image</comment>
-        <translation>[SV] Combattant </translation>
+        <translation>[SV] Combattant</translation>
     </message>
     <message>
         <source>Image to be displayed in battle when in side-view mode.</source>
-        <translation>Image à afficher pendant la bataille en mode vue latérale.</translation>
+        <translation>L&apos;apparence du personnage dans les combats en vue de côté.</translation>
     </message>
     <message>
         <source>Player</source>
@@ -356,15 +356,15 @@
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>TP</source>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <source>Level</source>
@@ -376,11 +376,11 @@
     </message>
     <message>
         <source>Max HP</source>
-        <translation>HP Max</translation>
+        <translation>PV Max</translation>
     </message>
     <message>
         <source>Max MP</source>
-        <translation>MP Max</translation>
+        <translation>PM Max</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -393,12 +393,12 @@
     <message>
         <source>M.Attack</source>
         <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Attaque M.</translation>
+        <translation>Magie</translation>
     </message>
     <message>
         <source>M.Defense</source>
         <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Défense M.</translation>
+        <translation>Déf. Mag.</translation>
     </message>
     <message>
         <source>Agility</source>
@@ -410,55 +410,55 @@
     </message>
     <message>
         <source>Hit Rate</source>
-        <translation>Taux de Toucher</translation>
+        <translation>Précision</translation>
     </message>
     <message>
         <source>Evasion Rate</source>
-        <translation>Taux d&apos;Évasion</translation>
+        <translation>Esquive</translation>
     </message>
     <message>
         <source>Critical Rate</source>
-        <translation>Taux de Critiques</translation>
+        <translation>Critique</translation>
     </message>
     <message>
         <source>Critical Evasion</source>
-        <translation>Évasion Critique</translation>
+        <translation>Esquive critique</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>Esquive magique</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>Miroir magique</translation>
     </message>
     <message>
         <source>Counter Attack</source>
-        <translation>Contre Attaque</translation>
+        <translation>Contre-attaque</translation>
     </message>
     <message>
         <source>HP Regeneration</source>
-        <translation>Régénération HP</translation>
+        <translation>Régénération PV</translation>
     </message>
     <message>
         <source>MP Regeneration</source>
-        <translation>Régénération MP</translation>
+        <translation>Régénération PM</translation>
     </message>
     <message>
         <source>TP Regeneration</source>
-        <translation>Régénération TP</translation>
+        <translation>Régénération PT</translation>
     </message>
     <message>
         <source>Target Rate</source>
-        <translation>Taux Cible</translation>
+        <translation>Chances d&apos;être ciblé</translation>
     </message>
     <message>
         <source>Guard Effect</source>
-        <translation>Effet de Garde</translation>
+        <translation>Protection en défense</translation>
     </message>
     <message>
         <source>Recovery Effect</source>
-        <translation>Effet de Récupération</translation>
+        <translation>Efficacité récupération</translation>
     </message>
     <message>
         <source>Pharmacology</source>
@@ -466,23 +466,23 @@
     </message>
     <message>
         <source>MP Cost Rate</source>
-        <translation>Taux de Coût MP</translation>
+        <translation>Taux de coût PM</translation>
     </message>
     <message>
         <source>TP Charge Rate</source>
-        <translation>Taux de Charge TP</translation>
+        <translation>Taux de charge PT</translation>
     </message>
     <message>
         <source>Physical Damage</source>
-        <translation>Dommages Physiques</translation>
+        <translation>Dégâts physiques</translation>
     </message>
     <message>
         <source>Magical Damage</source>
-        <translation>Dommages Magiques</translation>
+        <translation>Dégâts magiques</translation>
     </message>
     <message>
         <source>Floor Damage</source>
-        <translation>Dommages de Sol</translation>
+        <translation>Dégâts par le sol</translation>
     </message>
     <message>
         <source>Experience</source>
@@ -490,35 +490,35 @@
     </message>
     <message>
         <source>Maximum hit point. Represents the maximum amount of damage that the character can withstand.</source>
-        <translation>Points de vie maximum. Représente la quantité maximale de dommages que le personnage peut endurer.</translation>
+        <translation>Points de vie maximum. Représente la quantité maximale de dégâts que le personnage peut subir.</translation>
     </message>
     <message>
         <source>Maximum magic point. Represents the character&apos;s maximum power for using magic skills.</source>
-        <translation>Points de magie maximum. Représente la puissance maximale du personnage pour l&apos;utilisation des compétences magiques.</translation>
+        <translation>Points de magie maximum. Représente la quantité de compétences magiques que le personnage peut utiliser.</translation>
     </message>
     <message>
         <source>Attack power. Affects things like the amount of damage done to opponents.</source>
-        <translation>Puissance d&apos;attaque. Affecte les choses comme le montant des dommages infligés aux adversaires.</translation>
+        <translation>Puissance d&apos;attaque. Affecte des choses comme le montant des dégâts infligés aux adversaires.</translation>
     </message>
     <message>
         <source>Defense power. Affects things like the amount of damage taken from opponents.</source>
-        <translation>Puissance de défense. Affecte les choses comme le montant des dommages infligés par les adversaires.</translation>
+        <translation>Puissance de défense. Affecte des choses comme le montant des dégâts infligés par les adversaires.</translation>
     </message>
     <message>
         <source>Magic attack power. Affects things like the power of the magic the character uses.</source>
-        <translation>Puissance d&apos;attaque magique. Affecte les choses comme la puissance de la magie que le personnage utilise.</translation>
+        <translation>Puissance d&apos;attaque magique. Affecte des choses comme la puissance de la magie que le personnage utilise.</translation>
     </message>
     <message>
         <source>Magic defense power. Affects things like the power of magic attacks from opponents.</source>
-        <translation>Puissance de défense magique. Affecte les choses comme la puissance des attaques magiques des adversaires.</translation>
+        <translation>Puissance de défense magique. Affecte des choses comme la puissance des attaques magiques des adversaires.</translation>
     </message>
     <message>
         <source>Agility. Affects things like attack order.</source>
-        <translation>Agilité. Affecte les choses comme l&apos;ordre d&apos;attaque.</translation>
+        <translation>Agilité. Affecte des choses comme l&apos;ordre d&apos;attaque.</translation>
     </message>
     <message>
         <source>Luck. Affects things like the chance of status ailments occurring.</source>
-        <translation>Chance. Affecte les choses comme la chance qu&apos;une altération d&apos;état survienne.</translation>
+        <translation>Chance. Affecte des choses comme la chance qu&apos;une altération d&apos;état survienne.</translation>
     </message>
     <message>
         <source>Fight</source>
@@ -528,7 +528,7 @@
     <message>
         <source>Escape</source>
         <comment>command</comment>
-        <translation>Fuire</translation>
+        <translation>Fuir</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -538,23 +538,23 @@
     <message>
         <source>Guard</source>
         <comment>command</comment>
-        <translation>Garde</translation>
+        <translation>Défense</translation>
     </message>
     <message>
         <source>Item</source>
         <comment>command</comment>
-        <translation>Objet</translation>
+        <translation>Objets</translation>
     </message>
     <message>
         <source>Skill</source>
         <comment>command</comment>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétences</translation>
     </message>
     <message>
         <source>Equip</source>
         <comment>command</comment>
-        <translation>Équiper</translation>
+        <translation>Équipement</translation>
     </message>
     <message>
         <source>Status</source>
@@ -579,7 +579,7 @@
     <message>
         <source>Game End</source>
         <comment>command</comment>
-        <translation>Fin du Jeu</translation>
+        <translation>Quitter le jeu</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -594,7 +594,7 @@
     <message>
         <source>Key Item</source>
         <comment>command</comment>
-        <translation>Objet Clé</translation>
+        <translation>Objet clé</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -609,7 +609,7 @@
     <message>
         <source>Clear</source>
         <comment>command: remove all</comment>
-        <translation>Effacer</translation>
+        <translation>Tout retirer</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -624,7 +624,7 @@
     <message>
         <source>New Game</source>
         <comment>command</comment>
-        <translation>Nouvelle Partie</translation>
+        <translation>Nouvelle partie</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -634,7 +634,7 @@
     <message>
         <source>To Title</source>
         <comment>command</comment>
-        <translation>Vers l&apos;Écran Titre</translation>
+        <translation>Écran titre</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -647,43 +647,43 @@
     </message>
     <message>
         <source>1 Enemy</source>
-        <translation>1 Ennemi</translation>
+        <translation>Un ennemi</translation>
     </message>
     <message>
         <source>All Enemies</source>
-        <translation>Tous les Ennemis</translation>
+        <translation>Tous les ennemis</translation>
     </message>
     <message>
         <source>1 Random Enemy</source>
-        <translation>1 Ennemi Aléatoire</translation>
+        <translation>1 ennemi au hasard</translation>
     </message>
     <message>
         <source>2 Random Enemies</source>
-        <translation>2 Ennemis Aléatoires</translation>
+        <translation>2 ennemis au hasard</translation>
     </message>
     <message>
         <source>3 Random Enemies</source>
-        <translation>3 Ennemis Aléatoires</translation>
+        <translation>3 ennemis au hasard</translation>
     </message>
     <message>
         <source>4 Random Enemies</source>
-        <translation>4 Ennemis Aléatoires</translation>
+        <translation>4 ennemis au hasard</translation>
     </message>
     <message>
         <source>1 Ally</source>
-        <translation>1 Allié</translation>
+        <translation>Un allié</translation>
     </message>
     <message>
         <source>All Allies</source>
-        <translation>Tous les Alliés</translation>
+        <translation>Tous les alliés</translation>
     </message>
     <message>
         <source>1 Ally (Dead)</source>
-        <translation>1 Allié (Mort)</translation>
+        <translation>Un allié mort</translation>
     </message>
     <message>
         <source>All Allies (Dead)</source>
-        <translation>Tous les Alliés (Morts)</translation>
+        <translation>Tous les alliés morts</translation>
     </message>
     <message>
         <source>The User</source>
@@ -695,11 +695,11 @@
     </message>
     <message>
         <source>Battle Screen</source>
-        <translation>Écran de Combat</translation>
+        <translation>En combat</translation>
     </message>
     <message>
         <source>Menu Screen</source>
-        <translation>Écran de Menu</translation>
+        <translation>Depuis le menu</translation>
     </message>
     <message>
         <source>Never</source>
@@ -707,19 +707,19 @@
     </message>
     <message>
         <source>Regular Item</source>
-        <translation>Objet Normal</translation>
+        <translation>Objet normal</translation>
     </message>
     <message>
         <source>Key Item</source>
-        <translation>Objet Clé</translation>
+        <translation>Objet clé</translation>
     </message>
     <message>
         <source>Hidden Item A</source>
-        <translation>Objet Caché A</translation>
+        <translation>Objet caché A</translation>
     </message>
     <message>
         <source>Hidden Item B</source>
-        <translation>Objet Caché B</translation>
+        <translation>Objet caché B</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -727,15 +727,15 @@
     </message>
     <message>
         <source>Dual Wield</source>
-        <translation>Ambidextrie</translation>
+        <translation>Ambidextre</translation>
     </message>
     <message>
         <source>Auto Battle</source>
-        <translation>Combat Auto</translation>
+        <translation>Automatique</translation>
     </message>
     <message>
         <source>Guard</source>
-        <translation>Garde</translation>
+        <translation>Défense</translation>
     </message>
     <message>
         <source>Substitute</source>
@@ -743,7 +743,7 @@
     </message>
     <message>
         <source>Preserve TP</source>
-        <translation>Conserver TP</translation>
+        <translation>Conserver les PT</translation>
     </message>
     <message>
         <source>Boss</source>
@@ -751,39 +751,39 @@
     </message>
     <message>
         <source>Instant</source>
-        <translation>Instant</translation>
+        <translation>Instantané</translation>
     </message>
     <message>
         <source>No Disappear</source>
-        <translation>Pas Disparaître</translation>
+        <translation>Pas de disparition</translation>
     </message>
     <message>
         <source>Encounter Half</source>
-        <translation>Rencontre la Moitié</translation>
+        <translation>Rencontres ÷ 2</translation>
     </message>
     <message>
         <source>Encounter None</source>
-        <translation>Rencontre Personne</translation>
+        <translation>Rencontres désactivées</translation>
     </message>
     <message>
         <source>Cancel Surprise</source>
-        <translation>Annuler Surprise</translation>
+        <translation>Att. surprises désac.</translation>
     </message>
     <message>
         <source>Raise Preemptive</source>
-        <translation>Relever Préemptive</translation>
+        <translation>Attaques préventives ↗</translation>
     </message>
     <message>
         <source>Gold Double</source>
-        <translation>Or Double</translation>
+        <translation>Argent reçu × 2</translation>
     </message>
     <message>
         <source>Drop Item Double</source>
-        <translation>Butin Double</translation>
+        <translation>Objets reçus × 2</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation>Fuire</translation>
+        <translation>Fuir</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -816,7 +816,7 @@
     <message>
         <source>Blend</source>
         <comment>Blend Mode</comment>
-        <translation>Mélange</translation>
+        <translation>Fusion</translation>
     </message>
     <message>
         <source>Pattern number assigned to the cell.</source>
@@ -840,7 +840,7 @@
     </message>
     <message>
         <source>Whether to draw the cell flipped horizontally.</source>
-        <translation>Si vous souhaitez dessiner la cellule basculée horizontalement.</translation>
+        <translation>Pour dessiner la cellule retournée horizontalement.</translation>
     </message>
     <message>
         <source>Opacity level of the cell.</source>
@@ -848,7 +848,7 @@
     </message>
     <message>
         <source>Blend mode used when the cell is drawn.</source>
-        <translation>Mode mélange utilisé quand la cellule est dessinée.</translation>
+        <translation>Mode de fusion utilisé pour dessiner la cellule.</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -858,7 +858,7 @@
     <message>
         <source>Additive</source>
         <comment>Additive blending</comment>
-        <translation>Additif</translation>
+        <translation>Addition</translation>
     </message>
     <message>
         <source>Window</source>
@@ -932,7 +932,7 @@
     </message>
     <message>
         <source>Disallow</source>
-        <translation>Rejeter</translation>
+        <translation>Interdire</translation>
     </message>
     <message>
         <source>ON</source>
@@ -944,11 +944,11 @@
     </message>
     <message>
         <source>Map X</source>
-        <translation>Carte X</translation>
+        <translation>X de la carte</translation>
     </message>
     <message>
         <source>Map Y</source>
-        <translation>Carte Y</translation>
+        <translation>Y de la carte</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -956,24 +956,24 @@
     </message>
     <message>
         <source>Screen X</source>
-        <translation>Écran X</translation>
+        <translation>X de l&apos;écran</translation>
     </message>
     <message>
         <source>Screen Y</source>
-        <translation>Écran Y</translation>
+        <translation>Y de l&apos;écran</translation>
     </message>
     <message>
         <source>Map ID</source>
-        <translation>ID Carte</translation>
+        <translation>ID de la carte</translation>
     </message>
     <message>
         <source>Party Members</source>
         <comment>Number of Party Members</comment>
-        <translation>Membres du Groupe</translation>
+        <translation>Membres de l&apos;équipe</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>Argent</translation>
     </message>
     <message>
         <source>Steps</source>
@@ -981,27 +981,27 @@
     </message>
     <message>
         <source>Play Time</source>
-        <translation>Temps de Jeu</translation>
+        <translation>Temps de jeu</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation>Minuteur</translation>
+        <translation>Valeur du chronomètre</translation>
     </message>
     <message>
         <source>Save Count</source>
-        <translation>Compteur de Sauvegardes</translation>
+        <translation>Nombre de sauvegardes</translation>
     </message>
     <message>
         <source>Battle Count</source>
-        <translation>Compteur de Combats</translation>
+        <translation>Nombre de combats</translation>
     </message>
     <message>
         <source>Win Count</source>
-        <translation>Compteur de Victoires</translation>
+        <translation>Nombre de victoires</translation>
     </message>
     <message>
         <source>Escape Count</source>
-        <translation>Compteur de Fuites</translation>
+        <translation>Nombre de fuites</translation>
     </message>
     <message>
         <source>Black</source>
@@ -1028,7 +1028,7 @@
     </message>
     <message>
         <source>Music Note</source>
-        <translation>Note de Musique</translation>
+        <translation>Note de musique</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -1044,7 +1044,7 @@
     </message>
     <message>
         <source>Cobweb</source>
-        <translation>Toile d&apos;Araignée</translation>
+        <translation>Toile d&apos;araignée</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -1060,27 +1060,27 @@
     </message>
     <message>
         <source>User-defined 1</source>
-        <translation>Défini par l&apos;Utilisateur 1</translation>
+        <translation>Personnalisé 1</translation>
     </message>
     <message>
         <source>User-defined 2</source>
-        <translation>Défini par l&apos;Utilisateur 2</translation>
+        <translation>Personnalisé 2</translation>
     </message>
     <message>
         <source>User-defined 3</source>
-        <translation>Défini par l&apos;Utilisateur 3</translation>
+        <translation>Personnalisé 3</translation>
     </message>
     <message>
         <source>User-defined 4</source>
-        <translation>Défini par l&apos;Utilisateur 4</translation>
+        <translation>Personnalisé 4</translation>
     </message>
     <message>
         <source>User-defined 5</source>
-        <translation>Défini par l&apos;Utilisateur 5</translation>
+        <translation>Personnalisé 5</translation>
     </message>
     <message>
         <source>Upper Left</source>
-        <translation>En haut à gauche</translation>
+        <translation>Haut-gauche</translation>
     </message>
     <message>
         <source>Center</source>
@@ -1088,31 +1088,31 @@
     </message>
     <message>
         <source>Terrain Tag</source>
-        <translation>Étiquette de Terrain</translation>
+        <translation>Numéro du terrain</translation>
     </message>
     <message>
         <source>Event ID</source>
-        <translation>ID de l&apos;Évènement</translation>
+        <translation>ID de l&apos;évènement</translation>
     </message>
     <message>
         <source>Tile ID (Layer 1)</source>
-        <translation>ID de tile (Couche 1)</translation>
+        <translation>ID du tile (Couche 1)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 2)</source>
-        <translation>ID de tile (Couche 2)</translation>
+        <translation>ID du tile (Couche 2)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 3)</source>
-        <translation>ID de tile (Couche 3)</translation>
+        <translation>ID du tile (Couche 3)</translation>
     </message>
     <message>
         <source>Tile ID (Layer 4)</source>
-        <translation>ID de tile (Couche 4)</translation>
+        <translation>ID du tile (Couche 4)</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation>ID de Région</translation>
+        <translation>ID de la région</translation>
     </message>
     <message>
         <source>=</source>
@@ -1140,23 +1140,23 @@
     </message>
     <message>
         <source>Down</source>
-        <translation>Vers le Bas</translation>
+        <translation>Bas</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Vers la Gauche</translation>
+        <translation>Gauche</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Vers la Droite</translation>
+        <translation>Droite</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Vers le Haut</translation>
+        <translation>Haut</translation>
     </message>
     <message>
         <source>Retain</source>
-        <translation>Retenir</translation>
+        <translation>Inchangée</translation>
     </message>
     <message>
         <source>Rain</source>
@@ -1208,12 +1208,12 @@
     <message>
         <source>Pageup</source>
         <comment>Button</comment>
-        <translation>Page précédente</translation>
+        <translation>Page préc.</translation>
     </message>
     <message>
         <source>Pagedown</source>
         <comment>Button</comment>
-        <translation>Page suivante</translation>
+        <translation>Page suiv.</translation>
     </message>
     <message>
         <source>Thrust</source>
@@ -1223,7 +1223,7 @@
     <message>
         <source>Swing</source>
         <comment>Short-range Weapon</comment>
-        <translation>Balancier</translation>
+        <translation>Swing</translation>
     </message>
     <message>
         <source>Missile</source>
@@ -1280,27 +1280,27 @@
     </message>
     <message>
         <source>User-defined 6</source>
-        <translation>Défini par l&apos;Utilisateur 6</translation>
+        <translation>Personnalisé 6</translation>
     </message>
     <message>
         <source> frames</source>
-        <translation> trames</translation>
+        <translation> frames</translation>
     </message>
     <message>
         <source> frame</source>
-        <translation> trame</translation>
+        <translation> frame</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation>secondes</translation>
+        <translation> secondes</translation>
     </message>
     <message>
         <source> second</source>
-        <translation>seconde</translation>
+        <translation> seconde</translation>
     </message>
     <message>
         <source>Last Target</source>
-        <translation>Dernière Cible</translation>
+        <translation>Dernière cible</translation>
     </message>
     <message>
         <source>Random</source>
@@ -1308,7 +1308,7 @@
     </message>
     <message>
         <source>Index </source>
-        <translation>Index</translation>
+        <translation>Index </translation>
     </message>
     <message>
         <source>Mace</source>
@@ -1320,15 +1320,15 @@
     </message>
     <message>
         <source>Club</source>
-        <translation>Club</translation>
+        <translation>Massue</translation>
     </message>
     <message>
         <source>Combat Chain</source>
-        <translation>Chaîne de Combat</translation>
+        <translation>Chaîne</translation>
     </message>
     <message>
         <source>Futuristic Sword</source>
-        <translation>Épée SF</translation>
+        <translation>Épée futuriste</translation>
     </message>
     <message>
         <source>Iron pipe</source>
@@ -1352,16 +1352,16 @@
     </message>
     <message>
         <source>Railgun</source>
-        <translation>Railgun</translation>
+        <translation>Canon électrique</translation>
     </message>
     <message>
         <source>Stun Rod</source>
-        <translation>Matraque Électrique</translation>
+        <translation>Bâton électrique</translation>
     </message>
     <message>
         <source>Multiply</source>
         <comment>Multiply blending</comment>
-        <translation>Multiplier</translation>
+        <translation>Multiplication</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -1425,7 +1425,7 @@
     </message>
     <message>
         <source>Free text notes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notes libres.</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4901,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Changes the damage multiplier according to the specified element. The higher the value, the greater the weakness against the element.</source>
-        <translation>Change le multiplicateur de dommages selon l&apos;élément spécifié. Plus la valeur est élevée, plus la faiblesse contre l&apos;élément est importante.</translation>
+        <translation>Change le multiplicateur de dégâts selon l&apos;élément spécifié. Plus la valeur est élevée, plus la faiblesse contre l&apos;élément est importante.</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
@@ -5095,7 +5095,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Special states.&lt;br&gt;[Auto Battle] Character acts independently without accepting commands in battle. &lt;br&gt;[Guard] Reduces damage taken at a set rate. &lt;br&gt;[Substitute] Character suffers attack in place of allies with less HP.&lt;br&gt;[Preserve TP] Accumulated TP are retained for the next battle.</source>
-        <translation>États spéciaux.&lt;br&gt;[Combat Auto] Le personnage agit indépendamment sans accepter les commandes pendant le combat. &lt;br&gt;[Garde] Réduit les dommages encaissés à un taux réglé. &lt;br&gt;[Remplacer] Le personnage souffre des attaques à la place des alliés ayant moins de HP.&lt;br&gt;[Conserver TP] Les TP accumulés sont conservés pour le prochain combat.</translation>
+        <translation>États spéciaux.&lt;br&gt;[Combat Auto] Le personnage agit indépendamment sans accepter les commandes pendant le combat. &lt;br&gt;[Garde] Réduit les dégâts encaissés à un taux réglé. &lt;br&gt;[Remplacer] Le personnage souffre des attaques à la place des alliés ayant moins de HP.&lt;br&gt;[Conserver TP] Les TP accumulés sont conservés pour le prochain combat.</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
@@ -6058,7 +6058,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state at the specified probability when the target suffers some sort of damage.</source>
-        <translation>Supprime l&apos;état à la probabilité spécifiée quand la cible souffre d&apos;une forme de dommages.</translation>
+        <translation>Supprime l&apos;état à la probabilité spécifiée quand la cible souffre d&apos;une forme de dégâts.</translation>
     </message>
     <message>
         <source>Remove by Walking</source>
@@ -6190,11 +6190,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Damage Floor</source>
-        <translation>Dommages Terrain</translation>
+        <translation>Dégâts Terrain</translation>
     </message>
     <message>
         <source>Sets a tile to deal damage when walked on. A poisonous swamp is one example of possible uses.</source>
-        <translation>Règle un tile pour infliger des dommages quand on marche dessus. Un marais empoisonné est un exemple des utilisations possibles.</translation>
+        <translation>Règle un tile pour infliger des dégâts quand on marche dessus. Un marais empoisonné est un exemple des utilisations possibles.</translation>
     </message>
     <message>
         <source>Terrain Tag</source>
@@ -9421,11 +9421,11 @@ Please complete the post with follow this link.</source>
     <name>Group_Damage</name>
     <message>
         <source>Damage</source>
-        <translation>Dommages</translation>
+        <translation>Dégâts</translation>
     </message>
     <message>
         <source>Amount of damage or recovery applied to the target.</source>
-        <translation>Montant de dommages ou récupération appliqué à la cible.</translation>
+        <translation>Montant de dégâts ou récupération appliqué à la cible.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -9433,7 +9433,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Type of damage.</source>
-        <translation>Type de dommages.</translation>
+        <translation>Type de dégâts.</translation>
     </message>
     <message>
         <source>None</source>
@@ -9441,11 +9441,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>HP Damage</source>
-        <translation>HP Dommages</translation>
+        <translation>HP dégâts</translation>
     </message>
     <message>
         <source>MP Damage</source>
-        <translation>MP Dommages</translation>
+        <translation>MP dégâts</translation>
     </message>
     <message>
         <source>HP Recover</source>
@@ -9469,7 +9469,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
-        <translation>Élément des dommages. Les dommages finals varient en fonction de la résistance de la cible à l&apos;élément en question.</translation>
+        <translation>Élément des dégâts. Les dégâts finals varient en fonction de la résistance de la cible à l&apos;élément en question.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -9481,7 +9481,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formule pour calculer les dommages basiques. L&apos;utilisateur est exprimé par a et la cible par b, et puis l&apos;un ou l&apos;autre est suivi par un point pour permettre le référencement des états indiqués ci-après. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
+        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par a et la cible par b, et puis l&apos;un ou l&apos;autre est suivi par un point pour permettre le référencement des états indiqués ci-après. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -9489,7 +9489,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Degree of variability. The value of the final damage will vary by this percentage value.</source>
-        <translation>Degré de variation. La valeur des dommages finals variera en fonction de ce pourcentage.</translation>
+        <translation>Degré de variation. La valeur des dégâts finals variera en fonction de ce pourcentage.</translation>
     </message>
     <message>
         <source>Critical Hits</source>
@@ -9541,7 +9541,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>List of the various effects other than damage.</source>
-        <translation>Liste des effets divers autres que les dommages.</translation>
+        <translation>Liste des effets divers autres que les dégâts.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -10364,7 +10364,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dommages Acteur</translation>
+        <translation>Dégâts Acteur</translation>
     </message>
     <message>
         <source>Actor Recovery</source>
@@ -10384,7 +10384,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor No Damage</source>
-        <translation>Pas de Dommages Acteur</translation>
+        <translation>Pas de dégâts Acteur</translation>
     </message>
     <message>
         <source>Actor No Hit</source>
@@ -10392,7 +10392,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dommages Ennemi</translation>
+        <translation>Dégâts Ennemi</translation>
     </message>
     <message>
         <source>Enemy Recovery</source>
@@ -10412,7 +10412,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy No Damage</source>
-        <translation>Pas de Dommages Ennemi</translation>
+        <translation>Pas de dégâts Ennemi</translation>
     </message>
     <message>
         <source>Enemy No Hit</source>
@@ -10526,7 +10526,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dommages de détérioration, comme le poison. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dégâts de détérioration, comme le poison. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
@@ -10534,7 +10534,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dommages causés par le terrain de la carte. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dégâts causés par le terrain de la carte. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
@@ -10605,7 +10605,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dommages Ennemis</translation>
+        <translation>Dégâts Ennemis</translation>
     </message>
     <message>
         <source>Enemy Collapse</source>
@@ -10621,7 +10621,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dommages Acteur</translation>
+        <translation>Dégâts Acteur</translation>
     </message>
     <message>
         <source>Actor Collapse</source>
@@ -13389,7 +13389,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>actor</comment>
-        <translation>%1 a pris %2 dommages !</translation>
+        <translation>%1 a pris %2 dégâts !</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
@@ -13414,17 +13414,17 @@ Please complete the post with follow this link.</source>
     <message>
         <source>%1 took no damage!</source>
         <comment>actor</comment>
-        <translation>%1 n&apos;a pas pris de dommages !</translation>
+        <translation>%1 n&apos;a pas pris de dégâts !</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dommage !</translation>
+        <translation>Manqué! %1 n&apos;a pas pris de dégât !</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
         <comment>enemy</comment>
-        <translation>%1 a pris %2 dommages !</translation>
+        <translation>%1 a pris %2 dégâts !</translation>
     </message>
     <message>
         <source>%1 recovered %2 %3!</source>
@@ -13449,12 +13449,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>%1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>%1 n&apos;a pas pris de dommages !</translation>
+        <translation>%1 n&apos;a pas pris de dégâts !</translation>
     </message>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dommage !</translation>
+        <translation>Manqué! %1 n&apos;a pas pris de dégât !</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
