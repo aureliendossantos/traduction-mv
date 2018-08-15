@@ -5,11 +5,11 @@
     <name>AnimationFrameList</name>
     <message>
         <source>Frame List</source>
-        <translation>Liste de Trames</translation>
+        <translation>Liste des frames</translation>
     </message>
     <message>
         <source>The selected frame is displayed in the right side.&lt;br&gt;[N] Selects the next item.&lt;br&gt;[B] Selects the previous item.</source>
-        <translation>La trame sélectionnée est affichée sur le côté droit.&lt;br&gt;[N] Sélectionne l&apos;objet suivant.&lt;br&gt;[B] Sélectionne l&apos;objet précédent.</translation>
+        <translation>La frame sélectionnée est affichée sur le côté droit.&lt;br&gt;[N] Sélectionne la frame suivante.&lt;br&gt;[B] Sélectionne la frame précédente.</translation>
     </message>
 </context>
 <context>
@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>To Lower</source>
-        <translation>à inférieur</translation>
+        <translation>Vers inférieur</translation>
     </message>
 </context>
 <context>
@@ -1432,7 +1432,7 @@
     <name>ControlCharactersHint</name>
     <message>
         <source>Control characters</source>
-        <translation>Caractère de Contrôle</translation>
+        <translation>Commandes de contrôle du texte</translation>
     </message>
     <message>
         <source>Replaced by the value of the nth variable.</source>
@@ -1444,94 +1444,94 @@
     </message>
     <message>
         <source>Replaced by the name of the nth party member.</source>
-        <translation>Rempl. par le nom du énième membre du groupe.</translation>
+        <translation>Rempl. par le nom du énième membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Replaced by the currency unit.</source>
-        <translation>Remplacé par l&apos;unité de la devise.</translation>
+        <translation>Remplacé par le nom de la monnaie.</translation>
     </message>
     <message>
         <source>Draw the subsequent text in the nth color.</source>
-        <translation>Dessine le texte suivant dans la énième couleur.</translation>
+        <translation>Dessine le texte qui suit dans la énième couleur.</translation>
     </message>
     <message>
         <source>Draw the nth icon.</source>
-        <translation>Dessine l&apos;énième icône.</translation>
+        <translation>Affiche l&apos;énième icône.</translation>
     </message>
     <message>
         <source>Increase the text size by one step.</source>
-        <translation>Augmente la taille du texte d&apos;un cran.</translation>
+        <translation>Augmente la taille du texte qui suit d&apos;un cran.</translation>
     </message>
     <message>
         <source>Decrease the text size by one step.</source>
-        <translation>Diminue la taille du texte d&apos;un cran.</translation>
+        <translation>Diminue la taille du texte qui suit d&apos;un cran.</translation>
     </message>
     <message>
         <source>Replaced with the backslash character.</source>
-        <translation>Remplacé par le caractère antislash.</translation>
+        <translation>Affiche un antislash.</translation>
     </message>
     <message>
         <source>Open the gold window.</source>
-        <translation>Ouvre la fenêtre Or.</translation>
+        <translation>Ouvre la fenêtre de l&apos;argent possédé.</translation>
     </message>
     <message>
         <source>Wait 1/4 second.</source>
-        <translation>Attendre 1/4 de seconde.</translation>
+        <translation>Attend 1/4 de seconde avant de continuer.</translation>
     </message>
     <message>
         <source>Wait 1 second.</source>
-        <translation>Attendre 1 seconde.</translation>
+        <translation>Attend 1 seconde avant de continuer.</translation>
     </message>
     <message>
         <source>Wait for button input.</source>
-        <translation>Attendre l&apos;entrée du bouton.</translation>
+        <translation>Attend l&apos;appui de la touche Action.</translation>
     </message>
     <message>
         <source>Display remaining text on same line all at once.</source>
-        <translation>Aff. texte restant sur même ligne en même temps.</translation>
+        <translation>Affiche instantanément le texte restant sur cette ligne.</translation>
     </message>
     <message>
         <source>Cancel the effect that displays text all at once.</source>
-        <translation>Annule l&apos;effet qui aff. le texte en même temps.</translation>
+        <translation>Reprend le défilement normal.</translation>
     </message>
     <message>
         <source>Do not wait for input after displaying text.</source>
-        <translation>Ne pas attendre d&apos;entrée après l&apos;aff. du texte.</translation>
+        <translation>Ferme immédiatement la fenêtre du message.</translation>
     </message>
 </context>
 <context>
     <name>DataSelector</name>
     <message>
         <source>Data List</source>
-        <translation>Liste des Données</translation>
+        <translation>Liste des données</translation>
     </message>
     <message>
         <source>The contents of the selected item are displayed in the right side of the window.&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>Le contenu de l&apos;objet sélectionné est affiché sur le côté droit de la fenêtre.&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>Le contenu de l&apos;élément sélectionné est affiché sur le côté droit de la fenêtre.&lt;br&gt;[F5] Sélectionne l&apos;élément suivant.&lt;br&gt;[F4] Sélectionne l&apos;élément précédent.</translation>
     </message>
     <message>
         <source>Change Maximum</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>Définir maximum</translation>
     </message>
     <message>
         <source>Changes the number of data entries.</source>
-        <translation>Change le nombre d&apos;entrées de données.</translation>
+        <translation>Modifie le nombre d&apos;éléments.</translation>
     </message>
 </context>
 <context>
     <name>DatabaseMain</name>
     <message>
         <source>Database</source>
-        <translation>Base de Données</translation>
+        <translation>Base de données</translation>
     </message>
     <message>
         <source>Actors</source>
-        <translation>Acteurs</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Data for player-controlled party members.</source>
-        <translation>Données pour les membres du groupe contrôlés par des joueurs.</translation>
+        <translation>Données pour les membres de l&apos;équipe contrôlés par le joueur.</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -1539,16 +1539,16 @@
     </message>
     <message>
         <source>Data that determines roles of actors within the party.</source>
-        <translation>Données qui déterminent les rôles des acteurs dans le groupe.</translation>
+        <translation>Données qui déterminent les rôles des héros dans le groupe.</translation>
     </message>
     <message>
         <source>Skills</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétences</translation>
     </message>
     <message>
         <source>Data for actions that produce special effects by consuming MP or TP.</source>
-        <translation>Données pour les actions qui produisent des effets spéciaux en consommant des MP ou TP.</translation>
+        <translation>Données pour les actions qui produisent des effets spéciaux en consommant des PM ou PT.</translation>
     </message>
     <message>
         <source>Items</source>
@@ -1556,7 +1556,7 @@
     </message>
     <message>
         <source>Data for non-equipment items, such as recovery and event items.</source>
-        <translation>Données pour les objets non-équipement, comme la récupération et les objets d&apos;évènement.</translation>
+        <translation>Données pour les objets hors équipement, comme ceux de récupération et d&apos;histoire.</translation>
     </message>
     <message>
         <source>Weapons</source>
@@ -1564,7 +1564,7 @@
     </message>
     <message>
         <source>Data for weapon items that increase attack power mainly.</source>
-        <translation>Données pour les objets arme qui augmentent principalement la puissance d&apos;attaque.</translation>
+        <translation>Données pour les armes qui augmentent principalement la puissance d&apos;attaque.</translation>
     </message>
     <message>
         <source>Armors</source>
@@ -1572,7 +1572,7 @@
     </message>
     <message>
         <source>Data for armor items that increase defense power mainly.</source>
-        <translation>Données pour les objets armure qui augmentent principalement la puissance de défense.</translation>
+        <translation>Données pour les armures qui augmentent principalement la puissance de défense.</translation>
     </message>
     <message>
         <source>Enemies</source>
@@ -1580,7 +1580,7 @@
     </message>
     <message>
         <source>Data for enemies fought in battles.</source>
-        <translation>Données pour les ennemis combattus.</translation>
+        <translation>Données pour les ennemis à combattre.</translation>
     </message>
     <message>
         <source>Troops</source>
@@ -1588,7 +1588,7 @@
     </message>
     <message>
         <source>Data for enemy groups. The unit in which they appear in the game.</source>
-        <translation>Données pour les groupes d&apos;ennemis. L&apos;unité dans laquelle ils apparaissent dans le jeu.</translation>
+        <translation>Données pour les groupes d&apos;ennemis, tels qu&apos;ils apparaissent en combat.</translation>
     </message>
     <message>
         <source>States</source>
@@ -1620,7 +1620,7 @@
     </message>
     <message>
         <source>Data for commonly used events.</source>
-        <translation>Données pour les évènements communément utilisés.</translation>
+        <translation>Données pour les évènements régulièrement utilisés.</translation>
     </message>
     <message>
         <source>System</source>
@@ -1644,11 +1644,11 @@
     </message>
     <message>
         <source>Text data such as command and parameter names.</source>
-        <translation>Les données de texte comme les noms de commandes et de paramètres.</translation>
+        <translation>Données textuelles comme les noms dew commandes et dew paramètres.</translation>
     </message>
     <message>
         <source>Discard changes to the database?</source>
-        <translation>Annuler les modifications de la base de données?</translation>
+        <translation>Annuler les modifications de la base de données ?</translation>
     </message>
 </context>
 <context>
@@ -1659,11 +1659,11 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="unfinished">Pour définir les options de déploiement.</translation>
+        <translation type="unfinished">Définit les options de déploiement.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="unfinished">Exclure fichiers inutilisés</translation>
+        <translation type="unfinished">Exclure les fichiers inutilisés</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
@@ -1671,19 +1671,19 @@
     </message>
     <message>
         <source>Zip Compression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compression zip</translation>
     </message>
     <message>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compresse les fichiers dans une archive zip</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Chiffrement</translation>
+        <translation type="unfinished">Cryptage</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Définissez les options de chiffrement.</translation>
+        <translation type="unfinished">Définissez les options de cryptage.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -1764,16 +1764,16 @@
     </message>
     <message>
         <source>Skill and Rating</source>
-        <translation>Compétence et Classement</translation>
+        <translation>Compétence et priorité</translation>
     </message>
     <message>
         <source>Basic action settings.</source>
-        <translation>Réglages basiques d&apos;actions.</translation>
+        <translation>Réglages basiques de l&apos;action.</translation>
     </message>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Skill that will be used as the action.</source>
@@ -1781,11 +1781,11 @@
     </message>
     <message>
         <source>Rating</source>
-        <translation>Classement</translation>
+        <translation>Priorité</translation>
     </message>
     <message>
         <source>Priority of the action. Of all actions meeting the conditions, the one with the highest rating will be the standard, and the one within 2 rating points of the standard will be used. Actions 1 rating point away will be used 2/3 of the time and those 2 rating points away will be used 1/3 of the time.</source>
-        <translation>Priorité de l&apos;action. De toutes les actions répondant aux conditions, celle avec le classement le plus haut sera le standard, et celle dans les deux points de classement du standard sera utilisée. Les actions à 1 point de classement seront utilisées 2/3 du temps et celles à 2 points de classement seront utilisées 1/3 du temps.</translation>
+        <translation>Priorité de l&apos;action. De toutes les actions répondant aux conditions, celle avec la priorité la plus haute sera le standard, et celle à 2 points d&apos;écart du standard sera utilisée. Les actions à 1 point d&apos;écart seront utilisées 2/3 du temps et celles à 2 points d&apos;écart seront utilisées 1/3 du temps.</translation>
     </message>
     <message>
         <source>Conditions</source>
@@ -1805,27 +1805,27 @@
     </message>
     <message>
         <source>Turn</source>
-        <translation>Tour</translation>
+        <translation>Nbr de tours</translation>
     </message>
     <message>
         <source>Possible when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 has no meaning here.</source>
-        <translation>Possible quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera rencontrée aux tours 1, 4, 7, etc. Tour 0 ne signifie rien ici.</translation>
+        <translation>Possible quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera valide aux tours 1, 4, 7, etc. Tour 0 ne signifie rien ici.</translation>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>Possible when this enemy&apos;s HP is in the specified range.</source>
-        <translation>Possible quand les HP de cet ennemi sont dans le champ spécifié.</translation>
+        <translation>Possible quand les PV de cet ennemi sont dans la plage spécifiée.</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>Possible when this enemy&apos;s MP is in the specified range.</source>
-        <translation>Possible quand les MP de cet ennemi sont dans le champ spécifié.</translation>
+        <translation>Possible quand les MP de cet ennemi sont dans la plage spécifiée.</translation>
     </message>
     <message>
         <source>State</source>
@@ -1837,11 +1837,11 @@
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Niveau Groupe</translation>
+        <translation>Niv. équipe</translation>
     </message>
     <message>
         <source>Possible when the party members&apos; highest level is greater than or equal to the specified number.</source>
-        <translation>Possible quand le niveau le plus élevé des membres du groupe est supérieur ou égal au nombre spécifié.</translation>
+        <translation>Possible quand le niveau le plus élevé dans les membres de l&apos;équipe est supérieur ou égal au nombre spécifié.</translation>
     </message>
     <message>
         <source>or above</source>
@@ -1860,7 +1860,7 @@
     <name>Dialog_AnimationBatch</name>
     <message>
         <source>Batch</source>
-        <translation>Lot</translation>
+        <translation>Modifier en masse</translation>
     </message>
     <message>
         <source>Data</source>
@@ -1885,11 +1885,11 @@
     <name>Dialog_AnimationCell</name>
     <message>
         <source>Cell Properties</source>
-        <translation>Propriétés de Cellules</translation>
+        <translation>Propriétés de la cellule</translation>
     </message>
     <message>
         <source>Various settings for the cell.</source>
-        <translation>Réglages divers pour la cellule.</translation>
+        <translation>Réglages divers de la cellule.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -1906,11 +1906,11 @@
     <name>Dialog_AnimationShift</name>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>Tout déplacer</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <source>Distance to shift.</source>
@@ -1937,15 +1937,15 @@
     <name>Dialog_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>SE et Timing du Flash</translation>
+        <translation>SE et flashes</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation>Trame</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Frame number to associate this data.</source>
-        <translation>Numéro de la trame à associer à ces données.</translation>
+        <translation>Numéro de frame à associer à ces données.</translation>
     </message>
     <message>
         <source>SE</source>
@@ -1953,7 +1953,7 @@
     </message>
     <message>
         <source>Sound effect to play at the specified frame.</source>
-        <translation>Effet sonore à jouer à la trame spécifiée.</translation>
+        <translation>Effet sonore à jouer à la frame spécifiée.</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -1961,7 +1961,7 @@
     </message>
     <message>
         <source>Flash effect to play at the specified frame.</source>
-        <translation>Effet flash à jouer à la trame spécifiée.</translation>
+        <translation>Effet de flash à jouer à la frame spécifiée.</translation>
     </message>
     <message>
         <source>None</source>
@@ -1977,7 +1977,7 @@
     </message>
     <message>
         <source>Flashes the animation target.</source>
-        <translation>L&apos;animation cible clignote.</translation>
+        <translation>Fait clignoter la cible de l&apos;animation.</translation>
     </message>
     <message>
         <source>Screen</source>
@@ -1985,11 +1985,11 @@
     </message>
     <message>
         <source>Flashes the entire screen.</source>
-        <translation>La totalité de l&apos;écran clignote.</translation>
+        <translation>Fait clignoter la totalité de l&apos;écran.</translation>
     </message>
     <message>
         <source>Hide Target</source>
-        <translation>Masquer Cible</translation>
+        <translation>Masquer la cible</translation>
     </message>
     <message>
         <source>Hides the target for a given time.</source>
@@ -2001,7 +2001,7 @@
     </message>
     <message>
         <source>Duration of the flash in 1/15 seconds.</source>
-        <translation>Durée du flash en 1/15 secondes.</translation>
+        <translation>Durée du flash en 1/15 de seconde.</translation>
     </message>
 </context>
 <context>
@@ -2023,19 +2023,19 @@
     <name>Dialog_AppendTools</name>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Outils pour RPG Maker MV</translation>
     </message>
     <message>
         <source>Discard changes to RPG Maker MV tools?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler les changements aux outils RPG Maker MV ?</translation>
     </message>
     <message>
         <source>Additional Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Outils additionnels</translation>
     </message>
     <message>
         <source>List of tools that have already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liste des outils déjà ajoutés.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2047,7 +2047,7 @@
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chemin</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2055,15 +2055,15 @@
     </message>
     <message>
         <source>Delete additional tools.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efface les outils additionnels</translation>
     </message>
     <message>
         <source>Found Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Outils trouvés</translation>
     </message>
     <message>
         <source>List of tools that have been found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Liste des outils qui ont été trouvés.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2071,26 +2071,26 @@
     </message>
     <message>
         <source>Add a tool.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajouter un outil.</translation>
     </message>
     <message>
         <source>Select Path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chemin</translation>
     </message>
     <message>
         <source>Select a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez un dossier.</translation>
     </message>
     <message>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisir un dossier</translation>
     </message>
 </context>
 <context>
     <name>Dialog_AttackMotion</name>
     <message>
         <source>Attack Motion</source>
-        <translation>Mouvement d&apos;Attaque</translation>
+        <translation>Mouvement d&apos;attaque</translation>
     </message>
     <message>
         <source>Motion</source>
@@ -2098,7 +2098,7 @@
     </message>
     <message>
         <source>Motion type displaying when an actor attacks with this weapon.</source>
-        <translation>Type de mouvement s&apos;affichant quand un acteur attaque avec cette arme.</translation>
+        <translation>Type de mouvement s&apos;affichant quand un héros attaque avec cette arme.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2113,7 +2113,7 @@
     <name>Dialog_AudioSelector</name>
     <message>
         <source>Select an Audio</source>
-        <translation>Sélectionner Audio</translation>
+        <translation>Choisissez un son</translation>
     </message>
 </context>
 <context>
@@ -2124,11 +2124,11 @@
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Fin du Tour</translation>
+        <translation>Fin du tour</translation>
     </message>
     <message>
         <source>Starts when all of the actions of enemies and actors have finished.</source>
-        <translation>Commence quand toutes les actions des ennemis et des acteurs sont finies.</translation>
+        <translation>Commence quand toutes les actions des ennemis et des héros sont finies.</translation>
     </message>
     <message>
         <source>Turn</source>
@@ -2136,27 +2136,27 @@
     </message>
     <message>
         <source>Starts when the specified turn has been surpassed. Specifies the turn count with A + B * X. If A = 1 and B = 3, the condition will be met at turn 1, 4, 7, and so on. Turn 0 means that the event starts before command entry.</source>
-        <translation>Commence quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera rencontrée aux tours 1, 4, 7, etc. Tour 0 signifie que l&apos;évènement commence avant l&apos;entrée de la commande.</translation>
+        <translation>Commence quand le tour spécifié a été dépassé. Spécifie le compte des tours avec A + B * X. Si A = 1 et B = 3, la condition sera valide aux tours 1, 4, 7, etc. Tour 0 signifie que l&apos;évènement commence avant le choix des actions.</translation>
     </message>
     <message>
         <source>Enemy HP</source>
-        <translation>HP Ennemi</translation>
+        <translation>PV de l&apos;ennemi</translation>
     </message>
     <message>
         <source>Starts when an enemy&apos;s HP is less than or equal to the specified percentage.&lt;br&gt;If you want to start the event just before the enemy dies, add [Immortal] state temporarily on the battle start.</source>
-        <translation>Commence quand l&apos;HP d&apos;un ennemi est inférieur ou égal au pourcentage spécifié.&lt;br&gt;Si vous voulez commencer l&apos;évènement juste avant que l&apos;ennemi meure, ajoutez temporairement l&apos;état [Immortel] au commencement du combat.</translation>
+        <translation>Commence quand les PV d&apos;un ennemi sont inférieurs ou égaux au pourcentage spécifié.&lt;br&gt;Si vous voulez commencer l&apos;évènement juste avant que l&apos;ennemi meure, ajoutez temporairement l&apos;état [Immortel] au commencement du combat.</translation>
     </message>
     <message>
         <source>or below</source>
-        <translation>ou en dessous</translation>
+        <translation>ou moins</translation>
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP Acteur</translation>
+        <translation>PV du héros</translation>
     </message>
     <message>
         <source>Starts when an actor&apos;s HP is less than or equal to the specified percentage.</source>
-        <translation>Commence quand les HP d&apos;un acteur sont inférieurs ou égaux au pourcentage spécifié.</translation>
+        <translation>Commence quand les PV d&apos;un héros sont inférieurs ou égaux au pourcentage spécifié.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -2171,15 +2171,15 @@
     <name>Dialog_BattleTest</name>
     <message>
         <source>Battle Test</source>
-        <translation>Test de Combat</translation>
+        <translation>Test de combat</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to use in the battle test.</source>
-        <translation>Acteur à utiliser dans le test de combat.</translation>
+        <translation>Héros à utiliser dans le test de combat.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2187,15 +2187,15 @@
     </message>
     <message>
         <source>Level of the actor.</source>
-        <translation>Niveau de l&apos;acteur.</translation>
+        <translation>Niveau du héros.</translation>
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Initialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <source>Initializes the actor&apos;s level and equipment.</source>
-        <translation>Initialise le niveau de l&apos;acteur et l&apos;équipement.</translation>
+        <translation>Réinitialise le niveau du héros et l&apos;équipement.</translation>
     </message>
     <message>
         <source>Equipment</source>
@@ -2203,7 +2203,7 @@
     </message>
     <message>
         <source>Weapon and armor that the actor has equipped in the battle test.</source>
-        <translation>Arme et armure que l&apos;acteur a équipés dans le test de combat.</translation>
+        <translation>Arme et armure que le héros équipe dans le test de combat.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -2211,7 +2211,7 @@
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>Affiche l&apos;état de calcul basé sur le niveau et l&apos;équipement.</translation>
+        <translation>Affiche le calcul du statut d&apos;après le niveau et l&apos;équipement.</translation>
     </message>
 </context>
 <context>
@@ -2219,7 +2219,7 @@
     <message>
         <source>Change Maximum</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>Définir maximum</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -2227,7 +2227,7 @@
     </message>
     <message>
         <source>Number of new data entries. When decreasing the number, any existing entries above that number will be deleted.</source>
-        <translation>Nombre de nouvelles entrées de données. Quand le nombre diminue, toutes les entrées existantes au-dessus de ce nombre seront supprimées.</translation>
+        <translation>Nombre de nouvelles entrées. Quand le nombre diminue, toutes les entrées existantes au-dessus de ce nombre seront supprimées.</translation>
     </message>
 </context>
 <context>
@@ -2254,7 +2254,7 @@
     </message>
     <message>
         <source>Face Image</source>
-        <translation>Images du Visage</translation>
+        <translation>Exporter le visage</translation>
     </message>
     <message>
         <source>Walk Character</source>
@@ -2273,7 +2273,6 @@
         <translation>Enfant</translation>
     </message>
 </context>
- <!--  Traduit, vérifié  -->
 <context>
     <name>Dialog_Copying</name>
     <message>
@@ -2972,7 +2971,7 @@
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
-        <translation>Trames Max</translation>
+        <translation>Frames Max</translation>
     </message>
     <message>
         <source>Number</source>
@@ -2980,7 +2979,7 @@
     </message>
     <message>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation>Nombre de nouvelles trames. Quand le nombre diminue, toutes les trames existantes au-dessus de ce nombre seront supprimées.</translation>
+        <translation>Nombre de nouvelles frames. Quand le nombre diminue, toutes les frames existantes au-dessus de ce nombre seront supprimées.</translation>
     </message>
 </context>
 <context>
@@ -5434,11 +5433,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Max Frames</source>
-        <translation>Trames max</translation>
+        <translation>Frames max</translation>
     </message>
     <message>
         <source>Number of frames used for the animation. One animation frame is 1/15 seconds.</source>
-        <translation>Nombre de trames utilisées pour l&apos;animation. Une trame d&apos;animation dure 1/15 de secondes.</translation>
+        <translation>Nombre de frames utilisées pour l&apos;animation. Une frame d&apos;animation dure 1/15 de secondes.</translation>
     </message>
 </context>
 <context>
@@ -7264,7 +7263,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand230</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation>Durée de l&apos;attente en trames.</translation>
+        <translation>Durée de l&apos;attente en frames.</translation>
     </message>
 </context>
 <context>
@@ -9158,19 +9157,19 @@ Please complete the post with follow this link.</source>
     <name>Group_AnimationFrames</name>
     <message>
         <source>Frames</source>
-        <translation>Trames</translation>
+        <translation>Frames</translation>
     </message>
     <message>
         <source>Animation frames.</source>
-        <translation>Trames d&apos;Animation.</translation>
+        <translation>Frames d&apos;Animation.</translation>
     </message>
     <message>
         <source>Frame View</source>
-        <translation>Vue Trame</translation>
+        <translation>Vue Frame</translation>
     </message>
     <message>
         <source>Displays the contents of the selected frame. Double-click on the empty area to place a new cell. Drag a cell to move it. Right-click to open the popup menu.</source>
-        <translation>Affiche le contenu de la trame sélectionnée. Double-cliquer sur la zone vide pour placer une nouvelle cellule. Glisser une cellule pour la déplacer. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>Affiche le contenu de la frame sélectionnée. Double-cliquer sur la zone vide pour placer une nouvelle cellule. Glisser une cellule pour la déplacer. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
     </message>
     <message>
         <source>Change Target</source>
@@ -9186,7 +9185,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Automatically tweens the frames between the two specified frames.</source>
-        <translation>Interpole automatiquement les trames entre les deux trames spécifiés.</translation>
+        <translation>Interpole automatiquement les frames entre les deux frames spécifiés.</translation>
     </message>
     <message>
         <source>Batch</source>
@@ -9194,7 +9193,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Changes the properties for multiple cells in the specified frames.</source>
-        <translation>Change les propriétés de plusieurs cellules dans les trames spécifiées.</translation>
+        <translation>Change les propriétés de plusieurs cellules dans les frames spécifiées.</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -9202,7 +9201,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shifts the positions of multiple cells in the specified frames.</source>
-        <translation>Déplace les positions de plusieurs cellules dans les trames spécifiées.</translation>
+        <translation>Déplace les positions de plusieurs cellules dans les frames spécifiées.</translation>
     </message>
     <message>
         <source>Play</source>
@@ -9226,7 +9225,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Makes the currently selected frame identical to the previous frame.</source>
-        <translation>Rend la trame actuellement sélectionnée identique à la trame précédente.</translation>
+        <translation>Rend la frame actuellement sélectionnée identique à la frame précédente.</translation>
     </message>
 </context>
 <context>
@@ -9241,11 +9240,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Frames</source>
-        <translation>Trames</translation>
+        <translation>Frames</translation>
     </message>
     <message>
         <source>Range of the frame numbers.</source>
-        <translation>Plage des numéros de trames.</translation>
+        <translation>Plage des numéros de frames.</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -9264,7 +9263,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>SE and flash colors, etc. used when a frame is displayed.</source>
-        <translation>SE, couleurs flash, etc. utilisés quand une trame est affichée.</translation>
+        <translation>SE, couleurs flash, etc. utilisés quand une frame est affichée.</translation>
     </message>
     <message>
         <source>No.</source>
@@ -9518,11 +9517,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Duration of the effect in frames.</source>
-        <translation>Durée de l&apos;effet en trames.</translation>
+        <translation>Durée de l&apos;effet en frames.</translation>
     </message>
     <message>
         <source>frames (1/60 sec)</source>
-        <translation>trames (1/60 sec)</translation>
+        <translation>frames (1/60 sec)</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
@@ -12155,7 +12154,7 @@ Please complete the post with follow this link.</source>
     <name>MovementCommand15</name>
     <message>
         <source>Duration of the wait in frames.</source>
-        <translation>Durée de l&apos;attente en trames.</translation>
+        <translation>Durée de l&apos;attente en frames.</translation>
     </message>
 </context>
 <context>
@@ -14763,7 +14762,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>Arrière-plan et images de trame à afficher sur l&apos;écran de titre.</translation>
+        <translation>Arrière-plan et images de frame à afficher sur l&apos;écran de titre.</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
