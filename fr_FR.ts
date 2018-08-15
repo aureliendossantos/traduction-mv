@@ -2289,7 +2289,7 @@
     <name>Dialog_Deployment</name>
     <message>
         <source>Deployment</source>
-        <translation>Compiler le jeu</translation>
+        <translation>Déployer le jeu</translation>
     </message>
     <message>
         <source>Platform</source>
@@ -2305,7 +2305,7 @@
     </message>
     <message>
         <source>Creates a package for Windows.</source>
-        <translation>Crée une archive pour Windows.</translation>
+        <translation>Crée une version du jeu pour Windows.</translation>
     </message>
     <message>
         <source>Mac OS X</source>
@@ -2313,7 +2313,7 @@
     </message>
     <message>
         <source>Creates a package for Mac OS X.</source>
-        <translation>Crée une archive pour Mac OS X.</translation>
+        <translation>Crée une version du jeu pour Mac OS X.</translation>
     </message>
     <message>
         <source>Output Location</source>
@@ -2321,7 +2321,7 @@
     </message>
     <message>
         <source>Location to create the package folder.</source>
-        <translation>Emplacement où créer l'archive auto-extractible.</translation>
+        <translation>Emplacement où créer le dossier du jeu.</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -2329,7 +2329,7 @@
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Utiliser l'explorateur pour indiquer où créer l'archive.</translation>
+        <translation>Utiliser l'explorateur pour indiquer où créer le dossier du jeu.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
@@ -2349,7 +2349,7 @@
     </message>
     <message>
         <source>Creates a package for Android and iOS.</source>
-        <translation>Crée une archive pour Android et iOS.</translation>
+        <translation>Crée une version du jeu pour Android et iOS.</translation>
     </message>
     <message>
         <source>Web browsers</source>
@@ -2357,7 +2357,7 @@
     </message>
     <message>
         <source>Creates a package for web browsers.</source>
-        <translation>Crée une archive pour navigateurs web.</translation>
+        <translation>Crée une version du jeu pour navigateurs web.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2365,7 +2365,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Actions à effectuer lors de la compilation.</translation>
+        <translation type="vanished">Actions à effectuer lors du déploiement.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2373,7 +2373,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">Les fichiers qui ne sont pas utilisés dans le jeu seront exclus de l'archive compilée.</translation>
+        <translation type="vanished">Les fichiers qui ne sont pas utilisés dans le jeu seront exclus du dossier.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2381,7 +2381,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Définir les options de cryptage de l'archive.</translation>
+        <translation type="vanished">Définir les options de cryptage du dossier de jeu.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -2389,7 +2389,7 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">Cryptez un fichier image inclus dans le package.</translation>
+        <translation type="vanished">Cryptez un fichier image inclus dans le dossier de jeu.</translation>
     </message>
     <message>
         <source>Audio files</source>
@@ -2397,7 +2397,7 @@
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="vanished">Cryptez un fichier audio inclus dans le package.</translation>
+        <translation type="vanished">Cryptez un fichier audio inclus dans le dossier de jeu.</translation>
     </message>
     <message>
         <source>Encryption key</source>
@@ -2413,7 +2413,7 @@
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation>Crée une archive pour Linux.</translation>
+        <translation>Crée une version du jeu pour Linux.</translation>
     </message>
 </context>
 <context>
