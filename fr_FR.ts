@@ -2273,6 +2273,7 @@
         <translation>Enfant</translation>
     </message>
 </context>
+ <!--  Traduit, vérifié  -->
 <context>
     <name>Dialog_Copying</name>
     <message>
@@ -2281,14 +2282,14 @@
     </message>
     <message>
         <source>Copying files...</source>
-        <translation>Copie de fichiers...</translation>
+        <translation>Création des fichiers du projet...</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Deployment</name>
     <message>
         <source>Deployment</source>
-        <translation>Déploiement</translation>
+        <translation>Compiler le jeu</translation>
     </message>
     <message>
         <source>Platform</source>
@@ -2296,7 +2297,7 @@
     </message>
     <message>
         <source>Target platform of the distribution package.</source>
-        <translation>Plateforme cible du package de distribution.</translation>
+        <translation>Plateforme à laquelle sera destinée le jeu.</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -2304,7 +2305,7 @@
     </message>
     <message>
         <source>Creates a package for Windows.</source>
-        <translation>Crée un package pour Windows.</translation>
+        <translation>Crée une archive pour Windows.</translation>
     </message>
     <message>
         <source>Mac OS X</source>
@@ -2312,31 +2313,31 @@
     </message>
     <message>
         <source>Creates a package for Mac OS X.</source>
-        <translation>Crée un package pour Mac OS X.</translation>
+        <translation>Crée une archive pour Mac OS X.</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation>Emplacement de Sortie</translation>
+        <translation>Dossier de destination :</translation>
     </message>
     <message>
         <source>Location to create the package folder.</source>
-        <translation>Emplacement pour créer le dossier du package.</translation>
+        <translation>Emplacement où créer l'archive auto-extractible.</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Choisir</translation>
+        <translation>Parcourir</translation>
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Choisi l&apos;emplacement.</translation>
+        <translation>Utiliser l'explorateur pour indiquer où créer l'archive.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>Choisir le dossier</translation>
     </message>
     <message>
         <source>Location is empty.</source>
-        <translation>L&apos;emplacement est vide.</translation>
+        <translation>Aucun dossier sélectionné.</translation>
     </message>
     <message>
         <source>Path name is too long.</source>
@@ -2348,15 +2349,15 @@
     </message>
     <message>
         <source>Creates a package for Android and iOS.</source>
-        <translation>Crée un package pour Android et iOS.</translation>
+        <translation>Crée une archive pour Android et iOS.</translation>
     </message>
     <message>
         <source>Web browsers</source>
-        <translation>Navigateurs Web</translation>
+        <translation>Navigateurs web</translation>
     </message>
     <message>
         <source>Creates a package for web browsers.</source>
-        <translation>Crée un package pour navigateurs Web.</translation>
+        <translation>Crée une archive pour navigateurs web.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2364,7 +2365,7 @@
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="vanished">Pour définir les options de déploiement.</translation>
+        <translation type="vanished">Actions à effectuer lors de la compilation.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
@@ -2372,7 +2373,7 @@
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="vanished">Les fichiers non utilisés dans le jeu seront exclus du déploiement.</translation>
+        <translation type="vanished">Les fichiers qui ne sont pas utilisés dans le jeu seront exclus de l'archive compilée.</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -2380,7 +2381,7 @@
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="vanished">Définissez les options de chiffrement.</translation>
+        <translation type="vanished">Définir les options de cryptage de l'archive.</translation>
     </message>
     <message>
         <source>Image files</source>
@@ -2388,7 +2389,7 @@
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="vanished">Chiffrez un fichier image inclus dans le package.</translation>
+        <translation type="vanished">Cryptez un fichier image inclus dans le package.</translation>
     </message>
     <message>
         <source>Audio files</source>
@@ -2396,23 +2397,23 @@
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="vanished">Chiffrez un fichier audio inclus dans le package.</translation>
+        <translation type="vanished">Cryptez un fichier audio inclus dans le package.</translation>
     </message>
     <message>
         <source>Encryption key</source>
         <translation type="vanished">Clé de chiffrement</translation>
     </message>
-    <message>
+       <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="vanished">Veuillez saisir la clé de chiffrement.</translation>
+        <translation type="vanished">La clé de chiffrement sert à crypter et donc à décrypter les fichiers sélectionnés.</translation>
     </message>
     <message>
         <source>Linux</source>
-        <translation type="unfinished">Linux</translation>
+        <translation>Linux</translation>
     </message>
     <message>
         <source>Creates a package for Linux.</source>
-        <translation type="unfinished">Crée un pack pour Linux.</translation>
+        <translation>Crée une archive pour Linux.</translation>
     </message>
 </context>
 <context>
@@ -2439,7 +2440,7 @@
     </message>
     <message>
         <source>Sets the specified item as the drop item.</source>
-        <translation>Établi l&apos;objet spécifié comme butin.</translation>
+        <translation>Donne l&apos;objet spécifié comme butin.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -2447,7 +2448,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as the drop item.</source>
-        <translation>Établi l&apos;arme spécifiée comme butin.</translation>
+        <translation>Donne l&apos;arme spécifiée comme butin.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -2455,7 +2456,7 @@
     </message>
     <message>
         <source>Sets the specified armor as the drop item.</source>
-        <translation>Établi l&apos;armure spécifiée comme butin.</translation>
+        <translation>Donne l&apos;armure spécifiée comme butin.</translation>
     </message>
     <message>
         <source>Probability</source>
@@ -2463,7 +2464,7 @@
     </message>
     <message>
         <source>Spawning probability of the drop item.</source>
-        <translation>Probabilité d&apos;apparition de butin.</translation>
+        <translation>Définit la probabilité que le monstre lâche ce butin.</translation>
     </message>
 </context>
 <context>
@@ -2474,68 +2475,68 @@
     </message>
     <message>
         <source>Recover</source>
-        <translation>Récupération</translation>
+        <translation>Guérison</translation>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>Récupération HP</translation>
+        <translation>Récupération PV</translation>
     </message>
     <message>
         <source>Restores HP. Specify either a percentage of max HP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Restaure les HP. Spécifie un pourcentage maximum de HP ou une valeur, ou les deux. Dans le cas des objets, le multiplicateur du sp-paramètre [Pharmacologie] est appliqué.</translation>
+        <translation>Restaure une partie des PV. Spécifiez soit un pourcentage des PV max, soit une valeur fixe, soit les deux. Dans le cas des objets, le multiplicateur [Connaissances en médecine] (caractéristique spéciale) est appliqué.</translation>
     </message>
     <message>
         <source>Recover MP</source>
-        <translation>Récupération MP</translation>
+        <translation>Récupération PM</translation>
     </message>
     <message>
         <source>Restores MP. Specify either a percentage of max MP or a set value, or both. In the case of items, the multiplier of the [Pharmacology] sp-parameter is applied.</source>
-        <translation>Restaure des MP. Spécifie un pourcentage maximum de MP ou une valeur, ou les deux. Dans le cas des objets, le multiplicateur du sp-paramètre [Pharmacologie] est appliqué.</translation>
+        <translation>Restaure une partie des PM. Spécifiez soit un pourcentage des PM max, soit une valeur fixe, soit les deux. Dans le cas des objets, le multiplicateur [Connaissances en médecine] (caractéristique spéciale) est appliqué.</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>Gain TP</translation>
+        <translation>Récupération PT</translation>
     </message>
     <message>
         <source>Increases the TP by the amount specified.</source>
-        <translation>Augmente les TP par la valeur spécifiée.</translation>
+        <translation>Restaure une partie des PT.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Ajouter État</translation>
+        <translation>Infliger</translation>
     </message>
     <message>
         <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>Ajoute l&apos;état spécifié. Spécifier une valeur au-dessus de 100 % permet le succès à un taux supérieur que l&apos;efficacité d&apos;origine de la cible.</translation>
+        <translation>Inflige le statut spécifié. Spécifier une valeur au-dessus de 100 % permet d'avoir un taux de succès supérieur à la défense originale de l'ennemi. </translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>Attaque normale</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Retirer État</translation>
+        <translation>Guérir</translation>
     </message>
     <message>
         <source>Removes the specified state.</source>
-        <translation>Retire l&apos;état spécifié.</translation>
+        <translation>Guérit du statut spécifié</translation>
     </message>
     <message>
         <source>Param</source>
         <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Param.</translation>
+        <translation>Caractéristique</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>Ajouter Buff</translation>
+        <translation>Augmentation</translation>
     </message>
     <message>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Augmente le niveau de fluctuation du paramètre spécifié de un. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur originale, et une augmentation jusqu&apos;à deux niveaux de plus est possible. Pour augmenter un paramètre de deux niveaux ou plus en une seule fois, vous pouvez appliquer cet effet plusieurs fois.</translation>
+        <translation>Augmente d'un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d'origine, et une augmentation de jusqu&apos;à deux niveaux est possible. Pour élever une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>turns</source>
@@ -2543,27 +2544,27 @@
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>Diminution</translation>
     </message>
     <message>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Diminue le niveau de fluctuation du paramètre spécifié de un. Pour chaque niveau, il y a une fluctuation de 25 %  dans la valeur originale, et une diminution jusqu&apos;à deux niveaux de moins est possible. Pour diminuer un paramètre de deux niveaux ou plus en une seule fois, vous pouvez appliquer cet effet plusieurs fois.</translation>
+        <translation>Diminue d'un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 %  dans la valeur d'origine, et une diminution de jusqu&apos;à deux niveaux est possible. Pour diminuer une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>Retirer Buff</translation>
+        <translation>Dissipation</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been buffed.</source>
-        <translation>Retourne le paramètre spécifié à son niveau de fluctuation d&apos;origine si il a été amélioré.</translation>
+        <translation>Remet la caractéristique à sa valeur d'origine si elle a été sujette a une [Augmentation].</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>Retirer le Debuff</translation>
+        <translation>Rétablissement</translation>
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been debuffed.</source>
-        <translation>Retourne le paramètre spécifié à son niveau de fluctuation d&apos;origine si il a été altéré.</translation>
+        <translation>Remet la caractéristique à sa valeur d'origine si elle a été sujette a une [Diminution].</translation>
     </message>
     <message>
         <source>Other</source>
@@ -2571,101 +2572,102 @@
     </message>
     <message>
         <source>Special Effect</source>
-        <translation>Effet Spécial</translation>
+        <translation>Effet spécial</translation>
     </message>
     <message>
         <source>Can only be set for the [Escape] command. Allows the target to escape from a battle. No EXP will be earned.</source>
-        <translation>Peut seulement être mis en place pour la commande [Fuire]. Permet à la cible d&apos;échapper à un combat. Aucun EXP ne sera acquis.</translation>
+        <translation>Peut seulement avoir la valeur [Fuite]. Permet au lanceur de fuir un combat. Aucun point d'expérience ne sera gagné.</translation>
     </message>
     <message>
         <source>Grow</source>
-        <translation>Grandir</translation>
+        <translation>Augmentation de caractéristique</translation>
     </message>
     <message>
         <source>Permanently raises the specified parameter. For example, this can be used in creating an item such as fruit that gives a power-up when eaten.</source>
-        <translation>Augmente de façon permanente le paramètre spécifié. Par exemple, cela peut être utilisé pour la création d&apos;un objet comme un fruit qui donne une augmentation de la puissance lorsqu&apos;il est mangé.</translation>
+        <translation>Augmente une caractéristique de la cible de façon permanente. Peut par exemple être utilisé pour créer une potion qui augmente les PV Max lorsqu'elle est utilisée.</translation>
     </message>
     <message>
         <source>Learn Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Apprendre Comp.</translation>
+        <translation>Acquérir comp.</translation>
     </message>
     <message>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
-        <translation>Permet au personnage d&apos;apprendre la compétence spécifiée. Par exemple, cela peut être utilisé pour la création d&apos;un objet comme un livre qui permet à un sort d&apos;être utilisé une fois qu&apos;il est lu.</translation>
+        <translation>pprend la compétence spécifiée à la cible. Peut par exemple être utilisé pour créer un livre qui apprend une magie lorsqu'il est lu.</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évmt Commun</translation>
+        <translation>Év. Commun</translation>
     </message>
     <message>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
-        <translation>Déclenche l&apos;évènement commun spécifié. Seule une spécification d&apos;appel unique pour les évènements communs est valide.</translation>
+        <translation>Appelle l&apos;évènement commun spécifié. L'évènement commun ne sera pas joué en [Automatique] ou [Processus parallèle].</translation>
     </message>
 </context>
 <context>
     <name>Dialog_Encounter</name>
     <message>
         <source>Encounter</source>
-        <translation>Rencontre</translation>
+        <translation>Combats aléatoires</translation>
     </message>
     <message>
         <source>Troop and Weight</source>
-        <translation>Troupe et Poids</translation>
+        <translation>Probabilité de rencontre</translation>
     </message>
     <message>
         <source>Basic encounter settings.</source>
-        <translation>Réglages basiques des rencontres.</translation>
+        <translation>Définir la probabilité de rencontrer un groupe spécifique.</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Troop to be encountered.</source>
-        <translation>Troupe à rencontrer.</translation>
+        <translation>Groupe d'ennemi qui sera rencontré.</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Poids</translation>
+        <translation>Probabilité</translation>
     </message>
     <message>
         <source>Value that affects the frequency at which the troop is encountered.</source>
-        <translation>Valeur qui affecte la fréquence à laquelle la troupe est rencontrée.</translation>
+        <translation>Valeur qui influence la fréquence d'apparaition de ce groupe. Plus ce nombre est élevé par rapport aux autres, plus le groupe a de chances d'apparaitre.</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>Zone d'apparition</translation>
     </message>
     <message>
         <source>Range in which the troop is encountered.</source>
-        <translation>Plage dans laquelle la troupe est rencontrée.</translation>
+        <translation>Définit l'endroit de la carte où ce groupe peut apparaitre.</translation>
     </message>
     <message>
         <source>Entire Map</source>
-        <translation>Carte Entière</translation>
+        <translation>Carte entière</translation>
     </message>
     <message>
         <source>No limit on the encounter range.</source>
-        <translation>Pas de limite sur la plage de rencontre.</translation>
+        <translation>Le groupe peut apparaitre n'importe où sur la carte.</translation>
     </message>
     <message>
         <source>Specify by Region ID</source>
-        <translation>Spécifier par ID de Région</translation>
+        <translation>Zones de combat</translation>
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation>Spécifie les numéros mis en place avec l&apos;éditeur de carte.</translation>
+        <translation>Le groupe n'apparaitra que sur les zones de combat spécifiées</translation>
     </message>
     <message>
         <source>Region ID</source>
-        <translation>ID de Région</translation>
+        <translation>Numéro de zone</translation>
     </message>
     <message>
         <source>Valid when a non-zero value is entered.</source>
-        <translation>Valide lorsqu&apos;une valeur autre que zéro est entrée.</translation>
+        <translation>Numéro de la zone construite dans l'éditeur. Zéro pour annuler.</translation>
     </message>
 </context>
+ <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_EquipmentItem</name>
     <message>
