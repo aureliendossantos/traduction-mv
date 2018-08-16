@@ -2752,7 +2752,6 @@
         <translation>Avancé</translation>
     </message>
 </context>
- <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_EventSearcher</name>
     <message>
@@ -2824,7 +2823,6 @@
         <translation>Position</translation>
     </message>
 </context>
- <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_ExpCurve</name>
     <message>
@@ -2849,35 +2847,35 @@
     </message>
     <message>
         <source>Base Value</source>
-        <translation>Valeur de base</translation>
+        <translation>Base</translation>
     </message>
     <message>
         <source>Base value for calculating necessary EXP.</source>
-        <translation>Valeur de base pour calculer l&apos;EXP nécessaire.</translation>
+        <translation>Valeur de base pour calculer l'expérience nécessaire.</translation>
     </message>
     <message>
         <source>Extra Value</source>
-        <translation>Valeur supplémentaire</translation>
+        <translation>Correction</translation>
     </message>
     <message>
         <source>Simple extra value added to the EXP necessary for each level.</source>
-        <translation>Simple valeur supplémentaire ajoutée à l&apos;EXP nécessaire pour chaque niveau.</translation>
+        <translation>Valeur fixe ajoutée à l'expérience nécessaire.</translation>
     </message>
     <message>
-        <source>Acceleration A</source>
-        <translation>Accélération A</translation>
+        <source>Acceleration A/source>
+        <translation>Inflation A</translation>
     </message>
     <message>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation>Valeur représentant le taux avec lequel augmenter l&apos;EXP nécessaire. Affecte la courbe d&apos;EXP toute entière.</translation>
+        <translation>Valeur linéaire représentant la vitesse à laquelle l'expérience nécessaire augmente. Affecte la courbe d'expérience toute entière.</translation>
     </message>
     <message>
         <source>Acceleration B</source>
-        <translation>Accélération B</translation>
+        <translation>Inflation B</translation>
     </message>
     <message>
         <source>Value representing the degree at which to exponentially increase the necessary EXP. Mainly affects the high-level range.</source>
-        <translation>Valeur représentant le degré avec lequel augmenter exponentiellement l&apos;EXP nécessaire. Affecte principalement la plage de haut niveau.</translation>
+        <translation>Valeur linéaire représentant la vitesse à laquelle l'expérience nécessaire augmente. Affecte principalement les niveaux élevés.</translation>
     </message>
 </context>
 <context>
@@ -2896,7 +2894,7 @@
     </message>
     <message>
         <source>Provides a space for you to type the text you want to find.</source>
-        <translation type="unfinished">Offre un espace pour vous permettre d&apos;entrer le texte que vous souhaitez rechercher.</translation>
+        <translation type="unfinished">Texte à rechercher.</translation>
     </message>
     <message>
         <source>Look at</source>
@@ -2904,7 +2902,7 @@
     </message>
     <message>
         <source>Narrows the search by specifying the text in which you want to search.</source>
-        <translation type="unfinished">Limite le domaine de recherche en spécifiant le texte dans lequel vous souhaitez effectuer la recherche.</translation>
+        <translation type="unfinished">Précisez où vous souhaitez effectuer la recherche.</translation>
     </message>
     <message>
         <source>Matching</source>
@@ -2912,7 +2910,7 @@
     </message>
     <message>
         <source>Controls how to match the text against your keyword.</source>
-        <translation type="unfinished">Contrôle les options de correspondance vis-à-vis de votre mot-clé.</translation>
+        <translation type="unfinished">Contrôle les options de correspondance vis-à-vis de votre recherche.</translation>
     </message>
     <message>
         <source>Case sensitive</source>
@@ -2920,11 +2918,11 @@
     </message>
     <message>
         <source>Finds only text with uppercase and lowercase characters as specified.</source>
-        <translation type="unfinished">Recherche uniquement du texte avec les caractères en minuscule ou majuscule spécifiés.</translation>
+        <translation type="unfinished">Recherche uniquement du texte dont les minuscules et majuscules correspondent parfaitement au texte spécifié.</translation>
     </message>
     <message>
         <source>Find Next</source>
-        <translation type="unfinished">Rechercher après</translation>
+        <translation type="unfinished">Suivant</translation>
     </message>
     <message>
         <source>Searches for the next instance of the text you specified.</source>
@@ -2932,11 +2930,11 @@
     </message>
     <message>
         <source>Find Previous</source>
-        <translation type="unfinished">Rechercher avant</translation>
+        <translation type="unfinished">Précédent</translation>
     </message>
     <message>
         <source>Searches for the previous instance of the text you specified.</source>
-        <translation type="unfinished">Recherche la précédente occurrence du texte spécifié.</translation>
+        <translation type="unfinished">Recherche l'occurrence précédente du texte spécifié.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2949,15 +2947,15 @@
     </message>
     <message>
         <source>Searches for your text inside longer strings.</source>
-        <translation type="unfinished">Cherche votre texte dans de plus longues séquences.</translation>
+        <translation type="unfinished">Cherche le texte spécifié dans de plus longues séquences.</translation>
     </message>
     <message>
         <source>Searches for whole words instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">Cherche les mots entiers plutôt que de chercher votre texte dans de plus longues séquences.</translation>
+        <translation type="unfinished">Fonctionne comme la correspondance partielle, mais en cherchant des mots entiers.</translation>
     </message>
     <message>
         <source>Searches for whole strings instead of searching for your text inside longer strings.</source>
-        <translation type="unfinished">Cherche des séquences entières plutôt que de chercher votre texte dans de plus longues séquences.</translation>
+        <translation type="unfinished">Cherche une instance correspondant entièrement au texte spécifié.</translation>
     </message>
     <message>
         <source>Enables regular expressions (JavaScript flavour).</source>
@@ -2965,14 +2963,14 @@
     </message>
     <message>
         <source>Only works for languages where words are separated by spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Ne marche que pour les langues séparant les mots par des espaces.)</translation>
     </message>
 </context>
 <context>
     <name>Dialog_FrameMaximum</name>
     <message>
         <source>Max Frames</source>
-        <translation>Frames Max</translation>
+        <translation>Frames max</translation>
     </message>
     <message>
         <source>Number</source>
@@ -2980,18 +2978,18 @@
     </message>
     <message>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation>Nombre de nouvelles frames. Quand le nombre diminue, toutes les frames existantes au-dessus de ce nombre seront supprimées.</translation>
+        <translation>Nombre de nouvelles frames. Les frames au dessus du nombre spécifiées seront supprimées.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameData</name>
     <message>
         <source>Game Data</source>
-        <translation>Données Jeu</translation>
+        <translation>Données du jeu</translation>
     </message>
     <message>
         <source>Type of game data.</source>
-        <translation>Type de données du jeu.</translation>
+        <translation>Type de données.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -2999,11 +2997,11 @@
     </message>
     <message>
         <source>Uses the number of the specified item in the party&apos;s inventory.</source>
-        <translation>Utilise le numéro de l&apos;objet spécifié dans l&apos;inventaire du groupe.</translation>
+        <translation>Utilise la quantité possédée de l'objet spécifié.</translation>
     </message>
     <message>
         <source>(Possession Count)</source>
-        <translation>(Compte des Possessions)</translation>
+        <translation>dans l'inventaire</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -3011,7 +3009,7 @@
     </message>
     <message>
         <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise le numéro de l&apos;arme spécifiée dans l&apos;inventaire du groupe sans les objets équipés.</translation>
+        <translation>Utilise la quantité possédée de l'arme spécifiée, armes équipées exclues.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -3019,15 +3017,15 @@
     </message>
     <message>
         <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise le numéro de l&apos;armure spécifiée dans l&apos;inventaire du groupe sans les objets équipés.</translation>
+        <translation>Utilise la quantité possédée de l'armure spécifiée, armures équipées exclues.</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>Utilise un paramètre de l&apos;acteur spécifié.</translation>
+        <translation>Utilise une caractéristique d'un personnage</translation>
     </message>
     <message>
         <source>Enemy</source>
@@ -3035,23 +3033,28 @@
     </message>
     <message>
         <source>Uses a parameter of the specified enemy.</source>
-        <translation>Utilise un paramètre de l&apos;ennemi spécifié.</translation>
+        <translation>Utilise une caractéristique d'un ennemi.</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>Évènement</translation>
     </message>
     <message>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>Utilise les coordonnées ou la direction du joueur ou de l&apos;évènement.</translation>
+        <translation>Utilise la position ou la direction d'un évènement ou du joueur.
+        	[Carte X] Position horizontale sur la carte.
+        	[Carte Y] Position verticale sur la carte.
+        	[Direction] Correspond aux touches du pavé numérique.
+        	[Écran X] Position de la coordonnée X relative à l'écran.
+        	[Écran Y] Position de la coordonnée Y relative à l'écran.</translation>
     </message>
     <message>
         <source>Party</source>
-        <translation>Groupe</translation>
+        <translation>Équipe</translation>
     </message>
     <message>
         <source>Uses the ID of the actor at the specified position within the party.</source>
-        <translation>Utilise l&apos;ID de l&apos;acteur à l&apos;emplacement spécifié dans le groupe.</translation>
+        <translation>Utilise l'ID d'un membre de l'équipe.</translation>
     </message>
     <message>
         <source>Member #%1</source>
@@ -3059,7 +3062,7 @@
     </message>
     <message>
         <source>(Actor ID)</source>
-        <translation>(ID de l&apos;Acteur)</translation>
+        <translation>(ID du héros)</translation>
     </message>
     <message>
         <source>Other</source>
@@ -3067,14 +3070,24 @@
     </message>
     <message>
         <source>Uses miscellaneous data.</source>
-        <translation>Utilise des données diverses.</translation>
+        <translation>Utilise une autre valeur.
+        	[ID de la carte] L'ID de la carte actuelle.
+        	[Taille de l'équipe] Le nombre de personnages dans l'équipe.
+        	[Argent possédé] La quantité d'argent que possède l'équipe.
+        	[Nombre de pas] Le nombre de carreaux parcourus par le héros depuis le début du jeu.
+        	[Temps de jeu] Temps écoulé depuis le début du jeu (en secondes).
+        	[Valeur du chronomètre] Valeur actuelle du chronomètre (en secondes).
+        	[Nombre de sauvegardes] Le nombre de sauvegardes effectuées depuis le début du jeu.
+        	[Nombre de combats] Le nombre de combats effectués depuis le début du jeu.
+        	[Nombre de victoires] Le nombre de combats se terminant par la victoire du joueur depuis le début du jeu.
+        	[Nombre de fuites] Le nombre de combats se terminant par la fuite du joueur depuis le début du jeu.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameObjectSelector</name>
     <message>
         <source>Object Selection</source>
-        <translation>Sélection d&apos;objets</translation>
+        <translation>Sélection d'objets</translation>
     </message>
     <message>
         <source>Items</source>
@@ -3082,7 +3095,7 @@
     </message>
     <message>
         <source>Actors</source>
-        <translation>Acteurs</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Weapons</source>
@@ -3094,7 +3107,7 @@
     </message>
     <message>
         <source>Skills</source>
-        <translation>Comp.</translation>
+        <translation>Compétences</translation>
     </message>
     <message>
         <source>Classes</source>
@@ -3106,27 +3119,27 @@
     </message>
     <message>
         <source>States</source>
-        <translation>États</translation>
+        <translation>Statuts</translation>
     </message>
     <message>
         <source>Group List</source>
-        <translation>Liste de Groupes</translation>
+        <translation>Groupes</translation>
     </message>
     <message>
         <source>The objects in the selected range are displayed to the right.</source>
-        <translation>Les objets de la plage sélectionnée s&apos;affichent sur la droite.</translation>
+        <translation>Les objets de la plage sélectionnée s'affichent sur la droite.</translation>
     </message>
     <message>
         <source>Data List</source>
-        <translation>Liste de Données</translation>
+        <translation>Liste de données</translation>
     </message>
     <message>
         <source>List for selecting objects.</source>
-        <translation>Liste pour sélection d&apos;objets.</translation>
+        <translation>Liste des objets à sélectionner.</translation>
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>&lt;br&gt;[F5] Sélectionne l'&apos;objet suivant.'&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
     </message>
     <message>
         <source>None</source>
@@ -3138,7 +3151,7 @@
     </message>
     <message>
         <source>Troops</source>
-        <translation>Troupes</translation>
+        <translation>Groupes</translation>
     </message>
     <message>
         <source>Enemies</source>
@@ -3157,6 +3170,7 @@
         <translation type="unfinished">Nom de l&apos;objet.</translation>
     </message>
 </context>
+ <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_GameShare</name>
     <message>
