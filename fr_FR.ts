@@ -2666,7 +2666,6 @@
         <translation>Numéro de la zone construite dans l'éditeur. Zéro pour annuler.</translation>
     </message>
 </context>
- <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_EquipmentItem</name>
     <message>
@@ -2694,51 +2693,51 @@
     </message>
     <message>
         <source>Game Progression</source>
-        <translation>Progression du Jeu</translation>
+        <translation>Gestion globale</translation>
     </message>
     <message>
         <source>Flow Control</source>
-        <translation>Contrôle de Progression</translation>
+        <translation>Programmation</translation>
     </message>
     <message>
         <source>Party</source>
-        <translation>Groupe</translation>
+        <translation>Équipe</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Movement</source>
-        <translation>Mouvement</translation>
+        <translation>Déplacement</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>Effets d'animation</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Image</translation>
+        <translation>Effets visuels</translation>
     </message>
     <message>
         <source>Timing</source>
-        <translation>Timing</translation>
+        <translation>Temps</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Écran</translation>
+        <translation>Image et climat</translation>
     </message>
     <message>
         <source>Audio &amp; Video</source>
-        <translation>Audio &amp; Vidéo</translation>
+        <translation>Musique et effets sonores</translation>
     </message>
     <message>
         <source>Scene Control</source>
-        <translation>Contrôle de Scène</translation>
+        <translation>Scènes du jeu</translation>
     </message>
     <message>
         <source>System Settings</source>
-        <translation>Paramètres Système</translation>
+        <translation>Configurations système</translation>
     </message>
     <message>
         <source>Map</source>
@@ -2753,19 +2752,20 @@
         <translation>Avancé</translation>
     </message>
 </context>
+ <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_EventSearcher</name>
     <message>
         <source>Event Searcher</source>
-        <translation>Chercheur d&apos;Évènement</translation>
+        <translation>Chercheur d&apos;évènement</translation>
     </message>
     <message>
         <source>Search for</source>
-        <translation>Rechercher</translation>
+        <translation>Rechercher évènement :</translation>
     </message>
     <message>
         <source>Specifies what to search for.</source>
-        <translation>Indique ce que vous recherchez.</translation>
+        <translation>Précisez les paramètres de l'évènement à rechercher.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -2773,7 +2773,7 @@
     </message>
     <message>
         <source>Search for the switch.</source>
-        <translation>Rechercher l&apos;interrupteur.</translation>
+        <translation>Rechercher en fonction de l'interrupteur utilisé.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -2781,23 +2781,23 @@
     </message>
     <message>
         <source>Search for the variable.</source>
-        <translation>Rechercher la variable.</translation>
+        <translation>Rechercher en fonction de la variable utilisée.</translation>
     </message>
     <message>
         <source>Event Name</source>
-        <translation>Nom de l&apos;Évmt</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Search for the event name.</source>
-        <translation>Recherche du nom de l&apos;évènement.</translation>
+        <translation>Rechercher directement l'évènement grâce à son nom.</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Recherche</translation>
+        <translation>Chercher...</translation>
     </message>
     <message>
         <source>Executes the search.</source>
-        <translation>Exécute la recherche.</translation>
+        <translation>Lance la recherche de l'évèneme,t.</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -2824,15 +2824,16 @@
         <translation>Position</translation>
     </message>
 </context>
+ <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_ExpCurve</name>
     <message>
         <source>EXP Curve</source>
-        <translation>Courbe d&apos;EXP</translation>
+        <translation>Courbe d'expérience</translation>
     </message>
     <message>
         <source>To Next Level</source>
-        <translation>Jusqu&apos;au Niveau Suivant</translation>
+        <translation>Niveau suivant</translation>
     </message>
     <message>
         <source>Total</source>
@@ -2840,11 +2841,11 @@
     </message>
     <message>
         <source>EXP Table</source>
-        <translation>Tableau d&apos;EXP</translation>
+        <translation>Tableau d'expérience</translation>
     </message>
     <message>
         <source>List of EXP necessary for each level. Automatically calculated based on a combination of four parameters.</source>
-        <translation>Liste de l&apos;EXP nécessaire pour chaque niveau. Calculé automatiquement basé sur une combinaison de quatre paramètres.</translation>
+        <translation>Quantité d'expérience requise pour chaque niveau. Tout est calculé automatiquement suivant une combinaison de 4 paramètres.</translation>
     </message>
     <message>
         <source>Base Value</source>
