@@ -2328,7 +2328,7 @@
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Utiliser l'explorateur pour indiquer où créer le dossier du jeu.</translation>
+        <translation>Utiliser l&apos;explorateur pour indiquer où créer le dossier du jeu.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
@@ -2510,7 +2510,7 @@
     </message>
     <message>
         <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>Inflige le statut spécifié. Spécifier une valeur au-dessus de 100 % permet d'avoir un taux de succès supérieur à la défense originale de l'ennemi. </translation>
+        <translation>Inflige le statut spécifié. Spécifier une valeur au-dessus de 100 % permet d&apos;avoir un taux de succès supérieur à la défense originale de l&apos;ennemi. </translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -2535,7 +2535,7 @@
     </message>
     <message>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Augmente d'un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d'origine, et une augmentation de jusqu&apos;à deux niveaux est possible. Pour élever une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
+        <translation>Augmente d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d&apos;origine, et une augmentation de jusqu&apos;à deux niveaux est possible. Pour élever une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>turns</source>
@@ -2547,7 +2547,7 @@
     </message>
     <message>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Diminue d'un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 %  dans la valeur d'origine, et une diminution de jusqu&apos;à deux niveaux est possible. Pour diminuer une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
+        <translation>Diminue d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d&apos;origine, et une diminution de jusqu&apos;à deux niveaux est possible. Pour diminuer une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>Remove Buff</source>
@@ -2555,7 +2555,7 @@
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been buffed.</source>
-        <translation>Remet la caractéristique à sa valeur d'origine si elle a été sujette a une [Augmentation].</translation>
+        <translation>Remet la caractéristique à sa valeur d&apos;origine si elle a été sujette a une [Augmentation].</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
@@ -2563,7 +2563,7 @@
     </message>
     <message>
         <source>Returns the specified parameter to its original fluctuation level if it has been debuffed.</source>
-        <translation>Remet la caractéristique à sa valeur d'origine si elle a été sujette a une [Diminution].</translation>
+        <translation>Remet la caractéristique à sa valeur d&apos;origine si elle a été sujette a une [Diminution].</translation>
     </message>
     <message>
         <source>Other</source>
@@ -2575,7 +2575,7 @@
     </message>
     <message>
         <source>Can only be set for the [Escape] command. Allows the target to escape from a battle. No EXP will be earned.</source>
-        <translation>Peut seulement avoir la valeur [Fuite]. Permet au lanceur de fuir un combat. Aucun point d'expérience ne sera gagné.</translation>
+        <translation>Peut seulement avoir la valeur [Fuite]. Permet au lanceur de fuir un combat. Aucun point d&apos;expérience ne sera gagné.</translation>
     </message>
     <message>
         <source>Grow</source>
@@ -2583,7 +2583,7 @@
     </message>
     <message>
         <source>Permanently raises the specified parameter. For example, this can be used in creating an item such as fruit that gives a power-up when eaten.</source>
-        <translation>Augmente une caractéristique de la cible de façon permanente. Peut par exemple être utilisé pour créer une potion qui augmente les PV Max lorsqu'elle est utilisée.</translation>
+        <translation>Augmente une caractéristique de la cible de façon permanente. Peut par exemple être utilisé pour créer une potion qui augmente les PV Max lorsqu&apos;elle est utilisée.</translation>
     </message>
     <message>
         <source>Learn Skill</source>
@@ -2592,7 +2592,7 @@
     </message>
     <message>
         <source>Allows the character to learn the specified skill. For example, this can be used in creating an item such as a book that enables a spell to be used once it is read.</source>
-        <translation>pprend la compétence spécifiée à la cible. Peut par exemple être utilisé pour créer un livre qui apprend une magie lorsqu'il est lu.</translation>
+        <translation>pprend la compétence spécifiée à la cible. Peut par exemple être utilisé pour créer un livre qui apprend une magie lorsqu&apos;il est lu.</translation>
     </message>
     <message>
         <source>Common Event</source>
@@ -2600,7 +2600,7 @@
     </message>
     <message>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
-        <translation>Appelle l&apos;évènement commun spécifié. L'évènement commun ne sera pas joué en [Automatique] ou [Processus parallèle].</translation>
+        <translation>Appelle l&apos;évènement commun spécifié. L&apos;évènement commun ne sera pas joué en [Automatique] ou [Processus parallèle].</translation>
     </message>
 </context>
 <context>
@@ -2623,7 +2623,7 @@
     </message>
     <message>
         <source>Troop to be encountered.</source>
-        <translation>Groupe d'ennemi qui sera rencontré.</translation>
+        <translation>Groupe d&apos;ennemi qui sera rencontré.</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -2631,15 +2631,15 @@
     </message>
     <message>
         <source>Value that affects the frequency at which the troop is encountered.</source>
-        <translation>Valeur qui influence la fréquence d'apparaition de ce groupe. Plus ce nombre est élevé par rapport aux autres, plus le groupe a de chances d'apparaitre.</translation>
+        <translation>Valeur qui influence la fréquence d&apos;apparaition de ce groupe. Plus ce nombre est élevé par rapport aux autres, plus le groupe a de chances d&apos;apparaitre.</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Zone d'apparition</translation>
+        <translation>Zone d&apos;apparition</translation>
     </message>
     <message>
         <source>Range in which the troop is encountered.</source>
-        <translation>Définit l'endroit de la carte où ce groupe peut apparaitre.</translation>
+        <translation>Définit l&apos;endroit de la carte où ce groupe peut apparaitre.</translation>
     </message>
     <message>
         <source>Entire Map</source>
@@ -2647,7 +2647,7 @@
     </message>
     <message>
         <source>No limit on the encounter range.</source>
-        <translation>Le groupe peut apparaitre n'importe où sur la carte.</translation>
+        <translation>Le groupe peut apparaitre n&apos;importe où sur la carte.</translation>
     </message>
     <message>
         <source>Specify by Region ID</source>
@@ -2655,7 +2655,7 @@
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation>Le groupe n'apparaitra que sur les zones de combat spécifiées</translation>
+        <translation>Le groupe n&apos;apparaitra que sur les zones de combat spécifiées</translation>
     </message>
     <message>
         <source>Region ID</source>
@@ -2663,7 +2663,7 @@
     </message>
     <message>
         <source>Valid when a non-zero value is entered.</source>
-        <translation>Numéro de la zone construite dans l'éditeur. Zéro pour annuler.</translation>
+        <translation>Numéro de la zone construite dans l&apos;éditeur. Zéro pour annuler.</translation>
     </message>
 </context>
 <context>
@@ -2713,7 +2713,7 @@
     </message>
     <message>
         <source>Character</source>
-        <translation>Effets d'animation</translation>
+        <translation>Effets d&apos;animation</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2764,7 +2764,7 @@
     </message>
     <message>
         <source>Specifies what to search for.</source>
-        <translation>Précisez les paramètres de l'évènement à rechercher.</translation>
+        <translation>Précisez les paramètres de l&apos;évènement à rechercher.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -2772,7 +2772,7 @@
     </message>
     <message>
         <source>Search for the switch.</source>
-        <translation>Rechercher en fonction de l'interrupteur utilisé.</translation>
+        <translation>Rechercher en fonction de l&apos;interrupteur utilisé.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -2788,7 +2788,7 @@
     </message>
     <message>
         <source>Search for the event name.</source>
-        <translation>Rechercher directement l'évènement grâce à son nom.</translation>
+        <translation>Rechercher directement l&apos;évènement grâce à son nom.</translation>
     </message>
     <message>
         <source>Search</source>
@@ -2796,7 +2796,7 @@
     </message>
     <message>
         <source>Executes the search.</source>
-        <translation>Lance la recherche de l'évèneme,t.</translation>
+        <translation>Lance la recherche de l&apos;évèneme,t.</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -2827,7 +2827,7 @@
     <name>Dialog_ExpCurve</name>
     <message>
         <source>EXP Curve</source>
-        <translation>Courbe d'expérience</translation>
+        <translation>Courbe d&apos;expérience</translation>
     </message>
     <message>
         <source>To Next Level</source>
@@ -2839,11 +2839,11 @@
     </message>
     <message>
         <source>EXP Table</source>
-        <translation>Tableau d'expérience</translation>
+        <translation>Tableau d&apos;expérience</translation>
     </message>
     <message>
         <source>List of EXP necessary for each level. Automatically calculated based on a combination of four parameters.</source>
-        <translation>Quantité d'expérience requise pour chaque niveau. Tout est calculé automatiquement suivant une combinaison de 4 paramètres.</translation>
+        <translation>Quantité d&apos;expérience requise pour chaque niveau. Tout est calculé automatiquement suivant une combinaison de 4 paramètres.</translation>
     </message>
     <message>
         <source>Base Value</source>
@@ -2851,7 +2851,7 @@
     </message>
     <message>
         <source>Base value for calculating necessary EXP.</source>
-        <translation>Valeur de base pour calculer l'expérience nécessaire.</translation>
+        <translation>Valeur de base pour calculer l&apos;expérience nécessaire.</translation>
     </message>
     <message>
         <source>Extra Value</source>
@@ -2859,7 +2859,7 @@
     </message>
     <message>
         <source>Simple extra value added to the EXP necessary for each level.</source>
-        <translation>Valeur fixe ajoutée à l'expérience nécessaire.</translation>
+        <translation>Valeur fixe ajoutée à l&apos;expérience nécessaire.</translation>
     </message>
     <message>
         <source>Acceleration A/source>
@@ -2867,7 +2867,7 @@
     </message>
     <message>
         <source>Value representing the rate at which to increase the necessary EXP. Affects the entire EXP curve.</source>
-        <translation>Valeur linéaire représentant la vitesse à laquelle l'expérience nécessaire augmente. Affecte la courbe d'expérience toute entière.</translation>
+        <translation>Valeur linéaire représentant la vitesse à laquelle l&apos;expérience nécessaire augmente. Affecte la courbe d&apos;expérience toute entière.</translation>
     </message>
     <message>
         <source>Acceleration B</source>
@@ -2875,7 +2875,7 @@
     </message>
     <message>
         <source>Value representing the degree at which to exponentially increase the necessary EXP. Mainly affects the high-level range.</source>
-        <translation>Valeur linéaire représentant la vitesse à laquelle l'expérience nécessaire augmente. Affecte principalement les niveaux élevés.</translation>
+        <translation>Valeur linéaire représentant la vitesse à laquelle l&apos;expérience nécessaire augmente. Affecte principalement les niveaux élevés.</translation>
     </message>
 </context>
 <context>
@@ -2934,7 +2934,7 @@
     </message>
     <message>
         <source>Searches for the previous instance of the text you specified.</source>
-        <translation type="unfinished">Recherche l'occurrence précédente du texte spécifié.</translation>
+        <translation type="unfinished">Recherche l&apos;occurrence précédente du texte spécifié.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2997,11 +2997,11 @@
     </message>
     <message>
         <source>Uses the number of the specified item in the party&apos;s inventory.</source>
-        <translation>Utilise la quantité possédée de l'objet spécifié.</translation>
+        <translation>Utilise la quantité possédée de l&apos;objet spécifié.</translation>
     </message>
     <message>
         <source>(Possession Count)</source>
-        <translation>dans l'inventaire</translation>
+        <translation>dans l&apos;inventaire</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -3009,7 +3009,7 @@
     </message>
     <message>
         <source>Uses the number of the specified weapon in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise la quantité possédée de l'arme spécifiée, armes équipées exclues.</translation>
+        <translation>Utilise la quantité possédée de l&apos;arme spécifiée, armes équipées exclues.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -3017,7 +3017,7 @@
     </message>
     <message>
         <source>Uses the number of the specified armor in the party&apos;s inventory without the equipped items.</source>
-        <translation>Utilise la quantité possédée de l'armure spécifiée, armures équipées exclues.</translation>
+        <translation>Utilise la quantité possédée de l&apos;armure spécifiée, armures équipées exclues.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -3025,7 +3025,7 @@
     </message>
     <message>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>Utilise une caractéristique d'un personnage</translation>
+        <translation>Utilise une caractéristique d&apos;un personnage</translation>
     </message>
     <message>
         <source>Enemy</source>
@@ -3033,7 +3033,7 @@
     </message>
     <message>
         <source>Uses a parameter of the specified enemy.</source>
-        <translation>Utilise une caractéristique d'un ennemi.</translation>
+        <translation>Utilise une caractéristique d&apos;un ennemi.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -3041,12 +3041,12 @@
     </message>
     <message>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>Utilise la position ou la direction d'un évènement ou du joueur.
+        <translation>Utilise la position ou la direction d&apos;un évènement ou du joueur.
         	[Carte X] Position horizontale sur la carte.
         	[Carte Y] Position verticale sur la carte.
         	[Direction] Correspond aux touches du pavé numérique.
-        	[Écran X] Position de la coordonnée X relative à l'écran.
-        	[Écran Y] Position de la coordonnée Y relative à l'écran.</translation>
+        	[Écran X] Position de la coordonnée X relative à l&apos;écran.
+        	[Écran Y] Position de la coordonnée Y relative à l&apos;écran.</translation>
     </message>
     <message>
         <source>Party</source>
@@ -3054,7 +3054,7 @@
     </message>
     <message>
         <source>Uses the ID of the actor at the specified position within the party.</source>
-        <translation>Utilise l'ID d'un membre de l'équipe.</translation>
+        <translation>Utilise l&apos;ID d&apos;un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Member #%1</source>
@@ -3070,24 +3070,14 @@
     </message>
     <message>
         <source>Uses miscellaneous data.</source>
-        <translation>Utilise une autre valeur.
-        	[ID de la carte] L'ID de la carte actuelle.
-        	[Taille de l'équipe] Le nombre de personnages dans l'équipe.
-        	[Argent possédé] La quantité d'argent que possède l'équipe.
-        	[Nombre de pas] Le nombre de carreaux parcourus par le héros depuis le début du jeu.
-        	[Temps de jeu] Temps écoulé depuis le début du jeu (en secondes).
-        	[Valeur du chronomètre] Valeur actuelle du chronomètre (en secondes).
-        	[Nombre de sauvegardes] Le nombre de sauvegardes effectuées depuis le début du jeu.
-        	[Nombre de combats] Le nombre de combats effectués depuis le début du jeu.
-        	[Nombre de victoires] Le nombre de combats se terminant par la victoire du joueur depuis le début du jeu.
-        	[Nombre de fuites] Le nombre de combats se terminant par la fuite du joueur depuis le début du jeu.</translation>
+        <translation>Utilise une autre valeur.&lt;br&gt;[ID de la carte] L&apos;ID de la carte actuelle.&lt;br&gt;[Taille de l&apos;équipe] Le nombre de personnages dans l&apos;équipe.&lt;br&gt;[Argent possédé] La quantité d&apos;argent que possède l&apos;équipe.&lt;br&gt;[Nombre de pas] Le nombre de carreaux parcourus par le héros depuis le début du jeu.&lt;br&gt;[Temps de jeu] Temps écoulé depuis le début du jeu (en secondes).&lt;br&gt;[Valeur du chronomètre] Valeur actuelle du chronomètre (en secondes).&lt;br&gt;[Nombre de sauvegardes] Le nombre de sauvegardes effectuées depuis le début du jeu.&lt;br&gt;[Nombre de combats] Le nombre de combats effectués depuis le début du jeu.&lt;br&gt;[Nombre de victoires] Le nombre de combats se terminant par la victoire du joueur depuis le début du jeu.&lt;br&gt;[Nombre de fuites] Le nombre de combats se terminant par la fuite du joueur depuis le début du jeu.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameObjectSelector</name>
     <message>
         <source>Object Selection</source>
-        <translation>Sélection d'objets</translation>
+        <translation>Sélection d&apos;objets</translation>
     </message>
     <message>
         <source>Items</source>
@@ -3127,7 +3117,7 @@
     </message>
     <message>
         <source>The objects in the selected range are displayed to the right.</source>
-        <translation>Les objets de la plage sélectionnée s'affichent sur la droite.</translation>
+        <translation>Les objets de la plage sélectionnée s&apos;affichent sur la droite.</translation>
     </message>
     <message>
         <source>Data List</source>
@@ -3139,7 +3129,7 @@
     </message>
     <message>
         <source>&lt;br&gt;[F5] Selects the next item.&lt;br&gt;[F4] Selects the previous item.</source>
-        <translation>&lt;br&gt;[F5] Sélectionne l'&apos;objet suivant.'&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
+        <translation>&lt;br&gt;[F5] Sélectionne l&apos;objet suivant.&lt;br&gt;[F4] Sélectionne l&apos;objet précédent.</translation>
     </message>
     <message>
         <source>None</source>
