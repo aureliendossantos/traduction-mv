@@ -31,7 +31,7 @@
     </message>
     <message>
         <source>Selects a kind of parts.</source>
-        <translation>Sélectionne un type d’élément.</translation>
+        <translation>Sélectionne un type d&apos;élément.</translation>
     </message>
     <message>
         <source>Randomize</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Opens the export window for face images.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les images du visage.</translation>
+        <translation>Ouvre la fenêtre d&apos;exportation pour les images du visage.</translation>
     </message>
     <message>
         <source>Walk Character</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Opens the export window for walk characters.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les personnages de marche.</translation>
+        <translation>Ouvre la fenêtre d&apos;exportation pour les personnages de marche.</translation>
     </message>
     <message>
         <source>Damage Character</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Opens the export window for damage characters.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les personnages de dégâts.</translation>
+        <translation>Ouvre la fenêtre d&apos;exportation pour les personnages de dégâts.</translation>
     </message>
     <message>
         <source>Battler</source>
@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>Opens the export window for side-view battlers.</source>
-        <translation>Ouvre la fenêtre d’exportation pour les combattants en vue de côté.</translation>
+        <translation>Ouvre la fenêtre d&apos;exportation pour les combattants en vue de côté.</translation>
     </message>
     <message>
         <source>Save Settings</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Previews the generated images.</source>
-        <translation>Affiche l’aperçu des images générées.</translation>
+        <translation>Affiche l&apos;aperçu des images générées.</translation>
     </message>
 </context>
 <context>
@@ -3160,7 +3160,6 @@
         <translation type="unfinished">Nom de l&apos;objet.</translation>
     </message>
 </context>
- <!--  Fin traduit, vérifié  -->
 <context>
     <name>Dialog_GameShare</name>
     <message>
@@ -3263,15 +3262,15 @@
     <name>Dialog_GenerateCurve</name>
     <message>
         <source>Generate Curve</source>
-        <translation>Générer Courbe</translation>
+        <translation>Générer la courbe</translation>
     </message>
     <message>
         <source>Endpoint Values</source>
-        <translation>Valeurs des Points Finaux</translation>
+        <translation>Valeurs des extrémités</translation>
     </message>
     <message>
         <source>Parameter values of the endpoints.</source>
-        <translation>Paramètre les valeurs des points finaux.</translation>
+        <translation>Règle les valeurs des extrémités.</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -3279,7 +3278,7 @@
     </message>
     <message>
         <source>Parameter value for the level 1.</source>
-        <translation>Paramètre la valeur pour le niveau 1.</translation>
+        <translation>Règle la valeur pour le niveau 1.</translation>
     </message>
     <message>
         <source>Level 99</source>
@@ -3287,15 +3286,15 @@
     </message>
     <message>
         <source>Parameter value for the level 99.</source>
-        <translation>Paramètre la valeur pour le niveau 99.</translation>
+        <translation>Règle la valeur pour le niveau 99.</translation>
     </message>
     <message>
         <source>Growth Type</source>
-        <translation>Type de Croissance</translation>
+        <translation>Type de croissance</translation>
     </message>
     <message>
         <source>Curve of the parameter graph. The closer to [Fast], the lower the value added on level up. The closer to [Slow], the higher the value added on level up.</source>
-        <translation>Courbe du graphique de paramètre. Plus [Rapide] est proche, moins la valeur ajoutée sur l&apos;augmentation de niveau est haute. Plus [Lent] est proche, plus la valeur ajoutée sur l&apos;augmentation de niveau est haute.</translation>
+        <translation>Courbe de la caractéristique. Plus la croissance est [Rapide], plus la valeur ajoutée à chaque niveau suivant est petite. Plus la croissance est [Lente], plus la valeur ajoutée à chaque niveau suivant est grande.</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -3303,18 +3302,18 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation>Lent</translation>
+        <translation>Lente</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GenerateDungeon</name>
     <message>
         <source>Generate Dungeon</source>
-        <translation>Générer Donjon</translation>
+        <translation>Générateur de donjon</translation>
     </message>
     <message>
         <source>Type</source>
@@ -3326,7 +3325,7 @@
     </message>
     <message>
         <source>Generates a dungeon consisting of rooms and passages.</source>
-        <translation>Génère un donjon qui se compose de pièces et de passages.</translation>
+        <translation>Génère un donjon composé de pièces et de passages.</translation>
     </message>
     <message>
         <source>Maze</source>
@@ -3334,7 +3333,7 @@
     </message>
     <message>
         <source>Generates a maze-like dungeon which has no rooms.</source>
-        <translation>Génère un Donjon façon labyrinthe qui n’a pas de pièce.</translation>
+        <translation>Génère un donjon labyrinthique qui n&apos;a pas de pièce.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -3342,11 +3341,11 @@
     </message>
     <message>
         <source>Add Margins</source>
-        <translation>Ajouter Marges</translation>
+        <translation>Marges</translation>
     </message>
     <message>
         <source>Adds margins around the dungeon.</source>
-        <translation>Ajoute des marges autour du Donjon.</translation>
+        <translation>Ajoute des marges autour du donjon.</translation>
     </message>
     <message>
         <source>Wide passages</source>
@@ -3381,14 +3380,14 @@
     </message>
     <message>
         <source>Saves the image to a file.</source>
-        <translation>Enregistre l’image dans un fichier.</translation>
+        <translation>Enregistre l&apos;image dans un fichier.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_ImageSelector</name>
     <message>
         <source>Select an Image</source>
-        <translation>Sélectionner une Image</translation>
+        <translation>Sélectionner une image</translation>
     </message>
     <message>
         <source>Hue</source>
@@ -3410,11 +3409,11 @@
     <name>Dialog_MagicSkill</name>
     <message>
         <source>Magic Skill</source>
-        <translation>Compétence Magique</translation>
+        <translation>Compétence magique</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>Type de Compétence</translation>
+        <translation>Type de compétence</translation>
     </message>
     <message>
         <source>Type of the skill.</source>
@@ -3425,7 +3424,7 @@
     <name>Dialog_MapLoader</name>
     <message>
         <source>Sample Maps</source>
-        <translation>Échantillons de Cartes </translation>
+        <translation>Cartes d'exemple</translation>
     </message>
     <message>
         <source>World 1</source>
@@ -3455,32 +3454,32 @@
     <message>
         <source>Normal Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Normale</translation>
+        <translation>Ville normale</translation>
     </message>
     <message>
         <source>Forest Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Forestière</translation>
+        <translation>Ville forestière</translation>
     </message>
     <message>
         <source>Abandoned Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Abandonnée</translation>
+        <translation>Ville abandonnée</translation>
     </message>
     <message>
         <source>Snow Town</source>
         <comment>Fantasy</comment>
-        <translation>Ville Enneigée</translation>
+        <translation>Ville enneigée</translation>
     </message>
     <message>
         <source>Floating Temple</source>
         <comment>Fantasy</comment>
-        <translation>Temple Flottant</translation>
+        <translation>Temple flottant</translation>
     </message>
     <message>
         <source>Mining City</source>
         <comment>Fantasy</comment>
-        <translation>Ville Minière</translation>
+        <translation>Ville minière</translation>
     </message>
     <message>
         <source>Market</source>
@@ -3490,7 +3489,7 @@
     <message>
         <source>Fishing Village</source>
         <comment>Fantasy</comment>
-        <translation>Village de Pêche</translation>
+        <translation>Village de pêcheurs</translation>
     </message>
     <message>
         <source>Oasis</source>
@@ -3505,12 +3504,12 @@
     <message>
         <source>Mountain Village</source>
         <comment>Fantasy</comment>
-        <translation>Village Montagnard</translation>
+        <translation>Village montagnard</translation>
     </message>
     <message>
         <source>Nomad Camp</source>
         <comment>Fantasy</comment>
-        <translation>Camps de Nomades</translation>
+        <translation>Camp de nomades</translation>
     </message>
     <message>
         <source>Castle</source>
@@ -3520,12 +3519,12 @@
     <message>
         <source>Snow Castle</source>
         <comment>Fantasy</comment>
-        <translation>Château Enneigé</translation>
+        <translation>Château enneigé</translation>
     </message>
     <message>
         <source>Demon Castle</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque</translation>
+        <translation>Château démoniaque</translation>
     </message>
     <message>
         <source>Fortress</source>
@@ -3535,7 +3534,7 @@
     <message>
         <source>Snow Fortress</source>
         <comment>Fantasy</comment>
-        <translation>Forteresse Enneigée</translation>
+        <translation>Forteresse enneigée</translation>
     </message>
     <message>
         <source>Forest</source>
@@ -3555,17 +3554,17 @@
     <message>
         <source>Deserted Desert</source>
         <comment>Fantasy</comment>
-        <translation>Désert Désertique</translation>
+        <translation>Désert désertique</translation>
     </message>
     <message>
         <source>Forest of Decay</source>
         <comment>Fantasy</comment>
-        <translation>Forêt de Décrépitude</translation>
+        <translation>Forêt décrépie</translation>
     </message>
     <message>
         <source>Lost Forest</source>
         <comment>Fantasy</comment>
-        <translation>Forêt Perdue</translation>
+        <translation>Forêt perdue</translation>
     </message>
     <message>
         <source>Swamp</source>
@@ -3580,7 +3579,7 @@
     <message>
         <source>Waterfall Forest</source>
         <comment>Fantasy</comment>
-        <translation>Forêt de la Chute d&apos;Eau</translation>
+        <translation>Chute d&apos;eau</translation>
     </message>
     <message>
         <source>House 1</source>
@@ -3600,92 +3599,92 @@
     <message>
         <source>Village House 1F</source>
         <comment>Fantasy</comment>
-        <translation>Maison de Village 1F</translation>
+        <translation>Maison de village RDC</translation>
     </message>
     <message>
         <source>Village House 2F</source>
         <comment>Fantasy</comment>
-        <translation>Maison de Village 2F</translation>
+        <translation>Maison de village Étage</translation>
     </message>
     <message>
         <source>Abandoned House</source>
         <comment>Fantasy</comment>
-        <translation>Maison Abandonnée</translation>
+        <translation>Maison abandonnée</translation>
     </message>
     <message>
         <source>Weapon Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d&apos;Armes</translation>
+        <translation>Magasin d&apos;armes</translation>
     </message>
     <message>
         <source>Armor Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d’Armures</translation>
+        <translation>Magasin d&apos;armures</translation>
     </message>
     <message>
         <source>Item Shop</source>
         <comment>Fantasy</comment>
-        <translation>Magasin d&apos;Objets</translation>
+        <translation>Magasin d&apos;objets</translation>
     </message>
     <message>
         <source>Inn 1F</source>
         <comment>Fantasy</comment>
-        <translation>Auberge 1F</translation>
+        <translation>Auberge RDC</translation>
     </message>
     <message>
         <source>Inn 2F</source>
         <comment>Fantasy</comment>
-        <translation>Auberge 2F</translation>
+        <translation>Auberge Étage</translation>
     </message>
     <message>
         <source>Castle 1F</source>
         <comment>Fantasy</comment>
-        <translation>Château 1F</translation>
+        <translation>Château RDC</translation>
     </message>
     <message>
         <source>Castle 2F</source>
         <comment>Fantasy</comment>
-        <translation>Château 2F</translation>
+        <translation>Château Étage</translation>
     </message>
     <message>
         <source>Castle 3F</source>
         <comment>Fantasy</comment>
-        <translation>Château 3F</translation>
+        <translation>Château Étage 2</translation>
     </message>
     <message>
         <source>Demon Castle 1F</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 1F</translation>
+        <translation>Château démoniaque RDC</translation>
     </message>
     <message>
         <source>Demon Castle 2</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 2</translation>
+        <translation>Château démoniaque 2</translation>
     </message>
     <message>
         <source>Demon Castle 3</source>
         <comment>Fantasy</comment>
-        <translation>Château Démoniaque 3</translation>
+        <translation>Château démoniaque 3</translation>
     </message>
     <message>
         <source>Hall of Transference</source>
         <comment>Fantasy</comment>
-        <translation>Salle de Transfert</translation>
+        <translation>Salle de transfert</translation>
     </message>
     <message>
         <source>Tower 1F</source>
         <comment>Fantasy</comment>
-        <translation>Tour 1F</translation>
+        <translation>Tour RDC</translation>
     </message>
     <message>
         <source>Stone Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Pierre</translation>
+        <translation>Caverne de pierre</translation>
     </message>
     <message>
         <source>Ice Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Glace</translation>
+        <translation>Caverne de glace</translation>
     </message>
     <message>
         <source>Cursed Cave</source>
@@ -3695,22 +3694,22 @@
     <message>
         <source>Lava Cave</source>
         <comment>Fantasy</comment>
-        <translation>Caverne de Lave</translation>
+        <translation>Caverne de lave</translation>
     </message>
     <message>
         <source>Small Town</source>
         <comment>Cyberpunk</comment>
-        <translation>Petite Ville</translation>
+        <translation>Petite ville</translation>
     </message>
     <message>
         <source>Big City</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Ville</translation>
+        <translation>Grande ville</translation>
     </message>
     <message>
         <source>Trading City</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville de Négoce</translation>
+        <translation>Ville commerçante</translation>
     </message>
     <message>
         <source>Slum</source>
@@ -3720,22 +3719,22 @@
     <message>
         <source>Underground Town</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville Souterraine</translation>
+        <translation>Ville souterraine</translation>
     </message>
     <message>
         <source>Floating City</source>
         <comment>Cyberpunk</comment>
-        <translation>Ville Flottante</translation>
+        <translation>Ville flottante</translation>
     </message>
     <message>
         <source>Shop District</source>
         <comment>Cyberpunk</comment>
-        <translation>Quartier Commerçant</translation>
+        <translation>Quartier commerçant</translation>
     </message>
     <message>
         <source>Downtown</source>
         <comment>Cyberpunk</comment>
-        <translation>Centre</translation>
+        <translation>Centre-ville</translation>
     </message>
     <message>
         <source>Factory</source>
@@ -3745,17 +3744,17 @@
     <message>
         <source>Power Plant</source>
         <comment>Cyberpunk</comment>
-        <translation>Centrale Électrique</translation>
+        <translation>Centrale électrique</translation>
     </message>
     <message>
         <source>Military Base</source>
         <comment>Cyberpunk</comment>
-        <translation>Base Militaire</translation>
+        <translation>Base militaire</translation>
     </message>
     <message>
         <source>Business District</source>
         <comment>Cyberpunk</comment>
-        <translation>Quartier d&apos;Affaires</translation>
+        <translation>Quartier des affaires</translation>
     </message>
     <message>
         <source>School</source>
@@ -3765,7 +3764,7 @@
     <message>
         <source>Transport Base</source>
         <comment>Cyberpunk</comment>
-        <translation>Base de Transport</translation>
+        <translation>Base de transport</translation>
     </message>
     <message>
         <source>Labratory Facility</source>
@@ -3780,12 +3779,12 @@
     <message>
         <source>Abandoned School</source>
         <comment>Cyberpunk</comment>
-        <translation>École Abandonnée</translation>
+        <translation>École abandonnée</translation>
     </message>
     <message>
         <source>Past Battlefield</source>
         <comment>Cyberpunk</comment>
-        <translation>Ancien Champ de Bataille</translation>
+        <translation>Ancien champ de bataille</translation>
     </message>
     <message>
         <source>Market</source>
@@ -3795,17 +3794,17 @@
     <message>
         <source>Ancient Ruins</source>
         <comment>Cyberpunk</comment>
-        <translation>Ruines Anciennes</translation>
+        <translation>Anciennes ruines</translation>
     </message>
     <message>
         <source>Transport Route</source>
         <comment>Cyberpunk</comment>
-        <translation>Route de Transport</translation>
+        <translation>Route de transport</translation>
     </message>
     <message>
         <source>Suburbs</source>
         <comment>Cyberpunk</comment>
-        <translation>Banlieues</translation>
+        <translation>Banlieue</translation>
     </message>
     <message>
         <source>Park</source>
@@ -3830,72 +3829,72 @@
     <message>
         <source>Big House 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Maison 1F</translation>
+        <translation>Grande maison RDC</translation>
     </message>
     <message>
         <source>Big House 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Grande Maison 2F</translation>
+        <translation>Grande maison Étage</translation>
     </message>
     <message>
         <source>Weapon Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d&apos;Armes</translation>
+        <translation>Magasin d&apos;armes</translation>
     </message>
     <message>
         <source>Armor Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d’Armures</translation>
+        <translation>Magasin d&apos;armures</translation>
     </message>
     <message>
         <source>Item Shop</source>
         <comment>Cyberpunk</comment>
-        <translation>Magasin d&apos;Objets</translation>
+        <translation>Magasin d&apos;objets</translation>
     </message>
     <message>
         <source>Hotel 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Hôtel 1F</translation>
+        <translation>Hôtel RDC</translation>
     </message>
     <message>
         <source>Hotel 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Hôtel 2F</translation>
+        <translation>Hôtel Étage</translation>
     </message>
     <message>
         <source>Office 1F</source>
         <comment>Cyberpunk</comment>
-        <translation>Bureau 1F</translation>
+        <translation>Bureau RDC</translation>
     </message>
     <message>
         <source>Office 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Bureau 2F</translation>
+        <translation>Bureau Étage</translation>
     </message>
     <message>
         <source>School Hall</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle d&apos;École</translation>
+        <translation>Hall de l'école</translation>
     </message>
     <message>
         <source>School Classroom</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle de Classe</translation>
+        <translation>Salle de classe</translation>
     </message>
     <message>
         <source>Run-down House</source>
         <comment>Cyberpunk</comment>
-        <translation>Maison Délabrée</translation>
+        <translation>Maison délabrée</translation>
     </message>
     <message>
         <source>Sewer</source>
         <comment>Cyberpunk</comment>
-        <translation>Égout</translation>
+        <translation>Égouts</translation>
     </message>
     <message>
         <source>Computer Room</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle Informatique</translation>
+        <translation>Salle des ordinateurs</translation>
     </message>
     <message>
         <source>Garage</source>
@@ -3905,22 +3904,22 @@
     <message>
         <source>Lab Room</source>
         <comment>Cyberpunk</comment>
-        <translation>Salle Laboratoire</translation>
+        <translation>Laboratoire</translation>
     </message>
     <message>
         <source>Space Station</source>
         <comment>Cyberpunk</comment>
-        <translation>Station Spatiale</translation>
+        <translation>Station spatiale</translation>
     </message>
     <message>
         <source>Base Interior</source>
         <comment>Cyberpunk</comment>
-        <translation>Intérieur de Base</translation>
+        <translation>Cœur de la base</translation>
     </message>
     <message>
         <source>Sewer Cave</source>
         <comment>Cyberpunk</comment>
-        <translation>Cave Égout</translation>
+        <translation>Grotte des égouts</translation>
     </message>
     <message>
         <source>Casino</source>
@@ -3932,11 +3931,11 @@
     <name>Dialog_MapProperties</name>
     <message>
         <source>Map Properties</source>
-        <translation>Propriétés de la Carte</translation>
+        <translation>Propriétés de la carte</translation>
     </message>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>Paramètres généraux</translation>
     </message>
     <message>
         <source>Basic map settings.</source>
@@ -3952,11 +3951,11 @@
     </message>
     <message>
         <source>Display Name</source>
-        <translation>Afficher Nom</translation>
+        <translation>Nom affiché en jeu</translation>
     </message>
     <message>
         <source>Name displayed on the upper left part of the screen when moving to the map. Not displayed if left blank.</source>
-        <translation>Nom affiché sur la partie supérieure gauche de l&apos;écran lorsque vous vous déplacez sur la carte. Ne s&apos;affiche pas si ce champ est laissé vide.</translation>
+        <translation>Nom affiché sur la partie supérieure gauche de l&apos;écran en arrivant sur la carte. Ne s&apos;affiche pas si ce champ est laissé vide.</translation>
     </message>
     <message>
         <source>Tileset</source>
@@ -3984,15 +3983,15 @@
     </message>
     <message>
         <source>Scroll Type</source>
-        <translation>Type de Rouleau</translation>
+        <translation>Type de boucle</translation>
     </message>
     <message>
         <source>Whether to wrap around from one side to the other.</source>
-        <translation>S&apos;il faut enrouler d&apos;un côté à l&apos;autre.</translation>
+        <translation>S&apos;il faut qu&apos;une extrêmité de la carte mène à l&apos;autre.</translation>
     </message>
     <message>
         <source>No Loop</source>
-        <translation>Pas de Boucle</translation>
+        <translation>Pas de boucle</translation>
     </message>
     <message>
         <source>Loop Vertically</source>
@@ -4004,76 +4003,76 @@
     </message>
     <message>
         <source>Loop Both</source>
-        <translation>Boucle Les Deux</translation>
+        <translation>Les deux</translation>
     </message>
     <message>
         <source>Enc. Steps</source>
         <comment>Encounter Steps</comment>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Pas Renc.</translation>
+        <translation>Fréq. Combats</translation>
     </message>
     <message>
         <source>Average number of steps between random encounters.</source>
-        <translation>Nombre moyen de pas entre les rencontres aléatoires.</translation>
+        <translation>Nombre moyen de pas pour déclencer une rencontre aléatoire.</translation>
     </message>
     <message>
         <source>Autoplay BGM</source>
-        <translation>Lecture automatique BGM</translation>
+        <translation>BGM (Musique)</translation>
     </message>
     <message>
         <source>Makes the BGM change automatically when moving to the map.</source>
-        <translation>Fait changer automatiquement le BGM lors du déplacement sur la carte.</translation>
+        <translation>Change automatiquement le BGM en arrivant sur la carte.</translation>
     </message>
     <message>
-        <source>Autoplay BGS</source>
+        <source>BGS (Ambiance sonore)</source>
         <translation>Lecture automatique BGS</translation>
     </message>
     <message>
         <source>Makes the BGS change automatically when moving to the map.</source>
-        <translation>Fait changer automatiquement le BGS lors du déplacement sur la carte.</translation>
+        <translation>Change automatiquement le BGS en arrivant sur la carte.</translation>
     </message>
     <message>
         <source>Specify Battleback</source>
-        <translation>Spécifier Lutte</translation>
+        <translation>Arrière-plan de combat</translation>
     </message>
     <message>
         <source>Displays the specified background when a battle occurs on this map. When not specified, a background conforming to the terrain is automatically selected for world maps, and for other maps, a processed image of the map screen will be used as a background.</source>
-        <translation>Affiche l&apos;arrière-plan spécifié lorsqu&apos;un combat se produit sur cette carte. Lorsqu&apos;il n&apos;est pas spécifié, un arrière-plan conforme au terrain est automatiquement sélectionné pour les cartes du monde, et pour les autres cartes, une image traitée de l&apos;écran de carte sera utilisée comme arrière-plan.</translation>
+        <translation>Affiche l&apos;arrière-plan spécifié lorsqu&apos;un combat se produit sur cette carte. Lorsqu&apos;il n&apos;est pas spécifié, un arrière-plan conforme au terrain est automatiquement sélectionné pour les cartes du monde, et pour les autres cartes, une image modifiée de la carte sera utilisée comme arrière-plan.</translation>
     </message>
     <message>
         <source>Disable Dashing</source>
-        <translation>Désactiver la Course</translation>
+        <translation>Désactiver la course</translation>
     </message>
     <message>
         <source>Makes it impossible to perform a dash on the map.</source>
-        <translation>Rend impossible de courir sur la carte.</translation>
+        <translation>Rend impossible de courir avec Shift sur la carte.</translation>
     </message>
     <message>
         <source>Parallax Background</source>
-        <translation>Arrière-plan Parallaxe</translation>
+        <translation>Panorama défilant</translation>
     </message>
     <message>
         <source>Distant view image displayed in the transparent area of the map.</source>
-        <translation>Vue d&apos;image distante affichée dans la zone transparente de la carte.</translation>
+        <translation>Image de fond affichée dans les zone transparentes de la carte.</translation>
     </message>
     <message>
         <source>Show in the Editor</source>
-        <translation>Afficher dans l&apos;Éditeur</translation>
+        <translation>Afficher dans l&apos;éditeur</translation>
     </message>
     <message>
         <source>Displays the parallax background in the map editor. This may appear differently than in the actual game.</source>
-        <translation>Affiche l&apos;arrière-plan parallaxe dans l&apos;éditeur de carte. Cela peut apparaître différemment que dans le jeu réel.</translation>
+        <translation>Affiche le panorama d&apos;arrière-plan dans l&apos;éditeur de carte. Cela peut apparaître différemment que dans le vrai jeu.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_MapSaveAsImage</name>
     <message>
         <source>Save as Image</source>
-        <translation>Sauvegarder comme Image</translation>
+        <translation>Exporter une image</translation>
     </message>
     <message>
         <source>Output Location</source>
-        <translation>Emplacement de Sortie</translation>
+        <translation>Emplacement de sortie</translation>
     </message>
     <message>
         <source>Location to save the map image.</source>
@@ -4085,11 +4084,11 @@
     </message>
     <message>
         <source>Chooses the location.</source>
-        <translation>Choisi l&apos;emplacement.</translation>
+        <translation>Choisit l&apos;emplacement.</translation>
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>Choix du dossier/translation>
     </message>
     <message>
         <source>Location is empty.</source>
@@ -4097,7 +4096,7 @@
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation>Le nom du chemin d&apos;accès est trop long.</translation>
+        <translation>Le nom du chemin est trop long.</translation>
     </message>
 </context>
 <context>
@@ -4108,7 +4107,7 @@
     </message>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <source>Distance to shift.</source>
@@ -4147,7 +4146,7 @@
     </message>
     <message>
         <source>Sets the specified item as merchandise.</source>
-        <translation>Établi l&apos;objet spécifié comme marchandise.</translation>
+        <translation>Définit l&apos;objet spécifié comme marchandise.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -4155,7 +4154,7 @@
     </message>
     <message>
         <source>Sets the specified weapon as merchandise.</source>
-        <translation>Établi l&apos;arme spécifiée comme marchandise.</translation>
+        <translation>Définit l&apos;arme spécifiée comme marchandise.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -4163,7 +4162,7 @@
     </message>
     <message>
         <source>Sets the specified armor as merchandise.</source>
-        <translation>Établi l&apos;armure spécifiée comme marchandise.</translation>
+        <translation>Définit l&apos;armure spécifiée comme marchandise.</translation>
     </message>
     <message>
         <source>Price</source>
@@ -4179,7 +4178,7 @@
     </message>
     <message>
         <source>Uses the price in the database.</source>
-        <translation>Utilise le prix dans la base de données.</translation>
+        <translation>Utilise le prix de la base de données.</translation>
     </message>
     <message>
         <source>Specify</source>
@@ -4187,7 +4186,7 @@
     </message>
     <message>
         <source>Uses the specific price.</source>
-        <translation>Utilise le prix spécifique.</translation>
+        <translation>Utilise un prix personnalisé.</translation>
     </message>
 </context>
 <context>
@@ -4201,7 +4200,7 @@
     <name>Dialog_MovementRoute</name>
     <message>
         <source>Movement Route</source>
-        <translation>Trajectoire de Mouvement</translation>
+        <translation>Trajectoire</translation>
     </message>
 </context>
 <context>
@@ -4220,7 +4219,7 @@
     </message>
     <message>
         <source>Game Title</source>
-        <translation>Titre du Jeu</translation>
+        <translation>Titre du jeu</translation>
     </message>
     <message>
         <source>Title of the game.</source>
@@ -4244,7 +4243,7 @@
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choisir le Répertoire</translation>
+        <translation>Choix du dossier</translation>
     </message>
     <message>
         <source>Name is empty.</source>
@@ -4256,7 +4255,7 @@
     </message>
     <message>
         <source>Path name is too long.</source>
-        <translation>Le nom du chemin d&apos;accès est trop long.</translation>
+        <translation>Le nom du chemin est trop long.</translation>
     </message>
     <message>
         <source>The project already exists.</source>
@@ -4289,15 +4288,15 @@
     <name>Dialog_ParameterCurves</name>
     <message>
         <source>Parameter Curves</source>
-        <translation>Courbes de Paramètres </translation>
+        <translation>Courbes des caractéristiques</translation>
     </message>
     <message>
         <source>Quick Setting</source>
-        <translation>Réglage Rapide</translation>
+        <translation>Réglage rapide</translation>
     </message>
     <message>
         <source>Press buttons to set parameter values randomly within a predefined range.</source>
-        <translation>Appuyer sur les touches pour régler les valeurs des paramètres aléatoirement à l&apos;intérieur d&apos;une plage prédéfinie.</translation>
+        <translation>Appuyer sur les touches pour régler la courbe aléatoirement à l&apos;intérieur d&apos;une plage prédéfinie.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -4305,7 +4304,7 @@
     </message>
     <message>
         <source>Specifies a level for manual parameter changing.</source>
-        <translation>Spécifie un niveau pour le changement de paramètre manuel.</translation>
+        <translation>Spécifie un niveau pour le changement de caractéristique manuel.</translation>
     </message>
     <message>
         <source>Value</source>
@@ -4313,11 +4312,11 @@
     </message>
     <message>
         <source>Changes the parameter value for the specified level.</source>
-        <translation>Change la valeur du paramètre pour le niveau spécifié.</translation>
+        <translation>Change la valeur de la caractéristique pour le niveau spécifié.</translation>
     </message>
     <message>
         <source>Generate Curve</source>
-        <translation>Générer Courbe</translation>
+        <translation>Générer la courbe</translation>
     </message>
     <message>
         <source>Specifies values for level 1 and 99 and the remaining values will be filled in automatically.</source>
@@ -4325,11 +4324,11 @@
     </message>
     <message>
         <source>Parameter graph</source>
-        <translation>Graphique de Paramètre</translation>
+        <translation>Courbe de la caractéristique</translation>
     </message>
     <message>
         <source>The X axis is the level number, and the Y axis shows the parameter value at each level. Click to get the parameter value.</source>
-        <translation>L&apos;axe X est le numéro de niveau, et l&apos;axe Y montre la valeur de paramètre à chaque niveau. Cliquer pour obtenir la valeur du paramètre.</translation>
+        <translation>L&apos;axe X est le niveau, et l&apos;axe Y montre la valeur de la caractéristique à chaque niveau. Cliquez pour obtenir la valeur du paramètre.</translation>
     </message>
 </context>
 <context>
@@ -4343,7 +4342,7 @@
     <name>Dialog_PluginHelpEverywhere</name>
     <message>
         <source>Plugin Help</source>
-        <translation>Aide du Module</translation>
+        <translation>Aide du plugin</translation>
     </message>
     <message>
         <source>ON</source>
@@ -4358,11 +4357,11 @@
     <name>Dialog_PluginManager</name>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestionnaire de Modules</translation>
+        <translation>Gestionnaire des plugins</translation>
     </message>
     <message>
         <source>Plugin List</source>
-        <translation>Liste de Modules</translation>
+        <translation>Liste des plugins</translation>
     </message>
     <message>
         <source>Components that extend the standard game system.</source>
@@ -4398,7 +4397,7 @@
     </message>
     <message>
         <source>Discard changes to the plugins?</source>
-        <translation>Annuler les modifications des modules?</translation>
+        <translation>Annuler la modification des plugins ?</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -4406,11 +4405,11 @@
     </message>
     <message>
         <source>Name of the plugin.</source>
-        <translation type="unfinished">Nom du plug-in.</translation>
+        <translation type="unfinished">Nom du plugin.</translation>
     </message>
     <message>
         <source>Description of the plugin.</source>
-        <translation type="unfinished">Description du module.</translation>
+        <translation type="unfinished">Description du plugin.</translation>
     </message>
 </context>
 <context>
@@ -4513,7 +4512,7 @@
     </message>
     <message>
         <source>Common Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Év. Commun</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -4529,22 +4528,22 @@
 Please try to clear or reset the value.</source>
         <translation type="unfinished">Le mode visuel n&apos;est pas disponible car la valeur actuelle n&apos;est pas conforme.
 
-Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
+Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_PluginSettings</name>
     <message>
         <source>Plugin</source>
-        <translation>Module</translation>
+        <translation>Plugin</translation>
     </message>
     <message>
         <source>General Settings</source>
-        <translation>Paramètres Généraux</translation>
+        <translation>Paramètres généraux</translation>
     </message>
     <message>
         <source>Basic plugin settings.</source>
-        <translation>Réglages basiques module .</translation>
+        <translation>Réglages basiques du plugin.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -4552,7 +4551,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Name of the plugin script.</source>
-        <translation>Nom du script du module.</translation>
+        <translation>Nom du plugin.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -4560,7 +4559,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>ON/OFF status of the plugin.</source>
-        <translation>ON/OFF état du module.</translation>
+        <translation>Activation du plugin.</translation>
     </message>
     <message>
         <source>ON</source>
@@ -4576,7 +4575,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Displays the help text of the plugin.</source>
-        <translation type="vanished">Affiche le texte d&apos;aide du module.</translation>
+        <translation type="vanished">Affiche le texte d&apos;aide du plugin.</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4584,7 +4583,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Description of the plugin.</source>
-        <translation>Description du module.</translation>
+        <translation>Description du plugin.</translation>
     </message>
     <message>
         <source>Author</source>
@@ -4592,7 +4591,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Author of the plugin.</source>
-        <translation>Auteur du module.</translation>
+        <translation>Auteur du plugin.</translation>
     </message>
     <message>
         <source>Parameters</source>
@@ -4600,7 +4599,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Parameters to be passed to the plugin.</source>
-        <translation>Paramètres à passer dans le module.</translation>
+        <translation>Paramètres à passer dans le plugin.</translation>
     </message>
     <message>
         <source>Value</source>
@@ -4608,7 +4607,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Displays the help text of the plugin</source>
-        <translation type="unfinished">Affiche le texte d&apos;aide du plug-in.</translation>
+        <translation type="unfinished">Affiche le texte d&apos;aide du plugin.</translation>
     </message>
 </context>
 <context>
@@ -4634,7 +4633,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>%1\G for one night. Would you like to stay?</source>
-        <translation>%1\G pour une nuit. Souhaitez-vous rester?</translation>
+        <translation>%1\G pour une nuit. Souhaitez-vous rester ?</translation>
     </message>
     <message>
         <source>You don&apos;t have enough money.</source>
@@ -4654,14 +4653,14 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>The amount of money required to stay at the inn.</source>
-        <translation>Le montant d&apos;argent nécessaire pour rester à l&apos;auberge.</translation>
+        <translation>Le montant nécessaire pour rester à l&apos;auberge.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_QuickTransfer</name>
     <message>
         <source>Transfer</source>
-        <translation>Transfert</translation>
+        <translation>Téléportation</translation>
     </message>
     <message>
         <source>Location</source>
@@ -4677,7 +4676,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Direction du personnage après déplacement.</translation>
+        <translation>Direction du regard du personnage à l'arrivée.</translation>
     </message>
 </context>
 <context>
@@ -4688,11 +4687,11 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>%1\G were found!</source>
-        <translation>%1\G ont été trouvé(e)s!</translation>
+        <translation>%1\G ont été trouvés !</translation>
     </message>
     <message>
         <source>%1 was found!</source>
-        <translation>%1 a été trouvé(e)!</translation>
+        <translation>%1 a été trouvé !</translation>
     </message>
     <message>
         <source>Content</source>
@@ -4716,7 +4715,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Sets the specified item as the treasure.</source>
-        <translation>Établi l&apos;objet spécifié comme trésor.</translation>
+        <translation>Définit l&apos;objet spécifié comme trésor.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -4724,7 +4723,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Sets the specified weapon as the treasure.</source>
-        <translation>Établi l&apos;arme spécifiée comme trésor.</translation>
+        <translation>Définit l&apos;arme spécifiée comme trésor.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -4732,7 +4731,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Sets the specified armor as the treasure.</source>
-        <translation>Établi l&apos;armure spécifiée comme trésor.</translation>
+        <translation>Définit l&apos;armure spécifiée comme trésor.</translation>
     </message>
 </context>
 <context>
@@ -4778,7 +4777,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>File to export to</source>
-        <translation>Fichier à exporter vers</translation>
+        <translation>Fichier à exporter</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -4811,7 +4810,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Opens the DLC folder, for steam installations.</source>
-        <translation>Ouvre le dossier de contenu téléchargeable (DLC) pour les installations Steam.</translation>
+        <translation>Ouvre le dossier des contenus téléchargeables (DLC) pour les installations Steam.</translation>
     </message>
 </context>
 <context>
@@ -4825,11 +4824,11 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_SkillsToLearn</name>
     <message>
         <source>Skills to Learn</source>
-        <translation>Compétences à Apprendre</translation>
+        <translation>Compétences à apprendre</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>Compétences maîtrisées à l&apos;augmentation de niveau par les acteurs dans cette classe.</translation>
+        <translation>Compétences maîtrisées lors de l&apos;augmentation de niveau par les héros dans cette classe.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -4842,7 +4841,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Skill to learn.</source>
@@ -4853,22 +4852,22 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_SoundTest</name>
     <message>
         <source>Sound Test</source>
-        <translation>Test de Son</translation>
+        <translation>Test de son</translation>
     </message>
 </context>
 <context>
     <name>Dialog_StartingParty</name>
     <message>
         <source>Starting Party</source>
-        <translation>Groupe de Départ</translation>
+        <translation>Groupe de départ</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor in the starting party.</source>
-        <translation>Acteur dans le groupe de départ.</translation>
+        <translation>Héros dans le groupe de départ.</translation>
     </message>
 </context>
 <context>
@@ -4893,7 +4892,7 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_Traits</name>
     <message>
         <source>Traits</source>
-        <translation>Traits</translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -4901,49 +4900,50 @@ Veuillez tenter d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Element Rate</source>
-        <translation>Taux d&apos;Éléments</translation>
+        <translation>Vulnérabilité</translation>
     </message>
     <message>
         <source>Changes the damage multiplier according to the specified element. The higher the value, the greater the weakness against the element.</source>
-        <translation>Change le multiplicateur de dégâts selon l&apos;élément spécifié. Plus la valeur est élevée, plus la faiblesse contre l&apos;élément est importante.</translation>
+        <translation>Change le multiplicateur de dégâts de l&apos;élément spécifié. Plus la valeur est élevée, plus la faiblesse à cet élément est importante.</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
-        <translation>Taux de Debuff</translation>
+        <translation>Chances de debuff</translation>
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in debuffing a parameter.</source>
-        <translation>Change la probabilité à laquelle l&apos;utilisation d&apos;une compétence ou d&apos;un objet réussira à altérer l&apos;état d&apos;un paramètre.</translation>
+        <translation>Change la probabilité pour une compétence ou un objet de réussir à altérer l&apos;état d&apos;un paramètre.</translation>
     </message>
     <message>
         <source>State Rate</source>
-        <translation>Taux d&apos;État</translation>
+        <translation>Chances d&apos;infliger</translation>
     </message>
     <message>
         <source>Changes the probability at which the use of a skill or item will succeed in applying a state.</source>
-        <translation>Change la probabilité à laquelle l&apos;utilisation d&apos;une compétence ou d&apos;un objet réussira à appliquer un état.</translation>
+        <translation>Change la probabilité pour une compétence ou un objet de réussir à appliquer un état.</translation>
     </message>
     <message>
         <source>State Resist</source>
-        <translation>Résistance d&apos;État</translation>
+        <translation>Immunité</translation>
     </message>
     <message>
         <source>Completely negates a state. If knockouts are negated, characters will not be knocked out even when their HP falls to 0.</source>
-        <translation>Annule complètement un état. Si les coups qui assomment sont annulés, les personnages ne seront plus assommés même si leur HP tombe à 0.</translation>
+        <translation>Annule complètement un état. Si l&apos;état KO est annulé, le personnage sera immortel même si ses PV tombe à 0.</translation>
     </message>
     <message>
         <source>Param</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Param.</translation>
+        <translation>Carac.</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>Caractéristique</translation>
     </message>
     <message>
         <source>Rate of change for the specified parameter.</source>
-        <translation>Taux de changement du paramètre spécifié.</translation>
+        <translation>Taux de changement de la caractéristique spécifiée.</translation>
     </message>
+<!-- Fin traduction --><    
     <message>
         <source>Ex-Parameter</source>
         <translation>Ex-Paramètre</translation>
