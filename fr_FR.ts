@@ -7159,7 +7159,6 @@ Please lower the file size of this project.</source>
         <translation>Attend la fin de l&apos;effet avant d&apos;exécuter les commandes suivantes.</translation>
     </message>
 </context>
-<!-- Fin traduction -->
 <context>
     <name>EventCommand213</name>
     <message>
@@ -8193,110 +8192,110 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évènement commun...</translation>
+        <translation>Évènement commun</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Placer une étiquette...</translation>
+        <translation>Placer une étiquette</translation>
     </message>
     <message>
         <source>Jump to Label</source>
-        <translation>Aller à l&apos;étiquette...</translation>
+        <translation>Aller à l&apos;étiquette</translation>
     </message>
     <message>
         <source>Control Switches</source>
-        <translation>Modifier un interrupteur...</translation>
+        <translation>Modifier un interrupteur</translation>
     </message>
     <message>
         <source>Control Variables</source>
-        <translation>Modifier une variable...</translation>
+        <translation>Modifier une variable</translation>
     </message>
     <message>
         <source>Control Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Modifier un interrupteur local...</translation>
+        <translation>Modifier un interrupteur local</translation>
     </message>
     <message>
         <source>Control Timer</source>
-        <translation>Modifier le chronomètre...</translation>
+        <translation>Modifier le chronomètre</translation>
     </message>
     <message>
         <source>Change Gold</source>
-        <translation>Modifier l'argent...</translation>
+        <translation>Modifier l'argent</translation>
     </message>
     <message>
         <source>Change Items</source>
-        <translation>Modifier les objets...</translation>
+        <translation>Modifier les objets</translation>
     </message>
     <message>
         <source>Change Weapons</source>
-        <translation>Modifier les armes...</translation>
+        <translation>Modifier les armes</translation>
     </message>
     <message>
         <source>Change Armors</source>
-        <translation>Modifier les armures...</translation>
+        <translation>Modifier les armures</translation>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Modifier l'équipe...e</translation>
+        <translation>Modifier l'équipee</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
-        <translation>Modifier la BGM des combats...</translation>
+        <translation>Modifier la BGM des combats</translation>
     </message>
     <message>
         <source>Change Victory ME</source>
-        <translation>Modifier le ME de victoire...</translation>
+        <translation>Modifier le ME de victoire</translation>
     </message>
     <message>
         <source>Change Save Access</source>
-        <translation>Accès aux sauvegardes...</translation>
+        <translation>Accès aux sauvegardes</translation>
     </message>
     <message>
         <source>Change Menu Access</source>
-        <translation>Accès au Menu...</translation>
+        <translation>Accès au Menu</translation>
     </message>
     <message>
         <source>Change Encounter</source>
-        <translation>Combats aléatoires...</translation>
+        <translation>Combats aléatoires</translation>
     </message>
     <message>
         <source>Change Formation Access</source>
-        <translation>Formation de l&apos;équipe...</translation>
+        <translation>Formation de l&apos;équipe</translation>
     </message>
     <message>
         <source>Change Window Color</source>
-        <translation>Apparence des fenêtres...</translation>
+        <translation>Apparence des fenêtres</translation>
     </message>
     <message>
         <source>Change Defeat ME</source>
-        <translation>Modifier le ME de défaite...</translation>
+        <translation>Modifier le ME de défaite</translation>
     </message>
     <message>
         <source>Change Vehicle BGM</source>
-        <translation>Modifier la BGM des véhicules...</translation>
+        <translation>Modifier la BGM des véhicules</translation>
     </message>
     <message>
         <source>Transfer Player</source>
-        <translation>Téléportation...r</translation>
+        <translation>Téléportationr</translation>
     </message>
     <message>
         <source>Set Vehicle Location</source>
-        <translation>Placer un véhicule...</translation>
+        <translation>Placer un véhicule</translation>
     </message>
     <message>
         <source>Set Event Location</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Placer un évènement...</translation>
+        <translation>Placer un évènement</translation>
     </message>
     <message>
         <source>Scroll Map</source>
-        <translation>Faire défiler la carte...</translation>
+        <translation>Faire défiler la carte</translation>
     </message>
     <message>
         <source>Set Movement Route</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Déplacer un évènement...</translation>
+        <translation>Déplacer un évènement</translation>
     </message>
     <message>
         <source>Get on/off Vehicle</source>
@@ -8304,11 +8303,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Transparency</source>
-        <translation>Invisibilité du héros...</translation>
+        <translation>Invisibilité du héros</translation>
     </message>
     <message>
         <source>Change Player Followers</source>
-        <translation>Activer/désactiver la chenille...</translation>
+        <translation>Activer/désactiver la chenille</translation>
     </message>
     <message>
         <source>Gather Followers</source>
@@ -8316,11 +8315,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Animation</source>
-        <translation>Afficher une animation...</translation>
+        <translation>Afficher une animation</translation>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>Afficher une bulle d'émotion...</translation>
+        <translation>Afficher une bulle d'émotion</translation>
     </message>
     <message>
         <source>Erase Event</source>
@@ -8336,55 +8335,55 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Tint Screen</source>
-        <translation>Modifier la teinte de l&apos;écran...</translation>
+        <translation>Modifier la teinte de l&apos;écran</translation>
     </message>
     <message>
         <source>Flash Screen</source>
-        <translation>Flasher l&apos;écran...</translation>
+        <translation>Flasher l&apos;écran</translation>
     </message>
     <message>
         <source>Shake Screen</source>
-        <translation>Secouer l&apos;écran...</translation>
+        <translation>Secouer l&apos;écran</translation>
     </message>
     <message>
         <source>Wait</source>
-        <translation>Attendre...</translation>
+        <translation>Attendre</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Afficher une image...</translation>
+        <translation>Afficher une image</translation>
     </message>
     <message>
         <source>Move Picture</source>
-        <translation>Déplacer une image...</translation>
+        <translation>Déplacer une image</translation>
     </message>
     <message>
         <source>Rotate Picture</source>
-        <translation>Faire tourner une image...</translation>
+        <translation>Faire tourner une image</translation>
     </message>
     <message>
         <source>Tint Picture</source>
-        <translation>Modifier la teinte d'une image...</translation>
+        <translation>Modifier la teinte d'une image</translation>
     </message>
     <message>
         <source>Erase Picture</source>
-        <translation>Effacer une image...</translation>
+        <translation>Effacer une image</translation>
     </message>
     <message>
         <source>Set Weather Effect</source>
-        <translation>Effets météorologiques...</translation>
+        <translation>Effets météorologiques</translation>
     </message>
     <message>
         <source>Play BGM</source>
-        <translation>Jouer une musique (BGM)...</translation>
+        <translation>Jouer une musique (BGM)</translation>
     </message>
     <message>
         <source>Fadeout BGM</source>
-        <translation>Arrêt en fondu de la BGM...</translation>
+        <translation>Arrêt en fondu de la BGM</translation>
     </message>
     <message>
         <source>Save BGM</source>
-        <translation>Mémoriser la musique (BGM)...</translation>
+        <translation>Mémoriser la musique (BGM)</translation>
     </message>
     <message>
         <source>Replay BGM</source>
@@ -8392,51 +8391,51 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Play BGS</source>
-        <translation>Jouer un fond sonore (BGS)...</translation>
+        <translation>Jouer un fond sonore (BGS)</translation>
     </message>
     <message>
         <source>Fadeout BGS</source>
-        <translation>Arrêt en fondu du BGS...</translation>
+        <translation>Arrêt en fondu du BGS</translation>
     </message>
     <message>
         <source>Play ME</source>
-        <translation>Jouer un effet musical (ME)...</translation>
+        <translation>Jouer un effet musical (ME)</translation>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Jouer un effet sonore (SE)...</translation>
+        <translation>Jouer un effet sonore (SE)</translation>
     </message>
     <message>
         <source>Stop SE</source>
-        <translation>Arrêter l'effet sonore (SE)...</translation>
+        <translation>Arrêter l'effet sonore (SE)</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation>Jouer une vidéo...</translation>
+        <translation>Jouer une vidéo</translation>
     </message>
     <message>
         <source>Change Map Name Display</source>
-        <translation>Affichage du nom de la carte...</translation>
+        <translation>Affichage du nom de la carte</translation>
     </message>
     <message>
         <source>Change Tileset</source>
-        <translation>Changer le tileset...</translation>
+        <translation>Changer le tileset</translation>
     </message>
     <message>
         <source>Change Battle Back</source>
-        <translation>Changer de fond de combat...</translation>
+        <translation>Changer de fond de combat</translation>
     </message>
     <message>
         <source>Change Parallax</source>
-        <translation>Changer de panorama...</translation>
+        <translation>Changer de panorama</translation>
     </message>
     <message>
         <source>Get Location Info</source>
-        <translation>Récupérer les informations...</translation>
+        <translation>Récupérer les informations</translation>
     </message>
     <message>
         <source>Battle Processing</source>
-        <translation>Démarrer un combat...</translation>
+        <translation>Démarrer un combat</translation>
     </message>
     <message>
         <source>If Win</source>
@@ -8452,131 +8451,131 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Shop Processing</source>
-        <translation>Ouvrir un magasin...</translation>
+        <translation>Ouvrir un magasin</translation>
     </message>
     <message>
         <source>Name Input Processing</source>
-        <translation>Entrer un nom...</translation>
+        <translation>Entrer un nom</translation>
     </message>
     <message>
         <source>Change HP</source>
-        <translation>Modifier les PV...</translation>
+        <translation>Modifier les PV</translation>
     </message>
     <message>
         <source>Change MP</source>
-        <translation>Modifier les PM...</translation>
+        <translation>Modifier les PM</translation>
     </message>
     <message>
         <source>Change TP</source>
-        <translation>Modifier les PT...</translation>
+        <translation>Modifier les PT</translation>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Modifier les statuts...</translation>
+        <translation>Modifier les statuts</translation>
     </message>
     <message>
         <source>Recover All</source>
-        <translation>Guérir complètement...</translation>
+        <translation>Guérir complètement</translation>
     </message>
     <message>
         <source>Change EXP</source>
-        <translation>Modifier l&apos;expérience...</translation>
+        <translation>Modifier l&apos;expérience</translation>
     </message>
     <message>
         <source>Change Level</source>
-        <translation>Modifier le niveau...</translation>
+        <translation>Modifier le niveau</translation>
     </message>
     <message>
         <source>Change Parameter</source>
-        <translation>Modifier une caractéristique...</translation>
+        <translation>Modifier une caractéristique</translation>
     </message>
     <message>
         <source>Change Skill</source>
-        <translation>Modifier les compétences...</translation>
+        <translation>Modifier les compétences</translation>
     </message>
     <message>
         <source>Change Equipment</source>
-        <translation>Modifier lvéquipement...</translation>
+        <translation>Modifier lvéquipement</translation>
     </message>
     <message>
         <source>Change Name</source>
-        <translation>Modifier le nom...</translation>
+        <translation>Modifier le nom</translation>
     </message>
     <message>
         <source>Change Class</source>
-        <translation>Modifier la classe...</translation>
+        <translation>Modifier la classe</translation>
     </message>
     <message>
         <source>Change Actor Images</source>
-        <translation>Apparence d&apos;un héros...</translation>
+        <translation>Apparence d&apos;un héros</translation>
     </message>
     <message>
         <source>Change Vehicle Image</source>
-        <translation>Apparence d&apos;un véhicule...</translation>
+        <translation>Apparence d&apos;un véhicule</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation>Modifier le surnom...</translation>
+        <translation>Modifier le surnom</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation>Modifier la biographie...</translation>
+        <translation>Modifier la biographie</translation>
     </message>
     <message>
         <source>Change Enemy HP</source>
-        <translation>Modifier les PV d&apos;un ennemi...</translation>
+        <translation>Modifier les PV d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Change Enemy MP</source>
-        <translation>Modifier les PM d&apos;un ennemi...</translation>
+        <translation>Modifier les PM d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Change Enemy TP</source>
-        <translation>Modifier les PT d&apos;un ennemi...</translation>
+        <translation>Modifier les PT d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Modifier le statut d&apos;un ennemi...</translation>
+        <translation>Modifier le statut d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
-        <translation>Guérir un ennemi...</translation>
+        <translation>Guérir un ennemi</translation>
     </message>
     <message>
         <source>Enemy Appear</source>
-        <translation>Afficher un ennemi caché...</translation>
+        <translation>Afficher un ennemi caché</translation>
     </message>
     <message>
         <source>Enemy Transform</source>
-        <translation>Transformer un ennemi...</translation>
+        <translation>Transformer un ennemi</translation>
     </message>
     <message>
         <source>Show Battle Animation</source>
-        <translation>Afficher une animation...t</translation>
+        <translation>Afficher une animationt</translation>
     </message>
     <message>
         <source>Force Action</source>
-        <translation>Forcer une action...</translation>
+        <translation>Forcer une action</translation>
     </message>
     <message>
         <source>Abort Battle</source>
-        <translation>Terminer le combat...</translation>
+        <translation>Terminer le combat</translation>
     </message>
     <message>
         <source>Open Menu Screen</source>
-        <translation>Ouvrir l&apos;Écran de Menu</translation>
+        <translation>Ouvrir le menu</translation>
     </message>
     <message>
         <source>Open Save Screen</source>
-        <translation>Ouvrir l&apos;Écran de Sauvegarde</translation>
+        <translation>Ouvrir le menu de sauvegarde</translation>
     </message>
     <message>
         <source>Game Over</source>
-        <translation>Game Over</translation>
+        <translation>Game over</translation>
     </message>
     <message>
         <source>Return to Title Screen</source>
-        <translation>Retourner à l&apos;Écran Titre</translation>
+        <translation>Retourner à l&apos;écran titre</translation>
     </message>
     <message>
         <source>Script</source>
@@ -8584,7 +8583,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Plugin Command</source>
-        <translation>Commande de Module</translation>
+        <translation>Commande de module</translation>
     </message>
     <message>
         <source>Undefined Command</source>
@@ -8592,419 +8591,419 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Opens the message window and displays text.</source>
-        <translation>Ouvre la fenêtre de message et affiche le texte.</translation>
+        <translation>Ouvrir une boîte de dialogue et afficher un texte.</translation>
     </message>
     <message>
         <source>Displays a list of choices and branches handling.</source>
-        <translation>Affiche une liste de choix et la gestion des branches.</translation>
+        <translation>Afficher et gérer une liste de choix.</translation>
     </message>
     <message>
         <source>Enters a natural number and stores it in a variable.</source>
-        <translation>Entre un nombre naturel et le stocke dans une variable.</translation>
+        <translation>Demander au joueur de rentrer un nombre puis le stocker dans une variable.</translation>
     </message>
     <message>
         <source>Selects an item possessed by the party and stores its item ID in a variable.</source>
-        <translation>Sélectionne un objet possédé par le groupe et stocke son ID d&apos;objet dans une variable.</translation>
+        <translation>Sélectionner un [Objet clé] possédé par l&apos;équipe et stocker son ID dans une variable.<translation>
     </message>
     <message>
         <source>Displays text that scrolls from the bottom of the screen to the top.</source>
-        <translation>Affiche le texte qui défile du bas de l&apos;écran vers le haut.</translation>
+        <translation>Afficher un texte qui défile du bas en haut de l&apos;écran.</translation>
     </message>
     <message>
         <source>Turns a switch ON/OFF.</source>
-        <translation>Règle un interrupteur sur ON/OFF.</translation>
+        <translation>Activer ou désactiver un interrupteur.</translation>
     </message>
     <message>
         <source>Changes the numeric value stored in the variable.</source>
-        <translation>Change la valeur numérique stockée dans la variable.</translation>
+        <translation>Modifier la valeur contenue dans une variable.</translation>
     </message>
     <message>
         <source>Turns a self switch ON/OFF. Used only on the map screen.</source>
-        <translation>Règle un interrupteur automatique sur ON/OFF. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>Activer ou désactiver un interrupteur local. Ne fonctionne que pour les évènements d&apos;une carte.</translation>
     </message>
     <message>
         <source>Starts or stops the timer.</source>
-        <translation>Démarre ou arrête le chronomètre.</translation>
+        <translation>Démarrer ou arrêter le chronomètre (le décompte se fige lorsque le menu est affiché)..</translation>
     </message>
     <message>
         <source>Creates a portion to be run only when specific conditions are met.</source>
-        <translation>Créé une portion qui doit être exécutée uniquement lorsque des conditions spécifiques sont remplies.</translation>
+        <translation>Crée une portion de code qui ne s&apos;exécute que si une certaine condition est remplie.</translation>
     </message>
     <message>
         <source>Creates a portion to be run repeatedly.</source>
-        <translation>Crée une portion qui doit être exécutée de façon répétée.</translation>
+        <translation>Crée une portion de code qui s&apos;exécute en boucle.</translation>
     </message>
     <message>
         <source>Escapes the innermost loop.</source>
-        <translation>Échappe de la boucle.la plus profonde.</translation>
+        <translation>Passer à la commande d&apos;évènement située tout de suite après la boucle..</translation>
     </message>
     <message>
         <source>Ends running events.</source>
-        <translation>Met fin aux évènements en cours.</translation>
+        <translation>Arrêter l&apos;exécution de tous les évènements.</translation>
     </message>
     <message>
         <source>Calls up a common event. When the called event is complete, moves onto the next command.</source>
-        <translation>Appelle un évènement commun. Quand l&apos;évènement appelé est fini, se déplace à la commande suivante.</translation>
+        <translation>Appeller un évènement commun. Passe à la commande d&apos;évènement suivante une fois que l&apos;évènement commun est terminé.</translation>
     </message>
     <message>
         <source>Sets the label name for jump.</source>
-        <translation>Définit le nom de label pour le saut.</translation>
+        <translation>Place un marqueur dans le code sur lequel il sera possible de revenir.</translation>
     </message>
     <message>
         <source>Moves to the specified label name. Only valid within this event list.</source>
-        <translation>Se déplace au nom de label spécifié. Valide seulement cette liste d&apos;évènements.</translation>
+        <translation>Revenir à l&apos;étiquette spécifiée.</translation>
     </message>
     <message>
         <source>Sets the comments displayed in the list. Has no effect in the game.</source>
-        <translation>Définit les commentaires affichés dans la liste. N&apos;a aucun effet dans le jeu.</translation>
+        <translation>Mettre un commentaire dans le code de l&apos;évènement. Ceci n&apos;a aucun effet dans l&apos;exécution de l&apos;évènement et n&apos;est utilisé que pour vous repérer dans votre code.</translation>
     </message>
     <message>
         <source>Changes the amount of money in the party&apos;s inventory.</source>
-        <translation>Change le montant d&apos;argent dans l&apos;inventaire du groupe.</translation>
+        <translation>Ajouter ou retirer de l&apos;argent à l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the item in the party&apos;s inventory.</source>
-        <translation>Change l&apos;objet dans l&apos;inventaire du groupe.</translation>
+        <translation>Ajouter ou retirer un objet à l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the weapon in the party&apos;s inventory.</source>
-        <translation>Change l&apos;arme dans l&apos;inventaire du groupe.</translation>
+        <translation>Ajouter ou retirer une arme à l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the armor in the party&apos;s inventory.</source>
-        <translation>Change l&apos;armure dans l&apos;inventaire du groupe.</translation>
+        <translation>Ajouter ou retirer une armure à l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the actor in the party.</source>
-        <translation>Change l&apos;acteur dans le groupe.</translation>
+        <translation>Ajouter ou retirer un héros à l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the HP of the actor.</source>
-        <translation>Change les HP de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer des PV à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the MP of the actor.</source>
-        <translation>Change les MP de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer des PM à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the TP of the actor.</source>
-        <translation>Change le TP de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer des PT à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the state of the actor.</source>
-        <translation>Change l&apos;état de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer un statut à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers HP and MP.</source>
-        <translation>Efface tous les états et récupère complètement les HP et les MP.</translation>
+        <translation>Retirer tous les statuts à un membre de l'équipe et le soigner complètement.</translation>
     </message>
     <message>
         <source>Changes the EXP of the actor.</source>
-        <translation>Change l&apos;EXP de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer de l&apos;expérience à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the level of the actor.</source>
-        <translation>Change le niveau de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer des niveaux à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the parameter of the actor.</source>
-        <translation>Change le paramètre de l&apos;acteur.</translation>
+        <translation>Augmenter ou diminuer une caractéristique d&apos;un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the skill of the actor.</source>
-        <translation>Change la compétence de l&apos;acteur.</translation>
+        <translation>Ajouter ou retirer une compétence à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the equipment of the actor.</source>
-        <translation>Change l&apos;équipement de l&apos;acteur.</translation>
+        <translation>Change l&apos;équipement d&apos;un membre de l&apos;équipe. N&apos;a aucun effet si l&apos;équipement n&apos;est pas dans l&apos;inventaire du joueur.</translation>
     </message>
     <message>
         <source>Changes the name of the actor.</source>
-        <translation>Change le nom de l&apos;acteur.</translation>
+        <translation>Changer le nom d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Changes the class of the actor.</source>
-        <translation>Change la classe de l&apos;acteur.</translation>
+        <translation>Changer la classe d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Changes the nickname of the actor.</source>
-        <translation>Change le surnom de l&apos;acteur.</translation>
+        <translation>Changer le surnom d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Changes the profile of the actor.</source>
-        <translation>Change le profil de l&apos;acteur.</translation>
+        <translation>Changer la biographie d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Changes the current location of the player. Used only on the map screen.</source>
-        <translation>Change l&apos;emplacement actuel du joueur. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>Modifier la position du joueur.</translation>
     </message>
     <message>
         <source>Changes the current location of the specified vehicle.</source>
-        <translation>Change l&apos;emplacement actuel du véhicule spécifié.</translation>
+        <translation>Modifier la position d&apos;un véhicule.</translation>
     </message>
     <message>
         <source>Changes the current location of the specified event. Cannot move the event to a different map.</source>
-        <translation>Change l&apos;emplacement actuel de l&apos;évènement spécifié. Ne peut pas bouger l&apos;évènement vers une carte différente.</translation>
+        <translation>Modifier la position d&apos;un évènement. Il est impossible d&apos;envoyer un évènement sur une autre carte.</translation>
     </message>
     <message>
         <source>Scrolls the map without changing the player&apos;s location. Used only on the map screen.</source>
-        <translation>Fait défiler la carte sans changer l&apos;emplacement du joueur. Utilisé seulement sur l&apos;écran de carte.</translation>
+        <translation>Faire défiler la carte sans changer la position du joueur. Quand cette commande est appelée plusieurs fois de suite, l&apos;évènement attend automatiquement la fin du déplacement précédent. Utilisé uniquement sur la carte.</translation>
     </message>
     <message>
         <source>Forces the player or event to move. If a route already exists, it will be overwritten.</source>
-        <translation>Force le joueur ou l&apos;évènement à bouger. Si une trajectoire existe déjà, elle sera écrasée.</translation>
+        <translation>Forcer le joueur ou un évènement à suivre une trajectoire définie. Si le joueur ou l&apos;évènement est déjà soumis à ce type de commande, la nouvelle remplacera l'ancienne.</translation>
     </message>
     <message>
         <source>Puts the player on a vehicle. If the player is already on a vehicle, puts him on the ground.</source>
-        <translation>Met le joueur sur un véhicule. Si le joueur est déjà sur un véhicule, cela le met sur le sol.</translation>
+        <translation>Faire rentrer le joueur dans un véhicule. S&apos;il est déjà dans un véhicule, il sera placé au sol. Cette commande reproduit l&apos;entrée ou la sortie normale dans un véhicule avec la touche action. Si le véhicule n&apos;est pas à un endroit où il peut être utilisé, la commande sera ignorée.</translation>
     </message>
     <message>
         <source>Changes whether to show or hide the player on the map.</source>
-        <translation>Change s&apos;il faut afficher ou masquer le joueur sur la carte.</translation>
+        <translation>Rendre le héros transparent ou opaque.</translation>
     </message>
     <message>
         <source>Changes whether to show or hide the party members that follow behind the player.</source>
-        <translation>Change s&apos;il faut afficher ou masquer les membres du groupe qui suivent derrière le joueur.</translation>
+        <translation>Afficher ou cacher les autres membres de l&apos;équipe qui suivent le joueur.</translation>
     </message>
     <message>
         <source>Moves all party members to the same position as the lead character.</source>
-        <translation>Déplace tous les membres du groupe sur le même emplacement que le personnage principal.</translation>
+        <translation>Déplacer tous les membres de l&apos;équipe sur le même carreau que le joueur.</translation>
     </message>
     <message>
         <source>Displays the specified animation to the character on the map.</source>
-        <translation>Affiche l&apos;animation spécifiée au personnage sur la carte.</translation>
+        <translation>Afficher une animation sur un évènement de la carte.</translation>
     </message>
     <message>
         <source>Displays the specified balloon icon above the character&apos;s head.</source>
-        <translation>Affiche l&apos;icône de ballon spécifiée au-dessus de la tête du personnage.</translation>
+        <translation>Afficher une bulle sur un évènement pour indiquer une émotion.</translation>
     </message>
     <message>
         <source>Temporarily removes the current event on the map. If the player moves off of the map and returns, the event will reappear.</source>
-        <translation>Supprime temporairement l&apos;évènement actuel sur la carte. Si le joueur sort de la carte et revient, l&apos;évènement réapparaîtra.</translation>
+        <translation>Effacer temporairement l&apos;évènement. Si le joueur sort de la carte puis revient, l&apos;évènement réapparaîtra.</translation>
     </message>
     <message>
         <source>Fades out the entire screen.</source>
-        <translation>La totalité de l&apos;écran disparaît.</translation>
+        <translation>Noircir graduellement l&apos;écran jusqu&apos;à ce qu&apos;il devienne complètement noir..</translation>
     </message>
     <message>
         <source>Fades in the entire screen.</source>
-        <translation>Fondu dans la totalité de l&apos;écran.</translation>
+        <translation>Éclaircir graduellement l&apos;écran jusqu&apos;à ce qu&apos;il reprenne sa couleur normale.</translation>
     </message>
     <message>
         <source>Changes the color tone of the entire screen. Also affects the battle screen.</source>
-        <translation>Change la tonalité des couleurs de tout l&apos;écran. Affecte aussi l&apos;écran de combat.</translation>
+        <translation>Modifier le ton de l&apos;écran entier. Affecte aussi l&apos;écran de combat, mais pas les fenêtres ou les images.</translation>
     </message>
     <message>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>Rempli temporairement la totalité de l&apos;écran avec une couleur, puis retourne graduellement à la couleur d&apos;origine.</translation>
+        <translation>Remplir temporairement l&apos;écran avec une couleur puis revenir graduellement à sa couleur d'origine.</translation>
     </message>
     <message>
         <source>Shakes the entire screen from side to side.</source>
-        <translation>Secoue la totalité de l&apos;écran d&apos;un côté à l&apos;autre.</translation>
+        <translation>Secouer l&apos;écran entier de gauche à droite. Utile pour simuler un tremblement de terre, par exemple.</translation>
     </message>
     <message>
         <source>Waits for a certain period of time.</source>
-        <translation>Attend une certaine période de temps.</translation>
+        <translation>Arrêter temporairement l&apos;exécution de l&apos;évènement. Aucune interaction avec le joueur n&apos;est acceptée durant cet intervalle, sauf si cette commande est utilisée dans un processus parallèle.</translation>
     </message>
     <message>
         <source>Displays the specified picture on top of the screen.</source>
-        <translation>Affiche l&apos;image spécifiée en haut de l&apos;écran.</translation>
+        <translation>Affiche une image au dessus de l&apos;écran.</translation>
     </message>
     <message>
         <source>Changes the properties of the picture.</source>
-        <translation>Change les propriétés de l&apos;image.</translation>
+        <translation>Modifier la position, le zoom, etc. d&apos;une image affichée.</translation>
     </message>
     <message>
         <source>Changes the rotation speed of the picture.</source>
-        <translation>Change la vitesse de rotation de l&apos;image.</translation>
+        <translation>Modifier la vitesse de rotation d&apos;une image affichée. Les rotations sont longues à être exécutées, utilisez donc cette commande avec parcimonie.</translation>
     </message>
     <message>
         <source>Changes the color tone of the picture.</source>
-        <translation>Change la tonalité des couleurs de l&apos;image.</translation>
+        <translation>Modifier le ton d&apos;une image affichée.</translation>
     </message>
     <message>
         <source>Removes the picture.</source>
-        <translation>Supprime l&apos;image.</translation>
+        <translation>Effacer l&apos;image spécifiée.</translation>
     </message>
     <message>
         <source>Changes the weather effect such as rain and snow.</source>
-        <translation>Change l&apos;effet météo comme la pluie ou la neige.</translation>
+        <translation>Afficher un effet de pluie ou de neige sur l&apos;écran.</translation>
     </message>
     <message>
         <source>Plays the specified BGM.</source>
-        <translation>Joue la BGM spécifiée.</translation>
+        <translation>Jouer une musique de fond.</translation>
     </message>
     <message>
         <source>Fades out the current BGM.</source>
-        <translation>Estompe la BGM actuelle.</translation>
+        <translation>Arrêter en fondu la musique de fond.</translation>
     </message>
     <message>
         <source>Saves the current BGM.</source>
-        <translation>Sauvegarde la BGM actuelle.</translation>
+        <translation>Mémoriser la musique de fond actuelle.</translation>
     </message>
     <message>
         <source>Replays the saved BGM.</source>
-        <translation>Rejoue la BGM sauvegardée.</translation>
+        <translation>Reprendre la musique de fond mémorisée.</translation>
     </message>
     <message>
         <source>Plays the specified BGS.</source>
-        <translation>Joue le BGS spécifié.</translation>
+        <translation>Jouer un fond sonore.</translation>
     </message>
     <message>
         <source>Fades out the current BGS.</source>
-        <translation>Estompe le BGS actuel.</translation>
+        <translation>Arrêter en fondu le fond sonore.</translation>
     </message>
     <message>
         <source>Plays the specified ME.</source>
-        <translation>Joue la ME spécifiée.</translation>
+        <translation>Jouer un effet musical.</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Joue le SE spécifié.</translation>
+        <translation>Jouer un effet sonore.</translation>
     </message>
     <message>
         <source>Stop all the SE.</source>
-        <translation>Arrêter tous les SE.</translation>
+        <translation>Stopper l'effet sonore.</translation>
     </message>
     <message>
         <source>Starts a battle.</source>
-        <translation>Commence un combat.</translation>
+        <translation>Démarrer un combat contre un groupe d&apos;ennemis spécifique.</translation>
     </message>
     <message>
         <source>Calls up the shop screen.</source>
-        <translation>Appelle l&apos;écran de magasin.</translation>
+        <translation>Afficher l&apos;écran de vente et d&apos;achat pour les objets spécifiés..</translation>
     </message>
     <message>
         <source>Calls up the name input screen.</source>
-        <translation>Appelle l&apos;écran de saisie du nom.</translation>
+        <translation>Appeller l&apos;écran de sélection de nom pour modifier le nom du personnage spécifié.</translation>
     </message>
     <message>
         <source>Calls up the menu screen.</source>
-        <translation>Appelle l&apos;écran de menu.</translation>
+        <translation>Appeller l&apos;écran de menu.</translation>
     </message>
     <message>
         <source>Calls up the save screen.</source>
-        <translation>Appelle l&apos;écran de sauvegarde.</translation>
+        <translation>Appeller l&apos;écran des sauvegardes.</translation>
     </message>
     <message>
         <source>Forces Game Over.</source>
-        <translation>Force Game Over.</translation>
+        <translation>Appeller l&apos;écran de game over.</translation>
     </message>
     <message>
         <source>Returns to the title screen.</source>
-        <translation>Retourne à l&apos;écran titre.</translation>
+        <translation>Appeller l&apos;écran titre.</translation>
     </message>
     <message>
         <source>Changes the BGM to be played during a battle.</source>
-        <translation>Change la BGM qui doit être jouée pendant un combat.</translation>
+        <translation>Changer la musique de fond des combats</translation>
     </message>
     <message>
         <source>Changes the ME to be played at winning a battle.</source>
-        <translation>Change la ME qui doit être jouée lors de la victoire d&apos;un combat.</translation>
+        <translation>Changer l&apos;effet sonore qui doit être joué après une victoire.</translation>
     </message>
     <message>
         <source>Enables or disables the saving of game data.</source>
-        <translation>Active ou désactive la sauvegarde des données du jeu.</translation>
+        <translation>Autoriser ou interdire l&apos;accès à l&apos;écran des sauvegardes.</translation>
     </message>
     <message>
         <source>Enables or disables menu screen calls.</source>
-        <translation>Active ou désactive les appels de l&apos;écran de menu.</translation>
+        <translation>Autoriser ou interdire l&apos;accès au menu.</translation>
     </message>
     <message>
         <source>Enables or disables random encounters.</source>
-        <translation>Active ou désactive les rencontres aléatoires.</translation>
+        <translation>Activer ou désactiver les combats aléatoires.</translation>
     </message>
     <message>
         <source>Enables or disables the formation command.</source>
-        <translation>Active ou désactive la commande de formation.</translation>
+        <translation>Autoriser ou interdire de modifier l&apos;équipe.</translation>
     </message>
     <message>
         <source>Changes the window background color.</source>
-        <translation>Change la couleur d&apos;arrière-plan de la fenêtre.</translation>
+        <translation>Modifier la couleur de fond des fenêtres.</translation>
     </message>
     <message>
         <source>Changes the ME to be played at losing a battle.</source>
-        <translation>Change la ME qui doit être jouée lors de la défaite d&apos;un combat.</translation>
+        <translation>Changer l&apos;effet sonore qui doit être joué après une défaite.</translation>
     </message>
     <message>
         <source>Changes the BGM to be played while riding in a vehicle.</source>
-        <translation>Change la BGM à jouer pendant la conduite d&apos;un véhicule.</translation>
+        <translation>Changer la musique de fond des déplacements en véhicules.</translation>
     </message>
     <message>
         <source>Changes the image of the actor.</source>
-        <translation>Change l&apos;image de l&apos;acteur.</translation>
+        <translation>Modifier l&apos;apparence d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Changes the image of the specified vehicle.</source>
-        <translation>Change l&apos;image du véhicule spécifié.</translation>
+        <translation>Modifier l&apos;apparence d&apos;un véhicule.</translation>
     </message>
     <message>
         <source>Plays the specified movie. Event processing is stopped until the movie ends.</source>
-        <translation>Lit le film spécifié. Le traitement d&apos;évènement est stoppé jusqu&apos;à ce que le film se termine.</translation>
+        <translation>Jouer une vidéo. L&apos;exécution de l&apos;évènement est stoppée jusqu&apos;à la fin de la vidéo.</translation>
     </message>
     <message>
         <source>Changes whether to display the map name when changing the current map.</source>
-        <translation>Change s&apos;il faut afficher ou non le nom de la carte au moment de changer la carte actuelle.</translation>
+        <translation>Activer ou désactiver l&apos;affichage du nom de la carte lors d&apos;un changement de carte.</translation>
     </message>
     <message>
         <source>Changes the tileset used by the current map temporarily.</source>
-        <translation>Change temporairement le tileset utilisé par la carte actuelle.</translation>
+        <translation>Changer le tileset utilisé par la carte actuelle.</translation>
     </message>
     <message>
         <source>Changes the battle background associated with the current map temporarily.</source>
-        <translation>Change temporairement l&apos;arrière-plan de la bataille associé avec la carte actuelle.</translation>
+        <translation>Changer le fond de combat associé à la carte actuelle.</translation>
     </message>
     <message>
         <source>Changes the parallax background associated with the current map temporarily.</source>
-        <translation>Change temporairement l&apos;arrière-plan parallaxe associé avec la carte actuelle.</translation>
+        <translation>Change le panorama associé à la carte actuelle.</translation>
     </message>
     <message>
         <source>Gets information related to specific coordinates on the current map.</source>
-        <translation>Obtient des informations liées à des coordonnées spécifiques sur la carte actuelle.</translation>
+        <translation>Récupérer des informations à propos de la carte actuelle en fonction des coordonnées spécifiées.</translation>
     </message>
     <message>
         <source>Changes the HP of the enemy.</source>
-        <translation>Change les HP de l&apos;ennemi.</translation>
+        <translation>Modifier les PV d&apos;un ennemi. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Changes the MP of the enemy.</source>
-        <translation>Change les MP de l&apos;ennemi.</translation>
+        <translation>Modifier les PM d&apos;un ennemi. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Changes the TP of the enemy.</source>
-        <translation>Change le TP de l&apos;ennemi.</translation>
+        <translation>Modifier les PT d&apos;un ennemi. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Changes the state of the enemy.</source>
-        <translation>Change l&apos;état de l&apos;ennemi.</translation>
+        <translation>Appliquer ou retirer un statut à un ennemi. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers the HP and MP of the enemy.</source>
-        <translation>Efface tous les états et récupère complètement les HP et les MP de l&apos;ennemi.</translation>
+        <translation>Retirer tous les statuts à un ennemi et le soigner complètement. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Makes the enemy who has the [Appear Halfway] option to appear.</source>
-        <translation>Fait que l&apos;ennemi qui a l&apos;option [Apparaît à mi-course] apparaisse.</translation>
+        <translation>Fait apparaître un ennemi qui a l&apos;option [Caché] dans la base de données. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Transforms the enemy. HP and MP will not be changed.</source>
-        <translation>Transforme l&apos;ennemi. Les HP et les MP ne seront pas changés.</translation>
+        <translation>Transformer un ennemi en un autre. Ses PV et PM ne seront pas modifiés. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Displays the specified animation on the battle screen.</source>
-        <translation>Affiche l&apos;animation spécifiée sur l&apos;écran de combat.</translation>
+        <translation>Afficher une animation sur un ennemi ou un groupe d&apos;ennemis. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Forces the specified action.</source>
-        <translation>Force l&apos;action spécifiée.</translation>
+        <translation>Forcer un héros ou un ennemi à utiliser une action sur la cible spécifiée. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Exits the battle.</source>
-        <translation>Quitte le combat.</translation>
+        <translation>Forcer la fin du combat. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Évalue le texte comme JavaScript.</translation>
+        <translation>Exécuter des commandes en JavaScript.</translation>
     </message>
     <message>
         <source>Send a command to a plugin.</source>
@@ -9015,11 +9014,11 @@ Please lower the file size of this project.</source>
     <name>EventEditorMain</name>
     <message>
         <source>Event Editor</source>
-        <translation>Éditeur d&apos;Évènement</translation>
+        <translation>Éditeur d&apos;évènement</translation>
     </message>
     <message>
         <source>Discard changes to this event?</source>
-        <translation>Annuler les modifications de cet évènement?</translation>
+        <translation>Quitter l&apos;évènement sans sauvegarder les modifications apportées ?</translation>
     </message>
 </context>
 <context>
@@ -9037,38 +9036,38 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>File List</source>
-        <translation type="unfinished">Liste de fichiers</translation>
+        <translation>Liste de fichiers</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished">Nom de fichier</translation>
+        <translation>Nom du fichier</translation>
     </message>
     <message>
         <source>The name of the file.</source>
-        <translation type="unfinished">Le nom du fichier.</translation>
+        <translation>Le nom du fichier.</translation>
     </message>
     <message>
         <source>File Extension Name</source>
-        <translation type="unfinished">Nom d&apos;extension de fichier</translation>
+        <translation>Nom d&apos;extension de fichier</translation>
     </message>
     <message>
         <source>File names should end with “.%1” instead of “.%2”. Otherwise your game may not run correctly in case-sensitive environments, such as popular Linux web hosting services.</source>
-        <translation type="unfinished">Les noms de fichiers doivent se terminer par &quot;.%1&quot; et non pas par &quot;.%2&quot;, auquel cas votre jeu pourrait ne pas fonctionner correctement dans les environnements prenant en compte la sensibilité de casse, tels que certains services d&apos;hébergement web de Linux.</translation>
+        <translation>Les noms de fichiers doivent se terminer par &quot;.%1&quot; et non pas par &quot;.%2&quot;, auquel cas votre jeu pourrait ne pas fonctionner correctement dans les environnements prenant en compte la sensibilité de casse, tels que certains services d&apos;hébergement web de Linux.</translation>
     </message>
 </context>
 <context>
     <name>FindManager</name>
     <message>
         <source>No more results can be found below the current position.</source>
-        <translation type="unfinished">Aucun autre résultat ne peut être trouvé ci-dessous.</translation>
+        <translation>Aucun autre résultat ne peut être trouvé ci-dessous.</translation>
     </message>
     <message>
         <source>No more results can be found above the current position.</source>
-        <translation type="unfinished">Aucun autre résultat ne peut être trouvé ci-dessus.</translation>
+        <translation>Aucun autre résultat ne peut être trouvé ci-dessus.</translation>
     </message>
     <message>
         <source>The regular expression contains an error.</source>
-        <translation type="unfinished">L&apos;expression régulière contient une erreur.</translation>
+        <translation>L&apos;expression régulière contient une erreur.</translation>
     </message>
 </context>
 <context>
@@ -9090,48 +9089,48 @@ Please lower the file size of this project.</source>
     <message>
         <source>Succeeded to upload a project.
 Please complete the post with follow this link.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet envoyé avec succès !</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l'envoi du projet.</translation>
     </message>
 </context>
 <context>
     <name>GameShareOgc</name>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l'envoi du projet.</translation>
     </message>
     <message>
         <source>Succeeded to upload a project.
 Please complete the post with follow this link.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet envoyé avec succès !</translation>
     </message>
 </context>
 <context>
     <name>Group_ActionPatterns</name>
     <message>
         <source>Action Patterns</source>
-        <translation>Modèles d&apos;Action</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <source>List of enemy actions in battle.</source>
-        <translation>Liste des actions ennemi au combat.</translation>
+        <translation>Liste des attaques de l'ennemi.</translation>
     </message>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Condition</source>
-        <translation>Condition</translation>
+        <translation>Conditions d'action</translation>
     </message>
     <message>
         <source>R</source>
         <comment>Rating</comment>
-        <translation>R</translation>
+        <translation>Priorité</translation>
     </message>
     <message>
         <source>Always</source>
@@ -9143,19 +9142,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <source>Party Level</source>
-        <translation>Niv. Groupe</translation>
+        <translation>Niveau de l&apos;équipe</translation>
     </message>
 </context>
 <context>
@@ -9166,11 +9165,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Animation frames.</source>
-        <translation>Frames d&apos;Animation.</translation>
+        <translation>Frames d&apos;animation</translation>
     </message>
     <message>
         <source>Frame View</source>
-        <translation>Vue Frame</translation>
+        <translation>Vue frame</translation>
     </message>
     <message>
         <source>Displays the contents of the selected frame. Double-click on the empty area to place a new cell. Drag a cell to move it. Right-click to open the popup menu.</source>
@@ -9178,35 +9177,35 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Target</source>
-        <translation>Changer Cible</translation>
+        <translation>Changer la cible</translation>
     </message>
     <message>
         <source>Changes the image currently displayed for editing.</source>
-        <translation>Change l&apos;image actuellement affichée pour édition.</translation>
+        <translation>Change l&apos;image actuellement utilisée pour cible</translation>
     </message>
     <message>
         <source>Tween</source>
-        <translation>Interpolation</translation>
+        <translation>Automatisation</translation>
     </message>
     <message>
         <source>Automatically tweens the frames between the two specified frames.</source>
-        <translation>Interpole automatiquement les frames entre les deux frames spécifiés.</translation>
+        <translation>Interpole automatiquement les paramètres des cellules entre deux frames pour construire une animation plus fluide.</translation>
     </message>
     <message>
         <source>Batch</source>
-        <translation>Lot</translation>
+        <translation>Modifier en masse</translation>
     </message>
     <message>
         <source>Changes the properties for multiple cells in the specified frames.</source>
-        <translation>Change les propriétés de plusieurs cellules dans les frames spécifiées.</translation>
+        <translation>Modifier les paramètres de plusieurs cellules de plusieurs frames en même temps.</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>Tout déplacer</translation>
     </message>
     <message>
         <source>Shifts the positions of multiple cells in the specified frames.</source>
-        <translation>Déplace les positions de plusieurs cellules dans les frames spécifiées.</translation>
+        <translation>Déplace toutes les cellules des frames.</translation>
     </message>
     <message>
         <source>Play</source>
@@ -9218,7 +9217,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pattern Palette</source>
-        <translation>Palette de Motifs</translation>
+        <translation>Motifs</translation>
     </message>
     <message>
         <source>Select the pattern for a new cell.</source>
@@ -9226,7 +9225,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paste Last</source>
-        <translation>Dernier Coller</translation>
+        <translation>Dernière frame</translation>
     </message>
     <message>
         <source>Makes the currently selected frame identical to the previous frame.</source>
@@ -9241,7 +9240,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Range to apply this operation.</source>
-        <translation>Plage où appliquer cette opération.</translation>
+        <translation>Plage sur laquelle appliquer cette opération.</translation>
     </message>
     <message>
         <source>Frames</source>
@@ -9249,7 +9248,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Range of the frame numbers.</source>
-        <translation>Plage des numéros de frames.</translation>
+        <translation>Numéros des frames à modifier.</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -9257,18 +9256,18 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Range of the cell numbers.</source>
-        <translation>Plage des numéros de cellules.</translation>
+        <translation>Numéros des cellules à modifier.</translation>
     </message>
 </context>
 <context>
     <name>Group_AnimationTimings</name>
     <message>
         <source>SE and Flash Timing</source>
-        <translation>SE et Timing du Flash</translation>
+        <translation>Effets sonores et flashs</translation>
     </message>
     <message>
         <source>SE and flash colors, etc. used when a frame is displayed.</source>
-        <translation>SE, couleurs flash, etc. utilisés quand une frame est affichée.</translation>
+        <translation>Effets sonores et flashs utilisés quand une frame est affichée.</translation>
     </message>
     <message>
         <source>No.</source>
@@ -9277,7 +9276,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>SE</source>
-        <translation>SE</translation>
+        <translation>Effet sonore</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -9293,14 +9292,14 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hide Target</source>
-        <translation>Masquer Cible</translation>
+        <translation>Masquer cible</translation>
     </message>
 </context>
 <context>
     <name>Group_AttackMotions</name>
     <message>
         <source>[SV] Attack Motions</source>
-        <translation>[SV] Mouvements d&apos;Attaque</translation>
+        <translation>[SV] Mouvements d&apos;attaque</translation>
     </message>
     <message>
         <source>Motions for a normal attack in side-view mode.</source>
@@ -9320,14 +9319,14 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Bare Hands</source>
-        <translation>Mains Nues</translation>
+        <translation>Mains nues</translation>
     </message>
 </context>
 <context>
     <name>Group_BattleEvent</name>
     <message>
         <source>Battle Event</source>
-        <translation>Évènement de Combat</translation>
+        <translation>Évènement de combat</translation>
     </message>
     <message>
         <source>Events run during battle. Set up dialogs with the enemy, etc.</source>
@@ -9339,7 +9338,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Conditions to start the event. The contents will be run only when all the set conditions have been met. If there are multiple event pages meeting conditions, the contents will be run in order from lower to higher numbered page.</source>
-        <translation>Conditions pour démarrer l&apos;évènement. Le contenu sera exécuté uniquement lorsque toutes les conditions auront été remplies. S&apos;il y a plusieurs pages d&apos;évènement remplissant les conditions, le contenu sera exécuté dans l&apos;ordre de la page numerotée la plus basse à la plus haute.</translation>
+        <translation>Conditions pour démarrer l&apos;évènement. Le contenu sera exécuté uniquement lorsque toutes les conditions auront été remplies. S&apos;il y a plusieurs pages d&apos;évènements remplissant les conditions, le contenu sera exécuté dans l&apos;ordre de la page numerotée la plus basse à la plus haute.</translation>
     </message>
     <message>
         <source>Span</source>
@@ -9347,7 +9346,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Interval during which the event contents are allowed to run.&lt;br&gt;[Battle] Run only once in the battle.&lt;br&gt;[Turn] Run only once per turn.&lt;br&gt;[Moment] Repeat while the conditions met.</source>
-        <translation>Intervalle pendant lequel le contenu de l&apos;évènement est autorisé à s&apos;exécuter.&lt;br&gt;[Combat] S&apos;exécute seulement une fois dans le combat.&lt;br&gt;[Tour] S&apos;exécute seulement une fois par tour.&lt;br&gt;[Moment] S&apos;exécute tant que les conditions sont remplies.</translation>
+        <translation>Intervalle pendant lequel le contenu de l&apos;évènement est autorisé à s&apos;exécuter.&lt;br&gt;[Combat] s&apos;exécute seulement une fois dans le combat.&lt;br&gt;[Tour] s&apos;exécute seulement une fois par tour.&lt;br&gt;[Moment] s&apos;exécute tant que les conditions sont remplies.</translation>
     </message>
     <message>
         <source>Battle</source>
@@ -9363,26 +9362,26 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turn End</source>
-        <translation>Fin du Tour</translation>
+        <translation>Fin du tour</translation>
     </message>
     <message>
         <source>Enemy HP</source>
-        <translation>HP Ennemi</translation>
+        <translation>PV de l'ennemi</translation>
     </message>
     <message>
         <source>Actor HP</source>
-        <translation>HP Acteur</translation>
+        <translation>PV du héros</translation>
     </message>
     <message>
         <source>Don&apos;t Run</source>
-        <translation>Ne pas Exécuter</translation>
+        <translation>Ne pas exécuter</translation>
     </message>
 </context>
 <context>
     <name>Group_CheckerboardColor</name>
     <message>
         <source>Transparent Color</source>
-        <translation>Couleur Transparente</translation>
+        <translation>Couleur transparente</translation>
     </message>
     <message>
         <source>Sets the color to use as the transparency background in the editor.</source>
@@ -9418,7 +9417,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation>Illustre la couleur transparente une fois utilisée.</translation>
+        <translation>Affiche l'apparence finale de la couleur transparente paramétrée.</translation>
     </message>
 </context>
 <context>
@@ -9445,27 +9444,27 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>HP Damage</source>
-        <translation>HP dégâts</translation>
+        <translation>Dégâts PV</translation>
     </message>
     <message>
         <source>MP Damage</source>
-        <translation>MP dégâts</translation>
+        <translation>Dégâts PM</translation>
     </message>
     <message>
         <source>HP Recover</source>
-        <translation>Récupération HP</translation>
+        <translation>Récupération PV</translation>
     </message>
     <message>
         <source>MP Recover</source>
-        <translation>Récupération MP</translation>
+        <translation>Récupération PM</translation>
     </message>
     <message>
         <source>HP Drain</source>
-        <translation>Drainer HP</translation>
+        <translation>Drain PV</translation>
     </message>
     <message>
         <source>MP Drain</source>
-        <translation>Drainer MP</translation>
+        <translation>Drain PM</translation>
     </message>
     <message>
         <source>Element</source>
@@ -9473,11 +9472,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Element of the damage. Final damage varies depending on the target&apos;s resistance to the element in question.</source>
-        <translation>Élément des dégâts. Les dégâts finals varient en fonction de la résistance de la cible à l&apos;élément en question.</translation>
+        <translation>Élément des dégâts. Les dégâts finaux varient en fonction de la résistance de la cible à l&apos;élément en question.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>Attaque normale</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -9485,7 +9484,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par a et la cible par b, et puis l&apos;un ou l&apos;autre est suivi par un point pour permettre le référencement des états indiqués ci-après. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
+        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par "a" et la cible par "b", suivi d'un point et de l&apos;identifiant de la caractéristique à utiliser. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -9493,15 +9492,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Degree of variability. The value of the final damage will vary by this percentage value.</source>
-        <translation>Degré de variation. La valeur des dégâts finals variera en fonction de ce pourcentage.</translation>
+        <translation>Degré de variation. La valeur finale des dégâts variera en fonction de ce pourcentage.</translation>
     </message>
     <message>
         <source>Critical Hits</source>
-        <translation>Coups Critiques</translation>
+        <translation>Coups critiques</translation>
     </message>
     <message>
         <source>Whether to enable critical hits. When enabled, critical hits will be determined based on the user&apos;s critical rate and the target&apos;s critical evasion rate.</source>
-        <translation>S&apos;il faut activer ou non les coups critiques. Lorsque activés, les coups critiques seront déterminés par le taux de critiques de l&apos;utilisateur et le taux d&apos;évasion critique de la cible.</translation>
+        <translation>Active ou désactive les coups critiques. Si activés, les coups critiques seront déterminés par le taux de critiques de l&apos;utilisateur et le taux d&apos;évasion critique de la cible.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -9511,7 +9510,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>No</source>
         <comment>critical</comment>
-        <translation>No</translation>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -9530,7 +9529,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>Attendre la fin</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
@@ -9557,31 +9556,31 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Recover HP</source>
-        <translation>Récupération HP</translation>
+        <translation>Récupération PV</translation>
     </message>
     <message>
         <source>Recover MP</source>
-        <translation>Récupération MP</translation>
+        <translation>Récupération PM</translation>
     </message>
     <message>
         <source>Gain TP</source>
-        <translation>Gain TP</translation>
+        <translation>Gain PT</translation>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Ajouter État</translation>
+        <translation>Ajouter statut</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>Attaque normale</translation>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Retirer État</translation>
+        <translation>Retirer statut</translation>
     </message>
     <message>
         <source>Add Buff</source>
-        <translation>Ajouter Buff</translation>
+        <translation>Augmenter les caractéristiques</translation>
     </message>
     <message>
         <source>turns</source>
@@ -9589,32 +9588,32 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add Debuff</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>Diminuer les caractéristiques</translation>
     </message>
     <message>
         <source>Remove Buff</source>
-        <translation>Retirer Buff</translation>
+        <translation>Dissipation</translation>
     </message>
     <message>
         <source>Remove Debuff</source>
-        <translation>Retirer Debuff</translation>
+        <translation>Rétablissement</translation>
     </message>
     <message>
         <source>Special Effect</source>
-        <translation>Effet Spécial</translation>
+        <translation>Effet spécial</translation>
     </message>
     <message>
         <source>Grow</source>
-        <translation>Grandir</translation>
+        <translation>Augmentation de caractéristique</translation>
     </message>
     <message>
         <source>Learn Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Apprendre Comp.</translation>
+        <translation>Acquérir comp.</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évmt Commun</translation>
+        <translation>Év. commun</translation>
     </message>
     <message>
         <source>Undefined</source>
@@ -9625,23 +9624,23 @@ Please complete the post with follow this link.</source>
     <name>Group_Encounters</name>
     <message>
         <source>Encounters</source>
-        <translation>Rencontres</translation>
+        <translation>Combats aléatoires</translation>
     </message>
     <message>
         <source>List of the troops for random encounters.</source>
-        <translation>Liste des troupes pour les rencontres aléatoires.</translation>
+        <translation>Liste des groupes d'ennemis pour les combats aléatoires.</translation>
     </message>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>Poids</translation>
+        <translation>Probabilité</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation>Plage</translation>
+        <translation>Zones d'apparition</translation>
     </message>
     <message>
         <source>Entire Map</source>
@@ -9656,7 +9655,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Specifies conditions for which the event appears on the map. If no conditions are specified, the event appears unconditionally. Higher numbered page has a higher priority.</source>
-        <translation>Spécifie les conditions pour lesquelles cet évènement apparaît sur la carte. Si aucune condition n&apos;est spécifiée, l&apos;évènement apparaît sans condition. Les pages possédant un numéro supérieur ont une priorité plus élevée.</translation>
+        <translation>Définit dans quelles circonstances la page d&apos;évènement est déclenchable. Les évènements sont déclenchables tant que ces conditions sont remplies. Si aucune condition &apos;est spécifiée, l&apos;évènement sera tout le temps déclenchable. Si plusieurs pages de l&apos;évènement sont déclenchables simultanément, les pages seront exécutées dans l&apos;ordre croissant de leur numéro de page.</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -9664,7 +9663,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the specified switch is ON.</source>
-        <translation>Apparaît quand l&apos;interrupteur spécifié est sur ON.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si l&apos;interrupteur est activé. Les interrupteurs sont communs à tout le jeu.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -9672,16 +9671,16 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the specified variable is greater than or equal to the given value.</source>
-        <translation>Apparaît quand la variable spécifiée est supérieure ou égale à la valeur donnée.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si la variable spécifiée est supérieure ou égale à la valeur indiquée. Les variables sont communes à tout le jeu.</translation>
     </message>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>Interrupteur local</translation>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
-        <translation>Apparaît quand l&apos;interrupteur automatique spécifié est sur ON.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si l&apos;interrupteur local spécifié est activé. Les interrupteurs locaux sont des interrupteurs qui sont uniques à un évènement. Chaque évènement en possède 4 : A, B, C et D.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -9689,26 +9688,26 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the party has the specified item.</source>
-        <translation>Apparaît quand le groupe a l&apos;objet spécifié.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si l&apos;objet spécifié est dans l'inventaire de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Appears when the specified actor is in the party.</source>
-        <translation>Apparaît quand l&apos;acteur spécifié est dans le groupe.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si le héros spécifié fait partie de l&apos;équipe.</translation>
     </message>
 </context>
 <context>
     <name>Group_Invocation</name>
     <message>
         <source>Invocation</source>
-        <translation>Invocation</translation>
+        <translation>Caractéristiques</translation>
     </message>
     <message>
         <source>Settings related to action invocation.</source>
-        <translation>Paramètres en rapport avec l&apos;action invocation.</translation>
+        <translation>Caractéristiques de la compétence.</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -9716,51 +9715,51 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Value that is added to the character&apos;s agility when determining action order. This allows you to create actions that are powerful but take a long time to perform.</source>
-        <translation>Valeur qui est ajoutée à l&apos;agilité du personnage au moment de déterminer l&apos;ordre des actions. Cela vous permet de créer des actions qui sont puissantes mais prennent du temps à accomplir.</translation>
+        <translation>Cette valeur est ajoutée à l&apos;agilité du personnage lors de la détermination de l&apos;ordre d&apos;attaque. Ceci vous permet, par exemple, de créer une compétence surpuissante mais longue à lancer ou une compétence faible mais à grande priorité.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Succès</translation>
+        <translation>Précision</translation>
     </message>
     <message>
         <source>Probability that the use of the action succeeds.</source>
-        <translation>Probabilité que l&apos;utilisation de l&apos;action réussisse.</translation>
+        <translation>La précision de la compétence en %.</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>Répéter</translation>
+        <translation>Répétition</translation>
     </message>
     <message>
         <source>Number of times the effect is applied to the target.</source>
-        <translation>Nombre de fois où l&apos;effet est appliqué à la cible.</translation>
+        <translation>Nombre de fois que l&apos;effet de la compétence est répété.</translation>
     </message>
     <message>
         <source>TP Gain</source>
-        <translation>Gain de TP</translation>
+        <translation>Gain de PT</translation>
     </message>
     <message>
         <source>Amount of TP the user gains per hit.</source>
-        <translation>Montant de TP que l&apos;utilisateur gagne par coup.</translation>
+        <translation>Le nombre de PT que l&apos;utilisateur gagne par coup réussi.</translation>
     </message>
     <message>
         <source>Hit Type</source>
-        <translation>Type de Coup</translation>
+        <translation>Type d'attaque</translation>
     </message>
     <message>
         <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
-        <translation>Méthode pour déterminer un coup. &lt;br&gt;[Coup Certain] Traite une utilisation réussie de l&apos;action comme un coup.&lt;br&gt;[Attaque Physique] Détermine les coups basés sur le taux de toucher de l&apos;utilisateur et le taux d&apos;évasion de la cible.&lt;br&gt;[Attaque Magique] Détermine les coups basés sur le taux d&apos;évasion magique de la cible.</translation>
+        <translation>[Réussite garantie] Désactive les contre-attaques, contres magiques, et l&apos;effet protecteur des [Garde du corps].&lt;br&gt;[Attaque physique] Basée sur le taux de précision de l&apos;utilisateur et le taux d&apos;esquive de la cible.&lt;br&gt;[Attaque magique] Basée sur le taux d&apos;esquive magique de la cible. Cette méthode est soumise aux contres magiques et aux protections des [Garde du corps]</translation>
     </message>
     <message>
         <source>Certain Hit</source>
-        <translation>Coup Certain</translation>
+        <translation>Réussite garantie</translation>
     </message>
     <message>
         <source>Physical Attack</source>
-        <translation>Attaque Physique</translation>
+        <translation>Attaque physique</translation>
     </message>
     <message>
         <source>Magical Attack</source>
-        <translation>Attaque Magique</translation>
+        <translation>Attaque magique</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -9768,42 +9767,42 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Animation displayed for the target when using the action in battle.</source>
-        <translation>Animation affichée pour la cible lors de l&apos;utilisation de cette action au combat.</translation>
+        <translation>Animation affichée sur la cible lors de l&apos;utilisation de cette compétence en combat.</translation>
     </message>
     <message>
         <source>Normal Attack</source>
-        <translation>Attaque Normale</translation>
+        <translation>Attaque normale</translation>
     </message>
 </context>
 <context>
     <name>Group_Location</name>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Setting for where the character should be moved.</source>
-        <translation>Réglage de l&apos;emplacement où le personnage devrait être déplacé.</translation>
+        <translation>Indiquez l&apos;endroit où téléporter le joueur.</translation>
     </message>
     <message>
         <source>Direct designation</source>
-        <translation>Désignation directe</translation>
+        <translation>Prédéfinie</translation>
     </message>
     <message>
         <source>Specifies the location directly.</source>
-        <translation>Spécifie l&apos;emplacement directement.</translation>
+        <translation>Indiquer une destination spécifique.</translation>
     </message>
     <message>
         <source>Designation with variables</source>
-        <translation>Désignation avec des variables</translation>
+        <translation>Par variable</translation>
     </message>
     <message>
         <source>Specifies the location determined by the variables.</source>
-        <translation>Spécifie l&apos;emplacement déterminé par les variables.</translation>
+        <translation>Déterminer la destination avec des variables.</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>ID</translation>
+        <translation>ID carte</translation>
     </message>
     <message>
         <source>Variable containing the ID of the map.</source>
@@ -9811,19 +9810,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>X</source>
-        <translation>X</translation>
+        <translation>Coord. X</translation>
     </message>
     <message>
         <source>Variable containing the X coordinate of the map.</source>
-        <translation>Variable contenant la coordonnée X de la carte.</translation>
+        <translation>Variable contenant la valeur de la coordonnée X de la destination.</translation>
     </message>
     <message>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>Coord. Y</translation>
     </message>
     <message>
         <source>Variable containing the Y coordinate of the map.</source>
-        <translation>Variable contenant la coordonnée Y de la carte.</translation>
+        <translation>Variable contenant la valeur de la coordonnée Y de la destination.</translation>
     </message>
     <message>
         <source>Exchange with another event</source>
@@ -9831,15 +9830,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Swaps the event locations.</source>
-        <translation>Permute les emplacements de l&apos;évènement.</translation>
+        <translation>Permute les emplacements des deux évènements.</translation>
     </message>
     <message>
         <source>Another Event</source>
-        <translation>Un Autre Évènement</translation>
+        <translation type="unfinished">Autre évènement</translation>
     </message>
     <message>
         <source>Event character to swap the location.</source>
-        <translation>Évènement personnage pour permuter l&apos;emplacement.</translation>
+        <translation type="unfishined">Évènement personnage pour permuter l&apos;emplacement.</translation>
     </message>
 </context>
 <context>
@@ -9847,15 +9846,15 @@ Please complete the post with follow this link.</source>
     <message>
         <source>[SV] Magic Skills</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>[SV] Comp. Mag.</translation>
+        <translation type="unfinished">[SV] Comp. Mag.</translation>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation>Liste des types de compétences qui requièrent un mouvement d&apos;incantation en mode vue de côté.</translation>
+        <translation type="unfinished">Liste des types de compétences qui requièrent un mouvement d&apos;incantation en mode vue de côté.</translation>
     </message>
     <message>
         <source>Skill Type</source>
-        <translation>Type de Compétence</translation>
+        <translation>Type de compétence</translation>
     </message>
 </context>
 <context>
@@ -9866,7 +9865,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns the Map Editor grid display on/off.</source>
-        <translation>Active/Désactive l&apos;affichage de la grille sur l&apos;éditeur de carte.</translation>
+        <translation>Active ou désactive l&apos;affichage de la grille sur l&apos;éditeur de carte.</translation>
     </message>
     <message>
         <source>Show</source>
@@ -9879,12 +9878,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the horizontal spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement horizontal entre les tiles de la grille.</translation>
+        <translation>Détermine l&apos;espacement horizontal entre les carreaux de la grille.</translation>
     </message>
     <message>
         <source>tiles</source>
         <comment>unit</comment>
-        <translation>tiles</translation>
+        <translation>carreaux</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -9892,18 +9891,18 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the vertical spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement vertical entre les tiles de la grille.</translation>
+        <translation>Détermine l&apos;espacement vertical entre les carreaux de la grille.</translation>
     </message>
 </context>
 <context>
     <name>Group_MenuCommands</name>
     <message>
         <source>Menu Commands</source>
-        <translation>Menu Commandes</translation>
+        <translation>Menu commandes</translation>
     </message>
     <message>
         <source>ON/OFF settings of the commands in the menu screen.</source>
-        <translation>Les réglages ON/OFF des commandes dans l&apos;écran de menu.</translation>
+        <translation>Activer ou désactiver des commandes dans l'écran de menu.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -9912,7 +9911,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -9932,14 +9931,14 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show [%1] command in the menu screen.</source>
-        <translation>Afficher [%1] commande dans l&apos;écran de menu.</translation>
+        <translation>Afficher la commande [%1] dans l&apos;écran de menu.</translation>
     </message>
 </context>
 <context>
     <name>Group_Network</name>
     <message>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <source>Turns the upload operation on/off.</source>
@@ -9973,11 +9972,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Constant</source>
-        <translation>Constante</translation>
+        <translation>Valeur fixe</translation>
     </message>
     <message>
         <source>Uses the constant value.</source>
-        <translation>Utilise la valeur constante.</translation>
+        <translation>Utilise la valeur fixe.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -9997,7 +9996,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Data</source>
-        <translation>Données Jeu</translation>
+        <translation>Données du jeu</translation>
     </message>
     <message>
         <source>Uses a value from various data in the game.</source>
@@ -10009,9 +10008,10 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Évalue le texte comme du JavaScript.</translation>
+        <translation>Exécute une commande en JavaScript.</translation>
     </message>
 </context>
+<!--Fin de la traduction -->
 <context>
     <name>Group_Operation</name>
     <message>
