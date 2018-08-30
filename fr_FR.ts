@@ -7168,35 +7168,35 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Character to be the target.</source>
-        <translation>Personnage à être ciblé.</translation>
+        <translation>Personnage à cibler.</translation>
     </message>
     <message>
         <source>Balloon Icon</source>
-        <translation>Icône de Ballon</translation>
+        <translation>Bulle</translation>
     </message>
     <message>
         <source>Type of balloon icon to be displayed.</source>
-        <translation>Type d&apos;icône de ballon à afficher.</translation>
+        <translation>Sélectionnez l&apos;émoticone à afficher.</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>Attendre la fin de l'animation</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Attend la fin de l&apos;effet.</translation>
+        <translation>Stoppe l&apos;éxecution de l&apos;évènement jusqu&apos;à la fin de l&apos;animation.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand216</name>
     <message>
         <source>Player Followers</source>
-        <translation>Suiveurs du Joueur</translation>
+        <translation>Chenille</translation>
     </message>
     <message>
         <source>Selects whether to show or hide the party members that follow behind the player.</source>
         <translatorcomment>Changed &quot;partie&quot; to &quot;groupe&quot;. &quot;Partie&quot; is not the correct translation for &quot;party&quot;, especially in this context.</translatorcomment>
-        <translation>Sélectionne s&apos;il faut afficher ou masquer les membres du groupe qui suivent derrière le joueur.</translation>
+        <translation>Activer ou désactiver la chenille.</translation>
     </message>
     <message>
         <source>ON</source>
@@ -7204,7 +7204,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays all the party members on the map.</source>
-        <translation>Affiche tous les membre du groupe sur la carte.</translation>
+        <translation>Active la chenille.</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -7212,48 +7212,48 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays only the actor at the head of the party on the map.</source>
-        <translation>Affiche seulement l&apos;acteur à la tête du groupe sur la carte.</translation>
+        <translation>Désactive la chenille.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand223</name>
     <message>
         <source>Color Tone</source>
-        <translation>Tonalité de couleur</translation>
+        <translation>Ton</translation>
     </message>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation>Indique comment changer la couleur.</translation>
+        <translation>Paramétrage de la couleur du ton.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand224</name>
     <message>
         <source>Flash Color</source>
-        <translation>Flasher Couleur</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <source>Specifies what color to flash with.</source>
-        <translation>Spécifie avec quelle couleur flasher.</translation>
+        <translation>Spécifie la couleur du flash.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand225</name>
     <message>
         <source>Shake</source>
-        <translation>Secouer</translation>
+        <translation>Secousse</translation>
     </message>
     <message>
         <source>Specifies how the screen should shake.</source>
-        <translation>Spécifie la manière dont l&apos;écran doit secouer.</translation>
+        <translation>Paramétrage de la secousse.</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Puissance</translation>
+        <translation>Force</translation>
     </message>
     <message>
         <source>Power of the shake.</source>
-        <translation>Puissance de la secousse.</translation>
+        <translation>Intensité de la secousse.</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -7275,21 +7275,21 @@ Please lower the file size of this project.</source>
     <name>EventCommand231</name>
     <message>
         <source>Picture to show.</source>
-        <translation>Image à montrer.</translation>
+        <translation>Numéro de l&apos;image à afficher.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand232</name>
     <message>
         <source>Picture to move or change properties.</source>
-        <translation>Image pour bouger ou changer les propriétés.</translation>
+        <translation>Numéro de l&apos;image à déplacer.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand233</name>
     <message>
         <source>Picture to rotate.</source>
-        <translation>Image à faire pivoter.</translation>
+        <translation>Numéro de l'&apos;image à faire pivoter.</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -7297,7 +7297,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Rotation setting of the picture.</source>
-        <translation>Réglage de la rotation de l&apos;image.</translation>
+        <translation>Paramétrage de la rotation de l&apos;image.</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -7305,40 +7305,40 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation>Valeur par laquelle augmenter/diminuer l&apos;angle. Valeurs positives signifiant une rotation dans le sens inverse des aiguilles d&apos;une montre.</translation>
+        <translation>La valeur par laquelle augmenter ou diminuer l'angle de rotation. Les valeurs paires tournent dans le sens antihoraire et les valeurs impaires dans le sens horaire.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand234</name>
     <message>
         <source>Picture to tint.</source>
-        <translation>Image à teinter.</translation>
+        <translation>Numéro de l&apos;image sur laquelle modifier le ton.</translation>
     </message>
     <message>
         <source>Color Tone</source>
-        <translation>Tonalité de couleur</translation>
+        <translation>Couleur de ton de l'image</translation>
     </message>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation>Indique comment changer la couleur.</translation>
+        <translation>Paramétrage de la couleur de ton de l'image.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand235</name>
     <message>
         <source>Picture to erase.</source>
-        <translation>Image à effacer.</translation>
+        <translation>Numéro de l&apos;image à effacer.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand236</name>
     <message>
         <source>Weather</source>
-        <translation>Météo</translation>
+        <translation>Climat</translation>
     </message>
     <message>
         <source>Settings for the weather effect to be displayed.</source>
-        <translation>Réglages pour l&apos;effet météo à afficher.</translation>
+        <translation>Paramétrage de l'effet météorologique.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -7346,22 +7346,22 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of the weather effect.</source>
-        <translation>Type d&apos;effet météo.</translation>
+        <translation>Type d&apos;effet à afficher.</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Puissance</translation>
+        <translation>Intensité</translation>
     </message>
     <message>
         <source>Amount of the weather effect images to be displayed at once.</source>
-        <translation>Montant d&apos;images d&apos;effet météo à afficher en une fois.</translation>
+        <translation>Intensité de l&apos;effet à afficher.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand242</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>Durée de l&apos;effacement progressif en secondes.</translation>
+        <translation>Durée d&apos;effacement en fondu en secondes.</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -7372,7 +7372,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand246</name>
     <message>
         <source>Duration of the fadeout in seconds.</source>
-        <translation>Durée de l&apos;effacement progressif en secondes.</translation>
+        <translation>Durée de l&apos;effacement en fondu en secondes.</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -7383,11 +7383,11 @@ Please lower the file size of this project.</source>
     <name>EventCommand281</name>
     <message>
         <source>Map Name Display</source>
-        <translation>Affichage du Nom de la Carte</translation>
+        <translation>Afficher le nom de la carte</translation>
     </message>
     <message>
         <source>Selects whether to display the map name when changing the current map.</source>
-        <translation>Sélectionne s&apos;il faut afficher ou non le nom de la carte au moment de changer la carte actuelle.</translation>
+        <translation>Modifier l&apos;option d&apos;affichage du nom de la carte.</translation>
     </message>
     <message>
         <source>ON</source>
@@ -7395,7 +7395,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Displays the map name when changing the current map.</source>
-        <translation>Affiche le nom de la carte lorsque vous changez la carte actuelle.</translation>
+        <translation>Afficher le nom de la carte quand le joueur y entre.</translation>
     </message>
     <message>
         <source>OFF</source>
@@ -7403,7 +7403,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Does not display the map name when changing the current map.</source>
-        <translation>N&apos;affiche pas le nom de la carte lorsque vous changez la carte actuelle.</translation>
+        <translation>Ne pas afficher le nom de la carte.</translation>
     </message>
 </context>
 <context>
@@ -7414,78 +7414,78 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Tileset to change to.</source>
-        <translation>Tileset à changer.</translation>
+        <translation>Spécifie quel tileset utiliser.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand283</name>
     <message>
         <source>Battle Background</source>
-        <translation>Arrière-plan de Combat</translation>
+        <translation>Fond de combat</translation>
     </message>
     <message>
         <source>Battle background images to change to.</source>
-        <translation>Images d&apos;arrière-plan de combat à changer.</translation>
+        <translation>Spécifie quelle image de fond de combat utiliser.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand284</name>
     <message>
         <source>Parallax Background</source>
-        <translation>Arrière-plan parallaxe</translation>
+        <translation>Panorama</translation>
     </message>
     <message>
         <source>Parallax background settings to change to.</source>
-        <translation>Réglages d&apos;arrière-plan parallaxe à changer.</translation>
+        <translation>Options pour l'image affichée dans les zones transparentes de la carte.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand285</name>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>Stocker l'information dans la variable : </translation>
     </message>
     <message>
         <source>Variable for storing information that was obtained.</source>
-        <translation>Variable pour stocker des informations qui ont été obtenues.</translation>
+        <translation>Indique dans quelle variable stocker l'information récupérée.</translation>
     </message>
     <message>
         <source>Info Type</source>
-        <translation>Type d&apos;Info</translation>
+        <translation>Type d&apos;information :</translation>
     </message>
     <message>
         <source>Type of information to obtain.</source>
-        <translation>Type d&apos;informations à obtenir.</translation>
+        <translation>Type d&apos;information à obtenir.</translation>
     </message>
     <message>
         <source>Location of information to obtain.</source>
-        <translation>Emplacement des informations à obtenir.</translation>
+        <translation>Définit le carreau sur lequel chercher l'information.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand301</name>
     <message>
         <source>Can Escape</source>
-        <translation>Peut Fuire</translation>
+        <translation>Autoriser la fuite</translation>
     </message>
     <message>
         <source>Enables the [Escape] command and creates a branch defining [If Escape] handling.</source>
-        <translation>Active la commande [Fuire] et créer une branche définissant la gestion [Si Fuire].</translation>
+        <translation>Active la commande [Fuir] et créer une branche conditionnelle "Si fuir" dans l&apos;évènement.</translation>
     </message>
     <message>
         <source>Can Lose</source>
-        <translation>Peut Perdre</translation>
+        <translation>Commandes en cas de défaite</translation>
     </message>
     <message>
         <source>Even if the party is defeated, the game does not end, but a branch is created defining [If Lose] handling.</source>
-        <translation>Même si le groupe est vaincu, le jeu ne se termine pas, mais une branche est créée définissant la gestion [Si Perdre].</translation>
+        <translation>Même si l&apos;équipe entière est décimée, le jeu n&apos;aboutira pas sur un Game Over et l&apos;évènement continuera. Ajoute une branche conditionnelle "Si défaite" dans l&apos;évènement.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand302</name>
     <message>
         <source>Merchandise List</source>
-        <translation>Liste des Marchandises</translation>
+        <translation>Liste des objets</translation>
     </message>
     <message>
         <source>Items that can be purchased at the shop.</source>
@@ -7493,7 +7493,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Merchandise</source>
-        <translation>Marchandises</translation>
+        <translation>Objets</translation>
     </message>
     <message>
         <source>Price</source>
@@ -7501,37 +7501,37 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Purchase Only</source>
-        <translation>Seulement Acheter</translation>
+        <translation>Achats uniquement</translation>
     </message>
     <message>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation>Rend impossible de vendre des objets dans le magasin.</translation>
+        <translation>Rend la vente d'objets impossible dans ce magasin.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand303</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to input the name.</source>
-        <translation>Acteur où entrer le nom.</translation>
+        <translation>Modifier le nom d'un héros.</translation>
     </message>
     <message>
         <source>Max characters</source>
-        <translation>Caractères Max</translation>
+        <translation>Limite de caractères</translation>
     </message>
     <message>
         <source>Maximum number of characters for name input.</source>
-        <translation>Nombre maximal de caractères pour l&apos;entrée du nom.</translation>
+        <translation>Nombre maximum de lettres dans le nom du héros.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand313</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionne s&apos;il faut ajouter ou retirer l&apos;état.</translation>
+        <translation>Sélectionnez l&apos;opération à appliquer sur le statut de l&apos;ennemi.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7540,7 +7540,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the state to the actor.</source>
-        <translation>Ajoute l&apos;état à l&apos;acteur.</translation>
+        <translation>Ajoute le statut.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7549,33 +7549,33 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state from the actor.</source>
-        <translation>Retire l&apos;état de l&apos;acteur.</translation>
+        <translation>Retire le statut.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>État à ajouter ou retirer.</translation>
+        <translation>Spécifie quel statut ajouter ou retirer.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand317</name>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>Caractéristique</translation>
     </message>
     <message>
         <source>Parameter type to increase or decrease.</source>
-        <translation>Type de paramètre à augmenter ou diminuer.</translation>
+        <translation>Sélectionnez la caractéristique à modifier.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand318</name>
     <message>
         <source>Selects whether to learn or forget the skill.</source>
-        <translation>Sélectionne s&apos;il faut apprendre ou oublier la compétence.</translation>
+        <translation>Sélectionnez l&apos;opération à effectuer sur la compétence du héros sélectionné.</translation>
     </message>
     <message>
         <source>Learn</source>
@@ -7583,7 +7583,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the skill to the actor.</source>
-        <translation>Ajoute la compétence à l&apos;acteur.</translation>
+        <translation>Ajoute la compétence.</translation>
     </message>
     <message>
         <source>Forget</source>
@@ -7591,54 +7591,54 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the skill from the actor.</source>
-        <translation>Retire la compétence à l&apos;acteur.</translation>
+        <translation>Oublie la compétence.</translation>
     </message>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Skill to learn or forget.</source>
-        <translation>Compétence à apprendre ou oublier.</translation>
+        <translation>Spécifie quelle compétence apprendre ou oublier.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand319</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the equipment.</source>
-        <translation>Acteur à qui changer l&apos;équipement.</translation>
+        <translation>Modifier l&apos;équipement d&apos;un hérost.</translation>
     </message>
     <message>
         <source>Equipment Type</source>
-        <translation>Type d&apos;Équipement</translation>
+        <translation>Type d&apos;équipement</translation>
     </message>
     <message>
         <source>Type of the equipment to be changed.</source>
-        <translation>Type d&apos;équipement à modifier.</translation>
+        <translation>Spécifie quel type d&apos;équipement modifier.</translation>
     </message>
     <message>
         <source>Equipment Item</source>
-        <translation>Objet d&apos;Équipement</translation>
+        <translation>Objet</translation>
     </message>
     <message>
         <source>Item to be newly equipped. The party must have the specified item.</source>
-        <translation>Objet à équiper nouvellement. Le groupe doit avoir l&apos;objet spécifié.</translation>
+        <translation>Spécifie quel objet équiper au héros. L&apos;objet doit être dans l&apos;inventaire de l&apos;équipe.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand320</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the name.</source>
-        <translation>Acteur à qui changer le nom.</translation>
+        <translation>Modifier le nom d'un héros.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -7646,18 +7646,18 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New name of the actor.</source>
-        <translation>Nouveau nom de l&apos;acteur.</translation>
+        <translation>Le nouveau nom du héros.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand321</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the class.</source>
-        <translation>Acteur à qui changer la classe.</translation>
+        <translation>Modifier la classe d'un héros.</translation>
     </message>
     <message>
         <source>Class</source>
@@ -7665,34 +7665,34 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New class of the actor.</source>
-        <translation>Nouvelle classe de l&apos;acteur.</translation>
+        <translation>La nouvelle classe du héros.</translation>
     </message>
     <message>
         <source>Save the current level of the actor.</source>
-        <translation>Enregistre le niveau actuel de l&apos;acteur.</translation>
+        <translation>La nouvelle classe sera au même niveau qu'avant le changement.</translation>
     </message>
     <message>
         <source>Save Level</source>
-        <translation>Enregistrer le Niveau</translation>
+        <translation>Conserver le niveau</translation>
     </message>
 </context>
 <context>
     <name>EventCommand322</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the images.</source>
-        <translation>Acteur à qui changer les images.</translation>
+        <translation>Modifier l&apos;apparence d'un héros.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>Images of the actor to be displayed in the game.</source>
-        <translation>Images de l&apos;acteur à afficher dans le jeu.</translation>
+        <translation>Spécifie quelle image utiliser.</translation>
     </message>
 </context>
 <context>
@@ -7703,26 +7703,26 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Vehicle to change the image.</source>
-        <translation>Véhicule à qui changer l&apos;image.</translation>
+        <translation>Modifier l'apparence d'un véhicule</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>Image</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>Spécifie quelle image utiliser.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand324</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the nickname.</source>
-        <translation>Acteur à qui changer le surnom.</translation>
+        <translation>Modifier le surnom d'un héros</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7730,33 +7730,33 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>New nickname of the actor.</source>
-        <translation>Nouveau surnom de l&apos;acteur.</translation>
+        <translation>Le nouveau surnom du héros.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand325</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the profile.</source>
-        <translation>Acteur à qui changer le profil.</translation>
+        <translation>Modifier la biographie d'un héros</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation>Profil</translation>
+        <translation>Biographie</translation>
     </message>
     <message>
         <source>New profile of the actor.</source>
-        <translation>Nouveau profil de l&apos;acteur.</translation>
+        <translation>La nouvelle biographie du héros.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand333</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionne s&apos;il faut ajouter ou retirer l&apos;état.</translation>
+        <translation>Sélectionnez l&apos;opération à appliquer sur le statut de l&apos;ennemi.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7765,7 +7765,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the state to the enemy.</source>
-        <translation>Ajoute l&apos;état à l&apos;ennemi.</translation>
+        <translation>Ajouter le statut.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7774,44 +7774,44 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state from the enemy.</source>
-        <translation>Retire l&apos;état de l&apos;ennemi.</translation>
+        <translation>Retire le statut.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>État à ajouter ou retirer.</translation>
+        <translation>Spécifie quel statut ajouter ou retirer.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand335</name>
     <message>
         <source>Enemy to appear.</source>
-        <translation>Ennemi à apparaître.</translation>
+        <translation>Spécifie quel ennemi faire apparaître.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand336</name>
     <message>
         <source>Enemy to transform.</source>
-        <translation>Ennemi à transformer.</translation>
+        <translation>Spécifie quel ennemi transformer.</translation>
     </message>
     <message>
         <source>Transform to</source>
-        <translation>Transformer en</translation>
+        <translation>Transformation :</translation>
     </message>
     <message>
         <source>Specifies which enemy to transform into.</source>
-        <translation>Spécifie en quel ennemi se transformer.</translation>
+        <translation>Spécifie en quel ennemi l&apos;ennemi sélectionné doit se transformer.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand337</name>
     <message>
         <source>Enemy to be the target.</source>
-        <translation>Ennemi à être ciblé.</translation>
+        <translation>Indique sur quel ennemi afficher l&apos;animation.</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -7819,34 +7819,34 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Type of animation to be displayed.</source>
-        <translation>Type d&apos;animation à afficher.</translation>
+        <translation>Spécifie quelle animation afficher.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'animation spécifiée s'affichera sur le groupe ennemi au complet.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cibler le groupe entier</translation>
     </message>
 </context>
 <context>
     <name>EventCommand339</name>
     <message>
         <source>Subject</source>
-        <translation>Sujet</translation>
+        <translation>Attaquant</translation>
     </message>
     <message>
         <source>Battle character to be forced the action.</source>
-        <translation>Personnage de combat à qui forcer l&apos;action.</translation>
+        <translation>Indique quel ennemi ou quel héros est forcé d&apos;exécuter l&apos;action.</translation>
     </message>
     <message>
         <source>Forces the action of the specified enemy.</source>
-        <translation>Force l&apos;action de l&apos;ennemi spécifié.</translation>
+        <translation>Force l&apos;ennemi spécifié à exécuter une action.</translation>
     </message>
     <message>
         <source>Forces the action of the specified actor.</source>
-        <translation>Force l&apos;action de l&apos;acteur spécifié.</translation>
+        <translation>Force le héros spécifié à exécuter une action.</translation>
     </message>
     <message>
         <source>Action</source>
@@ -7854,16 +7854,16 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Contents of the forced action.</source>
-        <translation>Contenu de l&apos;action forcée.</translation>
+        <translation>Définit le contenu de l&apos;action à exécuter..</translation>
     </message>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Skill that will be used as the action.</source>
-        <translation>Compétence qui sera utilisée comme action.</translation>
+        <translation>Spécifie quelle compétence utiliser.</translation>
     </message>
     <message>
         <source>Target</source>
@@ -7871,7 +7871,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Target of the action when the selection is required.</source>
-        <translation>Cible de l&apos;action quand la sélection est requise.</translation>
+        <translation>Spécifie la cible de l&apos;action par son index. Par exemple, avec un héros pour cible, l&apos;index 1 sera le premier membre de l&apos;équipe. Spécifiez [Dernière cible] pour que la cible soit la même que l&apos;action précédente. Quand la cible de la compétence est paramétrée dans la base de données sur [Tous*] ou [L&apos;utilisateur], ce paramètre est ignoré.</translation>
     </message>
 </context>
 <context>
@@ -7882,18 +7882,18 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>JavaScript code to be evaluated.</source>
-        <translation>Code de JavaScript à évaluer.</translation>
+        <translation>Code JavaScript à exécuter.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand356</name>
     <message>
         <source>Plugin Command</source>
-        <translation>Commande de Module</translation>
+        <translation>Commande de module</translation>
     </message>
     <message>
         <source>Command to be executed by plugins.</source>
-        <translation>Commande à être exécutée par les modules.</translation>
+        <translation>Commande à exécuter par les modules.</translation>
     </message>
 </context>
 <context>
@@ -7904,7 +7904,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Copy as Text</source>
-        <translation>Copier en tant que Texte</translation>
+        <translation>Copier en tant que texte</translation>
     </message>
     <message>
         <source>Copy as HTML</source>
@@ -7919,11 +7919,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Entire Party</source>
-        <translation>Groupe entier</translation>
+        <translation>Équipe</translation>
     </message>
     <message>
         <source>Entire Troop</source>
-        <translation>Troupe Entière</translation>
+        <translation>Groupe entier</translation>
     </message>
     <message>
         <source>%1 min %2 sec</source>
@@ -7943,7 +7943,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor ID</source>
-        <translation>ID de l&apos;Acteur</translation>
+        <translation>ID du héros</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -7977,7 +7977,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>No Fast Forward</source>
-        <translation>Pas d&apos;Avance Rapide</translation>
+        <translation>Pas d&apos;avance rapide</translation>
     </message>
     <message>
         <source>%1 is %2</source>
@@ -7986,7 +7986,7 @@ Please lower the file size of this project.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>Interrupteur automatique</translation>
     </message>
     <message>
         <source>Timer</source>
@@ -8002,7 +8002,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Class of %1 is %2</source>
-        <translation>Classe de %1 est %2</translation>
+        <translation>La classe de %1 est %2</translation>
     </message>
     <message>
         <source>%1 has learned %2</source>
@@ -8034,7 +8034,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Button [%1] is pressed down</source>
-        <translation>Touche [%1] est enfoncée</translation>
+        <translation>La touche [%1] est enfoncée</translation>
     </message>
     <message>
         <source>Script</source>
@@ -8098,7 +8098,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Identique Rencontre Aléatoire</translation>
+        <translation>Pareil que la rencontre aléatoire</translation>
     </message>
     <message>
         <source> characters</source>
@@ -8123,15 +8123,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Text</source>
-        <translation>Afficher le Texte</translation>
+        <translation>Afficher le texte</translation>
     </message>
     <message>
         <source>Show Choices</source>
-        <translation>Afficher les Choix</translation>
+        <translation>Afficher les choix</translation>
     </message>
     <message>
         <source>Input Number</source>
-        <translation>Entrer Nombre</translation>
+        <translation>Entrer un nombre</translation>
     </message>
     <message>
         <source>When Cancel</source>
@@ -8144,7 +8144,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Select Item</source>
-        <translation>Sélectionner Objet</translation>
+        <translation>Sélectionner un objet</translation>
     </message>
     <message>
         <source>Text(S)</source>
@@ -8152,7 +8152,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Scrolling Text</source>
-        <translation>Montrer le Texte Défilant</translation>
+        <translation>Montrer le texte défilant</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -8164,11 +8164,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Conditional Branch</source>
-        <translation>Branche Conditionnelle</translation>
+        <translation>Condition</translation>
     </message>
     <message>
         <source>Else</source>
-        <translation>Autre</translation>
+        <translation>Sinon</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -8176,391 +8176,391 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Repeat Above</source>
-        <translation>Répéter Ci-Dessus</translation>
+        <translation>Répéter ci-dessus</translation>
     </message>
     <message>
         <source>Break Loop</source>
-        <translation>Rompre la Boucle</translation>
+        <translation>Interrompre la boucle</translation>
     </message>
     <message>
         <source>Continue Loop</source>
-        <translation>Continuer la Boucle</translation>
+        <translation>Continuer la boucle</translation>
     </message>
     <message>
         <source>Exit Event Processing</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sortir du Traitement de l&apos;Év.</translation>
+        <translation>Arrêter les évènements</translation>
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Évènement Commun</translation>
+        <translation>Évènement commun...</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Label</translation>
+        <translation>Placer une étiquette...</translation>
     </message>
     <message>
         <source>Jump to Label</source>
-        <translation>Passer au Label</translation>
+        <translation>Aller à l&apos;étiquette...</translation>
     </message>
     <message>
         <source>Control Switches</source>
-        <translation>Contrôler les Interrupteurs</translation>
+        <translation>Modifier un interrupteur...</translation>
     </message>
     <message>
         <source>Control Variables</source>
-        <translation>Contrôler les Variables</translation>
+        <translation>Modifier une variable...</translation>
     </message>
     <message>
         <source>Control Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Contrôler Interrupteur Auto.</translation>
+        <translation>Modifier un interrupteur local...</translation>
     </message>
     <message>
         <source>Control Timer</source>
-        <translation>Contrôler Chronomètre</translation>
+        <translation>Modifier le chronomètre...</translation>
     </message>
     <message>
         <source>Change Gold</source>
-        <translation>Changer Or</translation>
+        <translation>Modifier l'argent...</translation>
     </message>
     <message>
         <source>Change Items</source>
-        <translation>Changer Objets</translation>
+        <translation>Modifier les objets...</translation>
     </message>
     <message>
         <source>Change Weapons</source>
-        <translation>Changer Armes</translation>
+        <translation>Modifier les armes...</translation>
     </message>
     <message>
         <source>Change Armors</source>
-        <translation>Changer Armures</translation>
+        <translation>Modifier les armures...</translation>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Changer Membre du Groupe</translation>
+        <translation>Modifier l'équipe...e</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
-        <translation>Changer BGM de Combat</translation>
+        <translation>Modifier la BGM des combats...</translation>
     </message>
     <message>
         <source>Change Victory ME</source>
-        <translation>Changer ME de Victoire</translation>
+        <translation>Modifier le ME de victoire...</translation>
     </message>
     <message>
         <source>Change Save Access</source>
-        <translation>Changer Accès à Enregistrer</translation>
+        <translation>Accès aux sauvegardes...</translation>
     </message>
     <message>
         <source>Change Menu Access</source>
-        <translation>Changer Accès au Menu</translation>
+        <translation>Accès au Menu...</translation>
     </message>
     <message>
         <source>Change Encounter</source>
-        <translation>Changer Rencontre</translation>
+        <translation>Combats aléatoires...</translation>
     </message>
     <message>
         <source>Change Formation Access</source>
-        <translation>Changer Accès à Formation</translation>
+        <translation>Formation de l&apos;équipe...</translation>
     </message>
     <message>
         <source>Change Window Color</source>
-        <translation>Changer Couleur Fenêtre</translation>
+        <translation>Apparence des fenêtres...</translation>
     </message>
     <message>
         <source>Change Defeat ME</source>
-        <translation>Changer ME de Défaite</translation>
+        <translation>Modifier le ME de défaite...</translation>
     </message>
     <message>
         <source>Change Vehicle BGM</source>
-        <translation>Changer la BGM du Véhicule</translation>
+        <translation>Modifier la BGM des véhicules...</translation>
     </message>
     <message>
         <source>Transfer Player</source>
-        <translation>Transférer Joueur</translation>
+        <translation>Téléportation...r</translation>
     </message>
     <message>
         <source>Set Vehicle Location</source>
-        <translation>Régler Emplacement Véhicule</translation>
+        <translation>Placer un véhicule...</translation>
     </message>
     <message>
         <source>Set Event Location</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Régler Emplacement Év.</translation>
+        <translation>Placer un évènement...</translation>
     </message>
     <message>
         <source>Scroll Map</source>
-        <translation>Faire Défiler la Carte</translation>
+        <translation>Faire défiler la carte...</translation>
     </message>
     <message>
         <source>Set Movement Route</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Régler Trajectoire Mouv.</translation>
+        <translation>Déplacer un évènement...</translation>
     </message>
     <message>
         <source>Get on/off Vehicle</source>
-        <translation>Monter/Descendre du véhicule</translation>
+        <translation>Entrer/sortir d'un véhicule</translation>
     </message>
     <message>
         <source>Change Transparency</source>
-        <translation>Changer la Transparence</translation>
+        <translation>Invisibilité du héros...</translation>
     </message>
     <message>
         <source>Change Player Followers</source>
-        <translation>Changer Suiveurs du Joueur</translation>
+        <translation>Activer/désactiver la chenille...</translation>
     </message>
     <message>
         <source>Gather Followers</source>
-        <translation>Rassembler les Suiveurs</translation>
+        <translation>Regrouper la chenille</translation>
     </message>
     <message>
         <source>Show Animation</source>
-        <translation>Montrer l&apos;Animation</translation>
+        <translation>Afficher une animation...</translation>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>Montrer l&apos;Icône de Ballon</translation>
+        <translation>Afficher une bulle d'émotion...</translation>
     </message>
     <message>
         <source>Erase Event</source>
-        <translation>Effacer l&apos;Évènement</translation>
+        <translation>Effacer l&apos;évènement</translation>
     </message>
     <message>
         <source>Fadeout Screen</source>
-        <translation>Effacer Progressivement l&apos;Écran</translation>
+        <translation>Effacer l&apos;écran en fondu</translation>
     </message>
     <message>
         <source>Fadein Screen</source>
-        <translation>Fondre l&apos;Écran</translation>
+        <translation>Afficher l&apos;écran en fondu</translation>
     </message>
     <message>
         <source>Tint Screen</source>
-        <translation>Teinter l&apos;Écran</translation>
+        <translation>Modifier la teinte de l&apos;écran...</translation>
     </message>
     <message>
         <source>Flash Screen</source>
-        <translation>Flasher l&apos;Écran</translation>
+        <translation>Flasher l&apos;écran...</translation>
     </message>
     <message>
         <source>Shake Screen</source>
-        <translation>Secouer l&apos;Écran</translation>
+        <translation>Secouer l&apos;écran...</translation>
     </message>
     <message>
         <source>Wait</source>
-        <translation>Attendre</translation>
+        <translation>Attendre...</translation>
     </message>
     <message>
         <source>Show Picture</source>
-        <translation>Afficher l&apos;Image</translation>
+        <translation>Afficher une image...</translation>
     </message>
     <message>
         <source>Move Picture</source>
-        <translation>Bouger l&apos;Image</translation>
+        <translation>Déplacer une image...</translation>
     </message>
     <message>
         <source>Rotate Picture</source>
-        <translation>Tourner l&apos;Image</translation>
+        <translation>Faire tourner une image...</translation>
     </message>
     <message>
         <source>Tint Picture</source>
-        <translation>Teinter l&apos;Image</translation>
+        <translation>Modifier la teinte d'une image...</translation>
     </message>
     <message>
         <source>Erase Picture</source>
-        <translation>Effacer l&apos;Image</translation>
+        <translation>Effacer une image...</translation>
     </message>
     <message>
         <source>Set Weather Effect</source>
-        <translation>Régler l&apos;Effet Météo</translation>
+        <translation>Effets météorologiques...</translation>
     </message>
     <message>
         <source>Play BGM</source>
-        <translation>Jouer BGM</translation>
+        <translation>Jouer une musique (BGM)...</translation>
     </message>
     <message>
         <source>Fadeout BGM</source>
-        <translation>Effacer Progressivement BGM</translation>
+        <translation>Arrêt en fondu de la BGM...</translation>
     </message>
     <message>
         <source>Save BGM</source>
-        <translation>Enregistrer BGM</translation>
+        <translation>Mémoriser la musique (BGM)...</translation>
     </message>
     <message>
         <source>Replay BGM</source>
-        <translation>Rejouer BGM</translation>
+        <translation>Rejouer la musique (BGM)</translation>
     </message>
     <message>
         <source>Play BGS</source>
-        <translation>Jouer BGS</translation>
+        <translation>Jouer un fond sonore (BGS)...</translation>
     </message>
     <message>
         <source>Fadeout BGS</source>
-        <translation>Effacer Progressivement BGS</translation>
+        <translation>Arrêt en fondu du BGS...</translation>
     </message>
     <message>
         <source>Play ME</source>
-        <translation>Jouer ME</translation>
+        <translation>Jouer un effet musical (ME)...</translation>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Jouer SE</translation>
+        <translation>Jouer un effet sonore (SE)...</translation>
     </message>
     <message>
         <source>Stop SE</source>
-        <translation>Arrêter SE</translation>
+        <translation>Arrêter l'effet sonore (SE)...</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation>Lire Film</translation>
+        <translation>Jouer une vidéo...</translation>
     </message>
     <message>
         <source>Change Map Name Display</source>
-        <translation>Affichage Nom de la Carte</translation>
+        <translation>Affichage du nom de la carte...</translation>
     </message>
     <message>
         <source>Change Tileset</source>
-        <translation>Changer Tileset</translation>
+        <translation>Changer le tileset...</translation>
     </message>
     <message>
         <source>Change Battle Back</source>
-        <translation>Changer la Lutte</translation>
+        <translation>Changer de fond de combat...</translation>
     </message>
     <message>
         <source>Change Parallax</source>
-        <translation>Changer Parallaxe</translation>
+        <translation>Changer de panorama...</translation>
     </message>
     <message>
         <source>Get Location Info</source>
-        <translation>Obtenir Infos d&apos;Emplacement</translation>
+        <translation>Récupérer les informations...</translation>
     </message>
     <message>
         <source>Battle Processing</source>
-        <translation>Traitement du Combat</translation>
+        <translation>Démarrer un combat...</translation>
     </message>
     <message>
         <source>If Win</source>
-        <translation>Si Gagner</translation>
+        <translation>Si victoire</translation>
     </message>
     <message>
         <source>If Escape</source>
-        <translation>Si Fuire</translation>
+        <translation>Si fuite</translation>
     </message>
     <message>
         <source>If Lose</source>
-        <translation>Si Perdre</translation>
+        <translation>Si défaite</translation>
     </message>
     <message>
         <source>Shop Processing</source>
-        <translation>Traitement du Magasin</translation>
+        <translation>Ouvrir un magasin...</translation>
     </message>
     <message>
         <source>Name Input Processing</source>
-        <translation>Traitement de l&apos;Entrée du Nom</translation>
+        <translation>Entrer un nom...</translation>
     </message>
     <message>
         <source>Change HP</source>
-        <translation>Changer HP</translation>
+        <translation>Modifier les PV...</translation>
     </message>
     <message>
         <source>Change MP</source>
-        <translation>Changer MP</translation>
+        <translation>Modifier les PM...</translation>
     </message>
     <message>
         <source>Change TP</source>
-        <translation>Changer TP</translation>
+        <translation>Modifier les PT...</translation>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Changer État</translation>
+        <translation>Modifier les statuts...</translation>
     </message>
     <message>
         <source>Recover All</source>
-        <translation>Récupérer Tout</translation>
+        <translation>Guérir complètement...</translation>
     </message>
     <message>
         <source>Change EXP</source>
-        <translation>Changer EXP</translation>
+        <translation>Modifier l&apos;expérience...</translation>
     </message>
     <message>
         <source>Change Level</source>
-        <translation>Changer Niveau</translation>
+        <translation>Modifier le niveau...</translation>
     </message>
     <message>
         <source>Change Parameter</source>
-        <translation>Changer Paramètre</translation>
+        <translation>Modifier une caractéristique...</translation>
     </message>
     <message>
         <source>Change Skill</source>
-        <translation>Changer Compétence</translation>
+        <translation>Modifier les compétences...</translation>
     </message>
     <message>
         <source>Change Equipment</source>
-        <translation>Changer Équipement</translation>
+        <translation>Modifier lvéquipement...</translation>
     </message>
     <message>
         <source>Change Name</source>
-        <translation>Changer Nom</translation>
+        <translation>Modifier le nom...</translation>
     </message>
     <message>
         <source>Change Class</source>
-        <translation>Changer Classe</translation>
+        <translation>Modifier la classe...</translation>
     </message>
     <message>
         <source>Change Actor Images</source>
-        <translation>Changer Images de l&apos;Acteur</translation>
+        <translation>Apparence d&apos;un héros...</translation>
     </message>
     <message>
         <source>Change Vehicle Image</source>
-        <translation>Changer Image du Véhicule</translation>
+        <translation>Apparence d&apos;un véhicule...</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation>Changer Surnom</translation>
+        <translation>Modifier le surnom...</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation>Changer Profil</translation>
+        <translation>Modifier la biographie...</translation>
     </message>
     <message>
         <source>Change Enemy HP</source>
-        <translation>Changer HP de l&apos;Ennemi</translation>
+        <translation>Modifier les PV d&apos;un ennemi...</translation>
     </message>
     <message>
         <source>Change Enemy MP</source>
-        <translation>Changer MP de l&apos;Ennemi</translation>
+        <translation>Modifier les PM d&apos;un ennemi...</translation>
     </message>
     <message>
         <source>Change Enemy TP</source>
-        <translation>Changer TP de l&apos;Ennemi</translation>
+        <translation>Modifier les PT d&apos;un ennemi...</translation>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Changer État de l&apos;Ennemi</translation>
+        <translation>Modifier le statut d&apos;un ennemi...</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
-        <translation>Guérison Totale Ennemi</translation>
+        <translation>Guérir un ennemi...</translation>
     </message>
     <message>
         <source>Enemy Appear</source>
-        <translation>Apparition Ennemi</translation>
+        <translation>Afficher un ennemi caché...</translation>
     </message>
     <message>
         <source>Enemy Transform</source>
-        <translation>Transformation Ennemi</translation>
+        <translation>Transformer un ennemi...</translation>
     </message>
     <message>
         <source>Show Battle Animation</source>
-        <translation>Affiche l&apos;Animation de Combat</translation>
+        <translation>Afficher une animation...t</translation>
     </message>
     <message>
         <source>Force Action</source>
-        <translation>Forcer Action</translation>
+        <translation>Forcer une action...</translation>
     </message>
     <message>
         <source>Abort Battle</source>
-        <translation>Abandonner le Combat</translation>
+        <translation>Terminer le combat...</translation>
     </message>
     <message>
         <source>Open Menu Screen</source>
