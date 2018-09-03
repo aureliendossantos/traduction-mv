@@ -3424,7 +3424,7 @@
     <name>Dialog_MapLoader</name>
     <message>
         <source>Sample Maps</source>
-        <translation>Cartes d'exemple</translation>
+        <translation>Cartes d&apos;exemple</translation>
     </message>
     <message>
         <source>World 1</source>
@@ -3874,7 +3874,7 @@
     <message>
         <source>School Hall</source>
         <comment>Cyberpunk</comment>
-        <translation>Hall de l'école</translation>
+        <translation>Hall de l&apos;école</translation>
     </message>
     <message>
         <source>School Classroom</source>
@@ -4676,7 +4676,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Direction of the character after moving.</source>
-        <translation>Direction du regard du personnage à l'arrivée.</translation>
+        <translation>Direction du regard du personnage à l&apos;arrivée.</translation>
     </message>
 </context>
 <context>
@@ -6584,7 +6584,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand111</name>
     <message>
         <source>Create Else Branch</source>
-        <translation>Exécuter autre chose si la condition n'est pas remplie</translation>
+        <translation>Exécuter autre chose si la condition n&apos;est pas remplie</translation>
     </message>
     <message>
         <source>Also creates a branch for when the condition is not met.</source>
@@ -6926,7 +6926,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects whether to enable or disable the menu screen calls.</source>
-        <translation>Sélectionne s&apos;il faut activer ou désactiver la possibilité d'ouvrir le menu.</translation>
+        <translation>Sélectionne s&apos;il faut activer ou désactiver la possibilité d&apos;ouvrir le menu.</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -6934,7 +6934,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Disables the menu screen calls.</source>
-        <translation>Désactive la possibilité d'ouvrir le menu.</translation>
+        <translation>Désactive la possibilité d&apos;ouvrir le menu.</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -6942,7 +6942,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Enables the menu screen calls.</source>
-        <translation>Active la possibilité d'ouvrir le menu.</translation>
+        <translation>Active la possibilité d&apos;ouvrir le menu.</translation>
     </message>
 </context>
 <context>
@@ -7179,7 +7179,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la fin de l'animation</translation>
+        <translation>Attendre la fin de l&apos;animation</translation>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
@@ -7288,7 +7288,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand233</name>
     <message>
         <source>Picture to rotate.</source>
-        <translation>Numéro de l'&apos;image à faire pivoter.</translation>
+        <translation>Numéro de l&apos;image à faire pivoter.</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -7304,7 +7304,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Value by which to increase/decrease the angle. Positive values mean counterclockwise rotation.</source>
-        <translation>La valeur par laquelle augmenter ou diminuer l'angle de rotation. Les valeurs paires tournent dans le sens antihoraire et les valeurs impaires dans le sens horaire.</translation>
+        <translation>La valeur par laquelle augmenter ou diminuer l&apos;angle de rotation. Les valeurs paires tournent dans le sens antihoraire et les valeurs impaires dans le sens horaire.</translation>
     </message>
 </context>
 <context>
@@ -7315,11 +7315,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Color Tone</source>
-        <translation>Couleur de ton de l'image</translation>
+        <translation>Couleur de ton de l&apos;image</translation>
     </message>
     <message>
         <source>Specifies how to change the color.</source>
-        <translation>Paramétrage de la couleur de ton de l'image.</translation>
+        <translation>Paramétrage de la couleur de ton de l&apos;image.</translation>
     </message>
 </context>
 <context>
@@ -7337,7 +7337,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Settings for the weather effect to be displayed.</source>
-        <translation>Paramétrage de l'effet météorologique.</translation>
+        <translation>Paramétrage de l&apos;effet météorologique.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -7435,18 +7435,18 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Parallax background settings to change to.</source>
-        <translation>Options pour l'image affichée dans les zones transparentes de la carte.</translation>
+        <translation>Options pour l&apos;image affichée dans les zones transparentes de la carte.</translation>
     </message>
 </context>
 <context>
     <name>EventCommand285</name>
     <message>
         <source>Variable</source>
-        <translation>Stocker l'information dans la variable : </translation>
+        <translation>Stocker l&apos;information dans la variable : </translation>
     </message>
     <message>
         <source>Variable for storing information that was obtained.</source>
-        <translation>Indique dans quelle variable stocker l'information récupérée.</translation>
+        <translation>Indique dans quelle variable stocker l&apos;information récupérée.</translation>
     </message>
     <message>
         <source>Info Type</source>
@@ -7458,7 +7458,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Location of information to obtain.</source>
-        <translation>Définit le carreau sur lequel chercher l'information.</translation>
+        <translation>Définit le carreau sur lequel chercher l&apos;information.</translation>
     </message>
 </context>
 <context>
@@ -7504,7 +7504,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Makes it impossible to sell items in the shop.</source>
-        <translation>Rend la vente d'objets impossible dans ce magasin.</translation>
+        <translation>Rend la vente d&apos;objets impossible dans ce magasin.</translation>
     </message>
 </context>
 <context>
@@ -7515,7 +7515,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to input the name.</source>
-        <translation>Modifier le nom d'un héros.</translation>
+        <translation>Modifier le nom d&apos;un héros.</translation>
     </message>
     <message>
         <source>Max characters</source>
@@ -7637,7 +7637,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the name.</source>
-        <translation>Modifier le nom d'un héros.</translation>
+        <translation>Modifier le nom d&apos;un héros.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -7656,7 +7656,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the class.</source>
-        <translation>Modifier la classe d'un héros.</translation>
+        <translation>Modifier la classe d&apos;un héros.</translation>
     </message>
     <message>
         <source>Class</source>
@@ -7668,7 +7668,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Save the current level of the actor.</source>
-        <translation>La nouvelle classe sera au même niveau qu'avant le changement.</translation>
+        <translation>La nouvelle classe sera au même niveau qu&apos;avant le changement.</translation>
     </message>
     <message>
         <source>Save Level</source>
@@ -7683,7 +7683,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the images.</source>
-        <translation>Modifier l&apos;apparence d'un héros.</translation>
+        <translation>Modifier l&apos;apparence d&apos;un héros.</translation>
     </message>
     <message>
         <source>Images</source>
@@ -7702,7 +7702,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Vehicle to change the image.</source>
-        <translation>Modifier l'apparence d'un véhicule</translation>
+        <translation>Modifier l&apos;apparence d&apos;un véhicule</translation>
     </message>
     <message>
         <source>Image</source>
@@ -7721,7 +7721,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the nickname.</source>
-        <translation>Modifier le surnom d'un héros</translation>
+        <translation>Modifier le surnom d&apos;un héros</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7740,7 +7740,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Actor to change the profile.</source>
-        <translation>Modifier la biographie d'un héros</translation>
+        <translation>Modifier la biographie d&apos;un héros</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -7822,7 +7822,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Target all enemies in the troop.</source>
-        <translation type="unfinished">L'animation spécifiée s'affichera sur le groupe ennemi au complet.</translation>
+        <translation type="unfinished">L&apos;animation spécifiée s&apos;affichera sur le groupe ennemi au complet.</translation>
     </message>
     <message>
         <source>Target all enemies in the troop?</source>
@@ -8221,7 +8221,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Gold</source>
-        <translation>Modifier l'argent</translation>
+        <translation>Modifier l&apos;argent</translation>
     </message>
     <message>
         <source>Change Items</source>
@@ -8237,7 +8237,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Party Member</source>
-        <translation>Modifier l'équipee</translation>
+        <translation>Modifier l&apos;équipe</translation>
     </message>
     <message>
         <source>Change Battle BGM</source>
@@ -8299,7 +8299,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Get on/off Vehicle</source>
-        <translation>Entrer/sortir d'un véhicule</translation>
+        <translation>Entrer/sortir d&apos;un véhicule</translation>
     </message>
     <message>
         <source>Change Transparency</source>
@@ -8319,7 +8319,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Show Balloon Icon</source>
-        <translation>Afficher une bulle d'émotion</translation>
+        <translation>Afficher une bulle d&apos;émotion</translation>
     </message>
     <message>
         <source>Erase Event</source>
@@ -8363,7 +8363,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Tint Picture</source>
-        <translation>Modifier la teinte d'une image</translation>
+        <translation>Modifier la teinte d&apos;une image</translation>
     </message>
     <message>
         <source>Erase Picture</source>
@@ -8407,7 +8407,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Stop SE</source>
-        <translation>Arrêter l'effet sonore (SE)</translation>
+        <translation>Arrêter l&apos;effet sonore (SE)</translation>
     </message>
     <message>
         <source>Play Movie</source>
@@ -8695,7 +8695,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Clears all states and fully recovers HP and MP.</source>
-        <translation>Retirer tous les statuts à un membre de l'équipe et le soigner complètement.</translation>
+        <translation>Retirer tous les statuts à un membre de l&apos;équipe et le soigner complètement.</translation>
     </message>
     <message>
         <source>Changes the EXP of the actor.</source>
@@ -8751,7 +8751,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Forces the player or event to move. If a route already exists, it will be overwritten.</source>
-        <translation>Forcer le joueur ou un évènement à suivre une trajectoire définie. Si le joueur ou l&apos;évènement est déjà soumis à ce type de commande, la nouvelle remplacera l'ancienne.</translation>
+        <translation>Forcer le joueur ou un évènement à suivre une trajectoire définie. Si le joueur ou l&apos;évènement est déjà soumis à ce type de commande, la nouvelle remplacera l&apos;ancienne.</translation>
     </message>
     <message>
         <source>Puts the player on a vehicle. If the player is already on a vehicle, puts him on the ground.</source>
@@ -8795,7 +8795,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Temporarily fill the entire screen with a color, then gradually revert to the original color.</source>
-        <translation>Remplir temporairement l&apos;écran avec une couleur puis revenir graduellement à sa couleur d'origine.</translation>
+        <translation>Remplir temporairement l&apos;écran avec une couleur puis revenir graduellement à sa couleur d&apos;origine.</translation>
     </message>
     <message>
         <source>Shakes the entire screen from side to side.</source>
@@ -8863,7 +8863,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Stop all the SE.</source>
-        <translation>Stopper l'effet sonore.</translation>
+        <translation>Stopper l&apos;effet sonore.</translation>
     </message>
     <message>
         <source>Starts a battle.</source>
@@ -9093,14 +9093,14 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation>Échec de l'envoi du projet.</translation>
+        <translation>Échec de l&apos;envoi du projet.</translation>
     </message>
 </context>
 <context>
     <name>GameShareOgc</name>
     <message>
         <source>Failed to upload a project.</source>
-        <translation>Échec de l'envoi du projet.</translation>
+        <translation>Échec de l&apos;envoi du projet.</translation>
     </message>
     <message>
         <source>Succeeded to upload a project.
@@ -9116,7 +9116,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>List of enemy actions in battle.</source>
-        <translation>Liste des attaques de l'ennemi.</translation>
+        <translation>Liste des attaques de l&apos;ennemi.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -9125,7 +9125,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Condition</source>
-        <translation>Conditions d'action</translation>
+        <translation>Conditions d&apos;action</translation>
     </message>
     <message>
         <source>R</source>
@@ -9366,7 +9366,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy HP</source>
-        <translation>PV de l'ennemi</translation>
+        <translation>PV de l&apos;ennemi</translation>
     </message>
     <message>
         <source>Actor HP</source>
@@ -9417,7 +9417,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the transparent color looks like.</source>
-        <translation>Affiche l'apparence finale de la couleur transparente paramétrée.</translation>
+        <translation>Affiche l&apos;apparence finale de la couleur transparente paramétrée.</translation>
     </message>
 </context>
 <context>
@@ -9484,7 +9484,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par "a" et la cible par "b", suivi d'un point et de l&apos;identifiant de la caractéristique à utiliser. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
+        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par "a" et la cible par "b", suivi d&apos;un point et de l&apos;identifiant de la caractéristique à utiliser. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -9628,7 +9628,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>List of the troops for random encounters.</source>
-        <translation>Liste des groupes d'ennemis pour les combats aléatoires.</translation>
+        <translation>Liste des groupes d&apos;ennemis pour les combats aléatoires.</translation>
     </message>
     <message>
         <source>Troop</source>
@@ -9640,7 +9640,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Range</source>
-        <translation>Zones d'apparition</translation>
+        <translation>Zones d&apos;apparition</translation>
     </message>
     <message>
         <source>Entire Map</source>
@@ -9688,7 +9688,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Appears when the party has the specified item.</source>
-        <translation>La page d&apos;évènements n&apos;est déclenchable que si l&apos;objet spécifié est dans l'inventaire de l&apos;équipe.</translation>
+        <translation>La page d&apos;évènements n&apos;est déclenchable que si l&apos;objet spécifié est dans l&apos;inventaire de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Actor</source>
@@ -9743,7 +9743,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hit Type</source>
-        <translation>Type d'attaque</translation>
+        <translation>Type d&apos;attaque</translation>
     </message>
     <message>
         <source>Method for determining a hit. &lt;br&gt;[Certain Hit] Treats a successful use of the action as a hit.&lt;br&gt;[Physical Attack] Determines hits based on the user&apos;s hit rate and target&apos;s evasion rate.&lt;br&gt;[Magical Attack] Determines hits based on the target&apos;s magic evasion rate.</source>
@@ -9834,11 +9834,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Another Event</source>
-        <translation type="unfinished">Autre évènement</translation>
+        <translation>Autre évènement</translation>
     </message>
     <message>
         <source>Event character to swap the location.</source>
-        <translation type="unfishined">Évènement personnage pour permuter l&apos;emplacement.</translation>
+        <translation>Évènement dont l&apos;emplacement est permuté.</translation>
     </message>
 </context>
 <context>
@@ -9846,11 +9846,11 @@ Please complete the post with follow this link.</source>
     <message>
         <source>[SV] Magic Skills</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation type="unfinished">[SV] Comp. Mag.</translation>
+        <translation>[SV] Comp. Mag.</translation>
     </message>
     <message>
         <source>List of the skill types which require a chanting motion in side-view mode.</source>
-        <translation type="unfinished">Liste des types de compétences qui requièrent un mouvement d&apos;incantation en mode vue de côté.</translation>
+        <translation>Liste des types de compétence qui requièrent un mouvement d&apos;incantation en mode vue de côté.</translation>
     </message>
     <message>
         <source>Skill Type</source>
@@ -9898,11 +9898,11 @@ Please complete the post with follow this link.</source>
     <name>Group_MenuCommands</name>
     <message>
         <source>Menu Commands</source>
-        <translation>Menu commandes</translation>
+        <translation>Commandes de menu</translation>
     </message>
     <message>
         <source>ON/OFF settings of the commands in the menu screen.</source>
-        <translation>Activer ou désactiver des commandes dans l'écran de menu.</translation>
+        <translation>Activer ou désactiver des commandes dans le menu.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -9931,7 +9931,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show [%1] command in the menu screen.</source>
-        <translation>Afficher la commande [%1] dans l&apos;écran de menu.</translation>
+        <translation>Afficher la commande [%1] dans le menu.</translation>
     </message>
 </context>
 <context>
@@ -9972,11 +9972,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Constant</source>
-        <translation>Valeur fixe</translation>
+        <translation>Constante</translation>
     </message>
     <message>
         <source>Uses the constant value.</source>
-        <translation>Utilise la valeur fixe.</translation>
+        <translation>Utilise la valeur constante.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -10008,7 +10008,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
-        <translation>Exécute une commande en JavaScript.</translation>
+        <translation>Évalue le texte comme du JavaScript.</translation>
     </message>
 </context>
 <!--Fin de la traduction -->
