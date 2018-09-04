@@ -4989,7 +4989,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Attack Times +</source>
-        <translation>Nbr d&apos;attaques  +</translation>
+        <translation>Nbr d&apos;attaques +</translation>
     </message>
     <message>
         <source>Increases the number of times a normal attack hits a target. Entering &quot;+1&quot; means two consecutive attacks.</source>
@@ -10777,7 +10777,6 @@ Please complete the post with follow this link.</source>
         <source>List of the traits to give this data item.</source>
         <translation>Liste des attributs à donner à cet élément.</translation>
     </message>
-<!-- blip bloup fin trad -->
     <message>
         <source>Type</source>
         <translation>Type</translation>
@@ -10788,102 +10787,102 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Element Rate</source>
-        <translation>Taux d&apos;Éléments</translation>
+        <translation>Vulnérabilité</translation>
     </message>
     <message>
         <source>Debuff Rate</source>
-        <translation>Taux de Debuff</translation>
+        <translation>Chances de debuff</translation>
     </message>
     <message>
         <source>State Rate</source>
-        <translation>Taux d&apos;État</translation>
+        <translation>Chances d&apos;infliger</translation>
     </message>
     <message>
         <source>State Resist</source>
-        <translation>Résistance d&apos;État</translation>
+        <translation>Immunité</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Paramètre</translation>
+        <translation>Caractéristique</translation>
     </message>
     <message>
         <source>Ex-Parameter</source>
-        <translation>Ex-Paramètre</translation>
+        <translation>Paramètre Ex</translation>
     </message>
     <message>
         <source>Sp-Parameter</source>
-        <translation>Sp-Paramètre</translation>
+        <translation>Paramètre Sp</translation>
     </message>
     <message>
         <source>Attack Element</source>
-        <translation>Élément d&apos;Attaque</translation>
+        <translation>Élément d&apos;attaque</translation>
     </message>
     <message>
         <source>Attack State</source>
-        <translation>État d&apos;Attaque</translation>
+        <translation>État de l&apos;attaque</translation>
     </message>
     <message>
         <source>Attack Speed</source>
-        <translation>Vitesse d&apos;Attaque</translation>
+        <translation>Vitesse d&apos;attaque</translation>
     </message>
     <message>
         <source>Attack Times +</source>
-        <translation>Temps d&apos;Attaque +</translation>
+        <translation>Nbr d&apos;attaques  +</translation>
     </message>
     <message>
         <source>Add Skill Type</source>
-        <translation>Ajouter Type de Compétence</translation>
+        <translation>Type de compétence</translation>
     </message>
     <message>
         <source>Seal Skill Type</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Type Comp.</translation>
+        <translation>Désactiver un type</translation>
     </message>
     <message>
         <source>Add Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Ajouter Comp.</translation>
+        <translation>Ajout compétence</translation>
     </message>
     <message>
         <source>Seal Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Sceller Comp.</translation>
+        <translation>Désac. compétence</translation>
     </message>
     <message>
         <source>Equip Weapon</source>
-        <translation>Équiper Arme</translation>
+        <translation>Type d&apos;arme</translation>
     </message>
     <message>
         <source>Equip Armor</source>
-        <translation>Équiper Armure</translation>
+        <translation>Type d&apos;armure</translation>
     </message>
     <message>
         <source>Lock Equip</source>
-        <translation>Verrouiller Équiper</translation>
+        <translation>Équipement fixe</translation>
     </message>
     <message>
         <source>Seal Equip</source>
-        <translation>Sceller Équiper</translation>
+        <translation>Équipement interdit</translation>
     </message>
     <message>
         <source>Slot Type</source>
-        <translation>Type Emplacement</translation>
+        <translation>Emplacements</translation>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation>Temps d&apos;Action +</translation>
+        <translation>Nombre d&apos;actions +</translation>
     </message>
     <message>
         <source>Special Flag</source>
-        <translation>Drapeau Spécial</translation>
+        <translation>Spécial</translation>
     </message>
     <message>
         <source>Collapse Effect</source>
-        <translation>Eff. Effondrement</translation>
+        <translation>Anim. de mort</translation>
     </message>
     <message>
         <source>Party Ability</source>
-        <translation>Capacité Groupe</translation>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Undefined</source>
@@ -10898,7 +10897,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Troop to fight the party.</source>
-        <translation>Troupe pour combattre le groupe.</translation>
+        <translation>Troupe qui combat l&apos;équipe.</translation>
     </message>
     <message>
         <source>Direct designation</source>
@@ -10914,15 +10913,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Specifies the troop determined by the variable.</source>
-        <translation>Spécifie la troupe déterminée par la variable.</translation>
+        <translation>Spécifie la troupe en fonction de la variable.</translation>
     </message>
     <message>
         <source>Same as Random Encounter</source>
-        <translation>Identique Rencontre Aléatoire</translation>
+        <translation>Rencontre aléatoire de la carte</translation>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
-        <translation>Sélectionne de façon aléatoire une troupe parmi celles réglées pour les rencontres aléatoires par les réglages de carte.</translation>
+        <translation>Sélectionne aléatoirement une troupe parmi celles réglées pour les rencontres aléatoires de la carte.</translation>
     </message>
 </context>
 <context>
@@ -10941,15 +10940,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Customizes the look and feel of the editor.</source>
-        <translation>Personnalisez l&apos;apparence et le ressenti de l&apos;éditeur.</translation>
+        <translation>Personnalisez l&apos;apparence de l&apos;éditeur.</translation>
     </message>
     <message>
         <source>Object Selector</source>
-        <translation>Sélecteur d&apos;objets</translation>
+        <translation>Sélecteur d&apos;éléments</translation>
     </message>
     <message>
         <source>Chooses an object selector for selecting in-game objects in the editor like Items, Weapons, Armors and so on.</source>
-        <translation>Choisit un sélecteur d&apos;objet pour la sélection d&apos;objets de jeu, comme les objets, armes, armures, etc., dans l&apos;éditeur.</translation>
+        <translation>Choisit un sélecteur d&apos;éléments pour la sélection d&apos;éléments du jeu, comme les objets, armes, armures, etc., dans l&apos;éditeur.</translation>
     </message>
     <message>
         <source>Optimized for less than 100 objects.</source>
@@ -10975,11 +10974,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Operates one switch.</source>
-        <translation>Actionne un interrupteur.</translation>
+        <translation>Agit sur un interrupteur.</translation>
     </message>
     <message>
         <source>Operates one variable.</source>
-        <translation>Actionne une variable.</translation>
+        <translation>Agit sur une variable.</translation>
     </message>
     <message>
         <source>Range</source>
@@ -10987,11 +10986,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Operates all switches found between two specified numbers.</source>
-        <translation>Actionne tous les interrupteurs trouvés entre deux nombres spécifiés.</translation>
+        <translation>Agit sur tous les interrupteurs trouvés entre deux nombres spécifiés.</translation>
     </message>
     <message>
         <source>Operates all variables found between two specified numbers.</source>
-        <translation>Actionne toutes les variables trouvées entre deux nombres spécifiés.</translation>
+        <translation>Agit sur toutes les variables trouvées entre deux nombres spécifiés.</translation>
     </message>
 </context>
 <context>
@@ -11068,11 +11067,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pitch</source>
-        <translation>Ton</translation>
+        <translation>Vitesse</translation>
     </message>
     <message>
         <source>Pitch for audio playback.</source>
-        <translation>Ton pour la lecture audio.</translation>
+        <translation>Vitesse pour la lecture audio.</translation>
     </message>
     <message>
         <source>Pan</source>
@@ -11080,7 +11079,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pan for audio playback.</source>
-        <translation>Panoramique pour la lecture audio.</translation>
+        <translation>Sortie à gauche ou à droite pour la lecture audio.</translation>
     </message>
 </context>
 <context>
@@ -11091,7 +11090,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>R value of the color tone.</source>
-        <translation>Valeur R de la tonalité de couleur.</translation>
+        <translation>Valeur R de la couleur.</translation>
     </message>
     <message>
         <source>Green</source>
@@ -11099,7 +11098,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>G value of the color tone.</source>
-        <translation>Valeur V de la tonalité de couleur.</translation>
+        <translation>Valeur V de la couleur.</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -11107,7 +11106,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>B value of the color tone.</source>
-        <translation>Valeur B de la tonalité de couleur.</translation>
+        <translation>Valeur B de la couleur.</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -11123,11 +11122,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the color tone will be applied.</source>
-        <translation>Indique comment la tonalité des couleurs sera appliquée.</translation>
+        <translation>Indique comment le ton des couleurs sera appliqué.</translation>
     </message>
     <message>
         <source>Calls a predefined color tone.</source>
-        <translation>Appelle une tonalité de couleur prédéfinie.</translation>
+        <translation>Utilise un ton de couleur prédéfini.</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11144,7 +11143,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Sunset</source>
         <translatorcomment>スペースが限られている為、CoucherをC.に省略しましたが、文脈で意味が通じるかと思われます。</translatorcomment>
-        <translation>C. de Soleil</translation>
+        <translation>Soir</translation>
     </message>
     <message>
         <source>Night</source>
@@ -11166,11 +11165,11 @@ Please complete the post with follow this link.</source>
     <name>Layout_EventPage</name>
     <message>
         <source>Autonomous Movement</source>
-        <translation>Mouvement Autonome</translation>
+        <translation>Déplacements autonomes</translation>
     </message>
     <message>
         <source>Settings for autonomous movement. The event moves automatically by this settings if not controlled by other events.</source>
-        <translation>Réglages pour le mouvement autonome. L&apos;évènement se déplace automatiquement par ces paramètres si ce n&apos;est pas contrôlé par d&apos;autres évènements.</translation>
+        <translation>L&apos;évènement se déplace automatiquement selon ces paramètres s&apos;il n&apos;est pas contrôlé par d&apos;autres évènements.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -11179,7 +11178,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Type of autonomous movement.&lt;br&gt;[Fixed] Do not move from the position in which it was placed.&lt;br&gt;[Random] Moves passable tiles around freely.&lt;br&gt;[Approach] Moves toward the current location of the player.&lt;br&gt;[Custom] Moves along the specified route.</source>
-        <translation>Type de mouvement autonome.&lt;br&gt;[Fixe] Ne pas bouger de la position dans laquelle c&apos;était placé.&lt;br&gt;[Aléatoire] Déplace les tiles praticables tout autour librement.&lt;br&gt;[Approcher] Se déplace vers l&apos;emplacement actuel du joueur.&lt;br&gt;[Personnaliser] Se déplace le long de la trajectoire spécifiée.</translation>
+        <translation>Type de mouvement autonome.&lt;br&gt;[Fixe] Ne bouge pas.&lt;br&gt;[Aléatoire] Se déplace librement sur les cases passables.&lt;br&gt;[Suit le héros] Se déplace vers l&apos;emplacement actuel du joueur.&lt;br&gt;[Personnalisé] Se déplace selon la trajectoire spécifiée.</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -11191,11 +11190,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Approach</source>
-        <translation>Approcher</translation>
+        <translation>Suit le hérosr</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personnaliser</translation>
+        <translation>Personnalisé</translation>
     </message>
     <message>
         <source>Route</source>
@@ -11203,7 +11202,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Opens the route setting window when the movement type is [Custom].</source>
-        <translation>Ouvre la fenêtre de réglage de la trajectoire quand le type de mouvement est [Personnaliser].</translation>
+        <translation>Ouvre la fenêtre de réglage de la trajectoire quand le type de mouvement est [Personnalisé].</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -11222,12 +11221,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options for character animation, passage, etc.</source>
-        <translation>Options pour animation personnage, passage, etc.</translation>
+        <translation>Options pour l&apos;animation du personnage, son droit de passage, etc.</translation>
     </message>
     <message>
         <source>Walking</source>
         <comment>Walking Animation</comment>
-        <translation>Marche</translation>
+        <translation>Anim. marche</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is moving.</source>
@@ -11236,7 +11235,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Stepping</source>
         <comment>Stepping Animation</comment>
-        <translation>Pas à Pas</translation>
+        <translation>Anim. à l&apos;arrêt</translation>
     </message>
     <message>
         <source>Turns on the animation when the character is not moving.</source>
@@ -11244,63 +11243,63 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Direction Fix</source>
-        <translation>Direction Fixe</translation>
+        <translation>Regard fixe</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Rend impossible de changer la direction du personnage.</translation>
+        <translation>Rend impossible le changement du regard du personnage.</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>À Travers</translation>
+        <translation>Traverse tout</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Rend possible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>Rend possible de se déplacer à travers les cases infranchissables et les personnages.</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation>Priorité</translation>
+        <translation>Priorité d&apos;affichage</translation>
     </message>
     <message>
         <source>Display priority of the event. However, when the image is a tile and the priority is [Below characters], the tileset settings will be used.</source>
-        <translation>Afficher la priorité de l&apos;évènement. Cependant, lorsque l&apos;image est un tile et la priorité est [Personnages en dessous], les réglages tileset seront utilisés.</translation>
+        <translation>Priorité d&apos;affichage de l&apos;évènement. Cependant, lorsque l&apos;image est une case du tileset et la priorité est [Sous le héros], les réglages du tileset seront utilisés.</translation>
     </message>
     <message>
         <source>Below characters</source>
-        <translation>Personnages en dessous</translation>
+        <translation>Sous le héros</translation>
     </message>
     <message>
         <source>Same as characters</source>
-        <translation>Comme les personnages</translation>
+        <translation>Même niveau que le héros</translation>
     </message>
     <message>
         <source>Above characters</source>
-        <translation>Personnages au dessus</translation>
+        <translation>Au-dessus du héros</translation>
     </message>
     <message>
         <source>Trigger</source>
-        <translation>Déclencher</translation>
+        <translation>Déclenchement</translation>
     </message>
     <message>
         <source>Condition to start the event.&lt;br&gt;[Action Button] Starts when the player presses the button.&lt;br&gt;[Player Touch] In addition to the above, starts when the player touches the event.&lt;br&gt;[Event Touch] In addition to the above, starts when the event touches the player.&lt;br&gt;[Autorun] Starts when the event appears.&lt;br&gt;[Parallel] Runs cyclically while the event is present.</source>
-        <translation>Condition pour commencer l&apos;évènement.&lt;br&gt;[Touche Action] Commence quand le joueur enfonce la touche.&lt;br&gt;[Touche Joueur] En plus de ce qui précède, commence quand le joueur touche l&apos;évènement.&lt;br&gt;[Touche évènement] En plus de ce qui précède, commence quand l&apos;évènement touche le joueur.&lt;br&gt;[Exécution Automatique] Commence quand l&apos;évènement apparaît.&lt;br&gt;[Parallèle] S&apos;exécute cycliquement pendant que l&apos;évènement est présent.</translation>
+        <translation>Condition pour exécuter les commandes de l&apos;évènement.&lt;br&gt;[Touche action] Le joueur appuie sur la touche devant l&apos;évènement.&lt;br&gt;[Contact avec le héros] En plus de ce qui précède, commence quand le joueur touche l&apos;évènement avec les flèches.&lt;br&gt;[Contact avec l&apos;évènement] En plus de ce qui précède, commence quand l&apos;évènement touche le joueur.&lt;br&gt;[Automatique] L&apos;évènement tourne en boucle.&lt;br&gt;[Parallèle] L&apos;évènement tourne en boucle sans interrompre le reste du jeu.</translation>
     </message>
     <message>
         <source>Action Button</source>
-        <translation>Touche Action</translation>
+        <translation>Touche action</translation>
     </message>
     <message>
         <source>Player Touch</source>
-        <translation>Touche Joueur</translation>
+        <translation>Contact avec le héros</translation>
     </message>
     <message>
         <source>Event Touch</source>
-        <translation>Touche Évènement</translation>
+        <translation>Contact avec l&apos;évènement</translation>
     </message>
     <message>
         <source>Autorun</source>
-        <translation>Exécution Automatique</translation>
+        <translation>Automatique</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -11308,11 +11307,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Contenu</translation>
+        <translation>Commandes</translation>
     </message>
     <message>
         <source>Event commands to be run for this event. Right-click to open the popup menu.</source>
-        <translation>Commandes d&apos;évènement à exécuter pour cet évènement. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
+        <translation>Commandes d&apos;évènement à exécuter. Cliquez avec le bouton droit pour ouvrir le menu contextuel.</translation>
     </message>
 </context>
 <context>
@@ -11320,7 +11319,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>New&lt;br&gt;Event Page</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Nouveau&lt;br&gt;Page Év.</translation>
+        <translation>Nouvelle&lt;br&gt;page</translation>
     </message>
     <message>
         <source>Creates a new consecutively numbered page after the current page.</source>
@@ -11329,7 +11328,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Copy&lt;br&gt;Event Page</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Copier&lt;br&gt;Page Év.</translation>
+        <translation>Copier&lt;br&gt;la page</translation>
     </message>
     <message>
         <source>Copies the contents of the current page to the clipboard.</source>
@@ -11338,7 +11337,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Paste&lt;br&gt;Event Page</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Coller&lt;br&gt;Page Év.</translation>
+        <translation>Coller&lt;br&gt;la page</translation>
     </message>
     <message>
         <source>Pastes the contents of the clipboard into a new page.</source>
@@ -11347,7 +11346,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Delete&lt;br&gt;Event Page</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Supprimer&lt;br&gt;Page Év.</translation>
+        <translation>Supprimer&lt;br&gt;la page</translation>
     </message>
     <message>
         <source>Deletes the current page.</source>
@@ -11356,7 +11355,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Clear&lt;br&gt;Event Page</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Effacer&lt;br&gt;Page Év.</translation>
+        <translation>Vider&lt;br&gt;la page</translation>
     </message>
     <message>
         <source>Clears the contents of the current page.</source>
@@ -11371,7 +11370,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>R value of the flash color.</source>
-        <translation>Valeur R de la couleur flash.</translation>
+        <translation>Valeur R de la couleur du flash.</translation>
     </message>
     <message>
         <source>Green</source>
@@ -11379,7 +11378,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>G value of the flash color.</source>
-        <translation>Valeur V de la couleur flash.</translation>
+        <translation>Valeur V de la couleur du flash.</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -11387,7 +11386,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>B value of the flash color.</source>
-        <translation>Valeur B de la couleur flash.</translation>
+        <translation>Valeur B de la couleur du flash.</translation>
     </message>
     <message>
         <source>Intensity</source>
@@ -11395,7 +11394,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Intensity of the flash color.</source>
-        <translation>Intensité de la couleur flash.</translation>
+        <translation>Intensité de la couleur du flash.</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -11403,26 +11402,26 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shows how the flash color will be applied.</source>
-        <translation>Indique comment la couleur flash sera appliquée.</translation>
+        <translation>Indique comment la couleur du flash sera appliquée.</translation>
     </message>
 </context>
 <context>
     <name>Layout_MovementRoute</name>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>Évènement</translation>
     </message>
     <message>
         <source>Character to be assigned the movement route.</source>
-        <translation>Personnage à attribuer la trajectoire de mouvement.</translation>
+        <translation>Personnage qui effectuera la trajectoire.</translation>
     </message>
     <message>
         <source>Command List</source>
-        <translation>Liste de Commandes</translation>
+        <translation>Liste de commandes</translation>
     </message>
     <message>
         <source>Movement commands to be run. Press a button on the right to add a new command.</source>
-        <translation>Commandes de mouvement à exécuter. Appuyer sur une touche située à droite pour ajouter une nouvelle commande.</translation>
+        <translation>Commandes de mouvement à exécuter. Cliquez sur un bouton à droite pour ajouter une nouvelle commande.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11430,11 +11429,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Options for the movement route behavior.</source>
-        <translation>Options pour le comportement de la trajectoire de mouvement.</translation>
+        <translation>Options pour le comportement de la trajectoire.</translation>
     </message>
     <message>
         <source>Repeat Movements</source>
-        <translation>Répéter Mouvements</translation>
+        <translation>Répéter en boucle</translation>
     </message>
     <message>
         <source>After running all the commands, returns to the top of the list.</source>
@@ -11442,15 +11441,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Skip If Cannot Move</source>
-        <translation>Passer Si Ne Peut Pas Bouger</translation>
+        <translation>Ignorer mouv. impossibles</translation>
     </message>
     <message>
         <source>Skips any command that would move a character into an impassable location.</source>
-        <translation>Passe n&apos;importe qu&apos;elle commande qui déplacerait un personnage dans un emplacement infranchissable.</translation>
+        <translation>Passe n&apos;importe qu&apos;elle commande qui déplacerait un personnage dans un emplacement infranchissable, afin de ne pas bloquer le jeu.</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
-        <translation>Attendre la Fin</translation>
+        <translation>Attendre la fin</translation>
     </message>
     <message>
         <source>Waits for the movements to finish.</source>
@@ -11458,7 +11457,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Movement Commands</source>
-        <translation>Commandes Mouvement</translation>
+        <translation>Commandes de déplacement</translation>
     </message>
 </context>
 <context>
@@ -11469,11 +11468,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Image of the parallax background.</source>
-        <translation>Image de l&apos;arrière-plan parallaxe.</translation>
+        <translation>Image du panorama d&apos;arrière-plan.</translation>
     </message>
     <message>
         <source>Loops the parallax background horizontally.</source>
-        <translation>Boucle l&apos;arrière-plan parallaxe horizontalement.</translation>
+        <translation>Boucle le panorama d&apos;arrière-plan horizontalement.</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -11496,14 +11495,14 @@ Please complete the post with follow this link.</source>
     <name>Layout_StateMessage</name>
     <message>
         <source>(Target Name)</source>
-        <translation>(Nom Cible)</translation>
+        <translation>(Nom de la cible)</translation>
     </message>
 </context>
 <context>
     <name>LocationBox</name>
     <message>
         <source>Current Map</source>
-        <translation>Carte Actuelle</translation>
+        <translation>Carte actuelle</translation>
     </message>
     <message>
         <source>None</source>
@@ -11522,11 +11521,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hide Others</source>
-        <translation>Masquer Autres</translation>
+        <translation>Masquer autres</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Afficher Tout</translation>
+        <translation>Tout afficher</translation>
     </message>
     <message>
         <source>Preferences...</source>
@@ -11549,7 +11548,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Éditer</translation>
+        <translation>Édition</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -11557,11 +11556,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Draw</source>
-        <translation>Dessiner</translation>
+        <translation>Dessin</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Échelle</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -11569,7 +11568,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game</source>
-        <translation>Jeu</translation>
+        <translation>Projet</translation>
     </message>
     <message>
         <source>Help</source>
@@ -11577,11 +11576,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Quick Event Creation</source>
-        <translation>Création d&apos;Évènements Rapide</translation>
+        <translation>Évènement rapide</translation>
     </message>
     <message>
         <source>Transfer</source>
-        <translation>Transfert</translation>
+        <translation>Téléportation</translation>
     </message>
     <message>
         <source>Door</source>
@@ -11597,11 +11596,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Set Starting Position</source>
-        <translation>Régler la Position de Départ</translation>
+        <translation>Emplacement de départ</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation>Nouveau Projet</translation>
+        <translation>Nouveau projet</translation>
     </message>
     <message>
         <source>Creates a new project.</source>
@@ -11609,7 +11608,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Ouvrir Projet</translation>
+        <translation>Ouvrir un projet</translation>
     </message>
     <message>
         <source>Opens an existing project.</source>
@@ -11617,7 +11616,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Close Project</source>
-        <translation>Fermer Projet</translation>
+        <translation>Fermer le projet</translation>
     </message>
     <message>
         <source>Closes the current project.</source>
@@ -11625,7 +11624,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save Project</source>
-        <translation>Enregistrer Projet</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Saves the current project.</source>
@@ -11642,7 +11641,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Edit</source>
         <comment>Edit Map</comment>
-        <translation>Éditer</translation>
+        <translation>Propriétés de la carte</translation>
     </message>
     <message>
         <source>Changes the map settings.</source>
@@ -11651,7 +11650,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>New</source>
         <comment>New Map</comment>
-        <translation>Nouvelle</translation>
+        <translation>Nouvelle carte</translation>
     </message>
     <message>
         <source>Creates a new map.</source>
@@ -11659,23 +11658,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Load</source>
-        <translation>Charger</translation>
+        <translation>Charger une carte d&apos;exemple</translation>
     </message>
     <message>
         <source>Adds a sample map as a new map.</source>
-        <translation>Ajoute un échantillon de carte comme nouvelle carte.</translation>
+        <translation>Ajoute une carte d&apos;exemple comme nouvelle carte.</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Décalage</translation>
+        <translation>Décaler</translation>
     </message>
     <message>
         <source>Shifts the current map contents.</source>
-        <translation>Permute le contenu de la carte actuelle.</translation>
+        <translation>Décale le contenu de la carte actuelle.</translation>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation>Sauvegarder comme Image</translation>
+        <translation>Sauvegarder une image</translation>
     </message>
     <message>
         <source>Saves the current map as a image file.</source>
@@ -11684,7 +11683,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Edit</source>
         <comment>Edit Event</comment>
-        <translation>Éditer</translation>
+        <translation>Éditer l&apos;évènement</translation>
     </message>
     <message>
         <source>Changes the event settings.</source>
@@ -11693,7 +11692,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>New</source>
         <comment>New Event</comment>
-        <translation>Nouveau</translation>
+        <translation>Nouvel évènement</translation>
     </message>
     <message>
         <source>Creates a new event.</source>
@@ -11745,7 +11744,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Switches to the map editing mode.</source>
-        <translation>Passe au mode édition de la carte.</translation>
+        <translation>Passe au mode d&apos;édition de la carte.</translation>
     </message>
     <message>
         <source>Event</source>
@@ -11753,7 +11752,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Switches to the event editing mode.</source>
-        <translation>Passe au mode édition d&apos;évènement.</translation>
+        <translation>Passe au mode d&apos;édition des évènements.</translation>
     </message>
     <message>
         <source>Pencil</source>
@@ -11781,7 +11780,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Flood Fill</source>
-        <translation>Outil de Remplissage</translation>
+        <translation>Remplissage</translation>
     </message>
     <message>
         <source>Fills the enclosed area.</source>
@@ -11789,7 +11788,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shadow Pen</source>
-        <translation>Stylo Ombre</translation>
+        <translation>Ombres</translation>
     </message>
     <message>
         <source>Adds or removes shadows of walls.</source>
@@ -11797,7 +11796,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Effectuer un zoom avant</translation>
+        <translation>Zoom avant</translation>
     </message>
     <message>
         <source>Zooms in the map view.</source>
@@ -11805,7 +11804,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Effectuer un zoom arrière</translation>
+        <translation>Zoom arrière</translation>
     </message>
     <message>
         <source>Zooms out the map view.</source>
@@ -11813,15 +11812,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation>Taille Réelle</translation>
+        <translation>Taille réelle</translation>
     </message>
     <message>
         <source>Displays the map at a scale of 1:1.</source>
-        <translation>Affiche la carte à une échelle de 1:1.</translation>
+        <translation>Affiche la carte à l&apos;échelle 1:1.</translation>
     </message>
     <message>
         <source>Database</source>
-        <translation>Base de Données</translation>
+        <translation>Base de données</translation>
     </message>
     <message>
         <source>Opens the database.</source>
@@ -11829,55 +11828,55 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Plugin Manager</source>
-        <translation>Gestionnaire de Modules</translation>
+        <translation>Gestionnaire de plugins</translation>
     </message>
     <message>
         <source>Opens the plugin manager window.</source>
-        <translation>Ouvre la fenêtre du gestionnaire de modules.</translation>
+        <translation>Ouvre la fenêtre du gestionnaire de plugins.</translation>
     </message>
     <message>
         <source>Sound Test</source>
-        <translation>Test de Son</translation>
+        <translation>Test des sons</translation>
     </message>
     <message>
         <source>Opens the sound test window.</source>
-        <translation>Ouvre la fenêtre de test de son.</translation>
+        <translation>Ouvre la fenêtre de test des sons.</translation>
     </message>
     <message>
         <source>Event Searcher</source>
-        <translation>Chercheur d&apos;Évènement</translation>
+        <translation>Recherche d&apos;évènements</translation>
     </message>
     <message>
         <source>Opens the event searcher window.</source>
-        <translation>Ouvre la fenêtre de chercheur d&apos;évènements.</translation>
+        <translation>Ouvre la fenêtre de recherche d&apos;évènements.</translation>
     </message>
     <message>
         <source>Playtest</source>
-        <translation>Playtest (Essai)</translation>
+        <translation>Tester le jeu</translation>
     </message>
     <message>
         <source>Starts a playtest of the current game.</source>
-        <translation>Démarre un playtest du jeu actuel.</translation>
+        <translation>Démarre un test du jeu actuel.</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Ouvrir Fichier</translation>
+        <translation>Ouvrir le dossier du projet</translation>
     </message>
     <message>
         <source>Opens folder for the current game.</source>
-        <translation>Ouvre le fichier pour le jeu actuel.</translation>
+        <translation>Ouvre le dossier du projet actuel.</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>Contenu</translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <source>Open the help.</source>
-        <translation>Ouvrir l&apos;aide.</translation>
+        <translation>Ouvre l&apos;aide.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>À Propos</translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>Displays the version number and copyrights.</source>
@@ -11893,7 +11892,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Generate Dungeon</source>
-        <translation>Générer Donjon</translation>
+        <translation>Générer un donjon</translation>
     </message>
     <message>
         <source>Generates a dungeon in the current map.</source>
@@ -11901,7 +11900,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Character Generator</source>
-        <translation>Générateur de Personnages</translation>
+        <translation>Générateur de personnages</translation>
     </message>
     <message>
         <source>Opens the Character Generator window.</source>
@@ -11925,11 +11924,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Steam Management</source>
-        <translation>Gestion de Steam</translation>
+        <translation>Steam Workshop</translation>
     </message>
     <message>
         <source>Manage Your Steam Cloud.</source>
-        <translation>Gérez votre compte Steam Cloud.</translation>
+        <translation>Gérez votre Steam Cloud.</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
@@ -11945,23 +11944,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils RPG Maker MV</translation>
     </message>
     <message>
         <source>Add external tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez des outils externes</translation>
     </message>
     <message>
         <source>Stop tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêter le tutoriel</translation>
     </message>
     <message>
         <source>Tutorial...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriels</translation>
     </message>
     <message>
         <source>Start a tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer un tutoriel.</translation>
     </message>
     <message>
         <source>Monaca</source>
@@ -11996,7 +11995,7 @@ Please complete the post with follow this link.</source>
     <name>MapEditTreeBox</name>
     <message>
         <source>Cannot create any more maps.</source>
-        <translation>Ne peut pas créer d&apos;autres cartes.</translation>
+        <translation>Impossible de créer davantage de cartes.</translation>
     </message>
     <message>
         <source>Delete %1?</source>
@@ -12007,53 +12006,53 @@ Please complete the post with follow this link.</source>
     <name>MapEditorMainView</name>
     <message>
         <source>Cannot create any more events.</source>
-        <translation>Ne peut pas créer d&apos;autres évènements.</translation>
+        <translation>Impossible de créer davantage d&apos;évènements.</translation>
     </message>
     <message>
         <source>Map Events</source>
-        <translation type="unfinished">Événements de carte</translation>
+        <translation>Événements de la carte</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Name of the event.</source>
-        <translation type="unfinished">Nom de l&apos;évènement.</translation>
+        <translation>Nom de l&apos;évènement.</translation>
     </message>
 </context>
 <context>
     <name>MapSelectTreeBox</name>
     <message>
         <source>Map List</source>
-        <translation type="unfinished">Liste de carte</translation>
+        <translation>Liste des cartes</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Name of the map.</source>
-        <translation type="unfinished">Nom de la carte.</translation>
+        <translation>Nom de la carte.</translation>
     </message>
     <message>
         <source>Display Name</source>
-        <translation type="unfinished">Afficher Nom</translation>
+        <translation>Nom affiché en jeu</translation>
     </message>
     <message>
         <source>Name displayed on the upper left part of the screen when moving to the map.</source>
-        <translation>Nom affiché sur la partie supérieure gauche de l&apos;écran lorsque vous vous déplacez sur la carte.</translation>
+        <translation>Nom affiché sur la partie supérieure gauche de l&apos;écran en arrivant sur la carte.</translation>
     </message>
 </context>
 <context>
     <name>MenuItem_IconSetViewer</name>
     <message>
         <source>IconSet Viewer</source>
-        <translation>Visionneuse de jeu d&apos;icônes</translation>
+        <translation>Visionneuse du set d&apos;icônes</translation>
     </message>
     <message>
         <source>Icon Index</source>
-        <translation>Index Icône</translation>
+        <translation>Index de l&apos;icône</translation>
     </message>
     <message>
         <source>Index number of the selected icon.</source>
@@ -12064,7 +12063,7 @@ Please complete the post with follow this link.</source>
     <name>MenuItem_PluginHelpEverywhere</name>
     <message>
         <source>Plugin Help</source>
-        <translation>Aide du Module</translation>
+        <translation>Aide du plugin</translation>
     </message>
 </context>
 <context>
@@ -12095,22 +12094,22 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Yes</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Oui</translation>
+        <translation >Oui</translation>
     </message>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished"></translation>
+        <translation >Non</translation>
     </message>
     <message>
         <source>OK</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">OK</translation>
+        <translation >OK</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Annuler</translation>
+        <translation >Annuler</translation>
     </message>
 </context>
 <context>
@@ -12132,11 +12131,11 @@ Please complete the post with follow this link.</source>
     <name>MovementCommand14</name>
     <message>
         <source>Offset</source>
-        <translation>Correction</translation>
+        <translation>Distance</translation>
     </message>
     <message>
         <source>Distance from the current position to the jump position.</source>
-        <translation>Distance depuis la position actuelle jusqu&apos;à la position de saut.</translation>
+        <translation>Distance de la position actuelle à la position d&apos;arrivée.</translation>
     </message>
     <message>
         <source>X</source>
@@ -12144,7 +12143,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Horizontal offset value.</source>
-        <translation>Valeur du décalage horizontal.</translation>
+        <translation>Distance horizontale.</translation>
     </message>
     <message>
         <source>Y</source>
@@ -12152,7 +12151,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Vertical offset value.</source>
-        <translation>Valeur du décalage vertical.</translation>
+        <translation>Distance verticale.</translation>
     </message>
 </context>
 <context>
@@ -12192,7 +12191,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Image to be displayed on the map screen.</source>
-        <translation>Image à afficher sur l&apos;écran de la carte.</translation>
+        <translation>Image à afficher sur la carte.</translation>
     </message>
 </context>
 <context>
@@ -12210,11 +12209,11 @@ Please complete the post with follow this link.</source>
     <name>MovementCommand43</name>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>Mode de fusion</translation>
     </message>
     <message>
         <source>Blend mode used when the character is drawn.</source>
-        <translation>Mode mélange utilisé quand le personnage est dessiné.</translation>
+        <translation>Mode du fusion utilisé quand le personnage est affiché.</translation>
     </message>
 </context>
 <context>
@@ -12243,55 +12242,55 @@ Please complete the post with follow this link.</source>
     <name>MovementCommands</name>
     <message>
         <source>Move Down</source>
-        <translation>Déplacer vers le bas</translation>
+        <translation>Pas vers le bas</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>Déplacer vers la gauche</translation>
+        <translation>Pas vers la gauche</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Déplacer vers la droite</translation>
+        <translation>Pas vers la droite</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Déplacer vers le haut</translation>
+        <translation>Pas vers le haut</translation>
     </message>
     <message>
         <source>Move Lower Left</source>
-        <translation>Déplacer en bas à gauche</translation>
+        <translation>Pas en bas à gauche</translation>
     </message>
     <message>
         <source>Move Lower Right</source>
-        <translation>Déplacer en bas à droite</translation>
+        <translation>Pas en bas à droite</translation>
     </message>
     <message>
         <source>Move Upper Left</source>
-        <translation>Déplacer en haut à gauche</translation>
+        <translation>Pas en haut à gauche</translation>
     </message>
     <message>
         <source>Move Upper Right</source>
-        <translation>Déplacer en haut à droite</translation>
+        <translation>Pas en haut à droite</translation>
     </message>
     <message>
         <source>Move at Random</source>
-        <translation>Déplacer aléatoirement</translation>
+        <translation>Pas au hasard</translation>
     </message>
     <message>
         <source>Move toward Player</source>
-        <translation>Délacer vers le Joueur</translation>
+        <translation>Pas vers le héros</translation>
     </message>
     <message>
         <source>Move away from Player</source>
-        <translation>S&apos;éloigner du Joueur</translation>
+        <translation>Fuit le héros d&apos;un pas</translation>
     </message>
     <message>
         <source>1 Step Forward</source>
-        <translation>1 Pas en l&apos;Avant</translation>
+        <translation>Pas en avant</translation>
     </message>
     <message>
         <source>1 Step Backward</source>
-        <translation>1 Pas en Arrière</translation>
+        <translation>Pas en arrière</translation>
     </message>
     <message>
         <source>Jump</source>
@@ -12303,47 +12302,47 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turn Down</source>
-        <translation>Tourner vers le bas</translation>
+        <translation>Regarder en bas</translation>
     </message>
     <message>
         <source>Turn Left</source>
-        <translation>Tourner à gauche</translation>
+        <translation>Regarder à gauche</translation>
     </message>
     <message>
         <source>Turn Right</source>
-        <translation>Tourner à droite</translation>
+        <translation>Regarder à droite</translation>
     </message>
     <message>
         <source>Turn Up</source>
-        <translation>Tourner vers le haut</translation>
+        <translation>Regarder en haut</translation>
     </message>
     <message>
         <source>Turn 90° Right</source>
-        <translation>Tourner de 90° à droite</translation>
+        <translation>Tourner à droite de 90°</translation>
     </message>
     <message>
         <source>Turn 90° Left</source>
-        <translation>Tourner de 90° à gauche</translation>
+        <translation>Tourner à gauche de 90°</translation>
     </message>
     <message>
         <source>Turn 180°</source>
-        <translation>Tournez de 180°</translation>
+        <translation>Se retourner à 180°</translation>
     </message>
     <message>
         <source>Turn 90° Right or Left</source>
-        <translation>Tourner 90°droite ou gauche</translation>
+        <translation>Tourner de 90° au hasard</translation>
     </message>
     <message>
         <source>Turn at Random</source>
-        <translation>Tourner aléatoirement</translation>
+        <translation>Tourner au hasard</translation>
     </message>
     <message>
         <source>Turn toward Player</source>
-        <translation>Tourner vers le Joueur</translation>
+        <translation>Regarder le héros</translation>
     </message>
     <message>
         <source>Turn away from Player</source>
-        <translation>Se détourner du Joueur</translation>
+        <translation>Tourner le dos au héros</translation>
     </message>
     <message>
         <source>Switch ON</source>
@@ -12360,7 +12359,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Speed</source>
-        <translation>Changer Vitesse</translation>
+        <translation>Changer la vitesse</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -12369,47 +12368,47 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Frequency</source>
-        <translation>Changer Fréquence</translation>
+        <translation>Changer la fréquence</translation>
     </message>
     <message>
         <source>Walking Animation ON</source>
-        <translation>Animation Marche ON</translation>
+        <translation>Marche animée ON</translation>
     </message>
     <message>
         <source>Walking Animation OFF</source>
-        <translation>Animation Marche OFF</translation>
+        <translation>Marche animée OFF</translation>
     </message>
     <message>
         <source>Stepping Animation ON</source>
-        <translation>Animation Pas à Pas ON</translation>
+        <translation>Animé à l&apos;arrêt ON</translation>
     </message>
     <message>
         <source>Stepping Animation OFF</source>
-        <translation>Animation Pas à Pas OFF</translation>
+        <translation>Animé à l&apos;arrêt OFF</translation>
     </message>
     <message>
         <source>Direction Fix ON</source>
-        <translation>Direction Fixe ON</translation>
+        <translation>Regard fixe ON</translation>
     </message>
     <message>
         <source>Direction Fix OFF</source>
-        <translation>Direction Fixe OFF</translation>
+        <translation>Regard fixe OFF</translation>
     </message>
     <message>
         <source>Through ON</source>
-        <translation>À Travers ON</translation>
+        <translation>Traverse tout ON</translation>
     </message>
     <message>
         <source>Through OFF</source>
-        <translation>À Travers OFF</translation>
+        <translation>Traverse tout OFF</translation>
     </message>
     <message>
         <source>Transparent ON</source>
-        <translation>Transparent ON</translation>
+        <translation>Invisible ON</translation>
     </message>
     <message>
         <source>Transparent OFF</source>
-        <translation>Transparent OFF</translation>
+        <translation>Invisible OFF</translation>
     </message>
     <message>
         <source>Image</source>
@@ -12417,7 +12416,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Image</source>
-        <translation>Changer Image</translation>
+        <translation>Modifier l&apos;apparence</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -12425,15 +12424,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Change Opacity</source>
-        <translation>Changer Opacité</translation>
+        <translation>Opacité</translation>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>Mode de fusion</translation>
     </message>
     <message>
         <source>Change Blend Mode</source>
-        <translation>Changer Mode Mélange</translation>
+        <translation>Mode de fusion</translation>
     </message>
     <message>
         <source>SE</source>
@@ -12441,7 +12440,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Play SE</source>
-        <translation>Jouer SE</translation>
+        <translation>Jouer un SE</translation>
     </message>
     <message>
         <source>Script</source>
@@ -12449,8 +12448,9 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Undefined Command</source>
-        <translation>Commande Indéfinie</translation>
+        <translation>Commande indéfinie</translation>
     </message>
+<!-- c&apos;est tout pour ajd -->
     <message>
         <source>Moves to the lower tile.</source>
         <translation>Se déplace vers le tile inférieur.</translation>
