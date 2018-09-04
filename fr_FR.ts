@@ -10011,7 +10011,6 @@ Please complete the post with follow this link.</source>
         <translation>Évalue le texte comme du JavaScript.</translation>
     </message>
 </context>
-<!--Fin de la traduction -->
 <context>
     <name>Group_Operation</name>
     <message>
@@ -10043,11 +10042,11 @@ Please complete the post with follow this link.</source>
     <name>Group_ParameterChanges</name>
     <message>
         <source>Parameter Changes</source>
-        <translation>Changements de Paramètres</translation>
+        <translation>Modification des caractéristiques</translation>
     </message>
     <message>
         <source>Set how much the actor&apos;s parameters will increase by equipping this item.</source>
-        <translation>Règle de combien les paramètres de l&apos;acteur vont augmenter en équipant cet objet.</translation>
+        <translation>Définit comment les caractéristique du héros vont augmenter en équipant cet objet.</translation>
     </message>
 </context>
 <context>
@@ -10062,7 +10061,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Control number of the picture. The larger number, the higher priority.</source>
-        <translation>Numéro de contrôle de l&apos;image. Plus le nombre est élevé, plus la priorité est haute.</translation>
+        <translation>Numéro de contrôle de l&apos;image. Plus le nombre est élevé, plus la priorité d&apos;affichage est haute.</translation>
     </message>
     <message>
         <source>Image</source>
@@ -10077,11 +10076,11 @@ Please complete the post with follow this link.</source>
     <name>Group_PictureBlend</name>
     <message>
         <source>Blend</source>
-        <translation>Mélange</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Settings related to the mixing of the screen and the image.</source>
-        <translation>Paramètres associés au mélange de l&apos;écran et de l&apos;image.</translation>
+        <translation>Paramètres associés au mélange entre l&apos;écran et l&apos;image.</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -10093,11 +10092,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Blend Mode</source>
-        <translation>Mode Mélange</translation>
+        <translation>Fusion</translation>
     </message>
     <message>
         <source>Blend mode used when the picture is drawn.</source>
-        <translation>Mode mélange utilisé quand l&apos;image est dessinée.</translation>
+        <translation>Mode de fusion utilisé pour afficher l&apos;image.</translation>
     </message>
 </context>
 <context>
@@ -10124,7 +10123,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Displays at the specified position.</source>
-        <translation>Affiche la position spécifiée.</translation>
+        <translation>Affiche à la position spécifiée.</translation>
     </message>
     <message>
         <source>X</source>
@@ -10190,11 +10189,11 @@ Please complete the post with follow this link.</source>
     <name>Group_SkillsToLearn</name>
     <message>
         <source>Skills to Learn</source>
-        <translation>Compétences à Apprendre</translation>
+        <translation>Compétences à apprendre</translation>
     </message>
     <message>
         <source>Skills mastered at level-up for actors in this class.</source>
-        <translation>Compétences maîtrisées à l&apos;augmentation de niveau par les acteurs dans cette classe.</translation>
+        <translation>Compétences apprise lors de l&apos;augmentation de niveau par les héros dans cette classe.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -10203,7 +10202,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Compétence</translation>
     </message>
     <message>
         <source>Note</source>
@@ -10222,7 +10221,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
 </context>
 <context>
@@ -10233,7 +10232,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Nom du Fichier</translation>
+        <translation>Nom du fichier</translation>
     </message>
 </context>
 <context>
@@ -10244,7 +10243,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Message texts displayed in the game.</source>
-        <translation>Messages textes affichés dans le jeu.</translation>
+        <translation>Textes affichés à divers endroits du jeu.</translation>
     </message>
     <message>
         <source>Type</source>
@@ -10260,7 +10259,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Command Remember</source>
-        <translation>Commande Se Rappeler</translation>
+        <translation>Mémoriser la commande</translation>
     </message>
     <message>
         <source>BGM Volume</source>
@@ -10284,19 +10283,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>EXP Total</source>
-        <translation>Total EXP</translation>
+        <translation>EXP totale</translation>
     </message>
     <message>
         <source>EXP Next</source>
-        <translation>EXP Suivant</translation>
+        <translation>EXP requis</translation>
     </message>
     <message>
         <source>Save Message</source>
-        <translation>Enregistrer Message</translation>
+        <translation>Sauvegarde</translation>
     </message>
     <message>
         <source>Load Message</source>
-        <translation>Charger Message</translation>
+        <translation>Chargement</translation>
     </message>
     <message>
         <source>File</source>
@@ -10304,11 +10303,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Party Name</source>
-        <translation>Nom du Groupe</translation>
+        <translation>Nom du groupe</translation>
     </message>
     <message>
         <source>Emerge</source>
-        <translation>Émerger</translation>
+        <translation>Apparition</translation>
     </message>
     <message>
         <source>Preemptive</source>
@@ -10320,11 +10319,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Escape Start</source>
-        <translation>Commencer Fuite</translation>
+        <translation>Tentative de fuite</translation>
     </message>
     <message>
         <source>Escape Failure</source>
-        <translation>Échec Fuite</translation>
+        <translation>Fuite échouée</translation>
     </message>
     <message>
         <source>Victory</source>
@@ -10336,127 +10335,127 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Obtain EXP</source>
-        <translation>Obtenir EXP</translation>
+        <translation>Gain d&apos;EXP</translation>
     </message>
     <message>
         <source>Obtain Gold</source>
-        <translation>Obtenir Or</translation>
+        <translation>Gain d&apos;argent</translation>
     </message>
     <message>
         <source>Obtain Item</source>
-        <translation>Obtenir Objet</translation>
+        <translation>Gain d&apos;objet</translation>
     </message>
     <message>
         <source>Level Up</source>
-        <translation>Niveau Supérieur</translation>
+        <translation>Niveau suivant</translation>
     </message>
     <message>
         <source>Obtain Skill</source>
-        <translation>Obtenir Compétence</translation>
+        <translation>Compétence apprise</translation>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utiliser Objet</translation>
+        <translation>Utilisation d&apos;objet</translation>
     </message>
     <message>
         <source>Critical to Enemy</source>
-        <translation>Critique pour l&apos;Ennemi</translation>
+        <translation>Critique contre l&apos;ennemi</translation>
     </message>
     <message>
         <source>Critical to Actor</source>
-        <translation>Critique pour l&apos;Acteur</translation>
+        <translation>Critique sur l&apos;allié</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dégâts Acteur</translation>
+        <translation>Dégâts sur l&apos;allié</translation>
     </message>
     <message>
         <source>Actor Recovery</source>
-        <translation>Récupération Acteur</translation>
+        <translation>Soin d&apos;un allié</translation>
     </message>
     <message>
         <source>Actor Gain</source>
-        <translation>Gain Acteur</translation>
+        <translation>Gain d&apos;un allié</translation>
     </message>
     <message>
         <source>Actor Loss</source>
-        <translation>Perte Acteur</translation>
+        <translation>Perte d&apos;un allié</translation>
     </message>
     <message>
         <source>Actor Drain</source>
-        <translation>Drain Acteur</translation>
+        <translation>Absorption sur l&apos;allié</translation>
     </message>
     <message>
         <source>Actor No Damage</source>
-        <translation>Pas de dégâts Acteur</translation>
+        <translation>Aucun dégât sur l&apos;allié</translation>
     </message>
     <message>
         <source>Actor No Hit</source>
-        <translation>Pas de Coup Acteur</translation>
+        <translation>Coup raté sur l&apos;allié</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dégâts Ennemi</translation>
+        <translation>Dégâts sur l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy Recovery</source>
-        <translation>Récupération Ennemi</translation>
+        <translation>Soin de l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy Gain</source>
-        <translation>Gain Ennemi</translation>
+        <translation>Gain de l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy Loss</source>
-        <translation>Perte Ennemi</translation>
+        <translation>Perte de l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy Drain</source>
-        <translation>Drain Ennemi</translation>
+        <translation>Absorption sur l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy No Damage</source>
-        <translation>Pas de dégâts Ennemi</translation>
+        <translation>Aucun dégât sur l&apos;ennemi</translation>
     </message>
     <message>
         <source>Enemy No Hit</source>
-        <translation>Pas de Coup Ennemi</translation>
+        <translation>Coup raté sur l&apos;ennemi</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>Évasion</translation>
+        <translation>Esquive</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>Esquive magique</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>Réflexion magique</translation>
     </message>
     <message>
         <source>Counter Attack</source>
-        <translation>Contre Attaque</translation>
+        <translation>Contre-attaque</translation>
     </message>
     <message>
         <source>Substitute</source>
-        <translation>Remplacer</translation>
+        <translation>Protecteur</translation>
     </message>
     <message>
         <source>Buff Add</source>
-        <translation>Ajouter Buff</translation>
+        <translation>Ajout de buff</translation>
     </message>
     <message>
         <source>Debuff Add</source>
-        <translation>Ajouter Debuff</translation>
+        <translation>Ajout de debuff</translation>
     </message>
     <message>
         <source>Buff Remove</source>
-        <translation>Retirer Buff</translation>
+        <translation>Retrait de buff</translation>
     </message>
     <message>
         <source>Action Failure</source>
-        <translation>Échec Action</translation>
+        <translation>Action échouée</translation>
     </message>
 </context>
 <context>
@@ -10467,11 +10466,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Music resources to be used throughout the game.</source>
-        <translation>Ressources de musique à utiliser pendant le jeu.</translation>
+        <translation>Musiques à utiliser pendant le jeu.</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titre</translation>
+        <translation>Écran titre</translation>
     </message>
     <message>
         <source>Battle</source>
@@ -10487,7 +10486,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Over</source>
-        <translation>Game Over</translation>
+        <translation>Game over</translation>
     </message>
 </context>
 <context>
@@ -10502,59 +10501,59 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation>Utiliser Combat Vue Latérale</translation>
+        <translation>Combats en vue de côté [SideView]</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
-        <translation>Afficher l&apos;écran de combat en vue latérale. Si non coché, le mode vue frontale sera utilisé.</translation>
+        <translation>Affiche l&apos;écran de combat en vue de côté. Si non coché, la vue frontale est utilisée.</translation>
     </message>
     <message>
         <source>Start Transparent</source>
-        <translation>Démarrage Transparent</translation>
+        <translation>Joueur transparent</translation>
     </message>
     <message>
         <source>Starts the game with the player&apos;s transparency flag set to ON. This can be switched off by the [Change Transparency] event command.</source>
-        <translation>Commence le jeu avec l&apos;étiquette de transparence du joueur réglé sur ON. Cela peut être désactivé à l&apos;aide de la commande d&apos;évènement [Changer la Transparence].</translation>
+        <translation>Commence le jeu avec la transparence du joueur réglée sur ON. Cela peut être désactivé à l&apos;aide de la commande d&apos;évènement [Changer la transparence].</translation>
     </message>
     <message>
         <source>Show Player Followers</source>
-        <translation>Afficher Suiveurs du Joueur</translation>
+        <translation>File indienne sur la carte</translation>
     </message>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
-        <translation>Permet l&apos;affichage des membres du groupe marchant derrière le joueur. Cela peut être changé en utilisant la commande d&apos;évènement [Changer les Suiveurs du Joueur].</translation>
+        <translation>Permet l&apos;affichage des membres du groupe marchant derrière le joueur. Cela peut être changé en utilisant la commande d&apos;évènement [Changer les suiveurs du joueur].</translation>
     </message>
     <message>
         <source>Knockout by Slip Damage</source>
-        <translation>KO par dégâts. de Détérior</translation>
+        <translation>KO par dégâts de poison</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by slip damage, such as poison. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dégâts de détérioration, comme le poison. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>Permet aux PV de chuter à 0 par des dégâts de détérioration, comme le poison. Si ce n&apos;est pas coché, les dégâts s&apos;arrêtent à 1 PV.</translation>
     </message>
     <message>
         <source>Knockout by Floor Damage</source>
-        <translation>KO par Dégats de Terrain</translation>
+        <translation>KO par dégâts du sol</translation>
     </message>
     <message>
         <source>Allows HP to drop to 0 by damage caused by map terrain. If unchecked, stops at 1 HP.</source>
-        <translation>Permet aux HP de chuter jusqu&apos;à 0 par des dégâts causés par le terrain de la carte. Si ce n&apos;est pas coché, cela s&apos;arrête à 1 HP.</translation>
+        <translation>Permet aux PV de chuter à 0 par des dégâts causés par le terrain de la carte. Si ce n&apos;est pas coché, les dégâts s&apos;arrêtent à 1 PV.</translation>
     </message>
     <message>
         <source>Display TP in Battle</source>
-        <translation>Affiche les TP en Combat</translation>
+        <translation>PT affichés en combat</translation>
     </message>
     <message>
         <source>Displays the TP of each party member in the status window during battles. Uncheck this option if you don&apos;t use TP system.</source>
-        <translation>Affiche les TP de chaque membre du groupe dans la fenêtre d&apos;état pendant les combats. Décocher cette option si vous n&apos;utilisez pas le système de TP.</translation>
+        <translation>Affiche les PT de chaque membre du groupe dans la fenêtre d&apos;état pendant les combats. Décochez cette option si vous n&apos;utilisez pas le système de PT.</translation>
     </message>
     <message>
         <source>EXP for Reserve Members</source>
-        <translation>EXP Membres en Réserve</translation>
+        <translation>EXP membres en réserve</translation>
     </message>
     <message>
         <source>When there are more than four characters in the party, this setting allows party members that did not participate in a battle to get a share of the resulting EXP.</source>
-        <translation>Quand il y a plus de quatre personnages dans le groupe, ce réglage permet aux membres du groupe qui n&apos;ont pas participé à un combat d&apos;avoir une part de l&apos;EXP résultant.</translation>
+        <translation>Quand il y a plus de quatre personnages dans le groupe, ce réglage permet aux membres du groupe qui n&apos;ont pas participé à un combat d&apos;avoir une part de l&apos;EXP.</translation>
     </message>
 </context>
 <context>
@@ -10565,7 +10564,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sound effects to be used throughout the game.</source>
-        <translation>Effets sonores à utiliser pendant le jeu.</translation>
+        <translation>Effets sonores utilisés pendant le jeu.</translation>
     </message>
     <message>
         <source>Cursor</source>
@@ -10581,7 +10580,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Buzzer</source>
-        <translation>Signal sonore</translation>
+        <translation>Impossible</translation>
     </message>
     <message>
         <source>Equip</source>
@@ -10597,7 +10596,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Battle Start</source>
-        <translation>Démarrage du Combat</translation>
+        <translation>Début de combat</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -10605,51 +10604,51 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Enemy Attack</source>
-        <translation>Attaque Ennemie</translation>
+        <translation>Attaque ennemie</translation>
     </message>
     <message>
         <source>Enemy Damage</source>
-        <translation>Dégâts Ennemis</translation>
+        <translation>Dégâts ennemis</translation>
     </message>
     <message>
         <source>Enemy Collapse</source>
-        <translation>Effondrement Ennemi</translation>
+        <translation>Mort d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Boss Collapse 1</source>
-        <translation>Effondrement Boss 1</translation>
+        <translation>Mort d&apos;un boss 1</translation>
     </message>
     <message>
         <source>Boss Collapse 2</source>
-        <translation>Effondrement Boss 2</translation>
+        <translation>Mort d&apos;un boss 2</translation>
     </message>
     <message>
         <source>Actor Damage</source>
-        <translation>Dégâts Acteur</translation>
+        <translation>Dégâts sur allié</translation>
     </message>
     <message>
         <source>Actor Collapse</source>
-        <translation>Effondrement Acteur</translation>
+        <translation>Mort d&apos;un allié</translation>
     </message>
     <message>
         <source>Recovery</source>
-        <translation>Récupération</translation>
+        <translation>Guérison</translation>
     </message>
     <message>
         <source>Miss</source>
-        <translation>Manquer</translation>
+        <translation>Coup raté</translation>
     </message>
     <message>
         <source>Evasion</source>
-        <translation>Évasion</translation>
+        <translation>Esquive</translation>
     </message>
     <message>
         <source>Magic Evasion</source>
-        <translation>Évasion Magique</translation>
+        <translation>Esquive magique</translation>
     </message>
     <message>
         <source>Magic Reflection</source>
-        <translation>Réflexion Magique</translation>
+        <translation>Réflexion magique</translation>
     </message>
     <message>
         <source>Shop</source>
@@ -10657,26 +10656,26 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Item</source>
-        <translation>Utiliser Objet</translation>
+        <translation>Utiliser un objet</translation>
     </message>
     <message>
         <source>Use Skill</source>
-        <translation>Utiliser Compétence</translation>
+        <translation>Utiliser une compétence</translation>
     </message>
 </context>
 <context>
     <name>Group_SystemStarting</name>
     <message>
         <source>Starting Positions</source>
-        <translation>Positions de Démarrage</translation>
+        <translation>Positions de départ</translation>
     </message>
     <message>
         <source>player and the vehicles</source>
-        <translation>joueur et les véhicules</translation>
+        <translation>joueur et des véhicules</translation>
     </message>
     <message>
         <source>Location of the %1 at the start of the game.</source>
-        <translation>Emplacement de %1 au moment du démarrage du jeu.</translation>
+        <translation>Emplacement du %1 au moment du démarrage du jeu.</translation>
     </message>
 </context>
 <context>
@@ -10688,18 +10687,18 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Change Maximum</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Changement Max.</translation>
+        <translation>Définir le maximum</translation>
     </message>
 </context>
 <context>
     <name>Group_TargetActor</name>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Actor to change the status.</source>
-        <translation>Acteur à qui changer l&apos;état.</translation>
+        <translation>Héros à qui changer l&apos;état.</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -10707,7 +10706,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Directly specifies the actor to be targeted.</source>
-        <translation>Spécifie directement l&apos;acteur ciblé.</translation>
+        <translation>Spécifie directement le héros ciblé.</translation>
     </message>
     <message>
         <source>Entire Party</source>
@@ -10719,7 +10718,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Uses the variable value as the actor ID.</source>
-        <translation>Utilise la valeur de la variable comme l&apos;ID de l&apos;acteur.</translation>
+        <translation>Utilise la valeur de la variable comme ID du héros.</translation>
     </message>
 </context>
 <context>
@@ -10730,7 +10729,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Actor</source>
-        <translation>Acteur</translation>
+        <translation>Héros</translation>
     </message>
 </context>
 <context>
@@ -10745,7 +10744,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Tileset image for the tab %1.</source>
-        <translation>Tileset pour l&apos;onglet Image %1.</translation>
+        <translation>Image de tileset pour l&apos;onglet %1.</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -10753,7 +10752,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Ground</source>
-        <translation>Terre</translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <source>Buildings</source>
@@ -10772,12 +10771,13 @@ Please complete the post with follow this link.</source>
     <name>Group_Traits</name>
     <message>
         <source>Traits</source>
-        <translation>Traits</translation>
+        <translation>Attributs</translation>
     </message>
     <message>
         <source>List of the traits to give this data item.</source>
-        <translation>Liste des traits à donner à cet objet de données.</translation>
+        <translation>Liste des attributs à donner à cet élément.</translation>
     </message>
+<!-- blip bloup fin trad -->
     <message>
         <source>Type</source>
         <translation>Type</translation>
