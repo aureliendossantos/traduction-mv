@@ -12450,188 +12450,188 @@ Please complete the post with follow this link.</source>
         <source>Undefined Command</source>
         <translation>Commande indéfinie</translation>
     </message>
-<!-- c&apos;est tout pour ajd -->
     <message>
         <source>Moves to the lower tile.</source>
-        <translation>Se déplace vers le tile inférieur.</translation>
+        <translation>Déplace l'évènement sur le carreau en dessous.</translation>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>Se déplace vers le tile gauche.</translation>
+        <translation>Déplace l'évènement sur le carreau de gauche.</translation>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>Se déplace vers le tile droit.</translation>
+        <translation>Déplace l'évènement sur le carreau de droite.</translation>
     </message>
     <message>
         <source>Moves to the upper tile.</source>
-        <translation>Se déplace vers le tile supérieur.</translation>
+        <translation>Déplace l'évènement sur le carreau au dessus.</translation>
     </message>
     <message>
         <source>Moves to the lower left tile diagonally.</source>
-        <translation>Se déplace vers le tile inférieur gauche en diagonale.</translation>
+        <translation>Déplace diagonalement l'évènement sur le carreau en dessous à gauche.</translation>
     </message>
     <message>
         <source>Moves to the lower right tile diagonally.</source>
-        <translation>Se déplace vers le tile inférieur droit en diagonale.</translation>
+        <translation>Déplace diagonalement l'évènement sur le carreau en dessous à droite.</translation>
     </message>
     <message>
         <source>Moves to the upper left tile diagonally.</source>
-        <translation>Se déplace vers le tile supérieur gauche en diagonale.</translation>
+        <translation>Déplace diagonalement l'évènement sur le carreau au dessus à gauche.</translation>
     </message>
     <message>
         <source>Moves to the upper right tile diagonally.</source>
-        <translation>Se déplace vers le tile supérieur droit en diagonale.</translation>
+        <translation>Déplace diagonalement l'évènement sur le carreau au dessus à droite.</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
-        <translation>Se déplace vers le haut, le bas, la gauche ou la droite.</translation>
+        <translation>Déplace aléatoirement l'évènement d'un pas en haut, en bas, à gauche ou à droite.</translation>
     </message>
     <message>
         <source>Moves toward the current location of the player.</source>
-        <translation>Se déplace vers l&apos;emplacement actuel du joueur.</translation>
+        <translation>Déplace l'évènement en direction du joueur.</translation>
     </message>
     <message>
         <source>Moves away from the current location of the player.</source>
-        <translation>S&apos;éloigne de l&apos;endroit actuel où se situe le joueur.</translation>
+        <translation>Déplace l'évènement dans la direction opposée du joueur.</translation>
     </message>
     <message>
         <source>Moves in the current direction.</source>
-        <translation>Se déplace dans la direction actuelle.</translation>
+        <translation>Déplace le joueur d'un carreau dans la direction de son regard.</translation>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>Se déplace dans la direction opposée sans se retourner.</translation>
+        <translation>Déplace le joueur d'un carreau dans la direction opposée à son regard.</translation>
     </message>
     <message>
         <source>Jumps from the current position.</source>
-        <translation>Saute de la position actuelle.</translation>
+        <translation>Effectue un saut depuis la position actuelle.</translation>
     </message>
     <message>
         <source>Waits for a specified amount of time.</source>
-        <translation>Attend pendant une certaine période de temps.</translation>
+        <translation>Bloque le déroulement de l'évènement pour la durée définie.</translation>
     </message>
     <message>
         <source>Faces down.</source>
-        <translation>Orienté vers le bas.</translation>
+        <translation>Tourne le personnage vers le bas.</translation>
     </message>
     <message>
         <source>Faces left.</source>
-        <translation>Orienté vers la gauche.</translation>
+        <translation>Tourne le personnage vers la gauche.</translation>
     </message>
     <message>
         <source>Faces right.</source>
-        <translation>Orienté vers la droite.</translation>
+        <translation>Tourne le personnage vers la droite.</translation>
     </message>
     <message>
         <source>Faces up.</source>
-        <translation>Orienté vers le haut.</translation>
+        <translation>Tourne le personnage vers le haut.</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right.</source>
-        <translation>Orienté 90 degrés vers la droite.</translation>
+        <translation>Tourne le personnage de 90 degrés vers la droite.</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the left.</source>
-        <translation>Orienté 90 degrés vers la gauche.</translation>
+        <translation>Tourne le personnage de 90 degrés vers la gauche.</translation>
     </message>
     <message>
         <source>Faces the opposite direction.</source>
-        <translation>Orienté dans la direction opposée.</translation>
+        <translation>Fait faire un demi-tour à l'évènement.</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right or left.</source>
-        <translation>Orienté 90 degrés vers la droite ou la gauche.</translation>
+        <translation>Tourne aléatoirement le personnage de 90°.</translation>
     </message>
     <message>
         <source>Faces up, down, left, or right.</source>
-        <translation>Orienté vers le haut, le bas, la gauche ou la droite.</translation>
+        <translation>Tourne le personnage vers une direction aléatoire.</translation>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
-        <translation>Orienté vers l&apos;emplacement actuel du joueur.</translation>
+        <translation>Tourne l'évènement vers le joueur.</translation>
     </message>
     <message>
         <source>Faces opposite toward the current location of the player.</source>
-        <translation>Orienté à l&apos;opposé de l&apos;emplacement actuel du joueur.</translation>
+        <translation>Tourne l'évènement vers la direction opposée au joueur.</translation>
     </message>
     <message>
         <source>Turns the specified switch ON.</source>
-        <translation>Règle l&apos;interrupteur spécifié sur ON.</translation>
+        <translation>Active l'interrupteur spécifié.</translation>
     </message>
     <message>
         <source>Turns the specified switch OFF.</source>
-        <translation>Règle l&apos;interrupteur spécifié sur OFF.</translation>
+        <translation>Désactive l'interrupteur spécifié.</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>Change la vitesse.</translation>
+        <translation>Modifie la vitesse de déplacement de l'évènement.</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>Change la fréquence. S&apos;applique uniquement au mouvement autonome.</translation>
+        <translation>Modifie la fréquence de déplacement de l'évènement. Appliqué seulement pour les déplacements autonomes.</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Active l&apos;animation marche quand le personnage se déplace.</translation>
+        <translation>Active l'animation de l'évènement lorsqu'il se déplace..</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>Désactive l&apos;animation marche quand le personnage se déplace.</translation>
+        <translation>Désactive l&apos;animation de l'évènement lorsqu'il se déplace.</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>Active l&apos;animation pas à pas quand le personnage s&apos;est arrêté.</translation>
+        <translation>Active l&apos;animation de l'évènement lorsqu'il ne se déplace pas.</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>Désactive l&apos;animation pas à pas quand le personnage s&apos;est arrêté.</translation>
+        <translation>Désactive l&apos;animation de l'évènement lorsqu'il ne se déplace pas.</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Rend impossible de changer la direction du personnage.</translation>
+        <translation>Rend le changement de direction de l'évènement impossible.</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
-        <translation>Rend possible de changer la direction du personnage.</translation>
+        <translation>Rend le changement de direction de l'évènement possible.</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Rend possible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>Permet à l'évènement de traverser même les carreaux non praticables et les autres évènements ou personnages.</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
-        <translation>Rend impossible de se déplacer à travers les tiles infranchissables et les personnages.</translation>
+        <translation>Rend impossible la traversée de carreaux non praticables et des autres évènements ou personnages.</translation>
     </message>
     <message>
         <source>Makes the character invisible.</source>
-        <translation>Rend le personnage invisible.</translation>
+        <translation>Rend l'évènement invisible.</translation>
     </message>
     <message>
         <source>Makes the character visible.</source>
-        <translation>Rend le personnage visible.</translation>
+        <translation>Rend l'évènement visible.</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>Change l&apos;image du personnage.</translation>
+        <translation>Modifie l'apparence de l'évènement sur la carte.</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
-        <translation>Change l&apos;opacité du personnage.</translation>
+        <translation>Modifie l'opacité de l'évènement.</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
-        <translation>Change le mode de mélange du personnage.</translation>
+        <translation>Modifie le mode de fusion de l'évènement.</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
-        <translation>Joue la SE spécifiée.</translation>
+        <translation>Joue un effet sonore.</translation>
     </message>
     <message>
         <source>Evaluates text as JavaScript.</source>
         <translation>Évalue le texte comme JavaScript.</translation>
     </message>
 </context>
+<!-- c'est traduit jusqu'ici pas plus loin attention pas de bêtises-->
 <context>
     <name>MovementFrequencyBox</name>
     <message>
