@@ -12452,55 +12452,55 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Moves to the lower tile.</source>
-        <translation>Déplace l'évènement sur le carreau en dessous.</translation>
+        <translation>Déplace l&apos;évènement sur le carreau en dessous.</translation>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>Déplace l'évènement sur le carreau de gauche.</translation>
+        <translation>Déplace l&apos;évènement sur le carreau de gauche.</translation>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>Déplace l'évènement sur le carreau de droite.</translation>
+        <translation>Déplace l&apos;évènement sur le carreau de droite.</translation>
     </message>
     <message>
         <source>Moves to the upper tile.</source>
-        <translation>Déplace l'évènement sur le carreau au dessus.</translation>
+        <translation>Déplace l&apos;évènement sur le carreau au dessus.</translation>
     </message>
     <message>
         <source>Moves to the lower left tile diagonally.</source>
-        <translation>Déplace diagonalement l'évènement sur le carreau en dessous à gauche.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le carreau en dessous à gauche.</translation>
     </message>
     <message>
         <source>Moves to the lower right tile diagonally.</source>
-        <translation>Déplace diagonalement l'évènement sur le carreau en dessous à droite.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le carreau en dessous à droite.</translation>
     </message>
     <message>
         <source>Moves to the upper left tile diagonally.</source>
-        <translation>Déplace diagonalement l'évènement sur le carreau au dessus à gauche.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le carreau au dessus à gauche.</translation>
     </message>
     <message>
         <source>Moves to the upper right tile diagonally.</source>
-        <translation>Déplace diagonalement l'évènement sur le carreau au dessus à droite.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le carreau au dessus à droite.</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
-        <translation>Déplace aléatoirement l'évènement d'un pas en haut, en bas, à gauche ou à droite.</translation>
+        <translation>Déplace aléatoirement l&apos;évènement d&apos;un pas en haut, en bas, à gauche ou à droite.</translation>
     </message>
     <message>
         <source>Moves toward the current location of the player.</source>
-        <translation>Déplace l'évènement en direction du joueur.</translation>
+        <translation>Déplace l&apos;évènement en direction du joueur.</translation>
     </message>
     <message>
         <source>Moves away from the current location of the player.</source>
-        <translation>Déplace l'évènement dans la direction opposée du joueur.</translation>
+        <translation>Déplace l&apos;évènement dans la direction opposée du joueur.</translation>
     </message>
     <message>
         <source>Moves in the current direction.</source>
-        <translation>Déplace le joueur d'un carreau dans la direction de son regard.</translation>
+        <translation>Déplace le joueur d&apos;un carreau dans la direction de son regard.</translation>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>Déplace le joueur d'un carreau dans la direction opposée à son regard.</translation>
+        <translation>Déplace le joueur d&apos;un carreau dans la direction opposée à son regard.</translation>
     </message>
     <message>
         <source>Jumps from the current position.</source>
@@ -12508,7 +12508,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Waits for a specified amount of time.</source>
-        <translation>Bloque le déroulement de l'évènement pour la durée définie.</translation>
+        <translation>Bloque le déroulement de l&apos;évènement pour la durée définie.</translation>
     </message>
     <message>
         <source>Faces down.</source>
@@ -12536,7 +12536,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Faces the opposite direction.</source>
-        <translation>Fait faire un demi-tour à l'évènement.</translation>
+        <translation>Fait faire un demi-tour à l&apos;évènement.</translation>
     </message>
     <message>
         <source>Faces 90 degrees to the right or left.</source>
@@ -12548,55 +12548,55 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Faces toward the current location of the player.</source>
-        <translation>Tourne l'évènement vers le joueur.</translation>
+        <translation>Tourne l&apos;évènement vers le joueur.</translation>
     </message>
     <message>
         <source>Faces opposite toward the current location of the player.</source>
-        <translation>Tourne l'évènement vers la direction opposée au joueur.</translation>
+        <translation>Tourne l&apos;évènement vers la direction opposée au joueur.</translation>
     </message>
     <message>
         <source>Turns the specified switch ON.</source>
-        <translation>Active l'interrupteur spécifié.</translation>
+        <translation>Active l&apos;interrupteur spécifié.</translation>
     </message>
     <message>
         <source>Turns the specified switch OFF.</source>
-        <translation>Désactive l'interrupteur spécifié.</translation>
+        <translation>Désactive l&apos;interrupteur spécifié.</translation>
     </message>
     <message>
         <source>Changes the speed.</source>
-        <translation>Modifie la vitesse de déplacement de l'évènement.</translation>
+        <translation>Modifie la vitesse de déplacement de l&apos;évènement.</translation>
     </message>
     <message>
         <source>Changes the frequency. Only applies to autonomous movement.</source>
-        <translation>Modifie la fréquence de déplacement de l'évènement. Appliqué seulement pour les déplacements autonomes.</translation>
+        <translation>Modifie la fréquence de déplacement de l&apos;évènement. Appliqué seulement pour les déplacements autonomes.</translation>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Active l'animation de l'évènement lorsqu'il se déplace..</translation>
+        <translation>Active l&apos;animation de l&apos;évènement lorsqu&apos;il se déplace..</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
-        <translation>Désactive l&apos;animation de l'évènement lorsqu'il se déplace.</translation>
+        <translation>Désactive l&apos;animation de l&apos;évènement lorsqu&apos;il se déplace.</translation>
     </message>
     <message>
         <source>Turns on the stepping animation when the character has stopped.</source>
-        <translation>Active l&apos;animation de l'évènement lorsqu'il ne se déplace pas.</translation>
+        <translation>Active l&apos;animation de l&apos;évènement lorsqu&apos;il ne se déplace pas.</translation>
     </message>
     <message>
         <source>Turns off the stepping animation when the character has stopped.</source>
-        <translation>Désactive l&apos;animation de l'évènement lorsqu'il ne se déplace pas.</translation>
+        <translation>Désactive l&apos;animation de l&apos;évènement lorsqu&apos;il ne se déplace pas.</translation>
     </message>
     <message>
         <source>Makes it impossible to change the direction of the character.</source>
-        <translation>Rend le changement de direction de l'évènement impossible.</translation>
+        <translation>Rend le changement de direction de l&apos;évènement impossible.</translation>
     </message>
     <message>
         <source>Makes it possible to change the direction of the character.</source>
-        <translation>Rend le changement de direction de l'évènement possible.</translation>
+        <translation>Rend le changement de direction de l&apos;évènement possible.</translation>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Permet à l'évènement de traverser même les carreaux non praticables et les autres évènements ou personnages.</translation>
+        <translation>Permet à l&apos;évènement de traverser même les carreaux non praticables et les autres évènements ou personnages.</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
@@ -12604,23 +12604,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Makes the character invisible.</source>
-        <translation>Rend l'évènement invisible.</translation>
+        <translation>Rend l&apos;évènement invisible.</translation>
     </message>
     <message>
         <source>Makes the character visible.</source>
-        <translation>Rend l'évènement visible.</translation>
+        <translation>Rend l&apos;évènement visible.</translation>
     </message>
     <message>
         <source>Changes the image of the character.</source>
-        <translation>Modifie l'apparence de l'évènement sur la carte.</translation>
+        <translation>Modifie l&apos;apparence de l&apos;évènement sur la carte.</translation>
     </message>
     <message>
         <source>Changes the opacity of the character.</source>
-        <translation>Modifie l'opacité de l'évènement.</translation>
+        <translation>Modifie l&apos;opacité de l&apos;évènement.</translation>
     </message>
     <message>
         <source>Changes the blend mode of the character.</source>
-        <translation>Modifie le mode de fusion de l'évènement.</translation>
+        <translation>Modifie le mode de fusion de l&apos;évènement.</translation>
     </message>
     <message>
         <source>Plays the specified SE.</source>
@@ -12631,7 +12631,6 @@ Please complete the post with follow this link.</source>
         <translation>Évalue le texte comme JavaScript.</translation>
     </message>
 </context>
-<!-- c'est traduit jusqu'ici pas plus loin attention pas de bêtises-->
 <context>
     <name>MovementFrequencyBox</name>
     <message>
@@ -12641,27 +12640,27 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Frequency of autonomous movement.</source>
-        <translation>Fréquence de mouvement autonome.</translation>
+        <translation>Fréquence des déplacements autonomes. Plus la valeur est haute, plus l&apos;évènement se déplacera souvent.</translation>
     </message>
     <message>
         <source>1: Lowest</source>
-        <translation>1 : Le plus bas</translation>
+        <translation>1 : Minimum</translation>
     </message>
     <message>
         <source>2: Lower</source>
-        <translation>2 : Inférieur</translation>
+        <translation>2 : Basse</translation>
     </message>
     <message>
         <source>3: Normal</source>
-        <translation>3 : Normal</translation>
+        <translation>3 : Normale</translation>
     </message>
     <message>
         <source>4: Higher</source>
-        <translation>4 : Supérieur</translation>
+        <translation>4 : Haute</translation>
     </message>
     <message>
         <source>5: Highest</source>
-        <translation>5 : Le plus élevé</translation>
+        <translation>5 : Maximum</translation>
     </message>
 </context>
 <context>
@@ -12673,158 +12672,158 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Movement speed of the character.</source>
-        <translation>Vitesse de mouvement du personnage.</translation>
+        <translation>Vitesse de déplacement de l&apos;évènement.</translation>
     </message>
     <message>
         <source>1: x8 Slower</source>
-        <translation>1 : 8x Plus lent</translation>
+        <translation>1 : ×8 plus lente</translation>
     </message>
     <message>
         <source>2: x4 Slower</source>
-        <translation>2 : 4x Plus lent</translation>
+        <translation>2 : ×4 plus lente</translation>
     </message>
     <message>
         <source>3: x2 Slower</source>
-        <translation>3 : 2x Plus lent</translation>
+        <translation>3 : ×2 plus lente</translation>
     </message>
     <message>
         <source>4: Normal</source>
-        <translation>4 : Normal</translation>
+        <translation>4 : Normale</translation>
     </message>
     <message>
         <source>5: x2 Faster</source>
-        <translation>5 : 2x Plus rapide</translation>
+        <translation>5 : ×2 plus rapide</translation>
     </message>
     <message>
         <source>6: x4 Faster</source>
-        <translation>6 : 4x Plus rapide</translation>
+        <translation>6 : ×4 plus rapide</translation>
     </message>
 </context>
 <context>
     <name>NewDataMaker</name>
     <message>
         <source>Hit Physical</source>
-        <translation>Frapper Physique</translation>
+        <translation>Frappe puissante</translation>
     </message>
     <message>
         <source>Hit Effect</source>
-        <translation>Frapper Effet</translation>
+        <translation>Frappe spéciale</translation>
     </message>
     <message>
         <source>Hit Fire</source>
-        <translation>Frapper Feu</translation>
+        <translation>Frappe feu</translation>
     </message>
     <message>
         <source>Hit Ice</source>
-        <translation>Frapper Glace</translation>
+        <translation>Frappe glace</translation>
     </message>
     <message>
         <source>Hit Thunder</source>
-        <translation>Frapper Tonnerre</translation>
+        <translation>Frappe foudre</translation>
     </message>
     <message>
         <source>Slash Physical</source>
-        <translation>Trancher Physique</translation>
+        <translation>Taillade physique</translation>
     </message>
     <message>
         <source>Slash Effect</source>
-        <translation>Trancher Effet</translation>
+        <translation>Taillade puissante</translation>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>Trancher Feu</translation>
+        <translation>Taillade feu</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>Trancher Glace</translation>
+        <translation>Taillade glace</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>Trancher Tonnerre</translation>
+        <translation>Taillade foudre</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>Transpercer Physique</translation>
+        <translation>Transpercer physique</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>Transpercer Effet</translation>
+        <translation>Transpercer puissant</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Transpercer Feu</translation>
+        <translation>Transpercer feu</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Transpercer Glace</translation>
+        <translation>Transpercer glace</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Transpercer Tonnerre</translation>
+        <translation>Transpercer foudre</translation>
     </message>
     <message>
         <source>Claw Physical</source>
-        <translation>Griffer Physique</translation>
+        <translation>Griffure physique</translation>
     </message>
     <message>
         <source>Claw Effect</source>
-        <translation>Griffer Effet</translation>
+        <translation>Griffure puissante</translation>
     </message>
     <message>
         <source>Claw Fire</source>
-        <translation>Griffer Feu</translation>
+        <translation>Griffure feu</translation>
     </message>
     <message>
         <source>Claw Ice</source>
-        <translation>Griffer Glace</translation>
+        <translation>Griffure gace</translation>
     </message>
     <message>
         <source>Claw Thunder</source>
-        <translation>Griffer Tonnerre</translation>
+        <translation>Griffure foudre</translation>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>Frapper Spécial 1</translation>
+        <translation>Frapper spécial 1</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
-        <translation>Frapper Spécial 2</translation>
+        <translation>Frapper spécial 2</translation>
     </message>
     <message>
         <source>Slash Special 1</source>
-        <translation>Trancher Spécial 1</translation>
+        <translation>Taillade spéciale 1</translation>
     </message>
     <message>
         <source>Slash Special 2</source>
-        <translation>Trancher Spécial 2</translation>
+        <translation>Taillade spéciale 2</translation>
     </message>
     <message>
         <source>Slash Special 3</source>
-        <translation>Trancher Spécial 3</translation>
+        <translation>Taillade spéciale 3</translation>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>Transpercer Spécial 1</translation>
+        <translation>Transpercer spécial 1</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>Transpercer Spécial 2</translation>
+        <translation>Transpercer spécial 2</translation>
     </message>
     <message>
         <source>Claw Special</source>
-        <translation>Griffer Spécial</translation>
+        <translation>Griffure spéciale</translation>
     </message>
     <message>
         <source>Arrow Special</source>
-        <translation>Flèche Spéciale</translation>
+        <translation>Tir spécial</translation>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>Général Spécial 1</translation>
+        <translation>Frapper spécial 3</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>Général Spécial 2</translation>
+        <translation>Transpercer spécial 3</translation>
     </message>
     <message>
         <source>Breath</source>
@@ -12832,11 +12831,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pollen</source>
-        <translation>Pollen</translation>
+        <translation>Poudre</translation>
     </message>
     <message>
         <source>Sonic Wave</source>
-        <translation>Vague Sonique</translation>
+        <translation>Vague sonique</translation>
     </message>
     <message>
         <source>Fog</source>
@@ -12844,7 +12843,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Song</source>
-        <translation>Chanson</translation>
+        <translation>Chant</translation>
     </message>
     <message>
         <source>Shout</source>
@@ -12852,11 +12851,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sweep</source>
-        <translation>Balayage</translation>
+        <translation>Balayette</translation>
     </message>
     <message>
         <source>Bodyslam</source>
-        <translation>Claquement</translation>
+        <translation>Souplesset</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -12864,75 +12863,75 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Heal One 1</source>
-        <translation>Guérir Un 1</translation>
+        <translation>Soin 1</translation>
     </message>
     <message>
         <source>Heal One 2</source>
-        <translation>Guérir Un 2</translation>
+        <translation>Soin 2</translation>
     </message>
     <message>
         <source>Heal All 1</source>
-        <translation>Guérir Tous 1</translation>
+        <translation>Soin Tous 1</translation>
     </message>
     <message>
         <source>Heal All 2</source>
-        <translation>Guérir Tous 2</translation>
+        <translation>Soin Tous 2</translation>
     </message>
     <message>
         <source>Cure One 1</source>
-        <translation>Soigner Un 1</translation>
+        <translation>Restauration 1</translation>
     </message>
     <message>
         <source>Cure One 2</source>
-        <translation>Soigner Un 2</translation>
+        <translation>Restauration 2</translation>
     </message>
     <message>
         <source>Cure All 1</source>
-        <translation>Soigner Tous 1</translation>
+        <translation>Restauration Tous 1</translation>
     </message>
     <message>
         <source>Cure All 2</source>
-        <translation>Soigner Tous 2</translation>
+        <translation>Restauration Tous 2</translation>
     </message>
     <message>
         <source>Revive 1</source>
-        <translation>Revivre 1</translation>
+        <translation>Résurrection 1</translation>
     </message>
     <message>
         <source>Revive 2</source>
-        <translation>Revivre 2</translation>
+        <translation>Résurrection 2</translation>
     </message>
     <message>
         <source>Powerup 1</source>
-        <translation>Augmenter la puissance 1</translation>
+        <translation>Bonus 1</translation>
     </message>
     <message>
         <source>Powerup 2</source>
-        <translation>Augmenter la puissance 2</translation>
+        <translation>Bonus 2</translation>
     </message>
     <message>
         <source>Powerup 3</source>
-        <translation>Augmenter la puissance 3</translation>
+        <translation>Bonus 3</translation>
     </message>
     <message>
         <source>Powerdown 1</source>
-        <translation>Diminuer la puissance 1</translation>
+        <translation>Malus 1</translation>
     </message>
     <message>
         <source>Powerdown 2</source>
-        <translation>Diminuer la puissance 2</translation>
+        <translation>Malus 2</translation>
     </message>
     <message>
         <source>Powerdown 3</source>
-        <translation>Diminuer la puissance 3</translation>
+        <translation>Malus 3</translation>
     </message>
     <message>
         <source>Bind</source>
-        <translation>Attacher</translation>
+        <translation>Lier</translation>
     </message>
     <message>
         <source>Absorb</source>
-        <translation>Absorber</translation>
+        <translation>Absorbe</translation>
     </message>
     <message>
         <source>Poison</source>
@@ -12940,7 +12939,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Blind</source>
-        <translation>Aveugle</translation>
+        <translation>Assombrir</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -12956,7 +12955,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Paralyze</source>
-        <translation>Paralyser</translation>
+        <translation>Paralysie</translation>
     </message>
     <message>
         <source>Death</source>
@@ -12964,11 +12963,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Fire One 1</source>
-        <translation>Feu Un 1</translation>
+        <translation>Feu 1</translation>
     </message>
     <message>
         <source>Fire One 2</source>
-        <translation>Feu Un 2</translation>
+        <translation>Feu 2</translation>
     </message>
     <message>
         <source>Fire All 1</source>
@@ -12984,11 +12983,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Ice One 1</source>
-        <translation>Glace Un 1</translation>
+        <translation>Glace 1</translation>
     </message>
     <message>
         <source>Ice One 2</source>
-        <translation>Glace Un 2</translation>
+        <translation>Glace 2</translation>
     </message>
     <message>
         <source>Ice All 1</source>
@@ -13004,31 +13003,31 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Thunder One 1</source>
-        <translation>Tonnerre Un 1</translation>
+        <translation>Foudre 1</translation>
     </message>
     <message>
         <source>Thunder One 2</source>
-        <translation>Tonnerre Un 2</translation>
+        <translation>Foudre 2</translation>
     </message>
     <message>
         <source>Thunder All 1</source>
-        <translation>Tonnerre Tous 1</translation>
+        <translation>Foudre Tous 1</translation>
     </message>
     <message>
         <source>Thunder All 2</source>
-        <translation>Tonnerre Tous 2</translation>
+        <translation>Foudre Tous 2</translation>
     </message>
     <message>
         <source>Thunder All 3</source>
-        <translation>Tonnerre Tous 3</translation>
+        <translation>Foudre Tous 3</translation>
     </message>
     <message>
         <source>Water One 1</source>
-        <translation>Eau Un 1</translation>
+        <translation>Eau 1</translation>
     </message>
     <message>
         <source>Water One 2</source>
-        <translation>Eau Un 2</translation>
+        <translation>Eau 2</translation>
     </message>
     <message>
         <source>Water All 1</source>
@@ -13044,31 +13043,31 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Earth One 1</source>
-        <translation>Terre Un 1</translation>
+        <translation>Roche 1</translation>
     </message>
     <message>
         <source>Earth One 2</source>
-        <translation>Terre Un 2</translation>
+        <translation>Roche 2</translation>
     </message>
     <message>
         <source>Earth All 1</source>
-        <translation>Terre Tous 1</translation>
+        <translation>Roche Tous 1</translation>
     </message>
     <message>
         <source>Earth All 2</source>
-        <translation>Terre Tous 2</translation>
+        <translation>Roche Tous 2</translation>
     </message>
     <message>
         <source>Earth All 3</source>
-        <translation>Terre Tous 3</translation>
+        <translation>Roche Tous 3</translation>
     </message>
     <message>
         <source>Wind One 1</source>
-        <translation>Vent Un 1</translation>
+        <translation>Vent 1</translation>
     </message>
     <message>
         <source>Wind One 2</source>
-        <translation>Vent Un 2</translation>
+        <translation>Vent 2</translation>
     </message>
     <message>
         <source>Wind All 1</source>
@@ -13084,11 +13083,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Light One 1</source>
-        <translation>Lumière Un 1</translation>
+        <translation>Lumière 1</translation>
     </message>
     <message>
         <source>Light One 2</source>
-        <translation>Lumière Un 2</translation>
+        <translation>Lumière 2</translation>
     </message>
     <message>
         <source>Light All 1</source>
@@ -13104,11 +13103,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Darkness One 1</source>
-        <translation>Ténèbres Un 1</translation>
+        <translation>Ténèbres 1</translation>
     </message>
     <message>
         <source>Darkness One 2</source>
-        <translation>Ténèbres Un 2</translation>
+        <translation>Ténèbres 2</translation>
     </message>
     <message>
         <source>Darkness All 1</source>
@@ -13124,11 +13123,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Neutral One 1</source>
-        <translation>Neutre Un 1</translation>
+        <translation>Neutre 1</translation>
     </message>
     <message>
         <source>Neutral One 2</source>
-        <translation>Neutre Un 2</translation>
+        <translation>Neutre 2</translation>
     </message>
     <message>
         <source>Neutral All 1</source>
@@ -13144,11 +13143,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shoot Normal</source>
-        <translation>Tir Normal</translation>
+        <translation>Tir normal</translation>
     </message>
     <message>
         <source>Shoot Barrage</source>
-        <translation>Tir Barricade</translation>
+        <translation>Tir barrage</translation>
     </message>
     <message>
         <source>Shoot All</source>
@@ -13156,11 +13155,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Shoot Special</source>
-        <translation>Tir Spécial</translation>
+        <translation>Tir spécial</translation>
     </message>
     <message>
         <source>Laser One</source>
-        <translation>Laser Un</translation>
+        <translation>Laser</translation>
     </message>
     <message>
         <source>Laser All</source>
@@ -13168,19 +13167,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Light Pillar 1</source>
-        <translation>Pilier de Lumière 1</translation>
+        <translation>Pilier lumineux 1</translation>
     </message>
     <message>
         <source>Light Pillar 2</source>
-        <translation>Pilier de Lumière 2</translation>
+        <translation>Pilier lumineux 2</translation>
     </message>
     <message>
         <source>Ball of Light</source>
-        <translation>Boule de Lumière</translation>
+        <translation>Boule lumineuse</translation>
     </message>
     <message>
         <source>Glowing Light</source>
-        <translation>Lumière Éclatante</translation>
+        <translation>Lumière brillante</translation>
     </message>
     <message>
         <source>G</source>
@@ -13198,21 +13197,21 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>HP</source>
         <comment>HP (abbr.)</comment>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>MP</source>
         <comment>MP (abbr.)</comment>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>TP</source>
@@ -13221,7 +13220,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>TP</source>
         <comment>TP (abbr.)</comment>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <source>EXP</source>
@@ -13234,11 +13233,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Max HP</source>
-        <translation>Max HP</translation>
+        <translation>PV Max</translation>
     </message>
     <message>
         <source>Max MP</source>
-        <translation>Max MP</translation>
+        <translation>PM Max</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -13251,12 +13250,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>M.Attack</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Attaque M.</translation>
+        <translation>Magie</translation>
     </message>
     <message>
         <source>M.Defense</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Défense M.</translation>
+        <translation>Déf. magique</translation>
     </message>
     <message>
         <source>Agility</source>
@@ -13269,12 +13268,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Hit</source>
         <comment>Hit Rate</comment>
-        <translation>Coup</translation>
+        <translation>Précision</translation>
     </message>
     <message>
         <source>Evasion</source>
         <comment>Evasion Rate</comment>
-        <translation>Évasion</translation>
+        <translation>Esquive</translation>
     </message>
     <message>
         <source>Always Dash</source>
@@ -13282,7 +13281,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Command Remember</source>
-        <translation>Commande Se Rappeler</translation>
+        <translation>Se souvenir de l&apos;emplacement du curseur</translation>
     </message>
     <message>
         <source>BGM Volume</source>
@@ -13306,7 +13305,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Current %1</source>
-        <translation>%1 Actuel</translation>
+        <translation>%1 actuelle</translation>
     </message>
     <message>
         <source>To Next %1</source>
@@ -13314,11 +13313,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Save to which file?</source>
-        <translation>Sauvegarder dans quel fichier?</translation>
+        <translation>Sauvegarder dans quel emplacement ?</translation>
     </message>
     <message>
         <source>Load which file?</source>
-        <translation>Charger quel fichier?</translation>
+        <translation>Charger quel emplacement de sauvegarde ?</translation>
     </message>
     <message>
         <source>File</source>
@@ -13330,19 +13329,19 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 emerged!</source>
-        <translation>%1 emergé !</translation>
+        <translation>%1 apparaît !</translation>
     </message>
     <message>
         <source>%1 got the upper hand!</source>
-        <translation>%1 a eu le dessus !</translation>
+        <translation>%1 a l&apos;initiative !</translation>
     </message>
     <message>
         <source>%1 was surprised!</source>
-        <translation>%1 a été supris !</translation>
+        <translation>%1 a été pris par suprise !</translation>
     </message>
     <message>
         <source>%1 has started to escape!</source>
-        <translation>%1 a commencé à s&apos;enfuir !</translation>
+        <translation>%1 essaye de prendre la fuite !</translation>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
@@ -13358,7 +13357,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 %2 received!</source>
-        <translation>%1 %2 reçu !</translation>
+        <translation>%1 %2 a reçu !</translation>
     </message>
     <message>
         <source>%1\G found!</source>
@@ -13366,7 +13365,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 found!</source>
-        <translation>%1 trouvé !</translation>
+        <translation>%1 trouvé(e) !</translation>
     </message>
     <message>
         <source>%1 is now %2 %3!</source>
@@ -13383,12 +13382,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>An excellent hit!!</source>
         <comment>critical to enemy</comment>
-        <translation>Un excellent coup !</translation>
+        <translation>Coup critique !</translation>
     </message>
     <message>
         <source>A painful blow!!</source>
         <comment>critical to actor</comment>
-        <translation>Un coup douloureux !!</translation>
+        <translation>Coup critique !</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
@@ -13423,7 +13422,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>actor</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dégât !</translation>
+        <translation>Manqué! %1 n&apos;a pas pris de dégâts !</translation>
     </message>
     <message>
         <source>%1 took %2 damage!</source>
@@ -13458,11 +13457,11 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Miss! %1 took no damage!</source>
         <comment>enemy</comment>
-        <translation>Manqué! %1 n&apos;a pas pris de dégât !</translation>
+        <translation>Manqué! %1 n&apos;a pas pris de dégâts !</translation>
     </message>
     <message>
         <source>%1 evaded the attack!</source>
-        <translation>%1 a échappé à l&apos;attaque !</translation>
+        <translation>%1 a esquivé l&apos;attaque !</translation>
     </message>
     <message>
         <source>%1 nullified the magic!</source>
@@ -13474,7 +13473,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1 counterattacked!</source>
-        <translation>%1 a contre attaqué !</translation>
+        <translation>%1 a contre-attaqué !</translation>
     </message>
     <message>
         <source>%1 protected %2!</source>
@@ -13490,7 +13489,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>%1&apos;s %2 returned to normal!</source>
-        <translation>%1 de %2 est retourné à la normale !</translation>
+        <translation>%1 de %2 est retournée à la normale !</translation>
     </message>
     <message>
         <source>There was no effect on %1!</source>
@@ -13514,7 +13513,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Thunder</source>
         <comment>element</comment>
-        <translation>Tonnerre</translation>
+        <translation>Foudre</translation>
     </message>
     <message>
         <source>Water</source>
@@ -13524,7 +13523,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Earth</source>
         <comment>element</comment>
-        <translation>Terre</translation>
+        <translation>Roche</translation>
     </message>
     <message>
         <source>Wind</source>
@@ -13553,27 +13552,27 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>General Armor</source>
-        <translation>Armure Générale</translation>
+        <translation>Armure générale</translation>
     </message>
     <message>
         <source>Magic Armor</source>
-        <translation>Armure Magique</translation>
+        <translation>Armure magique</translation>
     </message>
     <message>
         <source>Light Armor</source>
-        <translation>Armure Légère</translation>
+        <translation>Armure légère</translation>
     </message>
     <message>
         <source>Heavy Armor</source>
-        <translation>Armure Lourde</translation>
+        <translation>Armure lourde</translation>
     </message>
     <message>
         <source>Small Shield</source>
-        <translation>Petit Bouclier</translation>
+        <translation>Petit bouclier</translation>
     </message>
     <message>
         <source>Large Shield</source>
-        <translation>Grand Bouclier</translation>
+        <translation>Grand bouclier</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -13585,11 +13584,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Head</source>
-        <translation>Tête</translation>
+        <translation>Casque</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation>Corps</translation>
+        <translation>Armure</translation>
     </message>
     <message>
         <source>Accessory</source>
@@ -13618,7 +13617,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Hero</source>
         <comment>class</comment>
-        <translation>Héro</translation>
+        <translation>Héros</translation>
     </message>
     <message>
         <source>Warrior</source>
@@ -13648,32 +13647,32 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Dual Attack</source>
         <comment>skill</comment>
-        <translation>Attaque Consécutive</translation>
+        <translation>Attaque double</translation>
     </message>
     <message>
         <source>Double Attack</source>
         <comment>skill</comment>
-        <translation>Double Attaque</translation>
+        <translation>Double attaque</translation>
     </message>
     <message>
         <source>Triple Attack</source>
         <comment>skill</comment>
-        <translation>Triple Attaque</translation>
+        <translation>Triple attaque</translation>
     </message>
     <message>
         <source>Escape</source>
         <comment>skill</comment>
-        <translation>Fuire</translation>
+        <translation>Fuite</translation>
     </message>
     <message>
         <source>Wait</source>
         <comment>skill</comment>
-        <translation>Attendre</translation>
+        <translation>Attente</translation>
     </message>
     <message>
         <source>Heal</source>
         <comment>skill</comment>
-        <translation>Guérir</translation>
+        <translation>Soin</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -13683,7 +13682,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Spark</source>
         <comment>skill</comment>
-        <translation>Étincelle</translation>
+        <translation>Foudre</translation>
     </message>
     <message>
         <source>Potion</source>
@@ -13693,12 +13692,12 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Magic Water</source>
         <comment>item</comment>
-        <translation>Eau Magique</translation>
+        <translation>Éther</translation>
     </message>
     <message>
         <source>Dispel Herb</source>
         <comment>item</comment>
-        <translation>Herbe Dissipatrice</translation>
+        <translation>Herbe miracle</translation>
     </message>
     <message>
         <source>Stimulant</source>
@@ -13718,7 +13717,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cane</source>
         <comment>weapon</comment>
-        <translation>Canne</translation>
+        <translation>Bâton de bois</translation>
     </message>
     <message>
         <source>Bow</source>
@@ -13738,7 +13737,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Cloth</source>
         <comment>armor</comment>
-        <translation>Vêtement</translation>
+        <translation>Vêtements d&apos;aventurier</translation>
     </message>
     <message>
         <source>Ring</source>
@@ -13748,7 +13747,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Bat</source>
         <comment>enemy</comment>
-        <translation>Chauve-souris</translation>
+        <translation>Chauve-souris/translation>
     </message>
     <message>
         <source>Slime</source>
@@ -13788,7 +13787,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Blind</source>
         <comment>state</comment>
-        <translation>Aveuglé</translation>
+        <translation>Aveugle</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -13808,7 +13807,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Fascination</source>
         <comment>state</comment>
-        <translation>Fasciné</translation>
+        <translation>Manipulé</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -13818,7 +13817,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source> has fallen!</source>
         <comment>Knockout-actor</comment>
-        <translation> est tombé !</translation>
+        <translation> est KO!</translation>
     </message>
     <message>
         <source> is slain!</source>
@@ -13858,7 +13857,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source> is no longer blinded!</source>
         <comment>Blind-remove</comment>
-        <translation> n&apos;est plus aveuglé !</translation>
+        <translation> n&apos;est plus aveugle !</translation>
     </message>
     <message>
         <source> is silenced!</source>
@@ -13908,17 +13907,17 @@ Please complete the post with follow this link.</source>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-actor</comment>
-        <translation> est fasciné !</translation>
+        <translation> se fait contrôler par l&apos;ennemi !</translation>
     </message>
     <message>
         <source> is fascinated!</source>
         <comment>Fascination-enemy</comment>
-        <translation> est fasciné !</translation>
+        <translation> se fait contrôler par le joueur !</translation>
     </message>
     <message>
         <source> is no longer fascinated!</source>
         <comment>Fascination-remove</comment>
-        <translation> n&apos;est plus fasciné !</translation>
+        <translation> n&apos;est plus contrôlé !</translation>
     </message>
     <message>
         <source> falls asleep!</source>
@@ -13943,20 +13942,20 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Skill #1 will be used when you select
 the Attack command.</source>
-        <translation>Compétence #1 sera utilisée lorsque
+        <translation>La compétence #1 sera utilisée lorsque
 vous sélectionnerez la commande Attaque.</translation>
     </message>
     <message>
         <source>Skill #2 will be used when you select
 the Guard command.</source>
-        <translation>Compétence #2 sera utilisée lorsque
+        <translation>La compétence #2 sera utilisée lorsque
 vous sélectionnerez la commande Garde.</translation>
     </message>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>État #1 sera automatiquement ajouté
-lorsque les HP atteindront 0.</translation>
+        <translation>Le statut #1 sera automatiquement ajouté
+lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source> attacks!</source>
@@ -13966,7 +13965,7 @@ lorsque les HP atteindront 0.</translation>
     <message>
         <source> guards.</source>
         <comment>skill message</comment>
-        <translation> garde.</translation>
+        <translation> se met en garde.</translation>
     </message>
     <message>
         <source> flees.</source>
@@ -13986,7 +13985,7 @@ lorsque les HP atteindront 0.</translation>
     <message>
         <source>Overworld</source>
         <comment>tileset</comment>
-        <translation>Zone commune</translation>
+        <translation>Terrain</translation>
     </message>
     <message>
         <source>Outside</source>
@@ -14006,12 +14005,12 @@ lorsque les HP atteindront 0.</translation>
     <message>
         <source>SF Outside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>SF Extérieur</translation>
+        <translation>Extérieur SF</translation>
     </message>
     <message>
         <source>SF Inside</source>
         <comment>tileset (cyberpunk)</comment>
-        <translation>SF Intérieur</translation>
+        <translation>Intérieur SF</translation>
     </message>
 </context>
 <context>
@@ -14036,7 +14035,7 @@ lorsque les HP atteindront 0.</translation>
     <name>ObjTroopMemberBox</name>
     <message>
         <source>Entire Troop</source>
-        <translation>Troupe Entière</translation>
+        <translation>Groupe entier</translation>
     </message>
 </context>
 <context>
@@ -14123,7 +14122,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>Succeeded to create a distribution package.</source>
-        <translation>A réussi à créer un package de distribution.</translation>
+        <translation>Le package de distribution a bien été créé.</translation>
     </message>
     <message>
         <source>Failed to create a distribution package.</source>
@@ -14131,11 +14130,11 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation>Ouvrir Projet</translation>
+        <translation>Ouvrir projet</translation>
     </message>
     <message>
         <source>Save changes to the game?</source>
-        <translation>Enregistrer les modifications dans le jeu?</translation>
+        <translation>Enregistrer les modifications apportées au jeu ?</translation>
     </message>
     <message>
         <source>The output folder already exists. Overwrite?</source>
@@ -14167,7 +14166,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>The tool could not be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;outil n&apos;a pas pu être lancé.</translation>
     </message>
 </context>
 <context>
@@ -14194,7 +14193,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14202,7 +14201,7 @@ lorsque les HP atteindront 0.</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Sélectionner Tout</translation>
+        <translation>Sélectionner tout</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -14225,6 +14224,7 @@ lorsque les HP atteindront 0.</translation>
         <translation type="unfinished">Rechercher avant</translation>
     </message>
 </context>
+<!-- FIN DE TRADUCTION POUR L&apos;INSTANT -->
 <context>
     <name>SteamWindow</name>
     <message>
