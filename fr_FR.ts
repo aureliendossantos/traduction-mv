@@ -14488,7 +14488,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on the state of the specified switch.</source>
-        <translation>Condition basée sur l&apos;état d'un interrupteur.</translation>
+        <translation>Condition basée sur l&apos;état d&apos;un interrupteur.</translation>
     </message>
     <message>
         <source>is</source>
@@ -14500,7 +14500,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on the value of the specified variable.</source>
-        <translation>Condition basée sur la valeur d'une variable.</translation>
+        <translation>Condition basée sur la valeur d&apos;une variable.</translation>
     </message>
     <message>
         <source>Constant</source>
@@ -14517,7 +14517,7 @@ lorsque les PV atteindront 0.</translation>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>L'interrupteur local</translation>
+        <translation>L&apos;interrupteur local</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
@@ -14552,7 +14552,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>In the party</source>
-        <translation>Est dans l'équipe</translation>
+        <translation>Est dans l&apos;équipe</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor is in the party.</source>
@@ -14585,7 +14585,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Est équipé de l'arme :</translation>
+        <translation>Est équipé de l&apos;arme :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
@@ -14593,7 +14593,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Est équipé de l'armure :</translation>
+        <translation>Est équipé de l&apos;armure :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
@@ -14601,7 +14601,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Est sous l'effet du statut :</translation>
+        <translation>Est sous l&apos;effet du statut :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
@@ -14612,7 +14612,7 @@ lorsque les PV atteindront 0.</translation>
     <name>Tab_ConditionalBranch3</name>
     <message>
         <source>Enemy</source>
-        <translation>L'ennemi</translation>
+        <translation>L&apos;ennemi</translation>
     </message>
     <message>
         <source>Based on the specified enemy.</source>
@@ -14663,7 +14663,7 @@ lorsque les PV atteindront 0.</translation>
     <name>Tab_ConditionalBranch4</name>
     <message>
         <source>Gold</source>
-        <translation>L'argent est de</translation>
+        <translation>L&apos;argent est de</translation>
     </message>
     <message>
         <source>Based on the party&apos;s money.</source>
@@ -14766,7 +14766,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>Spécifie l&apos;image de fond et l&apos;image d'avant-plan à utiliser comme écran titre.</translation>
+        <translation>Spécifie l&apos;image de fond et l&apos;image d&apos;avant-plan à utiliser comme écran titre.</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
@@ -14976,12 +14976,11 @@ lorsque les PV atteindront 0.</translation>
         <translation>Apparaît à mi-course</translation>
     </message>
 </context>
-<!-- FIN DE TRADUCTION POUR L&apos;INSTANT -->
 <context>
     <name>TutorialList</name>
     <message>
         <source>Step 1: Map Basics</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie 1 : Les cartes</translation>
     </message>
     <message>
         <source>Step 2: Event Basics (Dialogue)</source>
@@ -15099,256 +15098,267 @@ lorsque les PV atteindront 0.</translation>
     <name>TutorialStep1</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Change the title name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le titre du jeu.</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Wait for creating a new project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>The right side of the screen is the map. 
 On the upper left is the tile palette for the map.
 On the lower left is the map list.</source>
-        <translation type="unfinished"></translation>
+        <translation>La partie droite de l&apos;écran est la carte.
+En haut à gauche se trouve votre palette pour dessiner.
+En bas à gauche se trouve la liste des cartes.</translation>
     </message>
     <message>
         <source>This is the tileset palette. 
 Select a tile here and it will be drawn on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci est votre palette : le tileset.
+Sélectionnez une case ici pour la dessiner sur la carte.</translation>
     </message>
     <message>
         <source>Now for a more detailed explanation on tilesets. 
 Click Database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Examinons les tilesets plus en détail.
+Cliquez sur Base de données.</translation>
     </message>
     <message>
         <source>Here is Tilesets, so click it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez l&apos;onglet des tilesets.</translation>
     </message>
     <message>
         <source>This is the tileset settings screen. 
 The mode is important. In Field, you can specify the field type
 or area type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voici les paramètres du tileset.
+Le mode est important. Vous pouvez choisir le type monde
+ou le type zone.</translation>
     </message>
     <message>
         <source>In Map Mode, you can draw your map,
 and in Event Mode you can place events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans le mode Carte, vous pouvez dessiner, et dans
+le mode Évènement, vous pouvez placer des évènements.</translation>
     </message>
     <message>
         <source>Since we&apos;re currently in Event Mode, you can edit events. 
 Events will be further explained later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comme nous sommes actuellement dans le mode Évènement, vous pouvez
+modifier les évènements. Nous le verrons plus tard.</translation>
     </message>
     <message>
         <source>You can zoom in and out on the map. 
 Give it a try.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez zoomer et dézoomer
+la carte. Essayez !</translation>
     </message>
     <message>
         <source>Click Zoom In to magnify the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Zoom avant pour agrandir la carte.</translation>
     </message>
     <message>
         <source>Click Zoom Out to shrink the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Zoom arrière pour rétrécir la carte.</translation>
     </message>
     <message>
         <source>Pressing &lt;windows&gt;Ctrl&lt;/windows&gt;&lt;mac&gt;Command&lt;/mac&gt; key, roll the center wheel of the mouse to magnify/shrink the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenez la touche &lt;windows&gt;Ctrl&lt;/windows&gt;&lt;mac&gt;Command&lt;/mac&gt; et utilisez la molette de la souris pour zoomer en avant et en arrière.</translation>
     </message>
     <message>
         <source>Pressing the center wheel of the mouse, move the mouse to scroll the map when the entire map is not inside the window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la molette de la souris pour faire défiler la carte, quand elle dépasse de la fenêtre.</translation>
     </message>
     <message>
         <source>Click Actual Size to rest the map size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Taille réelle pour réinitialiser le zoom.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with map zooming. 
 Next is an explanation of the map tree on the lower left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous en avons fini avec le zoom.
+Maintenant, examinons l&apos;arborescence des cartes en bas à droite.</translation>
     </message>
     <message>
         <source>Right-click to change a map name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit pour renommer la carte.</translation>
     </message>
     <message>
         <source>Click Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Propriétés...</translation>
     </message>
     <message>
         <source>Change the name to &quot;Field Map&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelez-là &quot;Carte du monde&quot;.</translation>
     </message>
     <message>
         <source>Next we will place tiles on the map from the tile palette.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenant, nous allons placer des tiles sur la carte depuis le tileset.</translation>
     </message>
     <message>
         <source>Click Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Passez en mode Carte.</translation>
     </message>
     <message>
         <source>Click tileset B.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le tileset B.</translation>
     </message>
     <message>
         <source>Click a town tile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur un tile de ville.</translation>
     </message>
     <message>
         <source>Click to put a town.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour placer une ville.</translation>
     </message>
     <message>
         <source>Click a cave tile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;entrée de grotte.</translation>
     </message>
     <message>
         <source>Click to put a cave.</source>
-        <translation type="unfinished"></translation>
+        <translation>Placez l&apos;entrée de grotte.</translation>
     </message>
     <message>
         <source>Next we will create town and cave maps. 
 This time we&apos;ll use a sample map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensuite nous allons créer des cartes de ville et de grotte.
+Cette fois-ci nous utiliserons des cartes d&apos;exemple.</translation>
     </message>
     <message>
         <source>Right-click to load a town map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit pour charger une carte de ville.</translation>
     </message>
     <message>
         <source>Click Load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez la liste des cartes d&apos;exemple.</translation>
     </message>
     <message>
         <source>Click &quot;Normal Town&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Ville normale&quot;.</translation>
     </message>
     <message>
         <source>Right-click to load a cave map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit pour charger une carte de grotte.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Next we&apos;ll link each map to the field using events
 so they can be entered and exited freely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons lier chaque carte à notre Carte du monde, en utilisant des évènements, afin de pouvoir les visiter librement.</translation>
     </message>
     <message>
         <source>Click Map to edit the field map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la Carte du monde pour la modifier.</translation>
     </message>
     <message>
         <source>Click Event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Passez en mode Évènement.</translation>
     </message>
     <message>
         <source>Right-click the town.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la ville.</translation>
     </message>
     <message>
         <source>Select Quick Event Creation &gt; Transfer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez Évènement rapide &gt; Téléportation...</translation>
     </message>
     <message>
         <source>Click Location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;emplacement.</translation>
     </message>
     <message>
         <source>Click the entrance of the town blow.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;entrée de la ville plus bas.</translation>
     </message>
     <message>
         <source>Right-click at the exit of the town below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la sortie de la ville en bas.</translation>
     </message>
     <message>
         <source>Click &quot;Field Map&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Click &quot;Carte du monde&quot;.</translation>
     </message>
     <message>
         <source>Click the town.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la ville.</translation>
     </message>
     <message>
         <source>Right-click the created event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur l&apos;évènement créé.</translation>
     </message>
     <message>
         <source>Click Copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Copier.</translation>
     </message>
     <message>
         <source>Right-click a exit tile of the town to fill the exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur une case de sortie de la ville, pour remplir la sortie.</translation>
     </message>
     <message>
         <source>Click Paste.</source>
-        <translation type="unfinished"></translation>
+        <translation><Cliquez sur Coller./translation>
     </message>
     <message>
         <source>Right-click the remaining exit tile of the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la case de sortie restante.</translation>
     </message>
     <message>
         <source>Right-click the cave.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la grotte.</translation>
     </message>
     <message>
         <source>Click the entrance of the cave below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;entrée de la grotte en bas.</translation>
     </message>
     <message>
         <source>Right-click at the exit of the cave below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la sortie de la grotte en bas.</translation>
     </message>
     <message>
         <source>Click the cave.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la grotte.</translation>
     </message>
     <message>
         <source>Now we&apos;re done placing our transfer events. 
 Next we will determine the player&apos;s initial position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous avons fini de placer nos évènements de transfert. Nous allons maintenant définir la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Right-click a tile on the road.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur une case sur la route.</translation>
     </message>
     <message>
         <source>Select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez Emplacement de départ &gt; Joueur.</translation>
     </message>
     <message>
         <source>Click Save Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrez le projet.</translation>
     </message>
     <message>
         <source>That&apos;s it! Click Playtest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Et voilà ! Testez le jeu.</translation>
     </message>
     <message>
         <source>Click &quot;normal town&quot; from the map tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Ville normale&quot; depuis l&apos;arborescence.</translation>
     </message>
 </context>
 <context>
