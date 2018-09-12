@@ -14224,7 +14224,6 @@ lorsque les PV atteindront 0.</translation>
         <translation type="unfinished">Rechercher avant</translation>
     </message>
 </context>
-<!-- FIN DE TRADUCTION POUR L&apos;INSTANT -->
 <context>
     <name>SteamWindow</name>
     <message>
@@ -14245,11 +14244,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Unabled to create Workshop Item, you are not logged onto steam!</source>
-        <translation>Impossible de créer l&apos;objet Workshop, la connexion à Steam a été perdue!</translation>
+        <translation>Impossible de créer l&apos;objet Workshop, la connexion à Steam a été perdue.</translation>
     </message>
     <message>
         <source>You still need to accept the Steamwork Shop Agreement in order for this Workshop Item to not appear only private.</source>
-        <translation>Vous devez tout de même accepter le contrat Steam Workshop pour que cet objet n&apos;apparaisse pas seulement comme privé.</translation>
+        <translation>Vous devez accepter le contrat Steam Workshop pour que cet objet puisse apparaître publiquement.</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -14257,11 +14256,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>An unknown error occurred when attempting to update the Workshop Item.</source>
-        <translation>Une erreur inconnue est survenue lors de la tentative de mise à jour de l&apos;objet Workshop.</translation>
+        <translation>Une erreur inconnue est survenue lors de la mise à jour de l&apos;objet Workshop.</translation>
     </message>
     <message>
         <source>Subscribed</source>
@@ -14301,7 +14300,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Steam Workshop:</source>
-        <translation>Steam Workshop:</translation>
+        <translation>Steam Workshop :</translation>
     </message>
     <message>
         <source>Category</source>
@@ -14326,7 +14325,7 @@ lorsque les PV atteindront 0.</translation>
     <message>
         <source>By submitting this item, 
  you agree to the</source>
-        <translation>En envoyant cet objet,  vous acceptez</translation>
+        <translation>En envoyant cet objet, vous acceptez</translation>
     </message>
     <message>
         <source>Steam Workshop Agreement</source>
@@ -14334,7 +14333,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Share on Workshop</source>
-        <translation>Partager sur Workshop</translation>
+        <translation>Partager sur le Workshop</translation>
     </message>
     <message>
         <source>You need to agree to the Steam Workshop User Agreement.</source>
@@ -14414,7 +14413,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image for the Workshop Item.</source>
-        <translation>Vous devez sélectionner une image miniature valide pour l&apos;objet Workshop.</translation>
+        <translation>Vous devez sélectionner une miniature valide pour l&apos;objet Workshop.</translation>
     </message>
     <message>
         <source>You must select a valid Thumbnail Image other than the default for the Workshop Item.</source>
@@ -14422,7 +14421,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>The Thumbnail Image must be less than 1mb.</source>
-        <translation>L&apos;image miniature doit être inférieure à 1 Mo.</translation>
+        <translation>Le poids de l&apos;image miniature doit être inférieur à 1Mo.</translation>
     </message>
     <message>
         <source>You must select a valid Item Type for the Workshop Item.</source>
@@ -14485,11 +14484,11 @@ lorsque les PV atteindront 0.</translation>
     <name>Tab_ConditionalBranch1</name>
     <message>
         <source>Switch</source>
-        <translation>Interrupteur</translation>
+        <translation>L&apos;interrupteur</translation>
     </message>
     <message>
         <source>Based on the state of the specified switch.</source>
-        <translation>Basé sur l&apos;état de l&apos;interrupteur spécifié.</translation>
+        <translation>Condition basée sur l&apos;état d'un interrupteur.</translation>
     </message>
     <message>
         <source>is</source>
@@ -14497,11 +14496,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation>Variable</translation>
+        <translation>La variable</translation>
     </message>
     <message>
         <source>Based on the value of the specified variable.</source>
-        <translation>Basé sur la valeur de la variable spécifiée.</translation>
+        <translation>Condition basée sur la valeur d'une variable.</translation>
     </message>
     <message>
         <source>Constant</source>
@@ -14513,24 +14512,24 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Compares with the value of the specified variable.</source>
-        <translation>Compare avec la valeur d&apos;une variable spécifiée.</translation>
+        <translation>Compare avec la valeur variable.</translation>
     </message>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interr. Auto.</translation>
+        <translation>L'interrupteur local</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
-        <translation>Basé sur l&apos;état de l&apos;interrupteur automatique spécifié. Valide uniquement dans l&apos;évènement de la carte.</translation>
+        <translation>Condition basée sur l&apos;état d&apos;un interrupteur local.</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation>Minuteur</translation>
+        <translation>Le chrono est</translation>
     </message>
     <message>
         <source>Based on the remaining time of the timer.</source>
-        <translation>Basé sur le temps restant du chronomètre.</translation>
+        <translation>Condition basée sur la valeur d&apos;un chronomètre.</translation>
     </message>
     <message>
         <source>min</source>
@@ -14549,126 +14548,126 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on the specified actor.</source>
-        <translation>Basé sur l&apos;acteur spécifié.</translation>
+        <translation>Condition basée sur un personnage particulier. Les détails peuvent être choisis dans les options suivantes.</translation>
     </message>
     <message>
         <source>In the party</source>
-        <translation>Dans le groupe</translation>
+        <translation>Est dans l'équipe</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor is in the party.</source>
-        <translation>Basé en fonction de la présence ou de l&apos;absence de l&apos;acteur dans le groupe.</translation>
+        <translation>La condition est remplie si le personnage choisi est dans l&apos;équipe.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation>A pour nom :</translation>
     </message>
     <message>
         <source>Based on the name of the specified actor.</source>
-        <translation>Basé sur le nom de l&apos;acteur spécifié.</translation>
+        <translation>La condition est remplie si le personnage choisi a pour nom le nom spécifié.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Classe</translation>
+        <translation>A pour classe :</translation>
     </message>
     <message>
         <source>Based on the class of the specified actor.</source>
-        <translation>Basé sur la classe de l&apos;acteur spécifié.</translation>
+        <translation>La condition est remplie si le personnage choisi a pour classe la classe spécifiée.</translation>
     </message>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Comp.</translation>
+        <translation>Possède la compétence :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor can use a particular skill.</source>
-        <translation>Basé sur la capacité de l&apos;acteur spécifié à utiliser ou non une compétence particulière.</translation>
+        <translation>La condition est remplie si le personnage choisi est capable d&apos;utiliser la compétence spécifiée.</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Arme</translation>
+        <translation>Est équipé de l'arme :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
-        <translation>Basé en fonction de si l&apos;acteur a ou non une arme particulière équipée.</translation>
+        <translation>La condition est remplie si le personage choisi est équipé de l&apos;arme spécifiée.</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Armure</translation>
+        <translation>Est équipé de l'armure :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
-        <translation>Basé en fonction de si l&apos;acteur spécifié a ou non une armure particulière équipée.</translation>
+        <translation>La condition est remplie si le personage choisi est équipé de l&apos;armure spécifiée.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Est sous l'effet du statut :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>Basé en fonction de si l&apos;acteur a ou non un état particulier.</translation>
+        <translation>La condition est remplie si le personage choisi est sous l&apos;effet du statut spécifié.</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch3</name>
     <message>
         <source>Enemy</source>
-        <translation>Ennemi</translation>
+        <translation>L'ennemi</translation>
     </message>
     <message>
         <source>Based on the specified enemy.</source>
-        <translation>Basé sur l&apos;ennemi spécifié.</translation>
+        <translation>Condition basée sur un ennemi particulier. Les détails peuvent être choisis dans les options suivantes.</translation>
     </message>
     <message>
         <source>Appeared</source>
-        <translation>Apparu</translation>
+        <translation>Est apparu</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
-        <translation>Basé sur la participation ou non de l&apos;ennemi au combat.</translation>
+        <translation>La condition est remplie si l&apos;ennemi choisi participe actuellement au combat.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>État</translation>
+        <translation>Est sous le statut</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation>Basé en fonction de si l&apos;ennemi a ou non un état particulier.</translation>
+        <translation>La condition est remplie si l&apos;ennemi choisi est actuellement sous l&apos;effet du statut spécifié.</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Personnage</translation>
+        <translation>L&apos;évènement</translation>
     </message>
     <message>
         <source>Based on the direction the player or event is facing.</source>
-        <translation>Basé sur la direction vers laquelle le joueur ou évènement fait face.</translation>
+        <translation>La condition est remplie si l&apos;évènement choisi regarde dans la condition spécifiée..</translation>
     </message>
     <message>
         <source>is facing</source>
-        <translation>fait face</translation>
+        <translation>regarde</translation>
     </message>
     <message>
         <source>Vehicle</source>
-        <translation>Véhicule</translation>
+        <translation>Le véhicule</translation>
     </message>
     <message>
         <source>Based on whether or not the party is riding in the specified vehicle.</source>
-        <translation>Basé en fonction de si le groupe conduit ou non le véhicule spécifié.</translation>
+        <translation>La condition est remplie si le joueur est à bord du véhicule spécifié.</translation>
     </message>
     <message>
         <source>is driven</source>
-        <translation>est conduit</translation>
+        <translation>est utilisé</translation>
     </message>
 </context>
 <context>
     <name>Tab_ConditionalBranch4</name>
     <message>
         <source>Gold</source>
-        <translation>Or</translation>
+        <translation>L'argent est de</translation>
     </message>
     <message>
         <source>Based on the party&apos;s money.</source>
-        <translation>Basé sur l&apos;argent du groupe.</translation>
+        <translation>La condition est remplie si l&apos;équipe possède la somme d&apos;argent spécifique.</translation>
     </message>
     <message>
         <source>Item</source>
@@ -14676,7 +14675,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular item.</source>
-        <translation>Basé en fonction de si le groupe a ou non un objet particulier.</translation>
+        <translation>La condition est remplie si l&apos;équipe possède l&apos;objet spécifié.</translation>
     </message>
     <message>
         <source>Weapon</source>
@@ -14684,7 +14683,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular weapon.</source>
-        <translation>Basé en fonction de si le groupe a ou non une arme particulière.</translation>
+        <translation>La condition est remplie si l&apos;équipe possède l&apos;arme spécifiée.</translation>
     </message>
     <message>
         <source>Armor</source>
@@ -14692,19 +14691,19 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on whether or not the party has a particular armor.</source>
-        <translation>Basé en fonction de si le groupe a ou non une armure particulière.</translation>
+        <translation>La condition est remplie si l&apos;équipe possède l&apos;armure spécifiée.</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Bouton</translation>
+        <translation>La touche</translation>
     </message>
     <message>
         <source>Based on whether or not a particular button is being pressed.</source>
-        <translation>Basé en fonction de si une touche particulière est enfoncée ou non.</translation>
+        <translation>La condition est remplie si la touche spécifiée est pressée.</translation>
     </message>
     <message>
         <source>is pressed down</source>
-        <translation>est enfoncé</translation>
+        <translation>est pressée</translation>
     </message>
     <message>
         <source>Script</source>
@@ -14712,81 +14711,81 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>For advanced users: Based on the evaluation result of the script.</source>
-        <translation>Pour les utilisateurs avancés : Basé sur le résultat d&apos;évaluation du script.</translation>
+        <translation>Pour les utilisateurs avancés : la condition est remplie si le script retourne "true".</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBSystem</name>
     <message>
         <source>Game Title</source>
-        <translation>Titre du Jeu</translation>
+        <translation>Titre du jeu</translation>
     </message>
     <message>
         <source>Title of the game.</source>
-        <translation>Titre du jeu.</translation>
+        <translation>Le nom du jeu, qui sera affiché dans la barre du haut de la fenêtre.</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>Devise</translation>
+        <translation>Monnaie</translation>
     </message>
     <message>
         <source>Unit of currency in the game world.</source>
-        <translation>Unité de devise dans le monde du jeu.</translation>
+        <translation>L&apos;unité monétaire du jeu.</translation>
     </message>
     <message>
         <source>Vehicle Images</source>
-        <translation>Images de Véhicules</translation>
+        <translation>Apparence des véhicules</translation>
     </message>
     <message>
         <source>Images of the vehicles to be displayed on the map screen.</source>
-        <translation>Images de véhicules à afficher sur l&apos;écran de carte.</translation>
+        <translation>Les images des véhicules tels qu&apos;ils seront affichés sur la carte.</translation>
     </message>
     <message>
         <source>Image of the %1.</source>
-        <translation>Image de %1.</translation>
+        <translation>Apparence du %1.</translation>
     </message>
     <message>
         <source>Window Color</source>
-        <translation>Couleur Fenêtre</translation>
+        <translation>Style de fenêtres</translation>
     </message>
     <message>
         <source>Background color of windows used in the game.</source>
-        <translation>Couleur d&apos;arrière-plan des fenêtres utilisées dans le jeu.</translation>
+        <translation>La couleur de fond des fenêtres utilisées dans le jeu.</translation>
     </message>
     <message>
         <source>Title Screen</source>
-        <translation>Écran Titre</translation>
+        <translation>Écran titre</translation>
     </message>
     <message>
         <source>Screen to display at game startup.</source>
-        <translation>Écran à afficher au commencement du jeu.</translation>
+        <translation>Paramétrage de l&apos;écran titre affiché au démarrage du jeu.</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation>Images</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>Background and frame images to be displayed on the title screen.</source>
-        <translation>Arrière-plan et images de frame à afficher sur l&apos;écran de titre.</translation>
+        <translation>Spécifie l&apos;image de fond et l&apos;image d'avant-plan à utiliser comme écran titre.</translation>
     </message>
     <message>
         <source>Draw Game Title</source>
-        <translation>Dessiner Titre du Jeu</translation>
+        <translation>Afficher le titre du jeu</translation>
     </message>
     <message>
         <source>Draws the game title string on the title screen. Uncheck this option if you want to use your own title logo.</source>
-        <translation>Dessine le titre du jeu sur l&apos;écran de titre. Décocher cette option si vous voulez utiliser votre propre logo titre.</translation>
+        <translation>Affiche le nom du jeu sur l&apos;écran titre. Désactivez cette option si vous souhaitez utiliser votre propre logo.</translation>
     </message>
 </context>
 <context>
     <name>Tab_DBTerms</name>
     <message>
         <source>Basic Statuses</source>
-        <translation>États Basiques</translation>
+        <translation>Caractéristiques</translation>
     </message>
     <message>
         <source>Various basic statuses displayed in the game.</source>
-        <translation>États basiques divers affichés dans le jeu.</translation>
+        <translation>Définit comment les différentes caractéristiques sont affichées dans le jeu.</translation>
     </message>
     <message>
         <source>Level</source>
@@ -14794,31 +14793,31 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Level (abbr.)</source>
-        <translation>Niveau (abbr.)</translation>
+        <translation>Niveau (abrégé)</translation>
     </message>
     <message>
         <source>HP</source>
-        <translation>HP</translation>
+        <translation>PV</translation>
     </message>
     <message>
         <source>HP (abbr.)</source>
-        <translation>HP (abbr.)</translation>
+        <translation>PV (abrégé)</translation>
     </message>
     <message>
         <source>MP</source>
-        <translation>MP</translation>
+        <translation>PM</translation>
     </message>
     <message>
         <source>MP (abbr.)</source>
-        <translation>MP (abbr.)</translation>
+        <translation>PM (abrégé)</translation>
     </message>
     <message>
         <source>TP</source>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <source>TP (abbr.)</source>
-        <translation>TP (abbr.)</translation>
+        <translation>PT (abrégé)</translation>
     </message>
     <message>
         <source>EXP</source>
@@ -14826,15 +14825,15 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>EXP (abbr.)</source>
-        <translation>EXP (abbr.)</translation>
+        <translation>EXP (abrégé)</translation>
     </message>
     <message>
         <source>Parameters</source>
-        <translation>Paramètres</translation>
+        <translation>Stats</translation>
     </message>
     <message>
         <source>Various parameter names displayed in the game.</source>
-        <translation>Noms de paramètres divers affichés dans le jeu.</translation>
+        <translation>Définit comment les différentes statistiques des personnages sont affichées en jeu.</translation>
     </message>
     <message>
         <source>Commands</source>
@@ -14842,7 +14841,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Command names displayed in the game.</source>
-        <translation>Noms de commandes affichés dans le jeu.</translation>
+        <translation>Permet de modifier les noms des différentes commandes affichées en jeu.</translation>
     </message>
 </context>
 <context>
@@ -14853,23 +14852,23 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Data for representing the special characteristics given to skills and items.</source>
-        <translation>Données pour représenter les caractéristiques spéciales données aux compétences et aux objets.</translation>
+        <translation>Données représentant caractéristiques spéciales données aux compétences et aux objets.</translation>
     </message>
     <message>
         <source>Name of the element.</source>
-        <translation>Nom de l&apos;élément.</translation>
+        <translation>Le nom de l&apos;élément. Utilisé uniquement dans l&apos;éditeur pour vous repérer.</translation>
     </message>
     <message>
         <source>Changes the number of elements.</source>
-        <translation>Change le nombre d&apos;éléments.</translation>
+        <translation>Modifier le nombre d&apos;éléments.</translation>
     </message>
     <message>
         <source>Skill Types</source>
-        <translation>Types de Compétence</translation>
+        <translation>Types de compétence</translation>
     </message>
     <message>
         <source>Data for representing skill types. Each type of skill is treated as a separate command.</source>
-        <translation>Données pour représenter les types de compétence. Chaque type de compétence est traité comme une commande séparée.</translation>
+        <translation>Données représentant les types de compétence. Chaque type de compétence a sa propre commande en combat.</translation>
     </message>
     <message>
         <source>Name of the skill type. Displayed as a command in the game.</source>
@@ -14877,7 +14876,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Changes the number of skill types.</source>
-        <translation>Change le nombre de types de compétence.</translation>
+        <translation>Modifier le nombre de types de compétences.</translation>
     </message>
     <message>
         <source>Weapon Types</source>
@@ -14885,47 +14884,47 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Data for representing weapon types. Sets whether each weapon type can be equipped.</source>
-        <translation>Données pour représenter les types d&apos;arme. Permet de configurer si chaque type d&apos;arme peut être équipé.</translation>
+        <translation>Données représentant les types d&apos;arme.</translation>
     </message>
     <message>
         <source>Name of the weapon type.</source>
-        <translation>Nom du type d&apos;arme.</translation>
+        <translation>Le nom du type d&apos;arme. Utilisé uniquement dans l&apos;éditeur pour vous repérer.</translation>
     </message>
     <message>
         <source>Changes the number of weapon types.</source>
-        <translation>Change le nombre de types d&apos;arme.</translation>
+        <translation>Modifier le nombre de types d&apos;armes.</translation>
     </message>
     <message>
         <source>Armor Types</source>
-        <translation>Types d&apos;Armure</translation>
+        <translation>Types d&apos;armure</translation>
     </message>
     <message>
         <source>Data for representing armor types. Sets whether each armor type can be equipped.</source>
-        <translation>Données pour représenter les types d&apos;armure. Permet de configurer si chaque type d&apos;armure peut être équipé.</translation>
+        <translation>Données représentant les types d&apos;armure.</translation>
     </message>
     <message>
         <source>Name of the armor type.</source>
-        <translation>Nom du type d&apos;armure.</translation>
+        <translation>Le nom du type d&apos;armure. Utilisé uniquement dans l&apos;éditeur pour vous repérer.</translation>
     </message>
     <message>
         <source>Changes the number of armor types.</source>
-        <translation>Change le nombre de types d&apos;armure.</translation>
+        <translation>Modifier le nombre de types d&apos;armure.</translation>
     </message>
     <message>
         <source>Equipment Types</source>
-        <translation>Types dÉquipement</translation>
+        <translation>Types d&apos;équipement</translation>
     </message>
     <message>
         <source>Data for representing equipment types such as body armor and head armor.</source>
-        <translation>Données pour représenter les types d&apos;équipement comme l&apos;armure de corps et l&apos;armure de tête.</translation>
+        <translation>Données représentant les types d&apos;équipement comme l&apos;armure de corps et l&apos;armure de tête.</translation>
     </message>
     <message>
         <source>Name of the equipment type.</source>
-        <translation>Nom du type d&apos;équipement.</translation>
+        <translation>Le nom du type d&apos;équipement.</translation>
     </message>
     <message>
         <source>Changes the number of equipment types.</source>
-        <translation>Change le nombre de types d&apos;équipement.</translation>
+        <translation>Modifier le nombre de types d&apos;équipement.</translation>
     </message>
 </context>
 <context>
@@ -14936,7 +14935,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Enemy to change the status.</source>
-        <translation>Ennemi à qui changer l&apos;état.</translation>
+        <translation>Ennemi à qui infliger le statut.</translation>
     </message>
 </context>
 <context>
@@ -14977,6 +14976,7 @@ lorsque les PV atteindront 0.</translation>
         <translation>Apparaît à mi-course</translation>
     </message>
 </context>
+<!-- FIN DE TRADUCTION POUR L&apos;INSTANT -->
 <context>
     <name>TutorialList</name>
     <message>
