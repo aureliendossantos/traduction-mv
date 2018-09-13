@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>Beast Ears</source>
-        <translation>Oreilles animales/translation>
+        <translation>Oreilles animales</translation>
     </message>
     <message>
         <source>Tail</source>
@@ -2862,7 +2862,7 @@
         <translation>Valeur fixe ajoutée à l&apos;expérience nécessaire.</translation>
     </message>
     <message>
-        <source>Acceleration A/source>
+        <source>Acceleration A</source>
         <translation>Inflation A</translation>
     </message>
     <message>
@@ -4088,7 +4088,7 @@
     </message>
     <message>
         <source>Choose Directory</source>
-        <translation>Choix du dossier/translation>
+        <translation>Choix du dossier</translation>
     </message>
     <message>
         <source>Location is empty.</source>
@@ -8603,7 +8603,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Selects an item possessed by the party and stores its item ID in a variable.</source>
-        <translation>Sélectionner un [Objet clé] possédé par l&apos;équipe et stocker son ID dans une variable.<translation>
+        <translation>Sélectionner un [Objet clé] possédé par l&apos;équipe et stocker son ID dans une variable.</translation>
     </message>
     <message>
         <source>Displays text that scrolls from the bottom of the screen to the top.</source>
@@ -13747,7 +13747,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Bat</source>
         <comment>enemy</comment>
-        <translation>Chauve-souris/translation>
+        <translation>Chauve-souris</translation>
     </message>
     <message>
         <source>Slime</source>
@@ -15313,7 +15313,7 @@ so they can be entered and exited freely.</source>
     </message>
     <message>
         <source>Click Paste.</source>
-        <translation><Cliquez sur Coller./translation>
+        <translation>Cliquez sur Coller.</translation>
     </message>
     <message>
         <source>Right-click the remaining exit tile of the map.</source>
