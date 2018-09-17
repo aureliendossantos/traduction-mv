@@ -4024,8 +4024,8 @@
         <translation>Change automatiquement le BGM en arrivant sur la carte.</translation>
     </message>
     <message>
-        <source>BGS (Ambiance sonore)</source>
-        <translation>Lecture automatique BGS</translation>
+        <source>Autoplay BGS</source>
+        <translation>BGS (Ambiance sonore)</translation>
     </message>
     <message>
         <source>Makes the BGS change automatically when moving to the map.</source>
@@ -4045,7 +4045,7 @@
     </message>
     <message>
         <source>Makes it impossible to perform a dash on the map.</source>
-        <translation>Rend impossible de courir avec Shift sur la carte.</translation>
+        <translation>Rend la course impossible sur la carte.</translation>
     </message>
     <message>
         <source>Parallax Background</source>
@@ -8277,7 +8277,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Transfer Player</source>
-        <translation>Téléportationr</translation>
+        <translation>Téléportation</translation>
     </message>
     <message>
         <source>Set Vehicle Location</source>
@@ -10501,7 +10501,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Use Side-view Battle</source>
-        <translation>Combats en vue de côté [SideView]</translation>
+        <translation>Combats en vue de côté</translation>
     </message>
     <message>
         <source>Show the battle screen in side-view. If unchecked, the front-view mode will be used.</source>
@@ -12076,7 +12076,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation>No</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>OK</source>
@@ -12099,17 +12099,17 @@ Please complete the post with follow this link.</source>
     <message>
         <source>No</source>
         <comment>Dialog Button</comment>
-        <translation >Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>OK</source>
         <comment>Dialog Button</comment>
-        <translation >OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>Dialog Button</comment>
-        <translation >Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -14517,7 +14517,7 @@ lorsque les PV atteindront 0.</translation>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>L&apos;interrupteur local</translation>
+        <translation>L&apos;int. local</translation>
     </message>
     <message>
         <source>Based on the state of the specified self switch. Vaild only in the map event.</source>
@@ -14560,7 +14560,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>A pour nom :</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Based on the name of the specified actor.</source>
@@ -14568,7 +14568,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>A pour classe :</translation>
+        <translation>Classe :</translation>
     </message>
     <message>
         <source>Based on the class of the specified actor.</source>
@@ -14577,7 +14577,7 @@ lorsque les PV atteindront 0.</translation>
     <message>
         <source>Skill</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Possède la compétence :</translation>
+        <translation>Comp. :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor can use a particular skill.</source>
@@ -14585,7 +14585,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Weapon</source>
-        <translation>Est équipé de l&apos;arme :</translation>
+        <translation>Arme :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular weapon equipped.</source>
@@ -14593,7 +14593,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Armor</source>
-        <translation>Est équipé de l&apos;armure :</translation>
+        <translation>Armure :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular armor equipped.</source>
@@ -14601,7 +14601,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Est sous l&apos;effet du statut :</translation>
+        <translation>Statut :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
@@ -14620,7 +14620,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Appeared</source>
-        <translation>Est apparu</translation>
+        <translation>Apparu</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy is participating in battle.</source>
@@ -14628,7 +14628,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Est sous le statut</translation>
+        <translation>Statut :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
