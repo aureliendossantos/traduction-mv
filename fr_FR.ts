@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>This Event</source>
-        <translation>Cet Évènement</translation>
+        <translation>Cet évènement</translation>
     </message>
     <message>
         <source>HP</source>
@@ -559,7 +559,7 @@
     <message>
         <source>Status</source>
         <comment>command</comment>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Formation</source>
@@ -775,11 +775,11 @@
     </message>
     <message>
         <source>Gold Double</source>
-        <translation>Argent reçu × 2</translation>
+        <translation>Argent reçu ×2</translation>
     </message>
     <message>
         <source>Drop Item Double</source>
-        <translation>Objets reçus × 2</translation>
+        <translation>Objets reçus ×2</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -1596,7 +1596,7 @@
     </message>
     <message>
         <source>Data influencing character status in various ways.</source>
-        <translation>Données influençant le statut du personnage de diverses façons.</translation>
+        <translation>Données influençant l&apos;état du personnage de diverses façons.</translation>
     </message>
     <message>
         <source>Animations</source>
@@ -1616,7 +1616,7 @@
     </message>
     <message>
         <source>Common Events</source>
-        <translation>Év. Communs</translation>
+        <translation>Év. communs</translation>
     </message>
     <message>
         <source>Data for commonly used events.</source>
@@ -1644,7 +1644,7 @@
     </message>
     <message>
         <source>Text data such as command and parameter names.</source>
-        <translation>Données textuelles comme les noms dew commandes et dew paramètres.</translation>
+        <translation>Données textuelles comme les noms des commandes et des paramètres.</translation>
     </message>
     <message>
         <source>Discard changes to the database?</source>
@@ -1825,7 +1825,7 @@
     </message>
     <message>
         <source>Possible when this enemy&apos;s MP is in the specified range.</source>
-        <translation>Possible quand les MP de cet ennemi sont dans la plage spécifiée.</translation>
+        <translation>Possible quand les PM de cet ennemi sont dans la plage spécifiée.</translation>
     </message>
     <message>
         <source>State</source>
@@ -2207,11 +2207,11 @@
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Displays status computation based on the level and the equipment.</source>
-        <translation>Affiche le calcul du statut d&apos;après le niveau et l&apos;équipement.</translation>
+        <translation>Affiche le calcul de l&apos;état d&apos;après le niveau et l&apos;équipement.</translation>
     </message>
 </context>
 <context>
@@ -2502,7 +2502,7 @@
     </message>
     <message>
         <source>State</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Add State</source>
@@ -2510,7 +2510,7 @@
     </message>
     <message>
         <source>Adds the specified state. Specifying a value over 100% enables success at a rate higher than the target&apos;s original effectiveness.</source>
-        <translation>Inflige le statut spécifié. Spécifier une valeur au-dessus de 100 % permet d&apos;avoir un taux de succès supérieur à la défense originale de l&apos;ennemi. </translation>
+        <translation>Inflige l&apos;état spécifié. Spécifier une valeur au-dessus de 100 % permet d&apos;avoir un taux de succès supérieur à la défense originale de l&apos;ennemi. </translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -2522,7 +2522,7 @@
     </message>
     <message>
         <source>Removes the specified state.</source>
-        <translation>Guérit du statut spécifié</translation>
+        <translation>Guérit de l&apos;état spécifié</translation>
     </message>
     <message>
         <source>Param</source>
@@ -2535,7 +2535,7 @@
     </message>
     <message>
         <source>Raises the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and an increase of up to two levels is possible. To raise a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Augmente d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d&apos;origine, et une augmentation de jusqu&apos;à deux niveaux est possible. Pour élever une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
+        <translation>Augmente d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25% dans la valeur d&apos;origine, et une augmentation de jusqu&apos;à deux niveaux est possible. Pour élever une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>turns</source>
@@ -2547,7 +2547,7 @@
     </message>
     <message>
         <source>Lowers the fluctuation level of the specified parameter by one. For each level, there is a 25% fluctuation in the original value, and a decrease of up to two levels is possible. To lower a parameter two or more levels at one time, you can apply this effect multiple times.</source>
-        <translation>Diminue d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25 % dans la valeur d&apos;origine, et une diminution de jusqu&apos;à deux niveaux est possible. Pour diminuer une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
+        <translation>Diminue d&apos;un niveau la caractéristique spécifiée. Pour chaque niveau, il y a une fluctuation de 25% dans la valeur d&apos;origine, et une diminution de jusqu&apos;à deux niveaux est possible. Pour diminuer une caractéristique de deux niveaux ou plus en même temps, vous pouvez appliquer cet effet à plusieurs reprises.</translation>
     </message>
     <message>
         <source>Remove Buff</source>
@@ -2579,7 +2579,7 @@
     </message>
     <message>
         <source>Grow</source>
-        <translation>Augmentation de caractéristique</translation>
+        <translation>Caractéristique+</translation>
     </message>
     <message>
         <source>Permanently raises the specified parameter. For example, this can be used in creating an item such as fruit that gives a power-up when eaten.</source>
@@ -2596,7 +2596,7 @@
     </message>
     <message>
         <source>Common Event</source>
-        <translation>Év. Commun</translation>
+        <translation>Év. commun</translation>
     </message>
     <message>
         <source>Triggers the specified common event. Only one call specification for common events is valid.</source>
@@ -2655,7 +2655,7 @@
     </message>
     <message>
         <source>Specifies the numbers set with the map editor.</source>
-        <translation>Le groupe n&apos;apparaitra que sur les zones de combat spécifiées</translation>
+        <translation>Le groupe n&apos;apparaitra que sur les zones de combat spécifiées.</translation>
     </message>
     <message>
         <source>Region ID</source>
@@ -2685,7 +2685,7 @@
     <name>Dialog_EventCommandSelect</name>
     <message>
         <source>Event Commands</source>
-        <translation>Commandes d&apos;Évènement</translation>
+        <translation>Commandes d&apos;évènement</translation>
     </message>
     <message>
         <source>Message</source>
@@ -2792,11 +2792,11 @@
     </message>
     <message>
         <source>Search</source>
-        <translation>Chercher...</translation>
+        <translation>Chercher</translation>
     </message>
     <message>
         <source>Executes the search.</source>
-        <translation>Lance la recherche de l&apos;évèneme,t.</translation>
+        <translation>Lance la recherche de l&apos;évènement.</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -2978,7 +2978,7 @@
     </message>
     <message>
         <source>Number of new frames. When decreasing the number, any existing frames above that number will be deleted.</source>
-        <translation>Nombre de nouvelles frames. Les frames au dessus du nombre spécifiées seront supprimées.</translation>
+        <translation>Nombre de nouvelles frames. Les frames au dessus du nombre spécifié seront supprimées.</translation>
     </message>
 </context>
 <context>
@@ -3025,7 +3025,7 @@
     </message>
     <message>
         <source>Uses a parameter of the specified actor.</source>
-        <translation>Utilise une caractéristique d&apos;un personnage</translation>
+        <translation>Utilise une caractéristique d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Enemy</source>
@@ -3041,11 +3041,11 @@
     </message>
     <message>
         <source>Uses coordinates or direction of the player or event.</source>
-        <translation>Utilise la position ou la direction d&apos;un évènement ou du joueur.
-        	[Carte X] Position horizontale sur la carte.
-        	[Carte Y] Position verticale sur la carte.
-        	[Direction] Correspond aux touches du pavé numérique.
-        	[Écran X] Position de la coordonnée X relative à l&apos;écran.
+        <translation>Utilise la position ou la direction d&apos;un évènement ou du joueur.&lt;br&gt;
+        	[Carte X] Position horizontale sur la carte.&lt;br&gt;
+        	[Carte Y] Position verticale sur la carte.&lt;br&gt;
+        	[Direction] Correspond aux touches du pavé numérique.&lt;br&gt;
+        	[Écran X] Position de la coordonnée X relative à l&apos;écran.&lt;br&gt;
         	[Écran Y] Position de la coordonnée Y relative à l&apos;écran.</translation>
     </message>
     <message>
@@ -3070,7 +3070,7 @@
     </message>
     <message>
         <source>Uses miscellaneous data.</source>
-        <translation>Utilise une autre valeur.&lt;br&gt;[ID de la carte] L&apos;ID de la carte actuelle.&lt;br&gt;[Taille de l&apos;équipe] Le nombre de personnages dans l&apos;équipe.&lt;br&gt;[Argent possédé] La quantité d&apos;argent que possède l&apos;équipe.&lt;br&gt;[Nombre de pas] Le nombre de carreaux parcourus par le héros depuis le début du jeu.&lt;br&gt;[Temps de jeu] Temps écoulé depuis le début du jeu (en secondes).&lt;br&gt;[Valeur du chronomètre] Valeur actuelle du chronomètre (en secondes).&lt;br&gt;[Nombre de sauvegardes] Le nombre de sauvegardes effectuées depuis le début du jeu.&lt;br&gt;[Nombre de combats] Le nombre de combats effectués depuis le début du jeu.&lt;br&gt;[Nombre de victoires] Le nombre de combats se terminant par la victoire du joueur depuis le début du jeu.&lt;br&gt;[Nombre de fuites] Le nombre de combats se terminant par la fuite du joueur depuis le début du jeu.</translation>
+        <translation>Utilise une autre valeur.&lt;br&gt;[ID de la carte] L&apos;ID de la carte actuelle.&lt;br&gt;[Taille de l&apos;équipe] Le nombre de personnages dans l&apos;équipe.&lt;br&gt;[Argent possédé] La quantité d&apos;argent que possède l&apos;équipe.&lt;br&gt;[Nombre de pas] Le nombre de tiles parcourus par le héros depuis le début du jeu.&lt;br&gt;[Temps de jeu] Temps écoulé depuis le début du jeu (en secondes).&lt;br&gt;[Valeur du chronomètre] Valeur actuelle du chronomètre (en secondes).&lt;br&gt;[Nombre de sauvegardes] Le nombre de sauvegardes effectuées depuis le début du jeu.&lt;br&gt;[Nombre de combats] Le nombre de combats effectués depuis le début du jeu.&lt;br&gt;[Nombre de victoires] Le nombre de combats se terminant par la victoire du joueur depuis le début du jeu.&lt;br&gt;[Nombre de fuites] Le nombre de combats se terminant par la fuite du joueur depuis le début du jeu.</translation>
     </message>
 </context>
 <context>
@@ -3109,7 +3109,7 @@
     </message>
     <message>
         <source>States</source>
-        <translation>Statuts</translation>
+        <translation>États</translation>
     </message>
     <message>
         <source>Group List</source>
@@ -3149,7 +3149,7 @@
     </message>
     <message>
         <source>Common Events</source>
-        <translation type="unfinished">Év. Communs</translation>
+        <translation type="unfinished">Év. communs</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3164,41 +3164,41 @@
     <name>Dialog_GameShare</name>
     <message>
         <source>If necessary to authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si authentification nécessaire</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentification</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentification.</translation>
     </message>
     <message>
         <source>Deauthorize</source>
         <comment>Deauthorize Button</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler l&apos;authentification.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le compte n&apos;a pas été authentifié.</translation>
     </message>
     <message>
         <source>Your acount is</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Votre compte est</translation>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Partage du jeu (NICONICO)</translation>
     </message>
     <message>
         <source>Authentication(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentification (NICONICO)</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -3207,51 +3207,51 @@
     </message>
     <message>
         <source>Clear the Game ID.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Effacer l&apos;ID du jeu</translation>
     </message>
     <message>
         <source>Clear the Game ID?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Effacer l&apos;ID du jeu ?</translation>
     </message>
 </context>
 <context>
     <name>Dialog_GameShareOgc</name>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentification</translation>
     </message>
     <message>
         <source>If necessary to authenticate OPEN GAME CREATORS.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si authentification nécessaire (OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>Authenticate</source>
         <comment>Authenticate Button</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentifier</translation>
     </message>
     <message>
         <source>Authenticate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentifier.</translation>
     </message>
     <message>
         <source>Account has not been authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le compte n&apos;a pas été autorisé/</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Partage du jeu (OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>Authenticated account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compte authentifié : %1</translation>
     </message>
     <message>
         <source>Deauthorize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler</translation>
     </message>
     <message>
         <source>Cancel authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler l&apos;authentification</translation>
     </message>
     <message>
         <source>Info</source>
@@ -3333,7 +3333,7 @@
     </message>
     <message>
         <source>Generates a maze-like dungeon which has no rooms.</source>
-        <translation>Génère un donjon labyrinthique qui n&apos;a pas de pièce.</translation>
+        <translation>Génère un donjon labyrinthique qui n&apos;a pas de pièces.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -3869,7 +3869,7 @@
     <message>
         <source>Office 2F</source>
         <comment>Cyberpunk</comment>
-        <translation>Bureau Étage</translation>
+        <translation>Bureau étage</translation>
     </message>
     <message>
         <source>School Hall</source>
@@ -4013,7 +4013,7 @@
     </message>
     <message>
         <source>Average number of steps between random encounters.</source>
-        <translation>Nombre moyen de pas pour déclencer une rencontre aléatoire.</translation>
+        <translation>Nombre moyen de pas pour déclencher une rencontre aléatoire.</translation>
     </message>
     <message>
         <source>Autoplay BGM</source>
@@ -4193,7 +4193,7 @@
     <name>Dialog_Monaca</name>
     <message>
         <source>Monaca</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monaca</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4281,7 @@
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compression du fichier</translation>
     </message>
 </context>
 <context>
@@ -4373,7 +4373,7 @@
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Description</source>
@@ -4555,7 +4555,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>ON/OFF status of the plugin.</source>
@@ -5121,15 +5121,15 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_TutorialSelector</name>
     <message>
         <source>Tutorial Selector</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélection d&apos;un tutoriel</translation>
     </message>
     <message>
         <source>StartTutorial</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Démarrer le tuto</translation>
     </message>
     <message>
         <source>Start the selected tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Démarre le tutoriel sélectionné.</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5145,7 +5145,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_Upload</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -5153,31 +5153,31 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compression des fichiers</translation>
     </message>
     <message>
         <source>It exceeds the data capacity that can be posted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fichiers plus lourds que la limite autorisée.</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne du fichier...</translation>
     </message>
     <message>
         <source>Checking a difference between file...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comparaison des fichiers...</translation>
     </message>
     <message>
         <source>The file size before compression exceeded %1MBytes.
 Please lower the file size of this project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La taille avant compression dépasse %1Mo. Veuillez réduire la taille de ce projet.</translation>
     </message>
 </context>
 <context>
     <name>Dialog_UploadOgc</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne</translation>
     </message>
     <message>
         <source>Creating a distribution package...</source>
@@ -5185,11 +5185,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>File compression</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compression des fichiers</translation>
     </message>
     <message>
         <source>File uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne...</translation>
     </message>
 </context>
 <context>
@@ -5276,18 +5276,18 @@ Please lower the file size of this project.</source>
     <name>Dialog_WebBrowser</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigateur</translation>
     </message>
 </context>
 <context>
     <name>Dialog_WebBrowserOgc</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigateur</translation>
     </message>
     <message>
         <source>It is authenticated by Creator name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Authentifié par le créateur %1</translation>
     </message>
 </context>
 <context>
@@ -5378,11 +5378,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Nickname displayed on the status screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Surnom affiché sur l&apos;écran d&apos;état.</translation>
     </message>
     <message>
         <source>Text to be displayed on the status screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Texte à afficher sur l&apos;écran d&apos;état.</translation>
     </message>
 </context>
 <context>
@@ -7018,7 +7018,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Vehicle to change the BGM.</source>
-        <translation>Véhicule auquel changer la BGM.</translation>
+        <translation>Véhicule dont la BGM sera changée.</translation>
     </message>
     <message>
         <source>BGM</source>
@@ -7056,7 +7056,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Vehicle to change the location.</source>
-        <translation>Véhicule dont l&apos;emplacement doit ête changé.</translation>
+        <translation>Véhicule dont l&apos;emplacement doit être changé.</translation>
     </message>
 </context>
 <context>
@@ -7183,7 +7183,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Waits for the effect to finish.</source>
-        <translation>Stoppe l&apos;éxecution de l&apos;évènement jusqu&apos;à la fin de l&apos;animation.</translation>
+        <translation>Stoppe l&apos;exécution de l&apos;évènement jusqu&apos;à la fin de l&apos;animation.</translation>
     </message>
 </context>
 <context>
@@ -7458,7 +7458,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Location of information to obtain.</source>
-        <translation>Définit le carreau sur lequel chercher l&apos;information.</translation>
+        <translation>Définit le tile sur lequel chercher l&apos;information.</translation>
     </message>
 </context>
 <context>
@@ -7530,7 +7530,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand313</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionnez l&apos;opération à appliquer sur le statut de l&apos;ennemi.</translation>
+        <translation>Sélectionnez l&apos;opération à appliquer sur l&apos;état de l&apos;ennemi.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7539,7 +7539,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the state to the actor.</source>
-        <translation>Ajoute le statut.</translation>
+        <translation>Ajoute l&apos;état.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7548,15 +7548,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state from the actor.</source>
-        <translation>Retire le statut.</translation>
+        <translation>Retire l&apos;état.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>Spécifie quel statut ajouter ou retirer.</translation>
+        <translation>Spécifie quel état ajouter ou retirer.</translation>
     </message>
 </context>
 <context>
@@ -7755,7 +7755,7 @@ Please lower the file size of this project.</source>
     <name>EventCommand333</name>
     <message>
         <source>Selects whether to add or remove the state.</source>
-        <translation>Sélectionnez l&apos;opération à appliquer sur le statut de l&apos;ennemi.</translation>
+        <translation>Sélectionnez l&apos;opération à appliquer sur l&apos;état de l&apos;ennemi.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7764,7 +7764,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Adds the state to the enemy.</source>
-        <translation>Ajouter le statut.</translation>
+        <translation>Ajouter l&apos;état.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7773,15 +7773,15 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Removes the state from the enemy.</source>
-        <translation>Retire le statut.</translation>
+        <translation>Retire l&apos;état.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>State to add or remove.</source>
-        <translation>Spécifie quel statut ajouter ou retirer.</translation>
+        <translation>Spécifie quel état ajouter ou retirer.</translation>
     </message>
 </context>
 <context>
@@ -7853,7 +7853,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Contents of the forced action.</source>
-        <translation>Définit le contenu de l&apos;action à exécuter..</translation>
+        <translation>Définit le contenu de l&apos;action à exécuter.</translation>
     </message>
     <message>
         <source>Skill</source>
@@ -8471,7 +8471,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Modifier les statuts</translation>
+        <translation>Modifier les &apos;états</translation>
     </message>
     <message>
         <source>Recover All</source>
@@ -8495,7 +8495,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Equipment</source>
-        <translation>Modifier lvéquipement</translation>
+        <translation>Modifier l&apos;équipement</translation>
     </message>
     <message>
         <source>Change Name</source>
@@ -8535,7 +8535,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change Enemy State</source>
-        <translation>Modifier le statut d&apos;un ennemi</translation>
+        <translation>Modifier l&apos;état d&apos;un ennemi</translation>
     </message>
     <message>
         <source>Enemy Recover All</source>
@@ -8623,7 +8623,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Starts or stops the timer.</source>
-        <translation>Démarrer ou arrêter le chronomètre (le décompte se fige lorsque le menu est affiché)..</translation>
+        <translation>Démarrer ou arrêter le chronomètre (le décompte se fige lorsque le menu est affiché).</translation>
     </message>
     <message>
         <source>Creates a portion to be run only when specific conditions are met.</source>
@@ -8635,7 +8635,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Escapes the innermost loop.</source>
-        <translation>Passer à la commande d&apos;évènement située tout de suite après la boucle..</translation>
+        <translation>Passer à la commande d&apos;évènement située tout de suite après la boucle.</translation>
     </message>
     <message>
         <source>Ends running events.</source>
@@ -8691,11 +8691,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the state of the actor.</source>
-        <translation>Ajouter ou retirer un statut à un membre de l&apos;équipe.</translation>
+        <translation>Ajouter ou retirer un état à un membre de l&apos;équipe.</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers HP and MP.</source>
-        <translation>Retirer tous les statuts à un membre de l&apos;équipe et le soigner complètement.</translation>
+        <translation>Retirer tous les états à un membre de l&apos;équipe et le soigner complètement.</translation>
     </message>
     <message>
         <source>Changes the EXP of the actor.</source>
@@ -8767,7 +8767,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Moves all party members to the same position as the lead character.</source>
-        <translation>Déplacer tous les membres de l&apos;équipe sur le même carreau que le joueur.</translation>
+        <translation>Déplacer tous les membres de l&apos;équipe sur le même tile que le joueur.</translation>
     </message>
     <message>
         <source>Displays the specified animation to the character on the map.</source>
@@ -8783,7 +8783,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Fades out the entire screen.</source>
-        <translation>Noircir graduellement l&apos;écran jusqu&apos;à ce qu&apos;il devienne complètement noir..</translation>
+        <translation>Noircir graduellement l&apos;écran jusqu&apos;à ce qu&apos;il devienne complètement noir.</translation>
     </message>
     <message>
         <source>Fades in the entire screen.</source>
@@ -8871,7 +8871,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Calls up the shop screen.</source>
-        <translation>Afficher l&apos;écran de vente et d&apos;achat pour les objets spécifiés..</translation>
+        <translation>Afficher l&apos;écran de vente et d&apos;achat pour les objets spécifiés.</translation>
     </message>
     <message>
         <source>Calls up the name input screen.</source>
@@ -8975,11 +8975,11 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Changes the state of the enemy.</source>
-        <translation>Appliquer ou retirer un statut à un ennemi. Utile uniquement en combat.</translation>
+        <translation>Appliquer ou retirer un état à un ennemi. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Clears all states and fully recovers the HP and MP of the enemy.</source>
-        <translation>Retirer tous les statuts à un ennemi et le soigner complètement. Utile uniquement en combat.</translation>
+        <translation>Retirer tous les états à un ennemi et le soigner complètement. Utile uniquement en combat.</translation>
     </message>
     <message>
         <source>Makes the enemy who has the [Appear Halfway] option to appear.</source>
@@ -9150,7 +9150,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>State</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Party Level</source>
@@ -9568,7 +9568,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add State</source>
-        <translation>Ajouter statut</translation>
+        <translation>Ajouter état</translation>
     </message>
     <message>
         <source>Normal Attack</source>
@@ -9576,7 +9576,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Remove State</source>
-        <translation>Retirer statut</translation>
+        <translation>Retirer état</translation>
     </message>
     <message>
         <source>Add Buff</source>
@@ -9878,12 +9878,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the horizontal spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement horizontal entre les carreaux de la grille.</translation>
+        <translation>Détermine l&apos;espacement horizontal entre les tiles de la grille.</translation>
     </message>
     <message>
         <source>tiles</source>
         <comment>unit</comment>
-        <translation>carreaux</translation>
+        <translation>tiles</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -9891,7 +9891,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Sets the vertical spacing between grid tiles.</source>
-        <translation>Détermine l&apos;espacement vertical entre les carreaux de la grille.</translation>
+        <translation>Détermine l&apos;espacement vertical entre les tiles de la grille.</translation>
     </message>
 </context>
 <context>
@@ -9919,7 +9919,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Formation</source>
@@ -9942,22 +9942,22 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns the upload operation on/off.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Active ou désactive la mise en ligne.</translation>
     </message>
     <message>
         <source>NicoNico</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NicoNico</translation>
     </message>
     <message>
         <source>OPEN GAME CREATORS</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OPEN GAME CREATORS</translation>
     </message>
     <message>
         <source>Monaca</source>
         <comment>Upload operation enable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monaca</translation>
     </message>
 </context>
 <context>
@@ -9972,11 +9972,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Constant</source>
-        <translation>Constante</translation>
+        <translation>Valeur fixe</translation>
     </message>
     <message>
         <source>Uses the constant value.</source>
-        <translation>Utilise la valeur constante.</translation>
+        <translation>Utilise la valeur fixe.</translation>
     </message>
     <message>
         <source>Variable</source>
@@ -10517,7 +10517,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Show Player Followers</source>
-        <translation>File indienne sur la carte</translation>
+        <translation>Chenille sur la carte</translation>
     </message>
     <message>
         <source>Enables the display of party members walking behind the player. This can be changed using the [Change Player Followers] event command.</source>
@@ -10827,11 +10827,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Attack Times +</source>
-        <translation>Nbr d&apos;attaques  +</translation>
+        <translation>Nbr d&apos;attaques+</translation>
     </message>
     <message>
         <source>Add Skill Type</source>
-        <translation>Type de compétence</translation>
+        <translation>Type de comp.</translation>
     </message>
     <message>
         <source>Seal Skill Type</source>
@@ -10862,7 +10862,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Seal Equip</source>
-        <translation>Équipement interdit</translation>
+        <translation>Équip. interdit</translation>
     </message>
     <message>
         <source>Slot Type</source>
@@ -10870,7 +10870,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Action Times +</source>
-        <translation>Nombre d&apos;actions +</translation>
+        <translation>Nombre d&apos;actions+</translation>
     </message>
     <message>
         <source>Special Flag</source>
@@ -10893,11 +10893,11 @@ Please complete the post with follow this link.</source>
     <name>Group_Troop</name>
     <message>
         <source>Troop</source>
-        <translation>Troupe</translation>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Troop to fight the party.</source>
-        <translation>Troupe qui combat l&apos;équipe.</translation>
+        <translation>Groupe qui combat l&apos;équipe.</translation>
     </message>
     <message>
         <source>Direct designation</source>
@@ -10905,7 +10905,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Specifies the troop directly.</source>
-        <translation>Spécifie la troupe directement.</translation>
+        <translation>Spécifie le groupe directement.</translation>
     </message>
     <message>
         <source>Designation with a variable</source>
@@ -10913,7 +10913,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Specifies the troop determined by the variable.</source>
-        <translation>Spécifie la troupe en fonction de la variable.</translation>
+        <translation>Spécifie le groupe en fonction de la variable.</translation>
     </message>
     <message>
         <source>Same as Random Encounter</source>
@@ -10921,7 +10921,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Randomly selects a troop from among those set for random encounters by map settings.</source>
-        <translation>Sélectionne aléatoirement une troupe parmi celles réglées pour les rencontres aléatoires de la carte.</translation>
+        <translation>Sélectionne aléatoirement un groupe parmi celles réglées pour les rencontres aléatoires de la carte.</translation>
     </message>
 </context>
 <context>
@@ -10997,38 +10997,38 @@ Please complete the post with follow this link.</source>
     <name>Html</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connexion</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connexion réussie.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de la connexion.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veuillez fermer la fenêtre.</translation>
     </message>
 </context>
 <context>
     <name>HtmlOgc</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connexion</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connexion réussie.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de la connexion.</translation>
     </message>
     <message>
         <source>Please close this window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Veuillez fermer la fenêtre.</translation>
     </message>
 </context>
 <context>
@@ -11445,7 +11445,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Skips any command that would move a character into an impassable location.</source>
-        <translation>Passe n&apos;importe qu&apos;elle commande qui déplacerait un personnage dans un emplacement infranchissable, afin de ne pas bloquer le jeu.</translation>
+        <translation>Ignore n&apos;importe qu&apos;elle commande qui déplacerait un personnage dans un emplacement infranchissable, afin de ne pas bloquer le jeu.</translation>
     </message>
     <message>
         <source>Wait for Completion</source>
@@ -11932,15 +11932,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Share(NICONICO)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Partage du jeu (NICONICO)</translation>
     </message>
     <message>
         <source>Upload the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne du jeu.</translation>
     </message>
     <message>
         <source>Game Share(OPEN GAME CREATORS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Partage du jeu (OPEN GAME CREATORS)</translation>
     </message>
     <message>
         <source>RPG Maker MV Tools</source>
@@ -11948,7 +11948,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add external tools.</source>
-        <translation>Ajoutez des outils externes</translation>
+        <translation>Ajouter des outils externes.</translation>
     </message>
     <message>
         <source>Stop tutorial</source>
@@ -11964,7 +11964,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Monaca</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monaca</translation>
     </message>
     <message>
         <source>Find</source>
@@ -12116,15 +12116,15 @@ Please complete the post with follow this link.</source>
     <name>Monaca</name>
     <message>
         <source>Succeeded to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise en ligne du projet terminée.</translation>
     </message>
     <message>
         <source>Failed to upload a project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de la mise en ligne du projet.</translation>
     </message>
     <message>
         <source>There was no difference file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Absence du fichier de différences.</translation>
     </message>
 </context>
 <context>
@@ -12452,35 +12452,35 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Moves to the lower tile.</source>
-        <translation>Déplace l&apos;évènement sur le carreau en dessous.</translation>
+        <translation>Déplace l&apos;évènement sur le tile en dessous.</translation>
     </message>
     <message>
         <source>Moves to the left tile.</source>
-        <translation>Déplace l&apos;évènement sur le carreau de gauche.</translation>
+        <translation>Déplace l&apos;évènement sur le tile de gauche.</translation>
     </message>
     <message>
         <source>Moves to the right tile.</source>
-        <translation>Déplace l&apos;évènement sur le carreau de droite.</translation>
+        <translation>Déplace l&apos;évènement sur le tile de droite.</translation>
     </message>
     <message>
         <source>Moves to the upper tile.</source>
-        <translation>Déplace l&apos;évènement sur le carreau au dessus.</translation>
+        <translation>Déplace l&apos;évènement sur le tile au dessus.</translation>
     </message>
     <message>
         <source>Moves to the lower left tile diagonally.</source>
-        <translation>Déplace diagonalement l&apos;évènement sur le carreau en dessous à gauche.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le tile en dessous à gauche.</translation>
     </message>
     <message>
         <source>Moves to the lower right tile diagonally.</source>
-        <translation>Déplace diagonalement l&apos;évènement sur le carreau en dessous à droite.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le tile en dessous à droite.</translation>
     </message>
     <message>
         <source>Moves to the upper left tile diagonally.</source>
-        <translation>Déplace diagonalement l&apos;évènement sur le carreau au dessus à gauche.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le tile au dessus à gauche.</translation>
     </message>
     <message>
         <source>Moves to the upper right tile diagonally.</source>
-        <translation>Déplace diagonalement l&apos;évènement sur le carreau au dessus à droite.</translation>
+        <translation>Déplace diagonalement l&apos;évènement sur le tile au dessus à droite.</translation>
     </message>
     <message>
         <source>Moves up, down, left, or right.</source>
@@ -12496,11 +12496,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Moves in the current direction.</source>
-        <translation>Déplace le joueur d&apos;un carreau dans la direction de son regard.</translation>
+        <translation>Déplace le joueur d&apos;un tile dans la direction de son regard.</translation>
     </message>
     <message>
         <source>Moves in the opposite direction without turning around.</source>
-        <translation>Déplace le joueur d&apos;un carreau dans la direction opposée à son regard.</translation>
+        <translation>Déplace le joueur d&apos;un tile dans la direction opposée à son regard.</translation>
     </message>
     <message>
         <source>Jumps from the current position.</source>
@@ -12572,7 +12572,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Turns on the walking animation when the character is moving.</source>
-        <translation>Active l&apos;animation de l&apos;évènement lorsqu&apos;il se déplace..</translation>
+        <translation>Active l&apos;animation de l&apos;évènement lorsqu&apos;il se déplace.</translation>
     </message>
     <message>
         <source>Turns off the walking animation when the character is moving.</source>
@@ -12596,11 +12596,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Makes it possible to move through impassable tiles and characters.</source>
-        <translation>Permet à l&apos;évènement de traverser même les carreaux non praticables et les autres évènements ou personnages.</translation>
+        <translation>Permet à l&apos;évènement de traverser même les tiles non praticables et les autres évènements ou personnages.</translation>
     </message>
     <message>
         <source>Makes it impossible to move through impassable tiles and characters.</source>
-        <translation>Rend impossible la traversée de carreaux non praticables et des autres évènements ou personnages.</translation>
+        <translation>Rend impossible la traversée de tiles non praticables et des autres évènements ou personnages.</translation>
     </message>
     <message>
         <source>Makes the character invisible.</source>
@@ -12711,15 +12711,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hit Fire</source>
-        <translation>Frappe feu</translation>
+        <translation>Frappe de feu</translation>
     </message>
     <message>
         <source>Hit Ice</source>
-        <translation>Frappe glace</translation>
+        <translation>Frappe de glace</translation>
     </message>
     <message>
         <source>Hit Thunder</source>
-        <translation>Frappe foudre</translation>
+        <translation>Frappe de foudre</translation>
     </message>
     <message>
         <source>Slash Physical</source>
@@ -12731,15 +12731,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Slash Fire</source>
-        <translation>Taillade feu</translation>
+        <translation>Taillade de feu</translation>
     </message>
     <message>
         <source>Slash Ice</source>
-        <translation>Taillade glace</translation>
+        <translation>Taillade de glace</translation>
     </message>
     <message>
         <source>Slash Thunder</source>
-        <translation>Taillade foudre</translation>
+        <translation>Taillade de foudre</translation>
     </message>
     <message>
         <source>Pierce Physical</source>
@@ -12751,15 +12751,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Transpercer feu</translation>
+        <translation>Transpercer de feu</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Transpercer glace</translation>
+        <translation>Transpercer de glace</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Transpercer foudre</translation>
+        <translation>Transpercer de foudre</translation>
     </message>
     <message>
         <source>Claw Physical</source>
@@ -12771,15 +12771,15 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Claw Fire</source>
-        <translation>Griffure feu</translation>
+        <translation>Griffure de feu</translation>
     </message>
     <message>
         <source>Claw Ice</source>
-        <translation>Griffure gace</translation>
+        <translation>Griffure de glace</translation>
     </message>
     <message>
         <source>Claw Thunder</source>
-        <translation>Griffure foudre</translation>
+        <translation>Griffure de foudre</translation>
     </message>
     <message>
         <source>Hit Special 1</source>
@@ -13345,7 +13345,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>However, it was unable to escape!</source>
-        <translation>Cependant, il n&apos;a pas réussi à s&apos;enfuir !</translation>
+        <translation>Mais il n&apos;a pas réussi à s&apos;enfuir !</translation>
     </message>
     <message>
         <source>%1 was victorious!</source>
@@ -13954,7 +13954,7 @@ vous sélectionnerez la commande Garde.</translation>
     <message>
         <source>State #1 will be automatically added when
 HP reaches 0.</source>
-        <translation>Le statut #1 sera automatiquement ajouté
+        <translation>L&apos;état #1 sera automatiquement ajouté
 lorsque les PV atteindront 0.</translation>
     </message>
     <message>
@@ -14381,7 +14381,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Statut</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Load Project</source>
@@ -14601,11 +14601,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Statut :</translation>
+        <translation>État :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified actor has a particular state.</source>
-        <translation>La condition est remplie si le personage choisi est sous l&apos;effet du statut spécifié.</translation>
+        <translation>La condition est remplie si le personage choisi est sous l&apos;effet de l&apos;état spécifié.</translation>
     </message>
 </context>
 <context>
@@ -14628,11 +14628,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Statut :</translation>
+        <translation>État :</translation>
     </message>
     <message>
         <source>Based on whether or not the specified enemy has a particular state.</source>
-        <translation>La condition est remplie si l&apos;ennemi choisi est actuellement sous l&apos;effet du statut spécifié.</translation>
+        <translation>La condition est remplie si l&apos;ennemi choisi est actuellement sous l&apos;effet de l&apos;état spécifié.</translation>
     </message>
     <message>
         <source>Character</source>
@@ -14640,7 +14640,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Based on the direction the player or event is facing.</source>
-        <translation>La condition est remplie si l&apos;évènement choisi regarde dans la condition spécifiée..</translation>
+        <translation>La condition est remplie si l&apos;évènement choisi regarde dans la condition spécifiée.</translation>
     </message>
     <message>
         <source>is facing</source>
@@ -14935,7 +14935,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Enemy to change the status.</source>
-        <translation>Ennemi à qui infliger le statut.</translation>
+        <translation>Ennemi à qui infliger l&apos;état.</translation>
     </message>
 </context>
 <context>
