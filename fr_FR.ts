@@ -1655,59 +1655,59 @@
     <name>DeploymentOption</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Set the deployment options.</source>
-        <translation type="unfinished">Définit les options de déploiement.</translation>
+        <translation>Définit les options de déploiement.</translation>
     </message>
     <message>
         <source>Exclude unused files</source>
-        <translation type="unfinished">Exclure les fichiers inutilisés</translation>
+        <translation>Exclure les fichiers inutilisés</translation>
     </message>
     <message>
         <source>Files that are not used in the game, will be excluded in the deployment.</source>
-        <translation type="unfinished">Les fichiers non utilisés dans le jeu seront exclus du déploiement.</translation>
+        <translation>Les fichiers non utilisés dans le jeu seront exclus du déploiement.</translation>
     </message>
     <message>
         <source>Zip Compression</source>
-        <translation type="unfinished">Compression zip</translation>
+        <translation>Compression zip</translation>
     </message>
     <message>
         <source>Zip compress the project files.</source>
-        <translation type="unfinished">Compresse les fichiers dans une archive zip</translation>
+        <translation>Compresse les fichiers dans une archive zip</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Cryptage</translation>
+        <translation>Cryptage</translation>
     </message>
     <message>
         <source>Set the Encryption options.</source>
-        <translation type="unfinished">Définissez les options de cryptage.</translation>
+        <translation>Définissez les options de cryptage.</translation>
     </message>
     <message>
         <source>Image files</source>
-        <translation type="unfinished">Fichiers image</translation>
+        <translation>Fichiers image</translation>
     </message>
     <message>
         <source>Encrypt a image file that is included in the package.</source>
-        <translation type="unfinished">Chiffrez un fichier image inclus dans le package.</translation>
+        <translation>Chiffrez un fichier image inclus dans le package.</translation>
     </message>
     <message>
         <source>Audio files</source>
-        <translation type="unfinished">Fichiers audio</translation>
+        <translation>Fichiers audio</translation>
     </message>
     <message>
         <source>Encrypt a audio file that is included in the package.</source>
-        <translation type="unfinished">Chiffrez un fichier audio inclus dans le package.</translation>
+        <translation>Chiffrez un fichier audio inclus dans le package.</translation>
     </message>
     <message>
         <source>Encryption key</source>
-        <translation type="unfinished">Clé de chiffrement</translation>
+        <translation>Clé de chiffrement</translation>
     </message>
     <message>
         <source>Please enter the key of encryption.</source>
-        <translation type="unfinished">Veuillez saisir la clé de chiffrement.</translation>
+        <translation>Veuillez saisir la clé de chiffrement.</translation>
     </message>
 </context>
 <context>
@@ -2023,67 +2023,67 @@
     <name>Dialog_AppendTools</name>
     <message>
         <source>RPG Maker MV Tools</source>
-        <translation type="unfinished">Outils pour RPG Maker MV</translation>
+        <translation>Outils pour RPG Maker MV</translation>
     </message>
     <message>
         <source>Discard changes to RPG Maker MV tools?</source>
-        <translation type="unfinished">Annuler les changements aux outils RPG Maker MV ?</translation>
+        <translation>Annuler les changements aux outils RPG Maker MV ?</translation>
     </message>
     <message>
         <source>Additional Tools</source>
-        <translation type="unfinished">Outils additionnels</translation>
+        <translation>Outils additionnels</translation>
     </message>
     <message>
         <source>List of tools that have already been added.</source>
-        <translation type="unfinished">Liste des outils déjà ajoutés.</translation>
+        <translation>Liste des outils déjà ajoutés.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Delete additional tools.</source>
-        <translation type="unfinished">Efface les outils additionnels</translation>
+        <translation>Efface les outils additionnels</translation>
     </message>
     <message>
         <source>Found Tools</source>
-        <translation type="unfinished">Outils trouvés</translation>
+        <translation>Outils trouvés</translation>
     </message>
     <message>
         <source>List of tools that have been found.</source>
-        <translation type="unfinished">Liste des outils qui ont été trouvés.</translation>
+        <translation>Liste des outils qui ont été trouvés.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <source>Add a tool.</source>
-        <translation type="unfinished">Ajouter un outil.</translation>
+        <translation>Ajouter un outil.</translation>
     </message>
     <message>
         <source>Select Path</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <source>Select a folder.</source>
-        <translation type="unfinished">Choisissez un dossier.</translation>
+        <translation>Choisissez un dossier.</translation>
     </message>
     <message>
         <source>Select Folder</source>
-        <translation type="unfinished">Choisir un dossier</translation>
+        <translation>Choisir un dossier</translation>
     </message>
 </context>
 <context>
@@ -2760,7 +2760,7 @@
     </message>
     <message>
         <source>Search for</source>
-        <translation>Rechercher évènement :</translation>
+        <translation>Recherche</translation>
     </message>
     <message>
         <source>Specifies what to search for.</source>
@@ -5121,24 +5121,24 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     <name>Dialog_TutorialSelector</name>
     <message>
         <source>Tutorial Selector</source>
-        <translation type="unfinished">Sélection d&apos;un tutoriel</translation>
+        <translation>Sélecteur de tutoriel</translation>
     </message>
     <message>
         <source>StartTutorial</source>
-        <translation type="unfinished">Démarrer le tuto</translation>
+        <translation>Commencer</translation>
     </message>
     <message>
         <source>Start the selected tutorial.</source>
-        <translation type="unfinished">Démarre le tutoriel sélectionné.</translation>
+        <translation>Démarre le tutoriel sélectionné.</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Dialog Button</comment>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Closes this window.</source>
-        <translation type="unfinished">Ferme cette fenêtre.</translation>
+        <translation>Ferme cette fenêtre.</translation>
     </message>
 </context>
 <context>
@@ -19293,136 +19293,146 @@ Please try to come up with ways to innovate on your own.</source>
     <name>TutorialStep2</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet que nous avions terminé dans la partie 1 ?</translation>
     </message>
     <message>
         <source>Loading the step 1 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de la partie 1.</translation>
     </message>
     <message>
         <source>Please select the step 1 project. 
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de la parte 1.
+Les projets sont généralement dans le dossier RPGMV de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette partie.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then press OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>Character and conversation development is done using &quot;events&quot;. 
 This time we&apos;ll create a character event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les conversations entre les personnages sont faites avec les évènements.
+Ici nous allons créer l'évènement d'un personnage.</translation>
     </message>
     <message>
         <source>Click &quot;Normal Town&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Ville normale&quot;.</translation>
     </message>
     <message>
         <source>First let&apos;s determine where the character will be placed. 
 The coordinates are shown on this taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissons où le personnage sera placé.
+Les coordonnées s'affichent ici quand vous cliquez sur une case.</translation>
     </message>
     <message>
         <source>We will place her on the crossroads near the town entrance. 
 Let&apos;s place her on (19,33). 
 Check the coordinates while clicking on the map and find (19,33).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons la placer à l'intersection près de l'entrée.
+Vérifiez les coordonnées tout en cliquant sur la carte, et trouvez la case (19,33).</translation>
     </message>
     <message>
         <source>Double click on that position. 
 The event editor will launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur cette position, et l'éditeur d'évènement apparaitra.</translation>
     </message>
     <message>
         <source>First let&apos;s choose her appearance. 
 Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Commençons par choisir son apparence.
+Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>This time we will pick an Adult Woman as an example. 
 Click Actor1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour cet exemple, nous allons choisir une femme adulte.
+Cliquez sur Actor1.</translation>
     </message>
     <message>
         <source>Select the rightmost woman from the top row.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la femme la plus en haut à droite.</translation>
     </message>
     <message>
         <source>Once you&apos;ve selected her, press OK to confirm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque c'est fait, cliquez sur OK.</translation>
     </message>
     <message>
         <source>Notice that the &quot;Priority&quot; has changed from &quot;Below characters&quot; to &quot;Same as characters&quot;. 
 If the priority is set to below, then it will display under the player. 
 If it&apos;s the same, they won&apos;t overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarqué que la &quot;Priorité d'affichage&quot; a changé de &quot;Sous le héros&quot; à &quot;Même niveau que le héros&quot;.
+De cette façon, l'évènement et le héros ne vont pas passer l'un sur l'autre.</translation>
     </message>
     <message>
         <source>Next let&apos;s name the event &quot;Villager1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appelons cet évènement &quot;Villageoise1&quot;.</translation>
     </message>
     <message>
         <source>Event names are not required, but they are useful when making references from other events. 
 In this tutorial, we will give real examples using names later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les noms d'évènement ne sont pas requis, mais ils sont utiles pour vous repérer lorsque vous créez des références depuis un autre évènement.
+Dabs ce tutoriel, nous verrons des exemples avec des vrais noms plus tard.</translation>
     </message>
     <message>
         <source>Check that the Trigger is set to &quot;Action Button&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez que le Déclenchement est réglé sur &quot;Touche action&quot;.</translation>
     </message>
     <message>
         <source>This is the condition required to activate the event. 
 If set to &quot;Action Button&quot;, it will activate when the button is pressed. If it&apos;s &quot;Player Touch&quot;, it will activate when touched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci est la condition requise pour activer l'évènement.
+Avec &quot;Touche action&quot;, l'évènement s'activera lorsque la touche est pressée devant lui. Avec &quot;Contact avec le héros&quot;, l'évènement s'active dès qu'on le touche.</translation>
     </message>
     <message>
         <source>Now let&apos;s set the contents. Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Passons au contenu. Double-cliquez sur la première ligne dans Commandes.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous souhaitons afficher un texte.</translation>
     </message>
     <message>
         <source>Type &quot;Villager:&quot; on the first line,
 and &quot;Hello&quot; on the second line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecrivez &quot;Villageoise&quot; sur la première ligne,
+et &quot;Bonjour&quot; sur la deuxième.</translation>
     </message>
     <message>
         <source>You can check how the text you&apos;ve input will be shown with &quot;Preview...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hit &quot;Close&quot; after previewing.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Now, there are things called &quot;control characters &quot; that allow you to do various things such as change text color and size.
@@ -19433,11 +19443,11 @@ Make sure the control characters are written in single byte characters.
 
 Let&apos;s change &quot;Hello&quot; to
 Hello, \N[1]　.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please preview your text.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The text between \C[2] and \C[0] is now red. Also, \N[1] has been replaced by the name of the main character. 
@@ -19445,100 +19455,100 @@ This is an example of the effects of control characters.
 
 Close the preview after checking it. 
 There are other control characters as well.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Now we&apos;re done with text display. 
 Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Next, we&apos;ll show choices. 
 Double click the next empty line after the text.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>First, we&apos;ll open &quot;Show Text...&quot; once more to write a question.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Input the question text:
  something like &quot;Please get rid of the beasts in the neighboring cave.&quot; 
 will do.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>When you&apos;re done entering the text, click OK to confirm.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Double click the lowest empty line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click &quot;Show Choices...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can choose up to 6 choices, but this time we will make them just &quot;Yes&quot; and &quot;No&quot;. There are other options, but they&apos;re fine as-is for now.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Now fields labeled &quot;When Yes&quot; and &quot;When No&quot; have appeared. 
 You can describe the event for each case within these fields.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Now for an explanation about Balloon Icons. 
 These are music notes, hearts, and other symbols that display above the event. 
 This time we&apos;ll use them in place of dialogue.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Double click the line under &quot;When Yes&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Go to Page 2 of the Event Commands.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click &quot;Show Balloon Icon...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Heart&quot; for the &quot;Balloon Icon&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please check off &quot;Wait for Completion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Double click the line under &quot;When No&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Cobweb&quot; for the &quot;Balloon Icon&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can add dialogue after a balloon icon, but even if you don&apos;t the sentiment should be clear. 
 Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Now Step 2&apos;s preparations are complete. 
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Playtest and make sure that everything runs as expected.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
