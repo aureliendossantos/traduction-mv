@@ -2527,7 +2527,7 @@
     <message>
         <source>Param</source>
         <translatorcomment>省略のピリオドを追加させて頂きました。</translatorcomment>
-        <translation>Caractéristique</translation>
+        <translation>Carac.</translation>
     </message>
     <message>
         <source>Add Buff</source>
@@ -5003,7 +5003,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     <message>
         <source>Add Skill Type</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Type de compétence</translation>
+        <translation>Type de comp.</translation>
     </message>
     <message>
         <source>Allows the specified skill type to be selected as a command.</source>
@@ -5012,7 +5012,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     <message>
         <source>Seal Skill Type</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Désactiver un type</translation>
+        <translation>Désactiver le type</translation>
     </message>
     <message>
         <source>Temporarily disables the use of the specified type of skill.</source>
@@ -10831,12 +10831,12 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Add Skill Type</source>
-        <translation>Type de comp.</translation>
+        <translation>Type de compétence</translation>
     </message>
     <message>
         <source>Seal Skill Type</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Désactiver un type</translation>
+        <translation>Désactiver le type</translation>
     </message>
     <message>
         <source>Add Skill</source>
@@ -12743,23 +12743,23 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pierce Physical</source>
-        <translation>Transpercer physique</translation>
+        <translation>Perçage physique</translation>
     </message>
     <message>
         <source>Pierce Effect</source>
-        <translation>Transpercer puissant</translation>
+        <translation>Perçage puissant</translation>
     </message>
     <message>
         <source>Pierce Fire</source>
-        <translation>Transpercer de feu</translation>
+        <translation>Perçage de feu</translation>
     </message>
     <message>
         <source>Pierce Ice</source>
-        <translation>Transpercer de glace</translation>
+        <translation>Perçage de glace</translation>
     </message>
     <message>
         <source>Pierce Thunder</source>
-        <translation>Transpercer de foudre</translation>
+        <translation>Perçage de foudre</translation>
     </message>
     <message>
         <source>Claw Physical</source>
@@ -12783,11 +12783,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Hit Special 1</source>
-        <translation>Frapper spécial 1</translation>
+        <translation>Frappe spéciale 1</translation>
     </message>
     <message>
         <source>Hit Special 2</source>
-        <translation>Frapper spécial 2</translation>
+        <translation>Frappe spéciale 2</translation>
     </message>
     <message>
         <source>Slash Special 1</source>
@@ -12803,11 +12803,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Pierce Special 1</source>
-        <translation>Transpercer spécial 1</translation>
+        <translation>Perçage spécial 1</translation>
     </message>
     <message>
         <source>Pierce Special 2</source>
-        <translation>Transpercer spécial 2</translation>
+        <translation>Perçage spécial 2</translation>
     </message>
     <message>
         <source>Claw Special</source>
@@ -12819,11 +12819,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>General Special 1</source>
-        <translation>Frapper spécial 3</translation>
+        <translation>Frappe spéciale 3</translation>
     </message>
     <message>
         <source>General Special 2</source>
-        <translation>Transpercer spécial 3</translation>
+        <translation>Perçage spécial 3</translation>
     </message>
     <message>
         <source>Breath</source>
@@ -12855,7 +12855,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Bodyslam</source>
-        <translation>Souplesset</translation>
+        <translation>Projection</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -12927,11 +12927,11 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Bind</source>
-        <translation>Lier</translation>
+        <translation>Attache</translation>
     </message>
     <message>
         <source>Absorb</source>
-        <translation>Absorbe</translation>
+        <translation>Absorption</translation>
     </message>
     <message>
         <source>Poison</source>
@@ -12939,7 +12939,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Blind</source>
-        <translation>Assombrir</translation>
+        <translation>Obscurité</translation>
     </message>
     <message>
         <source>Silence</source>
@@ -13647,7 +13647,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Dual Attack</source>
         <comment>skill</comment>
-        <translation>Attaque double</translation>
+        <translation>Coup double</translation>
     </message>
     <message>
         <source>Double Attack</source>
