@@ -7469,7 +7469,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Enables the [Escape] command and creates a branch defining [If Escape] handling.</source>
-        <translation>Active la commande [Fuir] et créer une branche conditionnelle "Si fuir" dans l&apos;évènement.</translation>
+        <translation>Active la commande [Fuir] et créer une branche conditionnelle &quot;Si fuir&quot; dans l&apos;évènement.</translation>
     </message>
     <message>
         <source>Can Lose</source>
@@ -7477,7 +7477,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Even if the party is defeated, the game does not end, but a branch is created defining [If Lose] handling.</source>
-        <translation>Même si l&apos;équipe entière est décimée, le jeu n&apos;aboutira pas sur un Game Over et l&apos;évènement continuera. Ajoute une branche conditionnelle "Si défaite" dans l&apos;évènement.</translation>
+        <translation>Même si l&apos;équipe entière est décimée, le jeu n&apos;aboutira pas sur un Game Over et l&apos;évènement continuera. Ajoute une branche conditionnelle &quot;Si défaite&quot; dans l&apos;évènement.</translation>
     </message>
 </context>
 <context>
@@ -9484,7 +9484,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Formula for calculating basic damage. The user is expressed by a and the target by b, and then either one is followed by a dot to enable the referencing of the statuses shown hereafter. For example, &quot;a.atk&quot; stands for user&apos;s attack power.</source>
-        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par "a" et la cible par "b", suivi d&apos;un point et de l&apos;identifiant de la caractéristique à utiliser. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
+        <translation>Formule pour calculer les dégâts basiques. L&apos;utilisateur est exprimé par &quot;a&quot; et la cible par &quot;b&quot;, suivi d&apos;un point et de l&apos;identifiant de la caractéristique à utiliser. Par exemple, &quot;a.atk&quot; signifie puissance d&apos;attaque de l&apos;utilisateur.</translation>
     </message>
     <message>
         <source>Variance</source>
@@ -14711,7 +14711,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>For advanced users: Based on the evaluation result of the script.</source>
-        <translation>Pour les utilisateurs avancés : la condition est remplie si le script retourne "true".</translation>
+        <translation>Pour les utilisateurs avancés : la condition est remplie si le script retourne &quot;true&quot;.</translation>
     </message>
 </context>
 <context>
@@ -14980,79 +14980,79 @@ lorsque les PV atteindront 0.</translation>
     <name>TutorialList</name>
     <message>
         <source>Step 1: Map Basics</source>
-        <translation>Partie 1 : Les cartes</translation>
+        <translation>1. Les cartes</translation>
     </message>
     <message>
         <source>Step 2: Event Basics (Dialogue)</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Les évènements (dialogues)</translation>
     </message>
     <message>
         <source>Step 3: Event Transfer 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Téléportation 1</translation>
     </message>
     <message>
         <source>Step 4: Event Transfer 2</source>
-        <translation type="unfinished"></translation>
+        <translation>4. Téléportation 2</translation>
     </message>
     <message>
         <source>Step 5: Switches and Conditional Branching Part 1</source>
-        <translation type="unfinished"></translation>
+        <translation>5. Interrupteurs et conditions 1</translation>
     </message>
     <message>
         <source>Step 6: Switches and Conditional Branching Part 2</source>
-        <translation type="unfinished"></translation>
+        <translation>6. Interrupteurs et conditions 2</translation>
     </message>
     <message>
         <source>Step 7: Treasure and Self-Switches</source>
-        <translation type="unfinished"></translation>
+        <translation>7. Trésors et interrupteurs locaux</translation>
     </message>
     <message>
         <source>Step 8: Creating Shops</source>
-        <translation type="unfinished"></translation>
+        <translation>8. Créer un magasin</translation>
     </message>
     <message>
         <source>Step 9: Event Application 1: Notice Board</source>
-        <translation type="unfinished"></translation>
+        <translation>9. Évènement de panneau d&apos;affichage</translation>
     </message>
     <message>
         <source>Step 10: Event Application 2: Moving Rock</source>
-        <translation type="unfinished"></translation>
+        <translation>10. Évènement de pierre mouvante</translation>
     </message>
     <message>
         <source>Step 11: Event Application 3: Door</source>
-        <translation type="unfinished"></translation>
+        <translation>11. Évènement de porte</translation>
     </message>
     <message>
         <source>Step 12: Database Basics 1</source>
-        <translation type="unfinished"></translation>
+        <translation>12. La base de données 1</translation>
     </message>
     <message>
         <source>Step 13: Database Basics 2</source>
-        <translation type="unfinished"></translation>
+        <translation>13. La base de données 2</translation>
     </message>
     <message>
         <source>Step 14: Damaging Floors</source>
-        <translation type="unfinished"></translation>
+        <translation>14. Sols blessants</translation>
     </message>
     <message>
         <source>Step 15: Healing and Saving</source>
-        <translation type="unfinished"></translation>
+        <translation>15. Soin et sauvegarde</translation>
     </message>
     <message>
         <source>Step 17: Enemy Character (Boss) Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>17. Personnage ennemi (boss)</translation>
     </message>
     <message>
         <source>Step 18: Creating an Ending</source>
-        <translation type="unfinished"></translation>
+        <translation>18. Créer une fin</translation>
     </message>
     <message>
         <source>Step 19: Title and Plug-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>19. Titre et plugins</translation>
     </message>
     <message>
         <source>Step 16: Symbol Encounters</source>
-        <translation type="unfinished"></translation>
+        <translation>16. Rencontres ennemies</translation>
     </message>
 </context>
 <context>
@@ -15365,539 +15365,548 @@ Next we will determine the player&apos;s initial position.</source>
     <name>TutorialStep10</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 9?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 9 ?</translation>
     </message>
     <message>
         <source>Loading the step 9 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 9.</translation>
     </message>
     <message>
         <source>Please select the step 9 project. 
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 9.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette partie.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>This time we&apos;re going to create a dungeon setup: rocks that move when pushed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons créer une scène de donjon, avec des pierres qui bougent quand on les pousse.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot; from the tree view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>The stones you push to move will be
 placed in the passage 3 tiles in width a bit above the entrance. </source>
-        <translation type="unfinished"></translation>
+        <translation>Les pierres à pousser seront placées dans le passage de 3 cases de large, un peu au-dessus de l&apos;entrée.</translation>
     </message>
     <message>
         <source>We&apos;ll create the event. Double click (16,18).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons créer l&apos;évènement. Double-cliquez sur (16,18).</translation>
     </message>
     <message>
         <source>Enter the name as MovingRock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom PierreMouvante.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Scroll to the bottom of the list and click !Other1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilez jusqu&apos;en bas et cliquez sur !Other1.</translation>
     </message>
     <message>
         <source>In the top row of rocks, click and select
 the middle image (downward facing) in the first row of the group second from the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sur la première ligne, cliquez sur l&apos;image du milieu, dans le second groupe.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Direction Fix&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez &quot;Regard fixe&quot;.</translation>
     </message>
     <message>
         <source>Set the trigger to &quot;Player Touch&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le déclenchement &quot;Au contact du joueur&quot;.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set up the content. 
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant définir l contenu. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;onglet de page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Déplacer un évènement.</translation>
     </message>
     <message>
         <source>Set the target to This Event. Now we&apos;ll set up the rock movement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciblez Cet Evènement. Nous allons définir le déplacement de la pierre.</translation>
     </message>
     <message>
         <source>Set the Movement Route as follows:
 Direction Fix OFF
 Move away from Player
 Direction Fix ON</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le déplacement suivant :
+Regard fixe OFF
+Fuir le héros d&apos;un pas
+Regard fixe ON</translation>
     </message>
     <message>
         <source>Check off &quot;Skip If Cannot Move&quot;. 
 Otherwise, if the rock can&apos;t be moved because of an obstacle, it&apos;ll freeze.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez &quot;Ignorer si impossible&quot;. Sinon, si la roche ne peut se déplacer à cause d&apos;un obstacle, le jeu sera bloqué en attendant.</translation>
     </message>
     <message>
         <source>Remove the check from &quot;Wait for Completion&quot;. 
 This so the next movement event will run concurrently. </source>
-        <translation type="unfinished"></translation>
+        <translation>Décochez &quot;Attendre la fin&quot; pour que la prochaine commande d&apos;évènement s&apos;exécute en même temps.</translation>
     </message>
     <message>
         <source>Click OK to set the movement route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next is setup of player movement. Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous devons maintenant définir le déplacement du joueur. Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Make sure the target is the Player.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous de cibler le joueur.</translation>
     </message>
     <message>
         <source>Enter the movement route as follows:
 Change Speed: 3
 1 Step Forward
 Change Speed: 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Le déplacement est le suivant :
+Changer la vitesse: 3
+Un pas en avant
+Changer la vitesse: 4</translation>
     </message>
     <message>
         <source>The player movement speed is usually 4. 
 During the time the rock is moving, it will be the speed of the rock (3).</source>
-        <translation type="unfinished"></translation>
+        <translation>La vitesse du joueur est habituellement 4. Pendant que la pierre bouge, on utilise la vitesse de la pierre (3).</translation>
     </message>
     <message>
         <source>Check off &quot;Skip If Cannot Move&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez &quot;Ignorer si impossible&quot;.</translation>
     </message>
     <message>
         <source>Leave the check on for &quot;Wait for Completion&quot;. 
 This is so that the event waits for both the rock and player movements to finish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laissez coché &quot;Attendre la fin&quot;. Ainsi, l&apos;évènement attent que la pierre et le joueur aient terminé leurs déplacements.</translation>
     </message>
     <message>
         <source>Click OK, and set the player movement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the rock event is complete. Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;évènement est terminé. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll copy the completed rock event to the left and right. 
 Click the completed rock.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons copier l&apos;évènement à gauche et à droite.</translation>
     </message>
     <message>
         <source>Right click the rock and select &quot;Copy&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur la pierre et choisissez &quot;Copier&quot;.</translation>
     </message>
     <message>
         <source>Right click on (15,18) to the left and select &quot;Paste&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur (15,18) à gauche et choisissez &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>In the same way, right click on (17,18) to the right and select &quot;Paste&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>De la même façon, cliquez-droit sur (17,18) à droite et choisissez &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>Now three rocks have been placed. 
 In order to playtest, let&apos;s make the player starting position near the entrance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trois roches sont donc placées. Afin de tester le jeu, réglons la position de départ du joueur près de l&apos;entrée.</translation>
     </message>
     <message>
         <source>Find the coordinates (15,26), 3 steps from the entrance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouvez les coordonnées (15,26), à 3 pas de l&apos;entrée.</translation>
     </message>
     <message>
         <source>Right click on (15,26)
 and select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur (15,26) et réglez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest. 
 Check that the rocks move, and that everything is all right even if they&apos;re pushed where they can&apos;t be moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancez un test. Vérifiez que les pierres bougent, et que tout fonctionne même lorsqu&apos;elles ne peuvent pas avancer.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest there will be a short explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois que vous aurez fini de tester, il y aura une petite explication.</translation>
     </message>
     <message>
         <source>Did the rocks move properly? If it didn&apos;t go well, let&apos;s do the step over again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Est-ce que les pierres se déplacent bien ? Si ce n&apos;est pas le cas, recommençons.</translation>
     </message>
     <message>
         <source>If it went well, let&apos;s try thinking about why they moved. 
 Well then, nicely done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cela s&apos;est bien passé, réfléchissons à pourquoi elles ont bougé. En tout cas, bien joué.</translation>
     </message>
     <message>
         <source>The placement coordinate will be (16,18). From the entrance, it is 11 spaces up and 1 space right. 
 After making the event, we&apos;ll copy and paste it to the coordinates to the left and right of this space. 
 First, find (16,18).</source>
-        <translation type="unfinished"></translation>
+        <translation>Les coordonnées seront (16,18). Depuis l&apos;entrée, c&apos;est à 11 cases vers le haut et 1 case vers la droite.
+Après avoir créé l&apos;évènement, nous allons le copier-coller à gauche et à droite de cet emplacement.
+Pour commencer, trouvez (16,18).</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep11</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 10?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 10 ?</translation>
     </message>
     <message>
         <source>Loading the step 10 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 10.</translation>
     </message>
     <message>
         <source>Please select the step 10 project. 
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 10.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette partie.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In step 11, we&apos;re going to make a setup
 that opens a door when a lever is operated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans l&apos;étape 11, nous allons créer une porte qui s&apos;ouvre avec un levier.</translation>
     </message>
     <message>
         <source>We&apos;ll place the door in the narrow path immediately to the right of the entrance (19,25),
 and the lever in a nearby corner (17,24).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons placer la porte dans l&apos;étroit chemin à droite de l&apos;entrée (19,25), et le levier dans un coin proche (17,24).</translation>
     </message>
     <message>
         <source>First, let&apos;s place the lever. Put your cursor over the corner to the upper right of the entrance (17,24)
 and double click there.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plaons d&apos;abord le levier. Double-cliquez sur le coin en haut à droite de l&apos;entrée (17,24).</translation>
     </message>
     <message>
         <source>Enter &quot;Door Lever&quot; as the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom Levier.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Scroll to the bottom of the list
 and click !Switch1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilez jusqu&apos;en bas puis cliquez sur !Switch1.</translation>
     </message>
     <message>
         <source>Click the image in the middle of the top row of the levers furthest to the left in the upper half.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciquez sur l&apos;image au milieu de la première ligne.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Direction Fix&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez Regard fixe.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set up the content. 
 The content will be the door opening operation. 
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant définir le contenu, qui sera l&apos;ouverture de la porte. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Control Switches...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Modifier une interrupteur&quot;.</translation>
     </message>
     <message>
         <source>Click the switch number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le numéro d&apos;interrupteur.</translation>
     </message>
     <message>
         <source>We&apos;ll be handling the second switch here. 
 Click on 0002 from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ici, nous allons gérer le deuxième interrupteur. Cliquez sur 0002.</translation>
     </message>
     <message>
         <source>Click the name, and enter it as
 Dungeon Door.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom Porte du donjon.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Make sure that the Switch is set to &quot;Single&quot;, &quot;0002 Dungeon Door&quot;,
 and that the Operation is set to on,
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que l&apos;on passe l&apos;interrupteur 0002 à ON, et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set the noise when the door opens. 
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons jouer un son d&apos;ouverture de la porte. Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;onglet de page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Play SE...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Jouer un effet sonore (SE)&quot;. SE signifie Sound Effect, ou effet sonore.</translation>
     </message>
     <message>
         <source>Scroll along the line to find Door1,
 and click it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilez pour trouver Door1, et cliquez dessus.</translation>
     </message>
     <message>
         <source>Click OK and set the SE (sound effect).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1. 
 Click &quot;New Event Page&quot; and create page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notre page 1 est terminée. Cliquez sur Nouvelle page pour créer la page 2.</translation>
     </message>
     <message>
         <source>We will set up page 2. 
 Click &quot;Switch&quot; in Condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglons la page 2. Cliquez sur Interrupteur dans les conditions d&apos;exécution.</translation>
     </message>
     <message>
         <source>We&apos;ll change the switch number. 
 Click the switch number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le numéro d&apos;interrupteur pour le changer.</translation>
     </message>
     <message>
         <source>Make sure that 0002 is selected and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez 0002 et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Scroll to the bottom of the list, and click !Switch1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilez tout en bas de la liste et cliquez sur !Switch1.</translation>
     </message>
     <message>
         <source>Click the middle switch in the 3rd row of the levers furthest to the left in the top half. 
 This is the lever pushed to the opposite direction of the one in page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l&apos;image du milieu, dans la 3e ligne. C&apos;est le levier poussé dans la direction opposée à celle de la page 1.</translation>
     </message>
     <message>
         <source>Just like with page 1, check off &quot;Direction Fix&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comme dans la page 1, cochez Regard fixe.</translation>
     </message>
     <message>
         <source>Next is content input. 
 The content will be the door closing operation. 
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vient ensuite la fermeture de la porte. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Make sure you&apos;re on the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que vous êtes sur l&apos;onglet de page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Gather Followers&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Regrouper la chenille&quot;.</translation>
     </message>
     <message>
         <source>&quot;Gather Followers&quot; is a command that will gather the party members to the leader. We&apos;ll execute this to prevent party members from getting trapped in the door that appears.</source>
-        <translation type="unfinished"></translation>
+        <translation>"Regrouper la chenille&quot; est une commande qui va rassembler les membres de l&apos;équipe sur le joueur. Nous l&apos;utilisons pour empêcher l&apos;équipe d&apos;être bloquée dans la porte qui apparait.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Find Door1 from the list and click.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouvez Door1 dans la liste et cliquez dessus.</translation>
     </message>
     <message>
         <source>Go to the Page 1 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Allez à l&apos;onglet de page 1.</translation>
     </message>
     <message>
         <source>Make sure that 0002 is selected
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que 0002 est sélectionné et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;OFF&quot; in Operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OFF dans Opération.</translation>
     </message>
     <message>
         <source>Make sure that the switch is set to &quot;Single&quot; &quot;0002&quot;, and that the Operation is &quot;OFF&quot;
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que l&apos;interrupteur 0002 est réglé sur OFF, et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the on and off switch is complete. 
 &quot;Play SE&quot; and &quot;Control Switch&quot; are in reverse order,
 but the order doesn&apos;t matter for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;interrupteur ON et OFF est désormais terminé. Le SE et l&apos;interrupteur sont en sens inverse, mais l&apos;ordre n&apos;a pas d&apos;importance ici.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will create the door. Find the path to the right of the entrance,
 (19,25).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons créer la porte. Trouvez le chemin à droite de l&apos;entrée (19,25).</translation>
     </message>
     <message>
         <source>Double click (19,25).</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur (19,25).</translation>
     </message>
     <message>
         <source>Enter &quot;Lever-Operated Door&quot; for the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom Porte à levier.</translation>
     </message>
     <message>
         <source>Click !Door1 from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur !Door1 dans la liste.</translation>
     </message>
     <message>
         <source>Select the middle door from the top row of the group furthest to the left in the top half.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la porte du milieu dans la ligne du haut.</translation>
     </message>
     <message>
         <source>Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur la première ligne dans Contenu.</translation>
     </message>
     <message>
         <source>Select &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur &quot;Afficher le texte&quot;.</translation>
     </message>
     <message>
         <source>Simply enter: 
 &quot;You cannot pass.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecrivez simplement :
+"Vous ne pouvez pas passer."</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1. 
 With &quot;New Event Page&quot;, create page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous avons terminé les réglages de la page 1. Créez une page 2.</translation>
     </message>
     <message>
         <source>This will be the opened door. 
 Check off &quot;Switch&quot; in Condition.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci sera la porte ouverte. Cochez &quot;Interrupteur&quot; dans Conditions.</translation>
     </message>
     <message>
         <source>Make sure that 0002 is selected from the list
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que 0002 est sélectionné et cliquez sur OK.</translation>
     </message>
     <message>
         <source>That&apos;s all we need to do for page 2&apos;s setup. 
 This is because this is a &quot;nothing&quot; state, where the door has disappeared. 
 Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation>C&apos;est tout ce que nous avons besoin de faire pour la page 2, car c&apos;est un état où il ne se passe rien, la porte a disparu.</translation>
     </message>
     <message>
         <source>Now preparation is complete. 
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>La préparation est terminée. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run a playtest. 
 Pull the lever and check that the door opens and closes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancez un test. Actionnez le levier et vérifiez que la porte s&apos;ouvre et se ferme.</translation>
     </message>
     <message>
         <source>Well done. 
 Please do challenge yourself to even more complex events.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bien joué. Maintenant, vous pouvez vous défier avec des évènements plus complexes !</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep12</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 11?</source>
@@ -16321,7 +16330,7 @@ Next time we&apos;ll handle the database again.</source>
     <name>TutorialStep13</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 12?</source>
@@ -16748,7 +16757,7 @@ but please familiarize yourself with them bit by bit.</source>
     <name>TutorialStep14</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 13?</source>
@@ -17069,7 +17078,7 @@ In the next step we will continue to deal with dungeon setup.</source>
     <name>TutorialStep15</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 14?</source>
@@ -17340,7 +17349,7 @@ try adding even more components.</source>
     <name>TutorialStep16</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 15?</source>
@@ -17963,7 +17972,7 @@ In the next step we&apos;ll place our boss.</source>
     <name>TutorialStep17</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 16?</source>
@@ -18592,7 +18601,7 @@ and ending, so we&apos;ll leave the player starting position as it is.</source>
     <name>TutorialStep18</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 17?</source>
@@ -19077,7 +19086,7 @@ The first characters are 12 spaces.</source>
     <name>TutorialStep19</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 18?</source>
@@ -19341,7 +19350,7 @@ Les projets sont généralement dans le dossier RPGMV de vos Documents.</transla
         <source>Character and conversation development is done using &quot;events&quot;. 
 This time we&apos;ll create a character event.</source>
         <translation>Les conversations entre les personnages sont faites avec les évènements.
-Ici nous allons créer l'évènement d'un personnage.</translation>
+Ici nous allons créer l&apos;évènement d&apos;un personnage.</translation>
     </message>
     <message>
         <source>Click &quot;Normal Town&quot;.</source>
@@ -19351,19 +19360,19 @@ Ici nous allons créer l'évènement d'un personnage.</translation>
         <source>First let&apos;s determine where the character will be placed. 
 The coordinates are shown on this taskbar</source>
         <translation>Choisissons où le personnage sera placé.
-Les coordonnées s'affichent ici quand vous cliquez sur une case.</translation>
+Les coordonnées s&apos;affichent ici quand vous cliquez sur une case.</translation>
     </message>
     <message>
         <source>We will place her on the crossroads near the town entrance. 
 Let&apos;s place her on (19,33). 
 Check the coordinates while clicking on the map and find (19,33).</source>
-        <translation>Nous allons la placer à l'intersection près de l'entrée.
+        <translation>Nous allons la placer à l&apos;intersection près de l&apos;entrée.
 Vérifiez les coordonnées tout en cliquant sur la carte, et trouvez la case (19,33).</translation>
     </message>
     <message>
         <source>Double click on that position. 
 The event editor will launch.</source>
-        <translation>Double-cliquez sur cette position, et l'éditeur d'évènement apparaitra.</translation>
+        <translation>Double-cliquez sur cette position, et l&apos;éditeur d&apos;évènement apparaitra.</translation>
     </message>
     <message>
         <source>First let&apos;s choose her appearance. 
@@ -19383,14 +19392,14 @@ Cliquez sur Actor1.</translation>
     </message>
     <message>
         <source>Once you&apos;ve selected her, press OK to confirm.</source>
-        <translation>Lorsque c'est fait, cliquez sur OK.</translation>
+        <translation>Lorsque c&apos;est fait, cliquez sur OK.</translation>
     </message>
     <message>
         <source>Notice that the &quot;Priority&quot; has changed from &quot;Below characters&quot; to &quot;Same as characters&quot;. 
 If the priority is set to below, then it will display under the player. 
 If it&apos;s the same, they won&apos;t overlap.</source>
-        <translation>Remarqué que la &quot;Priorité d'affichage&quot; a changé de &quot;Sous le héros&quot; à &quot;Même niveau que le héros&quot;.
-De cette façon, l'évènement et le héros ne vont pas passer l'un sur l'autre.</translation>
+        <translation>Remarquez que la &quot;Priorité d&apos;affichage&quot; a changé de &quot;Sous le héros&quot; à &quot;Même niveau que le héros&quot;.
+De cette façon, l&apos;évènement et le héros ne vont pas passer l&apos;un sur l&apos;autre.</translation>
     </message>
     <message>
         <source>Next let&apos;s name the event &quot;Villager1&quot;.</source>
@@ -19399,7 +19408,7 @@ De cette façon, l'évènement et le héros ne vont pas passer l'un sur l'autre.
     <message>
         <source>Event names are not required, but they are useful when making references from other events. 
 In this tutorial, we will give real examples using names later.</source>
-        <translation>Les noms d'évènement ne sont pas requis, mais ils sont utiles pour vous repérer lorsque vous créez des références depuis un autre évènement.
+        <translation>Les noms d&apos;évènement ne sont pas requis, mais ils sont utiles pour vous repérer lorsque vous créez des références depuis un autre évènement.
 Dabs ce tutoriel, nous verrons des exemples avec des vrais noms plus tard.</translation>
     </message>
     <message>
@@ -19409,8 +19418,8 @@ Dabs ce tutoriel, nous verrons des exemples avec des vrais noms plus tard.</tran
     <message>
         <source>This is the condition required to activate the event. 
 If set to &quot;Action Button&quot;, it will activate when the button is pressed. If it&apos;s &quot;Player Touch&quot;, it will activate when touched.</source>
-        <translation>Ceci est la condition requise pour activer l'évènement.
-Avec &quot;Touche action&quot;, l'évènement s'activera lorsque la touche est pressée devant lui. Avec &quot;Contact avec le héros&quot;, l'évènement s'active dès qu'on le touche.</translation>
+        <translation>Ceci est la condition requise pour activer l&apos;évènement.
+Avec &quot;Touche action&quot;, l&apos;évènement s&apos;activera lorsque la touche est pressée devant lui. Avec &quot;Contact avec le héros&quot;, l&apos;évènement s&apos;active dès qu&apos;on le touche.</translation>
     </message>
     <message>
         <source>Now let&apos;s set the contents. Double click the first line in &quot;Contents&quot;.</source>
@@ -19418,7 +19427,7 @@ Avec &quot;Touche action&quot;, l'évènement s'activera lorsque la touche est p
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation>Nous souhaitons afficher un texte.</translation>
+        <translation>Cliquez sur &quot;Afficher le texte&quot;.</translation>
     </message>
     <message>
         <source>Type &quot;Villager:&quot; on the first line,
@@ -19428,11 +19437,11 @@ et &quot;Bonjour&quot; sur la deuxième.</translation>
     </message>
     <message>
         <source>You can check how the text you&apos;ve input will be shown with &quot;Preview...&quot;.</source>
-        <translation></translation>
+        <translation>Vous pouvez vérifier comment le texte sera affiché en jeu en cliquant sur &quot;Aperçu&quot;.</translation>
     </message>
     <message>
         <source>Hit &quot;Close&quot; after previewing.</source>
-        <translation></translation>
+        <translation>Fermez après vérification.</translation>
     </message>
     <message>
         <source>Now, there are things called &quot;control characters &quot; that allow you to do various things such as change text color and size.
@@ -19443,11 +19452,16 @@ Make sure the control characters are written in single byte characters.
 
 Let&apos;s change &quot;Hello&quot; to
 Hello, \N[1]　.</source>
-        <translation></translation>
+        <translation>Pour pouvez changer la taille du texte, sa couleur et d&apos;autres paramètres avec des commandes.
+
+Essayons d&apos;afficher &quot;Villageoise&quot; dans une couleur différente.
+Ecrivez pour cela &quot;\C[2]Villageoise :\C[0]&quot;.
+
+Ensuite, écrivez &quot;Bonjour, \N[1]."</translation>
     </message>
     <message>
         <source>Please preview your text.</source>
-        <translation></translation>
+        <translation>Vérifiez le résultat.</translation>
     </message>
     <message>
         <source>The text between \C[2] and \C[0] is now red. Also, \N[1] has been replaced by the name of the main character. 
@@ -19455,12 +19469,15 @@ This is an example of the effects of control characters.
 
 Close the preview after checking it. 
 There are other control characters as well.</source>
-        <translation></translation>
+        <translation>Le texte entre \C[2] et \C[0] est rouge, et \N[1] a été remplacé par le nom du personnage principal.
+Fermez l&apos;aperçu après vérification.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with text display. 
 Click OK to set the text.</source>
-        <translation></translation>
+        <translation>Ceci était un exemple des commandes de texte.
+Il en existe d&apos;autres que vous pouvez afficher en laissant votre souris sur le champ de texte.
+Cliquez sur OK pour valider le texte.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll show choices. 
@@ -19555,7 +19572,7 @@ Save the project.</source>
     <name>TutorialStep3</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 2?</source>
@@ -19818,7 +19835,7 @@ Double click the event under the statue.</source>
     <name>TutorialStep4</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 3?</source>
@@ -20109,7 +20126,7 @@ Also, check to see that if you block one of their paths that they will no longer
     <name>TutorialStep5</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 4?</source>
@@ -20479,7 +20496,7 @@ Please save your work up until now.</source>
     <name>TutorialStep6</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 5?</source>
@@ -20636,7 +20653,7 @@ But the one you will have the most opportunities to use is the switch.</source>
     <name>TutorialStep7</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 6?</source>
@@ -20960,7 +20977,7 @@ We&apos;ll reuse the gold spot later, so don&apos;t forget about it.</source>
     <name>TutorialStep8</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 7?</source>
@@ -21294,7 +21311,7 @@ Since your starting gold will be zero, test it out after you get the gold from t
     <name>TutorialStep9</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 8?</source>
