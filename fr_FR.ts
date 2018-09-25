@@ -2047,7 +2047,7 @@
     </message>
     <message>
         <source>Path</source>
-        <translation>Chemin</translation>
+        <translation>Emplacement</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2075,7 +2075,7 @@
     </message>
     <message>
         <source>Select Path</source>
-        <translation>Chemin</translation>
+        <translation>Emplacement</translation>
     </message>
     <message>
         <source>Select a folder.</source>
@@ -8471,7 +8471,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>Change State</source>
-        <translation>Modifier les &apos;états</translation>
+        <translation>Modifier les états</translation>
     </message>
     <message>
         <source>Recover All</source>
@@ -9676,7 +9676,7 @@ Please complete the post with follow this link.</source>
     <message>
         <source>Self Switch</source>
         <translatorcomment>省略のピリオドを追加しております。</translatorcomment>
-        <translation>Interrupteur local</translation>
+        <translation>Int. local</translation>
     </message>
     <message>
         <source>Appears when the specified self switch is ON.</source>
@@ -9996,7 +9996,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Game Data</source>
-        <translation>Données du jeu</translation>
+        <translation>Données jeu</translation>
     </message>
     <message>
         <source>Uses a value from various data in the game.</source>
@@ -11190,7 +11190,7 @@ Please complete the post with follow this link.</source>
     </message>
     <message>
         <source>Approach</source>
-        <translation>Suit le hérosr</translation>
+        <translation>Suit le héros</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14473,7 +14473,7 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Edit And Play</source>
-        <translation>Modifier et jouer</translation>
+        <translation>Jeux</translation>
     </message>
     <message>
         <source>Error</source>
