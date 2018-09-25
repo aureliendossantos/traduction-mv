@@ -15953,380 +15953,380 @@ Projects are in the Games folder in My Documents.</source>
         <source>From this step onward we&apos;ll be handling a &quot;database&quot;.
 Within the database there are a very large number of items for the configuration of various things in the game,
  so we will explain them in order. </source>
-        <translation type="unfinished">A partir de cet étape, nous allons aborder la base de données. Elle contient un grand nombre d'éléments pour configurer diverses choses dans le jeu, donc nous allons tout expliquer dans l'ordre.</translation>
+        <translation>A partir de cet étape, nous allons aborder la base de données. Elle contient un grand nombre d'éléments pour configurer diverses choses dans le jeu, donc nous allons tout expliquer dans l'ordre.</translation>
     </message>
     <message>
         <source>In this step we will focus on getting acquainted with the main character and enemies,
 as well as battle.
 First, we&apos;ll open the database.</source>
-        <translation type="unfinished">Dans cette étape, nous allons nous familiariser avec le personnage principal et les ennemis, ainsi que les combats.
+        <translation>Dans cette étape, nous allons nous familiariser avec le personnage principal et les ennemis, ainsi que les combats.
 D'abord, ouvrons la base de données.</translation>
     </message>
     <message>
         <source>The first tab is &quot;Actors&quot;.
 Actors refers to the main character and his allies,
 and is a very important term in RPG Maker MV.</source>
-        <translation type="unfinished">Le premier onglet concerne le personnage principal et ses alliés.</translation>
+        <translation>Le premier onglet concerne le personnage principal et ses alliés.</translation>
     </message>
     <message>
         <source>In this tutorial, we&apos;ll use
 the word &quot;actor&quot; to describe these.</source>
-        <translation type="unfinished">Dans le tutoriel, nous utiliserons le mot "acteur" pour désigner ces personnages.</translation>
+        <translation>Dans le tutoriel, nous utiliserons le mot "acteur" pour désigner ces personnages.</translation>
     </message>
     <message>
         <source>We&apos;ll also call the collection of actors the &quot;party&quot;.
 Now for the explanation of actors.</source>
-        <translation type="unfinished">Nous appellerons une collection d'acteurs une "équipe".</translation>
+        <translation>Nous appellerons une collection d'acteurs une "équipe".</translation>
     </message>
     <message>
         <source>Note that in the actor configuration there is a &quot;class&quot; setting.
 Within a class, various abilities are configured.
 For example, Harold is a &quot;Hero&quot;.</source>
-        <translation type="unfinished">Notez que dans la configuration des acteurs se trouve la "classe". Dans une classe, différentes propriétés sont configurées. Par exemple, Harold est un Héros.</translation>
+        <translation>Notez que dans la configuration des acteurs se trouve la "classe". Dans une classe, différentes propriétés sont configurées. Par exemple, Harold est un Héros.</translation>
     </message>
     <message>
         <source>Click the &quot;Classes&quot; tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Classes.</translation>
+        <translation>Cliquez sur l'onglet Classes.</translation>
     </message>
     <message>
         <source>Here, you can set class abilities in detail.
 Currently &quot;Hero&quot; is selected from the list,
 so Harold&apos;s ability values are being shown.</source>
-        <translation type="unfinished">Ici, vous pouvez choisir les propriétés des classes en détail. Actuellement, Héros est sélectionné, donc les capacités de Harold sont affichées.</translation>
+        <translation>Ici, vous pouvez choisir les propriétés des classes en détail. Actuellement, Héros est sélectionné, donc les capacités de Harold sont affichées.</translation>
     </message>
     <message>
         <source>In &quot;Parameter Curves&quot;, you can set how a value
 will grow with each level up.</source>
-        <translation type="unfinished">Dans les courbes de caractéristique, vous pouvez choisir comment une valeur augmentera à chaque niveau.</translation>
+        <translation>Dans les courbes de caractéristique, vous pouvez choisir comment une valeur augmentera à chaque niveau.</translation>
     </message>
     <message>
         <source>What&apos;s important here is &quot;Traits&quot;.
 This is a setting peculiar to RPG Maker MV so there will be a detailed explanation.</source>
-        <translation type="unfinished">Les Attributs sont importants. Leurs effets sont particuliers et seront donc expliqués en détail.</translation>
+        <translation>Les Attributs sont importants. Leurs effets sont particuliers et seront donc expliqués en détail.</translation>
     </message>
     <message>
         <source>In &quot;Traits&quot;, you can configure various components such as
 basic hit and evasion rate values in addition to types of equipment that can be used,
 usable skill types, and more.</source>
-        <translation type="unfinished">Dans les Attributs, vous pouvez régler le taux de toucher et d'esquive, ainsi que les équipements pouvant être portés, les compétences utilisables, etc.</translation>
+        <translation>Dans les Attributs, vous pouvez régler le taux de toucher et d'esquive, ainsi que les équipements pouvant être portés, les compétences utilisables, etc.</translation>
     </message>
     <message>
         <source>In short, you can list various factors in &quot;Traits&quot; and by setting them, those traits will be the actor&apos;s traits.</source>
-        <translation type="unfinished">En bref, vous pouvez lister plusieurs attributs, et ils deviendront les attributs de votre acteur.</translation>
+        <translation>En bref, vous pouvez lister plusieurs attributs, et ils deviendront les attributs de votre acteur.</translation>
     </message>
     <message>
         <source>Hit rate is determined by traits,
 and if you accidentally delete it, the hit rate will be 0%
 and no attacks will land, so be careful.</source>
-        <translation type="unfinished">Le taux de toucher est déterminé par les attributs, et si vous le supprimez, le taux sera de 0%. Aucune attaque ne toucherait, donc prêtez-y attention.</translation>
+        <translation>Le taux de toucher est déterminé par les attributs, et si vous le supprimez, le taux sera de 0%. Aucune attaque ne toucherait, donc prêtez-y attention.</translation>
     </message>
     <message>
         <source>Traits can also be added to weapons and armor, as well as states. Click on the &quot;Weapons&quot; tab to give it a try.</source>
-        <translation type="unfinished">Les attributs peuvent aussi être ajoutés aux armes et armures, tout comme les états. Cliquez sur l'onglet Armes pour essayer.</translation>
+        <translation>Les attributs peuvent aussi être ajoutés aux armes et armures, tout comme les états. Cliquez sur l'onglet Armes pour essayer.</translation>
     </message>
     <message>
         <source>There is a trait list for equipment as well.
 They will be appended to an actor only when they have the equipment on. </source>
-        <translation type="unfinished">Il y a aussi une liste d'attributs pour l'équipement. Ils seront appliqués à l'acteur seulement lorsqu'il portera l'équipement.</translation>
+        <translation>Il y a aussi une liste d'attributs pour l'équipement. Ils seront appliqués à l'acteur seulement lorsqu'il portera l'équipement.</translation>
     </message>
     <message>
         <source>For example, while the trait here is &quot;Hit Rate +0%&quot;,
 the hit rate for the actor&apos;s class is 95%,
 so in total, hit rate will be 95%. </source>
-        <translation type="unfinished">Par exemple, quand le taux de toucher ici est +0%, et que le taux de la classe est 95%, le taux total sera 95%.</translation>
+        <translation>Par exemple, quand le taux de toucher ici est +0%, et que le taux de la classe est 95%, le taux total sera 95%.</translation>
     </message>
     <message>
         <source>Please click the &quot;States&quot; tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Etats.</translation>
+        <translation>Cliquez sur l'onglet Etats.</translation>
     </message>
     <message>
         <source>&quot;States&quot; are temporary status changes such as &quot;Poison&quot; or &quot;Paralyze&quot;.</source>
-        <translation type="unfinished">Les états sont des changements temporaires tels que l'empoisonnement ou la paralysie.</translation>
+        <translation>Les états sont des changements temporaires tels que l'empoisonnement ou la paralysie.</translation>
     </message>
     <message>
         <source>These traits appear only while an actor is in that state.</source>
-        <translation type="unfinished">Ces attributs sont valides pendant que l'acteur subit l'état.</translation>
+        <translation>Ces attributs sont valides pendant que l'acteur subit l'état.</translation>
     </message>
     <message>
         <source>Now let&apos;s go back to &quot;Classes&quot; for a moment.</source>
-        <translation type="unfinished">Maintenant, retournons dans l'onglet des Classes pour un moment.</translation>
+        <translation>Maintenant, retournons dans l'onglet des Classes pour un moment.</translation>
     </message>
     <message>
         <source>Next, take a look at &quot;Skills to Learn&quot;.
 &quot;Skills&quot; are a general name for &quot;Magic&quot; or &quot;Special Moves&quot;.</source>
-        <translation type="unfinished">Examinez les compétences à apprendre.
+        <translation>Examinez les compétences à apprendre.
 "Compétence" est un terme général pour désigner les magies et les attaques spéciales.</translation>
     </message>
     <message>
         <source>Learned skills can be created/configured in the &quot;Skills&quot; tab. Click the &quot;Skills&quot; tab.</source>
-        <translation type="unfinished">Les compétences peuvent être créées dans l'onglet Compétences. Cliquez sur cet onglet.</translation>
+        <translation>Les compétences peuvent être créées dans l'onglet Compétences. Cliquez sur cet onglet.</translation>
     </message>
     <message>
         <source>&quot;Attack&quot; and &quot;Guard&quot; are configured as skills,
 but there&apos;s no need to worry about those right now.</source>
-        <translation type="unfinished">"Attaque" et "Défense" sont configurés comme des compétences, mais il n'y a pas besoin de s'en soucier pour le moment.</translation>
+        <translation>"Attaque" et "Défense" sont configurés comme des compétences, mais il n'y a pas besoin de s'en soucier pour le moment.</translation>
     </message>
     <message>
         <source>Magic is configured in numbers 8 through 10.</source>
-        <translation type="unfinished">Des magies sont présentes du numéro 8 à 10.</translation>
+        <translation>Des magies sont présentes du numéro 8 à 10.</translation>
     </message>
     <message>
         <source>Currently, the skill descriptions are blank, so why don&apos;t we add a description.</source>
-        <translation type="unfinished">Pour le moment, les descriptions sont vides, donc ajoutons-en une.</translation>
+        <translation>Pour le moment, les descriptions sont vides, donc ajoutons-en une.</translation>
     </message>
     <message>
         <source>Click #8, &quot;Heal&quot;.
 The settings for Heal are displayed.</source>
-        <translation type="unfinished">Cliquez sur le numéro 8, "Soin". Ses paramètres s'affichent.</translation>
+        <translation>Cliquez sur le numéro 8, "Soin". Ses paramètres s'affichent.</translation>
     </message>
     <message>
         <source>Enter Restores 200+ HP
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Rétablit 200+ PV" dans la description.</translation>
+        <translation>Ecrivez "Rétablit 200+ PV" dans la description.</translation>
     </message>
     <message>
         <source>Click #9, &quot;Fire&quot;.</source>
-        <translation type="unfinished">Cliquez sur le numéro 9, "Feu".</translation>
+        <translation>Cliquez sur le numéro 9, "Feu".</translation>
     </message>
     <message>
         <source>Enter Deals around 100 fire damage to a single enemy
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Inflige environ 100 dégâts de feu à un ennemi."</translation>
+        <translation>Ecrivez "Inflige environ 100 dégâts de feu à un ennemi."</translation>
     </message>
     <message>
         <source>Click #10, &quot;Spark&quot;.</source>
-        <translation type="unfinished">Cliquez sur le numéro 10, "Etincelle".</translation>
+        <translation>Cliquez sur le numéro 10, "Etincelle".</translation>
     </message>
     <message>
         <source>Enter Deals around 100 electric damage to all enemies
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Inflige environ 100 dégâts électriques à tous les ennemis."</translation>
+        <translation>Ecrivez "Inflige environ 100 dégâts électriques à tous les ennemis."</translation>
     </message>
     <message>
         <source>These skill descriptions will now appear in game.
 Next, click the Item tab.</source>
-        <translation type="unfinished">Ces descriptions apparaitront désormais dans le jeu. Ensuite, cliquez sur l'onglet Objets.</translation>
+        <translation>Ces descriptions apparaitront désormais dans le jeu. Ensuite, cliquez sur l'onglet Objets.</translation>
     </message>
     <message>
         <source>We&apos;re going to fill in the blank descriptions like we did with skills.
 Make sure #1, &quot;Potion&quot;, is selected.</source>
-        <translation type="unfinished">Nous allons remplir les descriptions vides, comme pour les compétences. Assurez-vous que le numéro 1, "Potion", est sélectionné.</translation>
+        <translation>Nous allons remplir les descriptions vides, comme pour les compétences. Assurez-vous que le numéro 1, "Potion", est sélectionné.</translation>
     </message>
     <message>
         <source>Enter Restores 500 HP
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Rétablit 500 PV."</translation>
+        <translation>Ecrivez "Rétablit 500 PV."</translation>
     </message>
     <message>
         <source>Click #2, &quot;Magic Water&quot;.</source>
-        <translation type="unfinished">Cliquez sur le numéro 2, "Eau magique".</translation>
+        <translation>Cliquez sur le numéro 2, "Eau magique".</translation>
     </message>
     <message>
         <source>Enter Restores 200 MP
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Rétablit 200 PM."</translation>
+        <translation>Ecrivez "Rétablit 200 PM."</translation>
     </message>
     <message>
         <source>Click #3, &quot;Dispel Herb&quot;.</source>
-        <translation type="unfinished">Cliquez sur le numéro 4, "Herbe de dissipation".</translation>
+        <translation>Cliquez sur le numéro 4, "Herbe de dissipation".</translation>
     </message>
     <message>
         <source>Enter Cures status ailments except Knockout
 in the description.</source>
-        <translation type="unfinished">Ecrivez "Soigne des altérations d'état hormis KO."</translation>
+        <translation>Ecrivez "Soigne des altérations d'état hormis KO."</translation>
     </message>
     <message>
         <source>Click #4, &quot;Stimulant&quot;.</source>
-        <translation type="unfinished">Cliquez sur le numéro 4, "Stimulant".</translation>
+        <translation>Cliquez sur le numéro 4, "Stimulant".</translation>
     </message>
     <message>
         <source>Enter Revives a knocked out ally at half of their max HP
  in the description.</source>
-        <translation type="unfinished">Ecrivez "Relève un allié KO avec la moitié de ses PV."</translation>
+        <translation>Ecrivez "Relève un allié KO avec la moitié de ses PV."</translation>
     </message>
     <message>
         <source>Item descriptions will now appear.
 Next up, an explanation of enemies the party will fight.
 Click the &quot;Enemies&quot; tab.</source>
-        <translation type="unfinished">Les descriptions d'objet apparaitront désormais.
+        <translation>Les descriptions d'objet apparaitront désormais.
 Continuons avec une explication des ennemis à combattre. Cliquez sur l'onglet Ennemis.</translation>
     </message>
     <message>
         <source>There are currently 4 enemies registered in the list.</source>
-        <translation type="unfinished">Il y a actuellement 4 ennemis enregistrés dans la liste.</translation>
+        <translation>Il y a actuellement 4 ennemis enregistrés dans la liste.</translation>
     </message>
     <message>
         <source>We can see that
 you can set ability values and traits, like with Actors.</source>
-        <translation type="unfinished">Vous pouvez définir des valeurs et des attributs, comme pour les acteurs.</translation>
+        <translation>Vous pouvez définir des valeurs et des attributs, comme pour les acteurs.</translation>
     </message>
     <message>
         <source>When you change the &quot;Action Pattern&quot;,
 you can make them use skills, and set the skills
 they can use depending on a condition.</source>
-        <translation type="unfinished">Dans la liste des actions, vous pouvez les faire utiliser des compétences en fonction d'une condition.</translation>
+        <translation>Dans la liste des actions, vous pouvez les faire utiliser des compétences en fonction d'une condition.</translation>
     </message>
     <message>
         <source>Now, just making an enemy isn&apos;t enough for them to show up in battle. You&apos;ll need to make &quot;Troops&quot;, and add them there. Click the &quot;Troops&quot; tab.</source>
-        <translation type="unfinished">Créer un ennemi ici n'est pas suffisant pour les faire apparaitre en combat. Vous devez créer une troupe et l'y ajouter. Cliquez sur l'onglet Troupes.</translation>
+        <translation>Créer un ennemi ici n'est pas suffisant pour les faire apparaitre en combat. Vous devez créer une troupe et l'y ajouter. Cliquez sur l'onglet Troupes.</translation>
     </message>
     <message>
         <source>There are 4 enemy troops registered in the list.
 Enemies are added alone, or in groups.</source>
-        <translation type="unfinished">Il y a 4 troupes ennemies déjà enregistrées. Les ennemis peuvent être seuls ou en groupe.</translation>
+        <translation>Il y a 4 troupes ennemies déjà enregistrées. Les ennemis peuvent être seuls ou en groupe.</translation>
     </message>
     <message>
         <source>These &quot;troops&quot; are the groups of enemies the party will actually battle.</source>
-        <translation type="unfinished">Ces troupes sont les groupes d'ennemis que l'équipe va combattre.</translation>
+        <translation>Ces troupes sont les groupes d'ennemis que l'équipe va combattre.</translation>
     </message>
     <message>
         <source>You can add and remove enemies from troops here. In the second half of this step, we&apos;ll actually create a troop.</source>
-        <translation type="unfinished">Ici, vous pouvez ajouter ou retirer des ennemis d'une troupe.</translation>
+        <translation>Ici, vous pouvez ajouter ou retirer des ennemis d'une troupe.</translation>
     </message>
     <message>
         <source>Also, it is possible to test battles here without actually launching the game.
 Click &quot;Battle Test...&quot;.</source>
-        <translation type="unfinished">De plus, il est possible de tester le combat ici sans lancer le jeu entier. Cliquez sur "Test de combat".</translation>
+        <translation>De plus, il est possible de tester le combat ici sans lancer le jeu entier. Cliquez sur "Test de combat".</translation>
     </message>
     <message>
         <source>A window where you can configure each actor has appeared.
 Here, you can set your hypothetical level and equipment, and run a test where you battle the troop.
 This time, there&apos;s no need to change anything.</source>
-        <translation type="unfinished">Cette fenêtre permet de configurer l'équipe qui combattra. Vous pouvez changer les niveaux et l'équipement, ou laisser tel quel.</translation>
+        <translation>Cette fenêtre permet de configurer l'équipe qui combattra. Vous pouvez changer les niveaux et l'équipement, ou laisser tel quel.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.
 Make use of magic and items and battle.
 Additionally, you will be given the max amount of items
 so you can check item effects.</source>
-        <translation type="unfinished">Cliquez sur OK et testez le combat. Utilisez la magie et les objets. Pendant le test, vous aurez tous les objets du jeu pour les essayer.</translation>
+        <translation>Cliquez sur OK et testez le combat. Utilisez la magie et les objets. Pendant le test, vous aurez tous les objets du jeu pour les essayer.</translation>
     </message>
     <message>
         <source>You likely noticed a few things in battle.
 For example, there is an unfamiliar value called &quot;TP&quot;, but that will be explained in the next step.</source>
-        <translation type="unfinished">Vous avez peut-être remarqué la présence de la valeur PT, que nous verrons à l'étape suivante.</translation>
+        <translation>Vous avez peut-être remarqué la présence de la valeur PT, que nous verrons à l'étape suivante.</translation>
     </message>
     <message>
         <source>Also, if you choose &quot;Escape&quot;, even if you fail, the success rate
 will increase slightly with each turn.</source>
-        <translation type="unfinished">Si vous choisissez de fuir, même si vous échouez, la chance de réussir augmentera légèrement à chaque fois.</translation>
+        <translation>Si vous choisissez de fuir, même si vous échouez, la chance de réussir augmentera légèrement à chaque fois.</translation>
     </message>
     <message>
         <source>How was it? Want to try again?</source>
-        <translation type="unfinished">Comment c'était ? Vous voulez réessayer ?</translation>
+        <translation>Comment c'était ? Vous voulez réessayer ?</translation>
     </message>
     <message>
         <source>Click &quot;Battle Test&quot;.</source>
-        <translation type="unfinished">Cliquez sur Test de combat.</translation>
+        <translation>Cliquez sur Test de combat.</translation>
     </message>
     <message>
         <source>No need to change the actors this time either.</source>
-        <translation type="unfinished">Pas besoin de changer les acteurs cette fois non plus.</translation>
+        <translation>Pas besoin de changer les acteurs cette fois non plus.</translation>
     </message>
     <message>
         <source>Like this, in &quot;Battle Test&quot; you can playtest battles in an almost identical environment as an actual battle.</source>
-        <translation type="unfinished">De cette façon, vous pouvez essayer les combats dans un environnement presque identique à celui du jeu.</translation>
+        <translation>De cette façon, vous pouvez essayer les combats dans un environnement presque identique à celui du jeu.</translation>
     </message>
     <message>
         <source>Alright. Until now the battles have been front-view,
 but you can also make them side-view.
 Click the &quot;System&quot; tab. </source>
-        <translation type="unfinished">Très bien. Jusqu'à maintenant les combats étaient en vue de face, mais vous pouvez passer en vue de côté. Cliquez sur l'onglet Système.</translation>
+        <translation>Très bien. Jusqu'à maintenant les combats étaient en vue de face, mais vous pouvez passer en vue de côté. Cliquez sur l'onglet Système.</translation>
     </message>
     <message>
         <source>Check &quot;Use Side-view Battle&quot;.</source>
-        <translation type="unfinished">Cochez "Utiliser la vue de côté".</translation>
+        <translation>Cochez "Utiliser la vue de côté".</translation>
     </message>
     <message>
         <source>Let&apos;s try a battle test under these conditions.
 Click the Troops tab.</source>
-        <translation type="unfinished">Testons un combat avec cette nouvelle vue. Cliquez sur l'onglet Troupes.</translation>
+        <translation>Testons un combat avec cette nouvelle vue. Cliquez sur l'onglet Troupes.</translation>
     </message>
     <message>
         <source>Click Battle Test.</source>
-        <translation type="unfinished">Cliquez sur Test de combat.</translation>
+        <translation>Cliquez sur Test de combat.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>You probably noticed the change in appearance.
 From now on in this tutorial, it will be assumed that side-view battle is being used.</source>
-        <translation type="unfinished">Vous avez sûrement remarqué le changement d'apparence. A partir de maintenant dans ce tutoriel, nous partirons du principe que la vue de côté est utilisée.</translation>
+        <translation>Vous avez sûrement remarqué le changement d'apparence. A partir de maintenant dans ce tutoriel, nous partirons du principe que la vue de côté est utilisée.</translation>
     </message>
     <message>
         <source>Now then, let&apos;s try making a new troop.
 Click &quot;Change Maximum...&quot;.</source>
-        <translation type="unfinished">Maintenant, créons une nouvelle troupe. Cliquez sur Définir le maximum...</translation>
+        <translation>Maintenant, créons une nouvelle troupe. Cliquez sur Définir le maximum...</translation>
     </message>
     <message>
         <source>Change the maximum from 4 to 5.</source>
-        <translation type="unfinished">Changez le maximum de 4 à 5.</translation>
+        <translation>Changez le maximum de 4 à 5.</translation>
     </message>
     <message>
         <source>Click OK to set the maximum value.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click the newly created troop #5.</source>
-        <translation type="unfinished">Cliquez sur la troupe numéro 5.</translation>
+        <translation>Cliquez sur la troupe numéro 5.</translation>
     </message>
     <message>
         <source>We&apos;re going to make a troop of Slime*2, and Bat*2.
 First, click Slime.</source>
-        <translation type="unfinished">Nous allons créer une troupe avec 2 Slimes et 2 Chauve-souris. D'abord, cliquez sur Slime.</translation>
+        <translation>Nous allons créer une troupe avec 2 Slimes et 2 Chauve-souris. D'abord, cliquez sur Slime.</translation>
     </message>
     <message>
         <source>Click &quot;&lt; Add&quot; twice. Two slimes will be added.</source>
-        <translation type="unfinished">Cliquez deux fois sur Ajouter.</translation>
+        <translation>Cliquez deux fois sur Ajouter.</translation>
     </message>
     <message>
         <source>Click Bat.</source>
-        <translation type="unfinished">Cliquez sur Chauve-souris.</translation>
+        <translation>Cliquez sur Chauve-souris.</translation>
     </message>
     <message>
         <source>Click &quot;&lt; Add&quot; twice. Two bats will be added.</source>
-        <translation type="unfinished">Cliquez deux fois sur Ajouter.</translation>
+        <translation>Cliquez deux fois sur Ajouter.</translation>
     </message>
     <message>
         <source>Since the actors are displayed on the right in side-view,
 it would be ideal if we could move the enemies slightly to the left.</source>
-        <translation type="unfinished">Comme les acteurs seront affichés sur la droite, il serait idéal de déplacer les ennemis un peu à gauche.</translation>
+        <translation>Comme les acteurs seront affichés sur la droite, il serait idéal de déplacer les ennemis un peu à gauche.</translation>
     </message>
     <message>
         <source>If you drag the enemies to the left, you can change their position
 so let&apos;s slide them all over.</source>
-        <translation type="unfinished">Faites glisser les ennemis pour changer leur position.</translation>
+        <translation>Faites glisser les ennemis pour changer leur position.</translation>
     </message>
     <message>
         <source>Next we&apos;ll name the troop. Click &quot;Auto-name&quot;.
 An appropriate name will be generated.</source>
-        <translation type="unfinished">Cliquez sur Nom automatique, pour nommer la troupe rapidement.</translation>
+        <translation>Cliquez sur Nom automatique, pour nommer la troupe rapidement.</translation>
     </message>
     <message>
         <source>Now let&apos;s run a battle test.</source>
-        <translation type="unfinished">Maintenant, testons le combat.</translation>
+        <translation>Maintenant, testons le combat.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.
 There&apos;s a large number of enemies, so use Harold&apos;s &quot;Spark&quot; wisely.</source>
-        <translation type="unfinished">Cliquez sur OK. Utilisez le sort Etincelle pour venir à bout de la troupe facilement.</translation>
+        <translation>Cliquez sur OK. Utilisez le sort Etincelle pour venir à bout de la troupe facilement.</translation>
     </message>
     <message>
         <source>When you&apos;re done with the battle test, this step is complete.
 Click OK and set the database.</source>
-        <translation type="unfinished">Lorsque vous avez terminé le combat, cette étape est terminée. Cliquez sur OK pour conserver les changements.</translation>
+        <translation>Lorsque vous avez terminé le combat, cette étape est terminée. Cliquez sur OK pour conserver les changements.</translation>
     </message>
     <message>
         <source>Click &quot;Save&quot;.</source>
-        <translation type="unfinished">Cliquez sur Sauvegarder.</translation>
+        <translation>Cliquez sur Sauvegarder.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with this step.
 Well done.
 Next time we&apos;ll handle the database again.</source>
-        <translation type="unfinished">Cette étape est terminée. Bien joué ! La prochaine fois, nous allons parler de la base de données encore une fois.</translation>
+        <translation>Cette étape est terminée. Bien joué ! La prochaine fois, nous allons parler de la base de données encore une fois.</translation>
     </message>
 </context>
 <context>
@@ -16378,287 +16378,293 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>In this step, items and skills will be explained and created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans cette étape, nous allons créer des objets et des compétences.</translation>
     </message>
     <message>
         <source>Click and open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the Item tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l'onglet Objets.</translation>
     </message>
     <message>
         <source>Click &quot;Change Maximum...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Définir maximum...</translation>
     </message>
     <message>
         <source>Change the maximum from 4 to 6.
 We&apos;ll make 2 new items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le maximum de 4 à 6.</translation>
     </message>
     <message>
         <source>Click OK to set the maximum value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>First let&apos;s create an &quot;Elixir&quot;.
 Its effect will be restoration of HP and MP to the maximum value. We&apos;re going to make it by tweaking the settings of a
 pre-existing item, the &quot;Potion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Commençons par créer un Elixir.
+Son effet sera la restauration des PV et PM au maximum. Nous allons le créer en modifiant un objet déjà existant, la Potion.</translation>
     </message>
     <message>
         <source>Left click on #1, &quot;Potion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit sur le numéro 1, "Potion".</translation>
     </message>
     <message>
         <source>Right click and select &quot;Copy&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez Copier.</translation>
     </message>
     <message>
         <source>Left click to select the blank #5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le numéro 5.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Paste&quot;.
 Now the configuration for the potion is copied to #5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit et choisissez Coller.</translation>
     </message>
     <message>
         <source>Change the name to Elixir.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le titre en Elixir.</translation>
     </message>
     <message>
         <source>Overwrite the description and put
 fully restores HP and MP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacez la description et écrivez "Restaure entièrement les PV et PM."</translation>
     </message>
     <message>
         <source>Change the price to 500.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le prix pour 500.</translation>
     </message>
     <message>
         <source>Next we will set up the effect.
 Click &quot;Recover HP 500&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenant nous allons paramétrer l'effet. Cliquez sur "Récupération PV 500".</translation>
     </message>
     <message>
         <source>Right click and select &quot;Edit...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit et sélectionnez Editer...</translation>
     </message>
     <message>
         <source>Change &quot;0%&quot; to &quot;100%&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez 0% en 100%.</translation>
     </message>
     <message>
         <source>Change &quot;500&quot; to &quot;0&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez 500 en 0.</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring it to restore HP to its max. Click OK to set the effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;re also going to set up the full MP recovery.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons également paramétrer la récupération de PM. Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Check off &quot;Recover MP&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez "Récupération PM".</translation>
     </message>
     <message>
         <source>Make sure the effect is &quot;100%&quot;+&quot;0&quot;
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que l'effet est à 100% + 0 et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;re also going to change the animation when it is used in battle.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons également changer l'animation pour l'utilisation en combat.</translation>
     </message>
     <message>
         <source>Open the Animation menu, and change it to #42 &quot;Heal One 2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez le menu d'animation, et choisissez "#42 Soin 2".</translation>
     </message>
     <message>
         <source>Now the Elixir is complete. You can now put it in chests,
 or add it to shops.
 Of course you can also use it in a battle test.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'Elixir est terminé. Vous pouvez le mettre dans un coffre ou l'ajouter à un magasin.
+Bien sûr, vous pouvez l'utiliser dans un test de combat.</translation>
     </message>
     <message>
         <source>Next is the creation of a new skill.
 We&apos;ll make it the special move of Therese, who doesn&apos;t have any skills.
 Click the Skills tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant créer un compétence. Ce sera un coup spécial pour Thérèse qui n'a aucune compétence.
+Cliquez sur l'onglet Compétences.</translation>
     </message>
     <message>
         <source>Change the maximum from 10 to 11.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le maximum de 10 à 11.</translation>
     </message>
     <message>
         <source>We&apos;ll make it a skill called Triple Strike. Once again we will transform an existing skill to create it.
 Click #5, &quot;Triple Attack&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous l'appellerons Triple Strike. Une fois de plus, nous allons transformer une compétence existante. Cliquez sur "#5 Triple attaque".</translation>
     </message>
     <message>
         <source>Right click and select copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit et choisissez Copier.</translation>
     </message>
     <message>
         <source>Click on blank #11.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le numéro 11.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Paste&quot;.
 It&apos;s been copied to #11.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit et choisissez Coller.</translation>
     </message>
     <message>
         <source>Change the name to Triple Strike.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le nom en Triple Strike.</translation>
     </message>
     <message>
         <source>Write Hits 3 random enemies
  in the description.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecrivez dans la description "Touche 3 ennemis aléatoires."</translation>
     </message>
     <message>
         <source>We will change the message when the skill is used.
 Click &quot;uses!&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changeons le message qui apparait à l'utilisation. Cliquez sur "utilise".</translation>
     </message>
     <message>
         <source>Change the Skill Type to &quot;Special&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez le type de compétence en "Spéciale".</translation>
     </message>
     <message>
         <source>Let&apos;s go into more detail about skill types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voyons plus en détail les types de compétence.</translation>
     </message>
     <message>
         <source>The only skill types that actors may use
 are skills of the type listed in their &quot;traits&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les seuls types de compétence que les acteurs peuvent utiliser sont listés dans leurs Attributs.</translation>
     </message>
     <message>
         <source>In short, for a &quot;Special&quot; skill type, if
 &quot;special&quot; is not set as a skill type in the actor&apos;s traits,
 they cannot use the skill even if they&apos;ve learned it.
 Also, if their skill type is &quot;None&quot;, the actor would be unable to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation>En bref, pour une compétence Spéciale, si le type Spéciale n'est pas choisi dans ses Attributs, alors l'acteur ne pourra pas utiliser la compétence, même si elle est apprise.
+De plus, si le type est Aucun, l'acteur ne pourra pas l'utiliser.</translation>
     </message>
     <message>
         <source>Thus, when having actors learn skills, please be sure to check their
 skill type.
 Additionally, enemies can use skills regardless of skill type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quand vous apprenez des compétences à vos acteurs, vérifiez bien leur type. Les ennemis peuvent utiliser les compétences quelqu'en soit le type.</translation>
     </message>
     <message>
         <source>That&apos;s all. Would you like to read the explanation again?</source>
-        <translation type="unfinished"></translation>
+        <translation>C'est tout. Voulez-vous lire ces explications à nouveau ?</translation>
     </message>
     <message>
         <source>Then we can continue the explanation. Therese doesn&apos;t have &quot;Special&quot; as her skill type,
 so we need to deal with this. Click the &quot;Actor&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alors continuons. Thérèse ne peut pas utiliser le type Spéciale, donc nous allons régler ce problème. Cliquez sur l'onglet Héros.</translation>
     </message>
     <message>
         <source>Click the tab for #2, &quot;Therese&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Thérèse.</translation>
     </message>
     <message>
         <source>Therese&apos;s class is #2, &quot;Warrior&quot;.
 We will change the &quot;Traits&quot; for &quot;Warrior&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>La classe de Thérèse est Guerrier. Nous allons changer les attributs de cette classe.</translation>
     </message>
     <message>
         <source>Click the Classes tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur l'onglet Classes.</translation>
     </message>
     <message>
         <source>Click #2 from the list, &quot;Warrior&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Guerrier.</translation>
     </message>
     <message>
         <source>&quot;Add Skill Type Magic&quot; is there, but not Special.
 It seems natural that a warrior would use special moves.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type Magie est déjà là, mais pas Spéciale.</translation>
     </message>
     <message>
         <source>Double click &quot;Add Skill Type Magic&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur "Type de comp. Magie".</translation>
     </message>
     <message>
         <source>Make sure that &quot;Add Skill Type&quot; is checked off,
 click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que "Type de compétence" est coché, et choisissez Spéciale.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now Theresa is able to use special moves instead of magic. Let&apos;s go back to skill editing.
 Click Skills.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenant, Thérèse peut utiliser des coups spéciaux au lieu de la magie. Retournons à l'édition des compétences. Cliquez sur l'onglet Compétences.</translation>
     </message>
     <message>
         <source>Triple Strike is a special move, so
 we will make it consume TP instead MP.
 Set the TP Cost to 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Triple Strike est un coup spécial, donc nous allons lui faire consommer des PT plutôt que des PM. Réglez le coût en PT à 5.</translation>
     </message>
     <message>
         <source>Since it costs TP, we&apos;ll set the TP Gain to 0.
 The TP Gain is how much TP is gained when a skill/item is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puisque cela coûte des PT, nous allons régler le gain de PT à 0. Ce champ définit combien de PT sont gagnés en utilisant la compétence ou l'objet.</translation>
     </message>
     <message>
         <source>Now we&apos;re done creating the skill.
 Here we&apos;ll give an explanation of TP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voici une petite explication sur les PT.</translation>
     </message>
     <message>
         <source>TP is a value that shifts between 0 and 100.
 It is gained when damage is taken in battle
 and when specific actions are taken.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les PT (points de technique) varient entre 0 et 100. On en gagne lorsque des dégâts sont reçus ou lors d'actions spécifiques.</translation>
     </message>
     <message>
         <source>The value at the start of battle will be from 0 to 25,
 but if the actor has the &quot;Preserve TP&quot; trait,
 the TP value at the end of the battle will be carried over.</source>
-        <translation type="unfinished"></translation>
+        <translation>La valeur au début d'un combat est entre 0 et 25, mais si l'acteur a l'attribut "Conserver les PT", la valeur sera gardée entre les combats.</translation>
     </message>
     <message>
         <source>The primary use is for creating powerful skills that cost TP.
 That&apos;s all. Would you like to hear the explanation again?</source>
-        <translation type="unfinished"></translation>
+        <translation>On utilise principalement les PT pour les coût des attaques puissantes.
+C'est tout ! Souhaitez-vous lire l'explication de nouveau ?</translation>
     </message>
     <message>
         <source>Then let&apos;s move on.
 We&apos;re going to make Therese learn the skill.
 Click the Classes tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alors passons à la suite. Nous allons apprendre la compétence à Thérèse.
+Cliquez sur l'onglet Classes.</translation>
     </message>
     <message>
         <source>Make sure #2, &quot;Warrior&quot;, is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assurez-vous que Guerrier est sélectionné.</translation>
     </message>
     <message>
         <source>Double click the topmost line in &quot;Skills to Learn&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur la ligne de haut dans Compétences à apprendre.</translation>
     </message>
     <message>
         <source>We won&apos;t change the level or the note.
 Click on the Skill and select #11, &quot;Triple Strike&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous n'allons pas changer le niveau ou la note. Sélectionnez simplement "#11 Triple Strike".</translation>
     </message>
     <message>
         <source>Click OK and it will be set.
 Therese has learned &quot;Triple Strike&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK. Thérèse a appris Triple Strike !</translation>
     </message>
     <message>
         <source>Next, we&apos;ll make an item that boosts TP.
