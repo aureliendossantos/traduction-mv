@@ -16669,97 +16669,98 @@ Therese has learned &quot;Triple Strike&quot;.</source>
     <message>
         <source>Next, we&apos;ll make an item that boosts TP.
 Click the Item tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensuite, nous allons créer un objet qui augmente les PT.
+Cliquez sur l'onglet Objets.</translation>
     </message>
     <message>
         <source>We&apos;ll make item #6 based on #1, the potion.
 Click Potion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons créer l'objet #6 basé sur le #1. Cliquez sur Potion.</translation>
     </message>
     <message>
         <source>Click on blank #6.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur le numéro 6.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Paste&quot;.
 Now the configuration for the potion is copied to #6.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez-droit et choisissez Coller.</translation>
     </message>
     <message>
         <source>Change the name to TP Charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer le nom en "Recharge TP".</translation>
     </message>
     <message>
         <source>Rewrite the description as
 Restores 50 TP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacez la description par "Restaure 50 PT."</translation>
     </message>
     <message>
         <source>Change the occasion from &quot;Always&quot; to &quot;Battle Screen&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Précisez que l'objet peut être utilisé en combat seulement.</translation>
     </message>
     <message>
         <source>Double click the line under Effects that says &quot;Recover HP 500&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-cliquez sur la ligne sous l'effet "Récupération PV 500".</translation>
     </message>
     <message>
         <source>Check off Gain TP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cochez Récupération PT.</translation>
     </message>
     <message>
         <source>Change the value gained to 50.</source>
-        <translation type="unfinished"></translation>
+        <translation>Changez la valeur à 50.</translation>
     </message>
     <message>
         <source>Click OK to set the effect.
 With this, we&apos;ve created the TP Charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK. Avec ceci, nous avons créé la recharge de PT.</translation>
     </message>
     <message>
         <source>In these steps, we&apos;ve finished creating items and a skill.
 Click OK and set the database update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Au cours de ce tutoriel, nous avons créé des objets et une compétence. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Lastly, in order to test the effects of the items and skill we created, let&apos;s run a battle test.
 Please open the database once more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour finir, afin de tester les effets des objets et de la compétence, lançons un test de combat.</translation>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez l'onglet Troupes.</translation>
     </message>
     <message>
         <source>Select your opponent from the Troops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un affrontement dans les troupes.</translation>
     </message>
     <message>
         <source>Click Battle Test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Test de combat.</translation>
     </message>
     <message>
         <source>Click OK and conduct the battle test.
 Test out Therese&apos;s skill and the new items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur OK et testez vos créations dans le combat.</translation>
     </message>
     <message>
         <source>Do you want to battle test again?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous recommencer le combat ?</translation>
     </message>
     <message>
         <source>Then we will close the database.
 There were no changes, so click &quot;Cancel&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alors fermons la base de données. Il n'y a pas eu de changement,donc vous pouvez cliquer sur Annuler.</translation>
     </message>
     <message>
         <source>Well done. In these 2 steps you&apos;ve been
 introduced to the database. There are still unexplained settings,
 but please familiarize yourself with them bit by bit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bien joué. Au cours de ces 2 étapes, vous vous êtes familiarisés avec la base de données. Il y a encore des fonctions inexplorées, mais vous les découvrirez petit à petit.</translation>
     </message>
 </context>
 <context>
