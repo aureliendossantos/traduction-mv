@@ -18059,625 +18059,693 @@ Dans la prochaine étape, nous placerons un boss.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 16?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 16 ?</translation>
     </message>
     <message>
         <source>Loading the step 16 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 16 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 16.
+Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
-        <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <source>New project complete.</source>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we&apos;ll create the cave boss.
 We&apos;ll configure the database and adjust it to have strength suitable for a boss.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons créer un boss.
+Il nous faudra configurer la base de données et modifier un ennemi pour le rendre digne d'un boss.</translation>
     </message>
     <message>
         <source>Please open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the Enemies tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet Ennemis.</translation>
     </message>
     <message>
         <source>Click #3 from the list, &quot;Orc&quot;.
 We&apos;ll make this enemy the boss.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le #3, &quot;Orc&quot;.
+Nous allons faire de lui un vrai petit boss !</translation>
     </message>
     <message>
         <source>Here&apos;s an example of how to adjust balance:
 Consider the player&apos;s assumed level and equipment
 to determine an initial strength, and after that make small adjustments with playtesting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voici un exemple d'équilibrage :
+Il vous faut déterminer le niveau moyen et l'équipement du joueur, puis faire
+de petis ajustement à la force du boss en testant le combat.</translation>
     </message>
     <message>
         <source>This time we&apos;ll assume a player level of 4.
 We&apos;ll start our adjustments based on this.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons estimer que le joueur sera niveau 4 et partir de là.</translation>
     </message>
     <message>
         <source>Let&apos;s look at the regular attack combat formula.
 Click the Skills tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet Compétences.</translation>
     </message>
     <message>
         <source>Make sure #1, &quot;Attack&quot;, is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez &quot;Attaque&quot; en #1.</translation>
     </message>
     <message>
         <source>The damage formula is configured here.
 This means &quot;Attack*4 - Defense*2&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La formule de dégâts est paramétrée ici.
+Par défaut, elle vaut &quot;Attaque*4 - Défense*2&quot;.</translation>
     </message>
     <message>
         <source>&quot;Critical Hits&quot; are set to &quot;Yes&quot;.
 Critical hits deal 3 times the amount of damage.
 It&apos;s very important to keep these in mind when setting your values, and to adjust
 using playtesting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il est possible de régler les &quot;Coups critiques&quot;.
+Ce sont des coups rares qui font 3 fois plus de dégâts.
+Ne les oubliez pas, ils peuvent totalement changer le flot d'un combat !</translation>
     </message>
     <message>
         <source>Additionally, there&apos;s no need to always make enemy attacks skill #1. It&apos;s also possible to create enemy-exclusive attack skills with different formulas and other settings.
 We&apos;ll be proceeding in this tutorial without any additional changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De plus, vous pouvez créer des attaques de base exclusives à certains ennemis et boss
+avec des paramètres de dégâts uniques !
+Pour cette fois, nous n'y toucherons pas, mais gardez-le à l'esprit.</translation>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet Groupes.</translation>
     </message>
     <message>
         <source>You can check the party strength of a party
 with an assumed level of 4 using battle testing.
 Click Battle Test.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez lancer un test de combat avec
+une équipe de niveau 4 pour les ajustements.
+Cliquez sur Test de combat.</translation>
     </message>
     <message>
         <source>Here we can see the ability values of
 actors at each level.
 First, let&apos;s make Harold level 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ici, vous pouvez voir les caractéristiques
+des héros à chaque niveau.
+Réglons Harold au niveau 4.</translation>
     </message>
     <message>
         <source>Harold&apos;s level 4 stats will be shown.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les caractéristiques de Harold au niveau 4 vont être affichées.</translation>
     </message>
     <message>
         <source>We&apos;ll make the other members level 4 in the same way.
 Switch to the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire de même pour les autres membres.
+Allez sur l'onglet 2.</translation>
     </message>
     <message>
         <source>Make Therese level 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez Therese au niveau 4.</translation>
     </message>
     <message>
         <source>Switch to the page 3 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez à l'onglet 3.</translation>
     </message>
     <message>
         <source>Make Marsha level 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez Marsha au niveau 4.</translation>
     </message>
     <message>
         <source>Switch to the page 4 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez à l'onglet 4.</translation>
     </message>
     <message>
         <source>Make Lucius level 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez Lucius au niveau 4.</translation>
     </message>
     <message>
         <source>Everyone&apos;s level 4 stats will be shown.
 While generally there would be a need to test equipment
 in addition to this, we won&apos;t be changing equipment this time so it&apos;s fine as-is.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les caractéristiques de tout le monde au niveau 4 vont s'afficher.
+Plus tard, vous devrez églaement faire des tests pour jauger l'équipement,
+mais nous ne nous soucierons pas de ce détail pour cette fois.</translation>
     </message>
     <message>
         <source>Additionally, we will configure the enemy&apos;s initial values
 while taking the skills that the actors can use into consideration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons cependant modifier les caractéristiques
+de l'ennemi en pensant aux compétences de nos héros.</translation>
     </message>
     <message>
         <source>For now, click OK and conduct the battle test.
 You can immediately end the battle test.
 Now the configured values are remembered,
 so next time we can conduct the battle test with all members at level 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour l'instant, cliquez sur OK et lancez un test de combat.
+Vous pouvez le terminer immédiatement.
+Maintenant que les valeurs sont enregistrées, le prochain test de combat
+sera lancé avec les héros au niveau 4.</translation>
     </message>
     <message>
         <source>Now let&apos;s actually configure the boss parameters.
 Click the Enemies tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons enfin au boss !
+Cliquez sur l'onglet &quot;Ennemis&quot;.</translation>
     </message>
     <message>
         <source>Make sure #3, &quot;Orc&quot;, is selected.
 This time, enter the following values
 as an example.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez l'Orc en #3.</translation>
     </message>
     <message>
         <source>Set Max HP to 1200.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez les PV Max à 1200.</translation>
     </message>
     <message>
         <source>Set Max MP to 10.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez les PM Max à 10.</translation>
     </message>
     <message>
         <source>Set Attack to 50.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez l'Attaque à 50.</translation>
     </message>
     <message>
         <source>Set Defense to 40.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez la Défense à 40.</translation>
     </message>
     <message>
         <source>Set Magic Defense to 40.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez la Défense magique à 40.</translation>
     </message>
     <message>
         <source>Set Agility to 50.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez l'Agilité à 50.</translation>
     </message>
     <message>
         <source>The game will end when the boss is defeated
 so you can leave the EXP and Gold at 0.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le jeu se terminera quand le boss sera vaincu,
+vous pouvez donc ignorer l'expérience, l'argent et le butin.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll edit his action patterns.
 We&apos;ll set the actions that can be taken and their conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changeons maintenant ses actions et leurs conditions.</translation>
     </message>
     <message>
         <source>You can set conditions such as use every X turns or use when HP is above or below a fixed amount.
 If a condition is not set, the action can always occur. (Excluding cases such as insufficient MP)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez régler des conditions telles que 
+"Utiliser tous les X tours" ou "Utiliser lorsque les PV passent sous &quot;".
+Si aucune condition n'est choisie, l'ennemi pourra tout le temps utiliser l'action.</translation>
     </message>
     <message>
         <source>R refers to rating, which pertains to the rate at which the action is taken.
 While you&apos;re still getting used to things, it&apos;s fine to leave them all at 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La priorité détermine les chances qu'une action soit utilisée.
+Pour l'instant, vous pouvez toutes les laisser à 5.</translation>
     </message>
     <message>
         <source>First, we&apos;ll make him attack twice in one turn.
 Double click the &quot;Attack&quot; line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tout d'abord, faisons-le attaquer deux fois par tour.
+Il faut bien du challenge !
+Doublez-cliquez sur la ligne &quot;Attaque&quot;.</translation>
     </message>
     <message>
         <source>Change the skill from #1, &quot;Attack&quot;, to #4, &quot;Double Attack&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez la compétence #1 &quot;Attaque&quot; en la compétence #4 &quot;Double attaque&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doublez-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Set it to skill #8, &quot;Heal&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la compétence #8, &quot;Soin&quot;.</translation>
     </message>
     <message>
         <source>Check off the HP condition.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez la condition de PV.</translation>
     </message>
     <message>
         <source>We want to make him use it when his max HP is between 0% and 35%,
 so change the 100 on the right to 35.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous voulons qu'il puisse l'utiliser lorsque ses PV sont en dessous de 35%,
+changez donc le 100 sur la droit en 35.</translation>
     </message>
     <message>
         <source>Change the rating from 5 to 6.
 Now when his HP is low,
 there&apos;s a higher chance of him using Heal instead of Double Attack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez la priorité de 5 à 6 afin qu'il ait de plus
+grandes chances de se soigner si sa vie est basse.</translation>
     </message>
     <message>
         <source>Double click on a new line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur une nouvelle ligne.</translation>
     </message>
     <message>
         <source>Set it to skill #10, &quot;Spark&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la compétence #10, &quot;Étincelle&quot;.</translation>
     </message>
     <message>
         <source>Check off HP under Conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez la condition de PV.</translation>
     </message>
     <message>
         <source>Change 100 to 50.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez 100 en 50.</translation>
     </message>
     <message>
         <source>We&apos;ll change the rating from 5 to 6.
 Now when the condition is filled,
 there&apos;s a higher chance of him choosing Spark instead of Double Attack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez la priorité de 5 à 6.
+Lorsqu'il aura perdu la moitié de sa vie, le boss aura maintenant de
+grandes chances d'utiliser &quot;Étincelle&quot;.</translation>
     </message>
     <message>
         <source>Heal and Spark both consume 5 MP.
 Since the Orc only has 10 MP, he can only use magic twice.
 When he can no longer use these skills,
 he will use only Double Attack.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ces deux compétences utilisent 5PM.
+L'Orc n'ayant que 10PM, il ne pourra utiliser de la magie que deux fois ;
+après ça, il ne pourra plus utiliser que &quot;Double attaque&quot;.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set his Traits.
 Double click the next blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglons maintenant ses Attributs.
+Doublez-cliquez sur la ligne vierge.</translation>
     </message>
     <message>
         <source>Click the Other tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet Autres.</translation>
     </message>
     <message>
         <source>Check off Collapse Effect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez l'effet de KO.</translation>
     </message>
     <message>
         <source>Select Boss.
 Now when he&apos;s defeated, his collapse animation will be more impressive.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Boss.
+Son animation de KO sera désormais bien plus impressionnante !</translation>
     </message>
     <message>
         <source>Now, we&apos;re done configuring the Orc unit.
 Next, click the Troops tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'ennemi Orc est maintenant terminé.
+Cliquez ensuite sur l'onglet &quot;Groupes&quot;.</translation>
     </message>
     <message>
         <source>Select #3, &quot;Orc&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez l'Orc #3.</translation>
     </message>
     <message>
         <source>Now the preparation is complete. Let&apos;s battle test.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tout est prêt, démarrons un test de combat.</translation>
     </message>
     <message>
         <source>Make sure each actor&apos;s level is 4
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que les héros soient au niveau 4.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>How was it? It was a bit tough, wasn&apos;t it?
 We&apos;ll go with this strength.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alors, c'était comment ? Un peu dur mais pas insurmontable ?
+C'est une bonne difficulté pour un boss.</translation>
     </message>
     <message>
         <source>Let&apos;s place the boss in the dungeon.
 Click OK and set the database changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plaçons maintenant le boss dans le donjon.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot; from the tree view.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Scroll to the upper right of the map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en haut à droite de la carte.</translation>
     </message>
     <message>
         <source>The boss coordinates will be in the middle of the moss, (34,6).
 Find those coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons placer le boss en (34,6).</translation>
     </message>
     <message>
         <source>Double click on (34,6).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (34,6).</translation>
     </message>
     <message>
         <source>Enter the name as Boss.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom Boss.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Click Monster from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Monstre dans la liste.</translation>
     </message>
     <message>
         <source>Click the middle character facing down, second from the right in the top half.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le monstre du milieu qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now let&apos;s set the contents.
 Double click the first empty line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajoutons un peu de piquant au combat !
+Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher un texte...;&quot;.</translation>
     </message>
     <message>
         <source>Enter in two lines:
 &quot;You&apos;ve come far, humans.
 But your judgment is nigh!&quot;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez ces deux lignes:
+&quot;Vous venez de loin, humains...
+Mais c'en est fini de vous !</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click Battle Processing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Démarrer un combat&quot;.</translation>
     </message>
     <message>
         <source>Change it to #3, Orc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez le groupe #3, Orc.</translation>
     </message>
     <message>
         <source>Since he&apos;s the boss, we won&apos;t check off &quot;Can Escape&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne cochez pas &quot;Fuite possible&quot; comme c'est un boss.</translation>
     </message>
     <message>
         <source>Now we&apos;ll describe the processing for after the battle is won.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglons maintenant ce qui se passera après la victoire d'un joueur doué.
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab for the 1st page and open it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 1 et &quot;Afficher un texte&quot;.</translation>
     </message>
     <message>
         <source>Enter: Curses...
  These are the orc&apos;s last words.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez les derniers mots de l'orc:
+Soyez maudits, pauvres humains...</translation>
     </message>
     <message>
         <source>Click OK and set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will erase the orc.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Une fois le combat terminé, c'est l'heure de faire le ménage.
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier un interrupteur local&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Self Switch is A, and that the Operation is set
 to ON, click OK and set it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'interrupteur local soit A, que l'opération soit ON et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons à la page 2.
+Cliquez sur &quot;Nouvelle page&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll check off Self Switch as the Condition.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Interrupteur local&quot; en condition.</translation>
     </message>
     <message>
         <source>Make sure it is set to A.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez qu'il soit bien réglé sur A.</translation>
     </message>
     <message>
         <source>Now the boss event is complete.
 Click OK and set the event.
 We&apos;ll make the ending in the next step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le boss est maintenant terminé !
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Run a playtest. For the sake of simplicity,
 we&apos;ll start right in front of the boss.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test. Pour vous simplifier la vie,
+n'hésitez pas à démarrer juste devant le boss.</translation>
     </message>
     <message>
         <source>We&apos;ll make the player&apos;s initial coordinates close to the boss, at (34,11). Find those coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Démarrez en (34,11), près du boss.</translation>
     </message>
     <message>
         <source>Right click on (34,11)
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur (34,11)
+et réglez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>However, if we do it like this, the party&apos;s level will be at 1
 and they won&apos;t have any items. Thus we will make a
 temporary event for playtesting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cependant, si vous faites ça, l'équipe ne sera que niveau 1 et n'aura
+aucun objet ! Il est temps d'apprendre à tricher un peu.</translation>
     </message>
     <message>
         <source>We&apos;ll place the venue outside of the map, in a place like (28,9).
 Find (28,9).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plaçons un évènement dans un endroit inconséquent comme (28,9).</translation>
     </message>
     <message>
         <source>Double click (28,9).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (28,9).</translation>
     </message>
     <message>
         <source>Name it For Testing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom Test.</translation>
     </message>
     <message>
         <source>Set the Trigger to Autorun.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez le Déclenchement Automatique.</translation>
     </message>
     <message>
         <source>&quot;Autorun&quot; events will execute automatically
 no matter where they are on the map when their condition is met.
 This time, it will be executed as soon as the map is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les évènements en déclenchement Automatique se déclencheront tout seuls
+qu'importe leur emplacement. Celui-ci s'exécutera dès le chargement de la carte.</translation>
     </message>
     <message>
         <source>The content will make the party the necessary strength to battle the boss.
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire en sorte de rendre l'équipe assez forte pour le combat.
+Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Change EXP...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier l'expérience..;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;.
 Set the Operand to a Constant of 400.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciblez l'&quot;Équipe entière&quot; et cliquez sur &quot;Ajouter&quot;.
+Choisissez une valeur fixe de 400.</translation>
     </message>
     <message>
         <source>Click &quot;Recover All...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Guérir complètement...;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot;
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciblez l'&quot;Équipe entière&quot;.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change Items...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier les objets...&quot;.</translation>
     </message>
     <message>
         <source>Select item #4, &quot;Stimulant&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'objet #4, &quot;Stimulant&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Operation is &quot;Increase&quot;,
 and set the Operand to 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'opération soit &quot;Ajouter&quot;
+et la valeur 5.</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select item #5, &quot;Elixir&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'objet #5, &quot;Elixir&quot;.</translation>
     </message>
     <message>
         <source>Select item #6, &quot;TP Charge&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'objet #6, &quot;Recharge de PT&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Operation is &quot;Increase&quot;.
 Set the Operand to a Constant of 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'opération soit &quot;Ajouter&quot;
+et la valeur fixe 5.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.
 Now we&apos;re all set for a boss battle.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.
+Vous voilà prêts pour le boss !</translation>
     </message>
     <message>
         <source>If left as-is, autorun will repeat the content of the event
 endlessly. Thus we need to switch pages
 after it finishes executing.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si vous le laissez tel quel, l'évènement
+va se répéter en boucle.
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>With &quot;New Event Page&quot;, create page 2.
 This is the page that will be switched to when autorun is done.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créez une deuxième page.</translation>
     </message>
     <message>
         <source>Make sure the Self Switch is set to A.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez l'interrupteur l'ocal à 2.</translation>
     </message>
     <message>
         <source>Because nothing will happen on page 2, the configuration is done now. Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comme rien ne se passe en page 2, l'évènement est terminé. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll run our playtest in these conditions.
 First, save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous pouvons maintenant tester notre combat pour de bon.
+Faites une sauvegarde du projet.</translation>
     </message>
     <message>
         <source>Start a playtest.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test.</translation>
     </message>
     <message>
         <source>When you&apos;re done playtesting, we&apos;ll do postprocessing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quand vous aurez terminé, nous allons cacher votre petite triche.</translation>
     </message>
     <message>
         <source>We&apos;ll stop our event for test use from launching during actual play.
 While deleting it is one solution,
 let&apos;s make it so we can use it as necessary.
 Double click the event for test use on (28,9).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous ne voulez évidemment pas que vos joueurs profitent de l'évènement
+rajoutant des niveaux ! Vous pourriez le supprimer,
+mais nous allons faire mieux.
+Double-cliquez sur l'évènement Test en (28,9).</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en page 2.</translation>
     </message>
     <message>
         <source>Click &quot;New Event Page&quot;.
 Page 3 has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Nouvelle page&quot;.
+Vous avez désormais 3 pages.</translation>
     </message>
     <message>
         <source>We won&apos;t do any configuration on page 3.
 Now page 3 will always be shown,
 and it will no longer switch to pages 1 and 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La page 3 va être laissée vide.
+Elle sera maintenant toujours active, et l'évènement ne passera plus entre les pages 1 et 2.</translation>
     </message>
     <message>
         <source>From now on, if you want to enable this event for testing,
 change to the page 3 tab and use
 &quot;Delete Event Page&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si vous avez besoin de faire des tests,
+passez à la page 3 et utiliser &quot;Supprimer la page&quot;.</translation>
     </message>
     <message>
         <source>Click OK to reflect the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, please save the project once more.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez votre projet une dernière fois.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 17.
 In the next step we&apos;ll create
 and ending, so we&apos;ll leave the player starting position as it is.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué, c'est la fin de l'étape 17 !
+Dans la prochaine étape, nous allons créer la fin du jeu.</translation>
     </message>
 </context>
 <context>
@@ -18688,209 +18756,231 @@ and ending, so we&apos;ll leave the player starting position as it is.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 17?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 17 ?</translation>
     </message>
     <message>
         <source>Loading the step 17 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 17 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 17.
+Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
-        <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <source>New project complete.</source>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we&apos;ll make an ending.
 After that, we&apos;ll add some necessary flavor,
 including adding BGM to the maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons créer une séquence de fin au jeu.
+Nous ajouterons ensuite des détails comme des musiques sur les cartes.</translation>
     </message>
     <message>
         <source>On the top row of the map tree view, right click
 and select &quot;New...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans la liste des cartes, faites un clic droit
+et sélectionnez &quot;Nouvelle carte...&quot;.</translation>
     </message>
     <message>
         <source>Enter the map name as &quot;Ending&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom Séquence de fin.</translation>
     </message>
     <message>
         <source>Click Autoplay BGM.
 We&apos;ll specify the BGM that is played
 when this map is entered (i.e. when the ending starts).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur BGM (Musique).
+Nous allons choisir une musique à jouer sur cette carte,
+c'est à dire pendant la séquence de fin.</translation>
     </message>
     <message>
         <source>Click the file name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le nom du fichier.</translation>
     </message>
     <message>
         <source>We&apos;ll pick a song that&apos;s fitting for an ending.
 Let&apos;s click Theme2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissons une musique adaptée à une séquence de fin,
+par exemple Theme2.</translation>
     </message>
     <message>
         <source>Click OK and set the BGM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and the map will be set.
 A new map has been created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez de nouveau sur OK.
+La carte a été créée.</translation>
     </message>
     <message>
         <source>Let&apos;s make an event for when the boss is defeated.
 Click on &quot;Stone Cave&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faisons maintenant un évènement pour après la défaite du boss.
+Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Find the boss event at (34,6)
 and double click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur l'évènement du boss
+en (34,6).</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en page 2.</translation>
     </message>
     <message>
         <source>Set the trigger to Autorun.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez le déclenchement Automatique.</translation>
     </message>
     <message>
         <source>Double click the first line under Contents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to show page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en page 2.</translation>
     </message>
     <message>
         <source>Choose Fadeout Screen.
 This command will darken the screen until the &quot;Fadein Screen&quot; is executed later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez &quot;Effacer l'écran en fondu&quot;.
+Cela va assombrir l'écran jusqu'à l'exécution de la commande &quot;Afficher l'écran en fondu&quot;.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click Change Transparency.
 This command changes the player transparency.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Invisibilité du héros&quot;.
+Cette commande modifie la transparence du héros.</translation>
     </message>
     <message>
         <source>Make sure that Transparency is set to ON
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez l'invisibilité sur ON,
+cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Transfer Player...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Téléportation...&quot;.</translation>
     </message>
     <message>
         <source>Set the Fade to None.
 We&apos;ll be using &quot;Fadeout Screen&quot; and &quot;Fadein Screen&quot;
 for fade processing instead.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez le fondu sur Aucun.
+Nous allons plutôt nous servir des commandes d'Effacement/Affichage de l'écran en fondu.</translation>
     </message>
     <message>
         <source>Click Location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'emplacement.</translation>
     </message>
     <message>
         <source>Select Ending from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez &quot;Séquence de fin&quot;.</translation>
     </message>
     <message>
         <source>Any place in the map will do,
 so for now click somewhere around the center.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'emplacement n'a aucune importance,
+cliquez donc n'importe où.</translation>
     </message>
     <message>
         <source>Click OK to set the transfer destination.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez de nouveau sur OK.</translation>
     </message>
     <message>
         <source>Our processing for this event ends here.
 Next, another event will take over after the location transfer.
 Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cet évènement est terminé.
+Un autre prendra en charge ce qui se passera après la téléportation.</translation>
     </message>
     <message>
         <source>Next we&apos;ll create an event on the ending map.
 Select Ending from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons ensuite créer un évènement sur la carte de fin.
+Choisissez &quot;Séquence de fin&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll create an event.
 Anywhere is fine,
 but in this tutorial we&apos;ll use the top left.
 Double click (0,0).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créez l'évènement.
+L'emplacement n'a aucune importance, mais pour ce tutoriel,
+nous allons choisir (0,0).
+Double-cliquez en (0,0).</translation>
     </message>
     <message>
         <source>Enter the name as Ending.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom Fin.</translation>
     </message>
     <message>
         <source>Set the Trigger to Autorun.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez le Déclenchement Automatique.</translation>
     </message>
     <message>
         <source>Let&apos;s enter the content.
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons au contenu !
+Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Fadein Screen&quot;.
 Just like this, always make sure to
 run Fadein Screen after running Fadeout Screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher l'écran en fondu&quot;.
+Il est important de toujours utiliser cette commande après avoir effacé l'écran en fondu.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make something like a credit roll.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faisons maintenant des crédits déroulants !
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab and open page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en page 1.</translation>
     </message>
     <message>
         <source>Click &quot;Show Scrolling Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher un texte défilant...&quot;.</translation>
     </message>
     <message>
         <source>It&apos;s a bit long, but enter the text as follows:
@@ -18906,71 +18996,91 @@ And they all lived happily ever after.
 Development Staff
 
 KADOKAWA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C'est un peu long, mais entrez ce texte :
+C'est ainsi qu'Harold et ses alliés
+
+vainquirent le boss des grottes
+
+et que la paix retomba sur le village
+
+qui leur fut éternellement gratifiant.
+
+
+Équipe de développement
+
+KADOKAWA</translation>
     </message>
     <message>
         <source>You can replace KADOKAWA in the last line
 with your own name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Évidemment, vous pouvez remplacer KADOKAWA
+par votre propre nom...</translation>
     </message>
     <message>
         <source>Click OK and set the credit roll.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll show &quot;The End&quot; at the end.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons afficher &quot;The End" à la fin.
+Doublez-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher un message...&quot;.</translation>
     </message>
     <message>
         <source>Set the Window Position to Middle.
 Now it will be shown in the middle of the screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez la position de la fenêtre au milieu de l'écran.</translation>
     </message>
     <message>
         <source>Set the Background to Transparent.
 Now it won&apos;t show the window frame.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez l'arrière-plan en Transparent.
+Votre message s'affichera simplement au milieu, sans fenêtre autour.</translation>
     </message>
     <message>
         <source>Afterwards, we will simply return to the title screen.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Après cela, nous allons renvoyer le joueur à l'écran titre.
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Switch to the page 3 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en page 3.</translation>
     </message>
     <message>
         <source>Click &quot;Return to Title Screen&quot;.
 Now we&apos;re done setting up this event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Retourner à l'écran titre&quot;.
+Nous en avons fini avec cet évènement.</translation>
     </message>
     <message>
         <source>Before we playtest, we&apos;ll test within the event. You can select multiple lines, right click and select &quot;Test...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avant de tester le jeu, testons l'évènement lui-même. Vous pouvez sélectionner plusieurs lignes,
+faire un clic droit et appuyer sur &quot;Tester...&quot;.</translation>
     </message>
     <message>
         <source>We will select the range of lines. Click on Text(S).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Texte(S).</translation>
     </message>
     <message>
         <source>Hold down the shift key on your keyboard
 and click on Text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pressez la touche Shift de votre clavier
+et cliquez sur Texte.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Test...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit et appuyez sur &quot;Test...&quot;.</translation>
     </message>
     <message>
         <source>Now you have an idea of what the scrolling text and message look like. The players were shown,
 but they won&apos;t be in the actual game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez désormais voir à quoi ressemble la séquence de fin.
+Les joueurs sont visibles ici, mais ne le seront pas en jeu.</translation>
     </message>
     <message>
         <source>Now, usually we would playtest here,
@@ -18978,191 +19088,222 @@ but beating the boss again is a nuisance that takes time.
 So this time, we&apos;ll use a temporary trick for debugging,
 different from last time.
 Please open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normalement, nous lancerions un test ici ;
+mais vous n'avez pas vraiment envie de rebattre le boss, n'est-ce pas ?
+Nous allons donc encore tricher !
+Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet Groupes.</translation>
     </message>
     <message>
         <source>Select #3, &quot;Orc&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'Orc #3.</translation>
     </message>
     <message>
         <source>We&apos;ll use a battle event
 to make the battle start and end simultaneously.
 Click Conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons utiliser un évènement de combat
+pour le faire démarrer et terminer en même temps.
+Cliquez sur Conditions.</translation>
     </message>
     <message>
         <source>Check off Turn.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Tour.</translation>
     </message>
     <message>
         <source>Both values are set to 0
 Thus, the event will occur on turn 0.
 Turn 0 is the interval where commands can be input after the battle starts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les deux valeurs sont à 0 : l'évènement ser
+terminera donc au tour 0.
+C'est le tour durant laquelle des commandes peuvent être entrées après le début du combat.</translation>
     </message>
     <message>
         <source>Click OK to set the condition.
 It is possible to launch events during battle in this way.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll describe the event so that the battle ends instantly.
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Change Enemy State...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier l'état de l'ennemi&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Entire Troop&quot; is selected so that &quot;Knockout&quot; will be Added.
 Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ciblez le &quot;Groupe entier&quot; et infligez l'effet &quot;KO&quot;.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now as soon as the battle is started, it will end.
 In order to check, click Battle Test.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le combat va se terminer dès le début.
+Faites un Test de combat.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The Orc was instantly knocked out.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bravo à vous, l'Orc n'a pas eu le temps de dire ouf !
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 If you can talk to the boss, watch the ending,
 and return to the title screen, it&apos;s a success.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un dernier test.
+Le but est de parler au boss, regarder la séquence de fin et 
+de retourner à l'écran titre.</translation>
     </message>
     <message>
         <source>When you&apos;re done playtesting,
 we&apos;ll continue our finalization work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quand vous aurez fini, nous allons passer
+aux finitions.</translation>
     </message>
     <message>
         <source>We&apos;ll delete the debug event we created.
 Click Database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Supprimez l'évènement de triche que nous avons créé.
+Cliquez sur Base de données.</translation>
     </message>
     <message>
         <source>Click the Battle Event Condition.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez dans les conditions de l'évènement de combat.</translation>
     </message>
     <message>
         <source>Remove the check from Turn.
 Now the battle event won&apos;t occur.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Retirez la condition que nous avions placé.
+Le boss se déroulera désormais normalement.</translation>
     </message>
     <message>
         <source>Click OK.
 Unlike map events, when no condition
 is set for battle events, they won&apos;t occur.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK. 
+L'évènement de combat ne se lancera pas si aucune condition n'est cochée,
+contrairement aux évènements sur la carte.</translation>
     </message>
     <message>
         <source>This time we just barely touched on battle events but it&apos;s possible to use them in more complex ways.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons à peine touché aux évènements de combats, mais n'hésitez pas à
+tester des choses plus complexes dans votre jeu !</translation>
     </message>
     <message>
         <source>Next, we&apos;ll return the player starting position
 to the original start place.
 Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remettons également la position de départ du personnage
+à son emplacement normal.</translation>
     </message>
     <message>
         <source>We&apos;ll place the player at the town entrance.
 Scroll along the map
 and find the coordinates (19,36).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plaçons le joueur à l'entrée du village.
+Trouvez les coordonnées (19,36).</translation>
     </message>
     <message>
         <source>Right click on the town entrance at (19,36)
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit en (19,36) et réglez
+la position de départ.</translation>
     </message>
     <message>
         <source>Now we&apos;ve completed a minimal game.
 But we&apos;ll do one more important thing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mais dites, vous avez terminé votre premier jeu... bravo !
+Il ne reste qu'un détail important à ajouter.</translation>
     </message>
     <message>
         <source>That will be playing BGM on each map.
 First, right click on Normal Town
 and select Edit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'ambiance est un peu triste, ajoutons de la musique.
+Faites un clic droit sur &quot;Ville normale&quot; et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Check off Autoplay BGM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Musique (BGM).</translation>
     </message>
     <message>
         <source>Click Town1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Town1.</translation>
     </message>
     <message>
         <source>Click OK and set the map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Right click on Stone Cave
 and select Edit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur &quot;Grotte de pierre&quot;
+et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Click and select Dungeon1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la musique Dungeon1.</translation>
     </message>
     <message>
         <source>Click and select the Field Map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez maintenant sur la &quot;Carte du monde&quot;.</translation>
     </message>
     <message>
         <source>Right click on Field Map
 and select Edit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur &quot;Carte du monde&quot;
+et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Click and select Field1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la musique Field1.</translation>
     </message>
     <message>
         <source>Click OK and set the map.
 Now we&apos;re done configuring the BGM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.
+Vos cartes sont désormais un peu plus guillerettes !</translation>
     </message>
     <message>
         <source>Start a playtest.
 Make sure the BGM is playing in each map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test.
+Vérifiez que les musiques se jouent bien.</translation>
     </message>
     <message>
         <source>Well done. Now we&apos;re done making the game content.
 The next step will finally be the last one.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bravo ! Nous avons pratiquement fini.
+La prochaine étape sera la dernière.</translation>
     </message>
     <message>
         <source>Enter:　　　　　　　　　\{\{\{THE END
 
 The first characters are 12 spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez :            \{\{\{THE END
+
+Les premiers caractères sont 12 espaces.
+</translation>
     </message>
 </context>
 <context>
@@ -19173,212 +19314,245 @@ The first characters are 12 spaces.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 18?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 18 ?</translation>
     </message>
     <message>
         <source>Loading the step 18 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 18 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 18.
+Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
-        <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <source>New project complete.</source>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, as a final touch,
 we&apos;ll deal with the title screen.
 We will also deal with plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette étape est là pour peaufiner votre jeu,
+notamment son écran titre.
+Nous jetterons également un œil aux plugins.</translation>
     </message>
     <message>
         <source>First, let&apos;s adjust the game title screen.
 Please open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commençons par modifier l'écran titre.
+Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the &quot;System&quot; tab. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet &quot;Système&quot;.</translation>
     </message>
     <message>
         <source>First we&apos;ll edit the game title.
 Enter a title that you like.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons modifier le titre du jeu.
+Entrez un titre qui vous inspire.</translation>
     </message>
     <message>
         <source>Make sure not to edit the game title after you&apos;ve released your game.
 When you release it online and change the title, the game will be unable to read save data from before the change.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attention : décidez d'un titre avant de publier votre jeu !
+Si vous changez le titre après publiation, les sauvegardes précédant le changement seront illisibles.</translation>
     </message>
     <message>
         <source>Next, let&apos;s change the title screen image.
 Click Images.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changeons maintenant l'image de l'écran-titre.
+Cliquez sur Images.</translation>
     </message>
     <message>
         <source>For title screens, you can combine two images. We&apos;ll select an image from the list on the left as a base,
 and an accent from the list on the right.
 Combine whatever images you like.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez combiner deux images. Choisissez une image à gauche comme base
+et une à droite qui sera affichée au dessus.
+Faites une combinaison de votre choix.</translation>
     </message>
     <message>
         <source>Once you found images you like,
 click OK to set them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>You can change the title BGM from the topmost line
 of the music list. Double click it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour changer la musique de l'écran titre, double-cliquez sur la
+première ligne de la liste de musiques.</translation>
     </message>
     <message>
         <source>Play them and sample them. If you change the pitch, the feel of the song will change, so compare and contrast.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites des tests. Vous pouvez aussi changer le volume et la vitesse des musiques. </translation>
     </message>
     <message>
         <source>Once you found something you like,
 click OK to set it.
 If nothing is really doing it for you, go back to Theme6.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Une fois que vous avez trouvé quelque chose qui vous plaît,
+cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK to set the changes
 and close the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez de nouveau sur OK
+et fermez la base de données.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll change the position of the title screen
 command window. We&apos;ll be using a plugin to do this.
 Click the puzzle piece icon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, nous allons changer la position de la fenêtre de commandes.
+Pour ce faire, utilisons un plugin. Cliquez sur l'icône de pièce de puzzle.</translation>
     </message>
     <message>
         <source>Double click the first blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne vierge.</translation>
     </message>
     <message>
         <source>When you click under Name, several plugin names will appear.
 Choose TitleCommandPosition from the list of names.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sous Nom. Plusieurs plugins vont apparaître.
+Choisissez le plugin TitleCommandPosition dans la liste.</translation>
     </message>
     <message>
         <source>The description and author of the plugin,
 as well as its parameters are displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les paramètres du plugin, sa description
+et son auteur son affichés.</translation>
     </message>
     <message>
         <source>We&apos;ve done all kinds of things using event commands and the database,
 but there are some things that are hard to accomplish using those alone.
 What makes these things possible is a plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les évènements permettent de faire beaucoup, mais certains systèmes
+sont trop compliqués pour eux.
+Les plugins sont là pour combler ces manques.</translation>
     </message>
     <message>
         <source>There are many other useful plugins
 aside from those included initially.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il existe bien d'autres plugins utiles
+en dehors de ceux inclus par défaut.</translation>
     </message>
     <message>
         <source>There are some that require configuration.
 This one requires configuration of &quot;parameters&quot;.
 There are also plugins that require
 configuration via notes and plugin commands, but we&apos;ll skip that explanation for now.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Certains demandent à être paramétrés.
+Celui-ci en est un bon exemple.
+Il existe aussi des plugins demandant à être paramétrés via des notes
+et commandes spéciales, mais passons pour le moment.</translation>
     </message>
     <message>
         <source>Now let us configure the title command position for ourselves. We&apos;re going to shift it to the bottom right.
 Double click the Offset X parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons paramétrer la position des commandes du titre. Plaçons-les en bas à droite.
+Double-cliquez sur le paramètre Offset X.</translation>
     </message>
     <message>
         <source>The name and description of the parameter will appear.
 &quot;The offset value for the X coordinate&quot; is difficult to understand,
 but a positive value will shift it to the right and a negative value will shift it to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le nom et la description de ce paramètre vont apparaître.
+&quot;Le décalage de la coordonnée X&quot; est un peu compliqué. Pour faire simple, une valeur
+positive décale vers la droite et une valeur négative, vers la gauche.</translation>
     </message>
     <message>
         <source>This time we&apos;ll move it 200 pixels to the right.
 Enter 200.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette fois, faisons un décalage de 200 pixels vers la droite.
+Entrez 200.</translation>
     </message>
     <message>
         <source>When you&apos;re done with the input, click OK and set it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next, double click Offset Y.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, double cliquez sur Offset Y.</translation>
     </message>
     <message>
         <source>The offset value for the Y coordinate
 means that a positive value will move it down, and a negative will move it up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le décalage Y marche sur le même principe :
+une valeur positive décale vers le bas, une négative vers le haut.</translation>
     </message>
     <message>
         <source>This time we&apos;ll move it down 40 pixels.
 Enter 40.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette fois, faisons un décalage de 40 pixels vers le bas.
+Entrez 40.</translation>
     </message>
     <message>
         <source>There are other parameters, but for now we&apos;ve just changed the two above.
 Click OK and set the map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il y a d'autres paramètres mais restons-en là.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done editing the title screen using a plugin.
 Click OK and set the map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez édité votre écran-titre en utilisant un plugin, bravo !
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;ll run a playtest,
 so please save the project first.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Please check and see
 how the title screen has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test.
+Vous pouvez admirer le changement
+de l'écran titre.</translation>
     </message>
     <message>
         <source>Well done. You&apos;ve now completed this tutorial. Like a house with no doors or an empty field,
 there is still room to grow.
 Please try to come up with ways to innovate on your own.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez terminé le tutoriel de RPG Maker MV... félicitations !
+Il vous reste beaucoup de choses à tester par vous-même et à apprendre.</translation>
     </message>
     <message>
         <source>Additionally, on the RPG Maker MV official site, there are courses for beginners. Please read them and further enrich your knowledge.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il existe d'autres tutoriels sur le site officiel de RPG Maker MV
+ou en français sur RPG Maker Alliance. </translation>
     </message>
     <message>
         <source>We hope that your technical skills in RPG Maker MV never stop growing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous espérons que vous continuerez de vous améliorer !</translation>
     </message>
 </context>
 <context>
