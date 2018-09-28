@@ -19902,81 +19902,81 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <source>In this step we will learn how to make an event move
 using the event command &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons apprendre à déplacer un évènement avec la commande d'évènement.</translation>
     </message>
     <message>
         <source>First let&apos;s make a new character event.
 In the northern road of the town, click near the middle
 of the long path that runs from left to right (at the T junction).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D'abord, créons un nouvel évènement sur la route au nord de la ville, au milieu de la jonction (19,10).</translation>
     </message>
     <message>
         <source>Find (19,10) and double click it.
 Open the event window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (19,10).</translation>
     </message>
     <message>
         <source>Set the image. Double click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Click People1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez People1.</translation>
     </message>
     <message>
         <source>Click the right-facing woman, second from the left in the bottom row.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la femme regardant à droite, en deuxième en bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Set her name to MovingLady.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appelez-la FemmeQuiMarche.</translation>
     </message>
     <message>
         <source>Double click the first blank line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne vide pour ajouter une commande.</translation>
     </message>
     <message>
         <source>First she&apos;ll talk about where she&apos;s going to move.
 Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elle va d'abord parler de sa façon de bouger. Cliquez sur "Afficher le texte".</translation>
     </message>
     <message>
         <source>Type in:
 &quot;I&apos;m moving 4 steps to the right now.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Je vais avancer de 4 pas vers la droite."</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Up until now has just been a review. Now we&apos;re going to &quot;Set Movement Route&quot;. Double click the blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne vide suivante.</translation>
     </message>
     <message>
         <source>Switch to Page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Déplacer un évènement.</translation>
     </message>
     <message>
         <source>The movement target is currently set to &quot;Player&quot;.
 Please change it to &quot;This Event&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La cible du déplacement est actuellement le joueur. Changez-la pour Cet évènement.</translation>
     </message>
     <message>
         <source>Check off &quot;Skip If Cannot Move&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez "Ignorer les mouvements impossibles".</translation>
     </message>
     <message>
         <source>Remove the check from &quot;Wait for Completion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Décochez "Attendre la fin".</translation>
     </message>
     <message>
         <source>Set the movement route as follows:
@@ -19984,163 +19984,167 @@ Move Right
 Move Right
 Move Right
 Move Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créez la trajectoire suivante :
+Pas vers la droite
+Pas vers la droite
+Pas vers la droite
+Pas vers la droite</translation>
     </message>
     <message>
         <source>Make sure that there are four instances of &quot;Move Right&quot; in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous qu'il y ait 4 pas vers la droite dans la liste.</translation>
     </message>
     <message>
         <source>Click OK to set the movement route.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK to set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the event preparation is ready. Let&apos;s change the player&apos;s initial position to make playtesting easier.
 After clicking a few squares away from the event, right click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant que la préparation est terminée, changeons la position de départ du joueur pour faciliter le test. Cliquez-droit sur une case près de l'évènement.</translation>
     </message>
     <message>
         <source>Select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Définissez la position de départ du héros.</translation>
     </message>
     <message>
         <source>First we&apos;ll save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Now conduct a playtest.
 Talk to the NPC a few times and check the movement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test. Parlez au PNJ quelques fois et regardez-la bouger.</translation>
     </message>
     <message>
         <source>Once you&apos;re done, there&apos;s some more explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous aurez fini, nous expliquerons quelques notions.</translation>
     </message>
     <message>
         <source>If the player character talks to her from their right or the path is blocked, her movement will be stopped.
 This is the effect of &quot;Skip If Cannot Move&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si le joueur lui parle depuis sa droite, ou que le chemin est bloqué par autre chose, le mouvement n'aura pas lieu. C'est grâce à "Ignorer les mouvements impossibles".</translation>
     </message>
     <message>
         <source>Could you playtest again to check that this is working?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pourriez-vous tester une autre fois pour vérifier que cela fonctionne ?</translation>
     </message>
     <message>
         <source>Next, we&apos;ll make two events move simultaneously.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, nous allons déplacer deux évènements en même temps.</translation>
     </message>
     <message>
         <source>Let&apos;s make a male NPC event parallel to the woman.
 Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créons un autre PNJ au-dessus la femme. Double-cliquez sur (19,9).</translation>
     </message>
     <message>
         <source>Set his name to MovingDude.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez-le HommeQuiMarche.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select People1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez People1.</translation>
     </message>
     <message>
         <source>Choose the man facing right on the left in the bottom row.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'homme regardant à droite, en premier en bas.</translation>
     </message>
     <message>
         <source>Switch to Page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur "Afficher le texte".</translation>
     </message>
     <message>
         <source>Type in:
 &quot;I&apos;m going to move with that lady.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Je vais marcher avec cette femme."</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;ll make it so the man moves with the lady when you talk to her.
 Double click MovingLady.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire en sorte que l'homme bouge avec la femme quand on parle à celle-ci. Double-cliquez sur FemmeQuiMarche.</translation>
     </message>
     <message>
         <source>If we add an event to make the man move in the same way as the lady after her event, it&apos;ll look like they&apos;re walking together.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si nous ajoutons une commande pour déplacer l'homme, ils bougeront en même temps.</translation>
     </message>
     <message>
         <source>But it&apos;s a pain to do the setup all over again. Here we will take advantage of copying &amp; pasting.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mais c'est ennuyeux de tout refaire une deuxième fois. Nous allons copier et coller la commande.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route...&quot; so it&apos;s selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur "Déplacer un évènement..." pour sélectionner la commande.</translation>
     </message>
     <message>
         <source>While it&apos;s selected, right click and choose &quot;Copy&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quand elle est sélectionnée, cliquez-droit et choisissez Copier.</translation>
     </message>
     <message>
         <source>Now right click the last empty line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, cliquez-droit sur la ligne vide.</translation>
     </message>
     <message>
         <source>Choose &quot;Paste&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Coller.</translation>
     </message>
     <message>
         <source>We&apos;ll edit the event command you just pasted.
 Right click and select &quot;Edit...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons éditer la commande que vous venez de coller. Cliquez-droit et choisissez Editer.</translation>
     </message>
     <message>
         <source>Change &quot;This Event&quot; to &quot;MovingDude&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez la cible "Cet évènement" en "HommeQuiMarche".</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The preparation is complete. Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La préparation est terminée. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run a playtest, and make sure the man moves with the woman when you talk to her.
 Also, check to see that if you block one of their paths that they will no longer be lined up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test, et assurez-vous que l'homme bouge avec la femme quand vous lui parlez. Remarquez que lorsque vous bloquez l'un des deux, ils ne seront plus alignés.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest we have a quick note.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous aurez terminé, nous expliquerons quelque chose.</translation>
     </message>
     <message>
         <source>Although this time we removed the check from &quot;Wait for Completion&quot;, when you want one to move after the other, check it off.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien que cette fois nous avons décoché "Attendre la fin", si vous voulez que les évènements bougent l'un après l'autre, cochez l'option.</translation>
     </message>
     <message>
         <source>However, sometimes when you use &quot;Wait for Completion&quot; and the path is blocked by an obstacle, you may no longer be able to progress in the game, so be careful.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cependant, si vous utiliser "Attendre la fin" est que la trajectoire est en attente à cause d'un obstacle, le jeu pourrait se bloquer, donc faites attention.</translation>
     </message>
     <message>
         <source>That&apos;s it for this explanation. Well done.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C'est tout ! Bien joué.</translation>
     </message>
 </context>
 <context>
