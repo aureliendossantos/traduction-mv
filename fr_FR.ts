@@ -8021,7 +8021,7 @@ Please lower the file size of this project.</source>
     </message>
     <message>
         <source>%1 is facing %2</source>
-        <translation>%1 fait face à %2</translation>
+        <translation>%1 regarde %2</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -20815,112 +20815,112 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>In this step, we&apos;ll change up the previous step and learn more about conditional branching.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons modifier les créations de l'étape précédente pour en apprendre plus sur les conditions.</translation>
     </message>
     <message>
         <source>In Step 5 we used a switch to determine if conditions were met.
 However, it&apos;s also possible to determine if the player has a potion or not without using switches.
 Let&apos;s try it for ourselves.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans l'étape 5, nous utilisions un interrupteur pour vérifier les conditions. Cependant, nous pouvons savoir si le joueur possède une potion ou non sans utiliser d'interrupteur. Essayons cela.</translation>
     </message>
     <message>
         <source>Double click PotionWoman (23,22).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur FemmePotion (23,22).</translation>
     </message>
     <message>
         <source>Open page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>We&apos;re going to change the appearance condition from Switch to Item.
 Remove the check from Switch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons changer cette condition d'Interrupeur à Objet. Décochez Interrupteur.</translation>
     </message>
     <message>
         <source>Check off Item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Objet.</translation>
     </message>
     <message>
         <source>Make sure it is set to &quot;Potion&quot;.
 It will be fulfilled when you have the item in question.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que ce soit réglé sur la Potion. La page sera valide tant que vous aurez l'objet.</translation>
     </message>
     <message>
         <source>Open page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Now we no longer need the &quot;Control Switch&quot;, so we&apos;ll delete it.
 This can be done by right clicking and selecting &quot;Delete&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous n'avons plus besoin de "Modifier un interrupteur..." donc nous allons le supprimer. Cliquez-droit et choisissez Supprimer.</translation>
     </message>
     <message>
         <source>Now we&apos;ve set her to give you a potion any time that you don&apos;t have one.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, la femme donnera une potion lorsque vous n'en avez aucune.</translation>
     </message>
     <message>
         <source>Next, double click the man who judges whether or not you have a potion (25,22).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, double-cliquez sur l'homme qui vérifie si vous avez une potion (25,22).</translation>
     </message>
     <message>
         <source>We&apos;ll change the condition in the conditional branch.
 Right click and select &quot;Edit...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons changer sa branche conditionnelle. Cliquez-droit et choisissez Editer...</translation>
     </message>
     <message>
         <source>Click the tab for the 4th page and open it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 4.</translation>
     </message>
     <message>
         <source>Check off &quot;Item&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Objet.</translation>
     </message>
     <message>
         <source>Please make sure that the item is set to &quot;Potion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que la Potion est sélectionnée.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the condition is &quot;the party possesses a potion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, la condition est "l'équipe possède une potion".</translation>
     </message>
     <message>
         <source>Now we&apos;re done editing the event.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons fini de modifier l'évènement. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save your project before running a playtest.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez le projet avant de le tester.</translation>
     </message>
     <message>
         <source>Run a play test, and check the events.
 Pay attention to whether you can receive another potion
 after getting a potion and losing it by talking to the child.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test et remarquez que vous pouvez reprendre une potion après l'avoir perdue.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest, there&apos;s some more explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous aurez terminé votre test, nous expliquerons certaines choses.</translation>
     </message>
     <message>
         <source>We learned that by making a condition that generates items, we can perform different actions than with a switch. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons vu qu'en créant une condition qui crée des objets, nous pouvons réaliser des actions différentes qu'avec un interrupteur.</translation>
     </message>
     <message>
         <source>To create a situation where once you get an item you can never get it again, we use switches,
 and for a situation where you can receive the item continually it&apos;s best to branch using items.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quand on ne doit jamais pouvoir récupérer l'objet une nouvelle fois, on utilise un interrupteur. Quand on peut le recevoir à nouveau, c'est mieux de faire une condition avec l'objet.</translation>
     </message>
     <message>
         <source>There are still many other conditions you can specify,
 so please try them out for yourself to learn about them.
 But the one you will have the most opportunities to use is the switch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il existe un tas d'autres conditions possibles, n'hésitez donc pas à les essayer par vous-même. Celle que vous utiliserez le plus souvent est probablement l'interrupteur.</translation>
     </message>
 </context>
 <context>
@@ -21631,144 +21631,144 @@ Projects are in the Games folder in My Documents.</source>
     <message>
         <source>Next, we&apos;ll take several steps and using event commands,
 create a somewhat elaborate setup.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Au cours des prochaines étapes, nous utiliserons les évènements pour créer des scènes plus élaborées.</translation>
     </message>
     <message>
         <source>In this step we&apos;re going to make a noticeboard in the town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons créer un panneau d'affichage dans la ville.</translation>
     </message>
     <message>
         <source>Select &quot;Normal Town&quot; from the map tree.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez la Ville normale dans la liste des cartes.</translation>
     </message>
     <message>
         <source>The position is going to be on the upper left side of the first intersection from the town entrance, to the right of the barrel, coordinates (17,31).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La position sera en haut à gauche de la première intersection depuis l'entrée de la ville, à droite du baril, aux coordonnées (17,31).</translation>
     </message>
     <message>
         <source>Double click coordinates (17,31).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (17,31).</translation>
     </message>
     <message>
         <source>Enter &quot;Noticeboard&quot; as the event name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez l'évènement "Panneau".</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select Tileset B, second from the bottom of the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Tileset B en bas de la liste.</translation>
     </message>
     <message>
         <source>Click the tile with the noticeboard.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le tile avec le panneau d'affichage.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>This way we can also set tiles on the layers above the event image (B-E).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De cette façon, nous pouvons aussi placer des tiles sur les couches au-dessus de l'image de l'évènement (B-E).</translation>
     </message>
     <message>
         <source>Set the priority to &quot;Same as characters&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez la priorité à "Même que les personnages".</translation>
     </message>
     <message>
         <source>Next we&apos;ll set up the content. Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons au contenu. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>First we want to determine which way the character is facing when they investigate the board. Click &quot;Conditional Branch...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D'abord, nous souhaitons déterminer dans quelle direction le joueur regarde quand il interagit. Cliquez sur Condition...</translation>
     </message>
     <message>
         <source>What we want to know for branching is which way the player is facing.
 Click the page 3 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour vérifier la direction du joueur, rendez-vous sur la page 3.</translation>
     </message>
     <message>
         <source>Check off &quot;Character&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez "L'évènement".</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Player&quot; is facing &quot;Down&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que le Joueur regarde vers le bas.</translation>
     </message>
     <message>
         <source>Check off &quot;Create Else Branch&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez "Exécuter autre chose si la condition n'est pas remplie".</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Since you can&apos;t read a noticeboard from the back, we&apos;ll set it up so that it can&apos;t be read when the player is facing down, but it will be read in all other cases.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comme vous ne pouvez pas lire un panneau depuis derrière, nous allons l'empêcher d'être lu quand le joueur regarde en bas.</translation>
     </message>
     <message>
         <source>Double click the blank line under &quot;Else&quot;,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne vide sous "Sinon".</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter:
 &quot;\&gt;Someone, get rid of the monsters in the eastern cave.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "\&gt;S'il vous plaît, débarrassez-nous des monstres dans la grotte à l'est."</translation>
     </message>
     <message>
         <source>\&gt; is a control character that will instantly display all the text of the line. This is appropriate for the text display on a noticeboard.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">\&gt; est une commande pour afficher instantanément le texte sur cette ligne. C'est approprié à l'affichage du texte d'un panneau.</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll enter the text for when the noticeboard is read from behind. Double click the line under &quot;If: Player is facing Down&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, entrons le texte qui sera affiché lorsque le panneau est lu depuis l'arrière. Double-cliquez sur la ligne sous "Si : Joueur regarde Bas".</translation>
     </message>
     <message>
         <source>Enter:
 &quot;\&gt;You can&apos;t read it from the back.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "\&gt;Vous ne pouvez pas le lire depuis l'arrière."</translation>
     </message>
     <message>
         <source>Now we&apos;re done creating the noticeboard event.
 Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons terminé la création de ce panneau. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now let&apos;s run a playtest.
 First, save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, testons le jeu. D'abord, sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start your playtest,
 and read the noticeboard from the top, sides, and bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le test, et lisez le panneau depuis les différentes directions.</translation>
     </message>
     <message>
         <source>When you&apos;re done, there will be a short explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous aurez terminé, il y aura une courte explication.</translation>
     </message>
     <message>
         <source>We&apos;ve set up a noticeboard as the event image,
 but you can place the noticeboard on the map, and then place
 an event with no image above that as well.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons configuré un panneau comme image de l'évènement, mais vous pourriez aussi dessiner le panneau sur la carte, puis placer un évènement sans image dessus.</translation>
     </message>
     <message>
         <source>A noticeboard event has various applications.
 That&apos;s the end of the explanation of Step 9.</source>
-        <translation type="unfinished"></translation>
-    </message>
+</message>
+<translation type="unfinished">C'est la fin de l'étape 9 !</translation>
 </context>
 </TS>
