@@ -5066,7 +5066,7 @@ Essayez d&apos;effacer ou de réinitialiser la valeur.</translation>
     </message>
     <message>
         <source>Seal Equip</source>
-        <translation>Équipement interdit</translation>
+        <translation>Équip. interdit</translation>
     </message>
     <message>
         <source>Prevents the equipping of any equipment for the specified equipment slot. For example, preventing the use of shields for a given weapon makes it a two-handed weapon, and preventing the wearing of a headgear for a given piece of armor results in full body armor.</source>
@@ -16765,325 +16765,350 @@ but please familiarize yourself with them bit by bit.</source>
 </context>
 <context>
     <name>TutorialStep14</name>
-    <message>
+     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
         <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 13?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé à l'étape 13 ?</translation>
     </message>
     <message>
         <source>Loading the step 13 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet de l'étape 13.</translation>
     </message>
     <message>
         <source>Please select the step 13 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 14. Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau Projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et un titre de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>This time, we&apos;ll make damage floors and a skill to avoid them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le but de cette étape sera de créer un sol dangereux ainsi qu'une compétence
+permettant de les éviter.</translation>
     </message>
     <message>
         <source>Firstly, there will be an explanation of damage floors.
 Please open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commençons par une explication des sols dangereux.
+Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the &quot;Tileset&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet &quot;Tileset&quot;.</translation>
     </message>
     <message>
         <source>Click #4, &quot;Dungeon&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le #4, &quot;Donjon&quot;.</translation>
     </message>
     <message>
         <source>Click &quot;Damage Floors&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Dégâts du sol&quot;.</translation>
     </message>
     <message>
         <source>The tiles with a double triangle mark are damage floors.
 You can change them by clicking, but we won&apos;t be changing them this time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les tiles marqués d'un double triangle sont des sols dangereux.
+Vous pouvez les changer en cliquant dessus, mais nous ne ferons pas ça cette fois-ci.</translation>
     </message>
     <message>
         <source>When the party leader walks over &quot;damage floor&quot; tiles, all party members will lose 10 HP.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque le chef d'équipe marche sur un &quot;sol dangereux&quot;, tous les membres
+perdront 10PV.</translation>
     </message>
     <message>
         <source>Click OK and return to the map.
 We will place damage floors on the dungeon map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK et retournez sur la carte.
+Nous allons placer des tiles de sol dangereux.</translation>
     </message>
     <message>
         <source>Switch to Map mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez en Mode carte.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Click on a damage floor from the tile palette.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez un sol dangereux dans la palette sur la gauche.</translation>
     </message>
     <message>
         <source>Place the damage floor wherever you&apos;d like.
 When you&apos;re done, we&apos;ll move on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Placez-le où vous voulez.</translation>
     </message>
     <message>
         <source>We will go back to event mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Repassez en Mode évènement.</translation>
     </message>
     <message>
         <source>Because it would be nice to provide a skill that allows the player to negate the effects of a damage floor, we will be making that next.
 Please open the database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afin de faciliter la vie du joueur, nous allons créer une compétence invalidant l'effet des 
+sols dangereux.
+Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>In order to do this, we will first create a state that invalidates damage floors,
 and then create a skill that applies that state when cast.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour commencer, il nous faut créer un état qui invalide les sols dangereux,
+puis créer une compétence qui donne cet état lorsqu'elle est lancée.</translation>
     </message>
     <message>
         <source>So let us first create the state.
 Click the &quot;States&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet États</translation>
     </message>
     <message>
         <source>Click &quot;Change Maximum...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Changer maximum..;&quot;.</translation>
     </message>
     <message>
         <source>Change the maximum from 10 to 11.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez le maximum de 10 à 11.</translation>
     </message>
     <message>
         <source>Click OK to change the maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click and select #11.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le #11.</translation>
     </message>
     <message>
         <source>Enter the name as Floor
 Damage Immunity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom
+Immunité aux dégâts environnementaux.</translation>
     </message>
     <message>
         <source>We will set the icon.
 Double click the image area.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur l'image pour choisir une icône.</translation>
     </message>
     <message>
         <source>Click and select an appropriate icon.
 (Here we will select a bronze star mark)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites votre choix !</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the top line in Traits.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne dans Attributs.</translation>
     </message>
     <message>
         <source>Click the Parameter tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet paramètres.</translation>
     </message>
     <message>
         <source>Check off &quot;Sp-Parameter&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Paramètre Sp&quot;.</translation>
     </message>
     <message>
         <source>Select Floor Damage from the special parameter list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Dégâts du sol dans la liste de paramètres.</translation>
     </message>
     <message>
         <source>Change 100% to 0%.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez 100% en 0%.</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting the traits for &quot;Floor Damage Immunity&quot;.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les attributs de notre compétence sont réglés.
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Remove by Walking&quot; under Removal Conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Retrait en marchant&quot;.</translation>
     </message>
     <message>
         <source>Make sure it is set to 100 steps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez un nombre de 100 pas.</translation>
     </message>
     <message>
         <source>Under &quot;If the state is removed&quot;,
 enter:
 &quot;You are vulnerable to floor damage again.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sous &quot;Si l'état est supprimé&quot;, écrivez :
+&quot;Vous êtes de nouveau susceptibles aux dégâts du sol.&quot;</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the state.
 Next, click the &quot;Skill&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant que l'état est configuré, allez dans l'onglet &quot;Compétences&quot;.</translation>
     </message>
     <message>
         <source>Change the maximum from 11 to 12.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez le maximum de 11 à 12.</translation>
     </message>
     <message>
         <source>Click OK to set the maximum value.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>This time we don&apos;t have any similar skills, so we&apos;ll start from scratch.
 Click on blank #12.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comme il n'existe pas de compétence similaire, nous allons en créer une.
+Cliquez sur le #12 vierge.</translation>
     </message>
     <message>
         <source>Let&apos;s give it a skill name.
 Enter:
 Cancel Floor Damage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appelez la compétence :
+Lévitation</translation>
     </message>
     <message>
         <source>Enter Grants immunity to floor damage for 100 steps
  in the description.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez comme description:
+Ignore les dégâts du sol pour 100 pas.</translation>
     </message>
     <message>
         <source>Double click the icon image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doublez-cliquez sur l'icône.</translation>
     </message>
     <message>
         <source>Choose an icon to your liking.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites votre choix !</translation>
     </message>
     <message>
         <source>Click OK and the icon will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Change the Scope to All Allies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez la portée à Équipe entière.</translation>
     </message>
     <message>
         <source>Change the Occasion to the Menu Screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez la Disponibilité à Écran de menu</translation>
     </message>
     <message>
         <source>Change the MP cost to 5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez le coût en PM à 5.</translation>
     </message>
     <message>
         <source>Click &quot;casts *!&quot; as the message.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;lance *!&quot; en tant que message.</translation>
     </message>
     <message>
         <source>Double click the blank line at the top of Effects.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne vierge en haut de Effets.</translation>
     </message>
     <message>
         <source>Click the &quot;State&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquee sur l'onglet &quot;États&quot;.</translation>
     </message>
     <message>
         <source>Check off &quot;Add State&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Ajouter état&quot;.</translation>
     </message>
     <message>
         <source>Select &quot;Floor Damage Immunity&quot; from the states.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'état &quot;Immunité aux dégâts environnementaux&quot;.</translation>
     </message>
     <message>
         <source>Make sure it&apos;s set to 100%,
 click OK and set it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez qu'il soit réglé à 100%,
+puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the skill is complete. We&apos;ll make someone learn it.
 Click the &quot;Classes&quot; tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La compétence est terminée ! Apprenez-la maintenant à quelqu'un.
+Cliquez sur l'onglet &quot;Classes&quot;.</translation>
     </message>
     <message>
         <source>Click #4, &quot;Priest&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le Prêtre en #4.</translation>
     </message>
     <message>
         <source>Click the next line in &quot;Skills to Learn&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la ligne suivante dans &quot;Compétences à apprendre&quot;.</translation>
     </message>
     <message>
         <source>With the level at 1, click the skill
 and select #12, Cancel Floor Damage. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez le niveau à 1 puis cliquez sur la compétence
+#12, Lévitation.</translation>
     </message>
     <message>
         <source>Now Lucius has learned floor damage magic.
 Here&apos;s one more explanation.
 Click the System tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lucius connaît désormais la compétence Lévitation !
+Allez dans l'onglet &quot;Système&quot;.</translation>
     </message>
     <message>
         <source>If the option &quot;Knockout by Floor Damage&quot;
 is not checked off, the HP of the actors will not go below 1 even if they are hit by a damage floor.
 This time we will leave it unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si l'option &quot;KO par dégâts du sol&quot; n'est pas cochée,
+les PV des héros ne descendront pas en dessous de 1 même s'ils marchent sur un sol dangereux.
+Nous allons laisser cette option décochée pour cette fois.</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the database.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez fini de configurer la compétence ! 
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Please try everything,
 such as taking damage and using the floor damage immunity skill.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un test.
+Essayez de marcher sur les sols dangereux avec et sans
+la compétence Lévitation activée.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 14.
 In the next step we will continue to deal with dungeon setup.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué ! Vous avez terminé l'étape 14.
+L'étape suivante vous apprendra à créer un point de rétablissement.</translation>
     </message>
 </context>
+<!-- FAITE A PARTIR D'ICI-->
 <context>
     <name>TutorialStep15</name>
     <message>
@@ -17092,267 +17117,280 @@ In the next step we will continue to deal with dungeon setup.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 14?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé à l'étape 14 ?</translation>
     </message>
     <message>
         <source>Loading the step 14 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet de l'étape 14.</translation>
     </message>
     <message>
         <source>Please select the step 14 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 14. Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau Projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et un titre de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we will create a point
 in the dungeon where the player can save and heal.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons créer un point de sauvegarde et de soin dans le donjon.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Having a spot where you can save and heal right before a boss is par for the course in RPGs these days, and we&apos;ll be using the same plan here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De nos jours, il est normal d'avoir un endroit où sauvegarder et se soigner avant un boss dans un RPG. C'est exactement ce que nous allons faire ici.</translation>
     </message>
     <message>
         <source>We will be assuming that the boss will be positioned in the mossy area to the upper right. First, scroll the map far to the upper right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le boss sera situé dans la partie en haut à droite de la carte. Déjà, faites défiler la carte jusqu'à ce point.</translation>
     </message>
     <message>
         <source>We plan to place the boss at (34,7) in a later step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous placerons le boss en (34,7) plus tard.</translation>
     </message>
     <message>
         <source>This time, we&apos;ll place a restore point on the floor nearby (30,11).
 Find (30,11).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commençons par placer un point de rétablissement sur le sol en (30,11).</translation>
     </message>
     <message>
         <source>Double click (30,11).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (30,11).</translation>
     </message>
     <message>
         <source>Enter the name as Restore Point.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom "Point de rétablissment"</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Click !Door2 from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur !Door2.</translation>
     </message>
     <message>
         <source>Select the magic circle you like best from the lower half.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez le pentagramme que vous désirez dans la partie inférieure.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Direction Fix&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Regard Fixe&quot;.</translation>
     </message>
     <message>
         <source>Change the priority to &quot;Below characters&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez la priorité en &quot;Sous le personnage&quot;.</translation>
     </message>
     <message>
         <source>Set the trigger to &quot;Player Touch&quot;.
 Now we&apos;ve made it so the event will be launched when the player stands on it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez l'enclenchement en &quot;Au contact du joueur&quot;.
+L'évènement se déclenchera désormais quand le joueur sera au dessus du cercle magique.</translation>
     </message>
     <message>
         <source>Double click the topmost line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliques sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to switch to page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 2 pour changer de page.</translation>
     </message>
     <message>
         <source>Click &quot;Gather Followers&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Regrouper la chenille&quot;.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Play SE...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Jouer SE...&quot;.</translation>
     </message>
     <message>
         <source>Find Heal1 in the list and click it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trouvez Heal1 dans la liste et cliquez dessus.</translation>
     </message>
     <message>
         <source>Click OK and set the SE (sound effect).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK et choissisez un effet sonore.</translation>
     </message>
     <message>
         <source>Click &quot;Flash Screen...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Flasher l'écran..;&quot;.</translation>
     </message>
     <message>
         <source>After making sure that the duration is set to 60 frames and that Wait for Completion is checked off,
 click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que la durée est bien de 60 frames, que Attendre la fin est bien coché,
+puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we will heal the party members.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant soigner l'équipe.
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab to switch to page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 1.</translation>
     </message>
     <message>
         <source>Note: We will not be using &quot;Recover All&quot; this time.
 This is for removing all states, so even positive states
 like floor damage immunity will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Note : Nous n'allons pas simplement utiliser &quot;Guérir complètement&quot; cette fois.
+Le but est de retirer toutes les altérations, même positives comme l'immunité aux dégâts du sol.</translation>
     </message>
     <message>
         <source>Instead we will combine &quot;Change State&quot;, &quot;Change HP&quot; and &quot;Change MP&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">À la place, nous allons combiner &quot;Modifier les états&quot;, &quot;Modifier les PV&quot; et &quot;Modifier les PM&quot;.</translation>
     </message>
     <message>
         <source>First we will remove Knockout.
 Click &quot;Change State...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tout d'abord, retirons l'état KO. Cliquez sur &quot;Modifier les états...&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to Entire Party, and that the State is set to Knockout. Then click &quot;Remove&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que la cible soit l'équipe entière et que l'état soit KO, puis cliquez sur Retirer.</translation>
     </message>
     <message>
         <source>Now Knockout will be removed from the whole party.
 No other negative states will be dealt with in this tutorial, so this is enough.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'état KO va maintenant être retiré de l'équipe entière.
+Nous ne traiteront aucun autre état négatif dans ce tutoriel. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change HP...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier les PV...&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;, and then enter 9999 as the constant.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que la cible soit l'équipe entière et que l'opération soit &quot;Augmenter&quot;, puis entrer la valeur fixe 9999.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change MP...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier les PM...&quot;.</translation>
     </message>
     <message>
         <source>Next, we will make it ask about saving.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Au tour de la sauvegarde !
+Double-cliques sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher un texte..;&quot;.</translation>
     </message>
     <message>
-        <source>Enter Do you want to save?
+        <source>Écrivez &quot;Voulez-vous sauvegarder ?&quot;.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click OK and set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Show Choices...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Afficher les choix...&quot;.</translation>
     </message>
     <message>
         <source>Click OK as-is and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>&quot;When Yes&quot; will perform the save process, while &quot;When No&quot; will do nothing.
 Double click the line under &quot;When Yes&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;Si oui&quot; effectuera la sauvegarde, &quot;Si non&quot; ne fera rien.
+Double-cliquez sur la ligne en dessous de &quot;Si oui&quot;.</translation>
     </message>
     <message>
         <source>Click the tab and open page 3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 3.</translation>
     </message>
     <message>
         <source>Click Open Save Screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Ouvrir le menu de sauvegarde&quot;.</translation>
     </message>
     <message>
         <source>Here we will have a brief explanation on saves.
 You can always save from the menu,
 but if you use the &quot;Change Save Access&quot; event command,
 the player will be unable to save from the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Petite explication sur les sauvegardes :
+La sauvegarde à partir du menu est autorisée à moins que vous n'utilisez la commande &quot;Accès aux sauvegardes&quot; pour la désactiver.</translation>
     </message>
     <message>
         <source>In this tutorial, we will not disable save access. Therefore, there is no need to ask if the player would like to save,
 but urging the player to save before an important part of the game like this would be a nice thing to do.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans ce tutoriel, nous ne le ferons pas ; il est donc inutile de demander au joueur s'il souhaite
+sauvegarder, mais rappeler au joueur qu'il est important de le faire avant un boss est une bonne pratique !</translation>
     </message>
     <message>
         <source>Now we&apos;re done making the restore point.
 Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons maintenant terminé le point de rétablissement. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Reduce your HP on the damage floor and then get on the restore point,
 making sure your HP was actually recovered by checking on the menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Testez le projet !
+Perdez de la vie en marchant sur les endroits dangereux au sol et utiliser le point de rétablissement,
+en vérifiant dans le menu que votre vie est bien restaurée.</translation>
     </message>
     <message>
         <source>Well done. Step 15 is done here.
 This tutorial uses configuration with the minimum number of components,
 so there&apos;s lots of room for improvement. When you make your own projects,
 try adding even more components.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'étape 15 est terminée, bravo !
+N'hésitez pas à vous amuser avec ces options dans votre jeu, avec par exemple des points de rétablissement limités.
+Laissez parler votre créativité !</translation>
     </message>
 </context>
 <context>
@@ -17363,393 +17401,408 @@ try adding even more components.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 15?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 15 ?</translation>
     </message>
     <message>
         <source>Loading the step 15 project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 15 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le projet de l'étape 15.
+Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project complete.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we will place treasure chests and enemy troops in the dungeon. For battle, we&apos;ll be using symbol encounters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons placer des coffres et des ennemis dans le donjon.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot; from the tree view.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>First we will place the treasure chests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commençons par les coffres.</translation>
     </message>
     <message>
         <source>Scroll to the bottom left of the map, displaying the area around the entrance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez en bas à gauche de la carte, près de l'entrée.</translation>
     </message>
     <message>
         <source>We&apos;ll use the grotto to the left of the entrance.
 Find the coordinates (3,23).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons utiliser l'espace à gauche de l'entrée, en (3,23).</translation>
     </message>
     <message>
         <source>Right click on (3,23),
 and select
 Quick Event Creation &gt; Treasure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur (3,23) puis sélectionnez l'évènement rapide Trésor.</translation>
     </message>
     <message>
         <source>The contents will be a TP Charge.
 Click Item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il contiendra une recharge de PT. Cliquez sur Objet.</translation>
     </message>
     <message>
         <source>Select &quot;TP Charge&quot; from the item list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la recharge de PT.</translation>
     </message>
     <message>
         <source>Click OK and create the treasure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK pour créer le coffre à trésor.</translation>
     </message>
     <message>
         <source>Placing chests at dead ends
 makes it worth the player&apos;s while to explore them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Placer des coffres dans des impasses est une bonne façon de pousser le joueur à explorer !</translation>
     </message>
     <message>
         <source>Now we&apos;ll place our second treasure.
 Scroll to the bottom right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, plaçons notre second coffre en bas à droite de la carte.</translation>
     </message>
     <message>
         <source>It&apos;s just south of the room with the boss.
 Find (36,24).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trouvez le tile (36,24), au sud de la salle du boss.</translation>
     </message>
     <message>
         <source>Right click on (36,24),
 and select
 Quick Event Creation &gt; Treasure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur (36,24) puis sélectionnez l'évènement rapide Trésor.</translation>
     </message>
     <message>
         <source>Check off &quot;Item&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez &quot;Objet&quot;.</translation>
     </message>
     <message>
         <source>Select #5, Elixir, from the item list.
 This item can&apos;t be bought, and it&apos;s useful for bosses.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez un Elixir dans la liste. Cet objet ne peut être acheté et est très utile contre un boss.</translation>
     </message>
     <message>
         <source>Now we&apos;ve placed 2 treasure chests.
 For a cave of this size, 3 to 5 would be appropriate.
 So we will place a few more chests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons placé 2 coffres à trésor. Dans une grotte de cette taille, quelques uns de plus ne seraient pas de refus !</translation>
     </message>
     <message>
         <source>Place another 1 to 3 chests.
 Where you place them and their contents is up to you.
 Once you&apos;ve placed them, we&apos;ll move on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Placez un ou deux coffres supplémentaires et remplissez-les comme vous le voulez.</translation>
     </message>
     <message>
         <source>Next we will place enemy troops. They will be the typical weaklings that you&apos;d find in a dungeon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, nous allons prévoir des combats contre des ennemis faibles, typiques d'un tel donjon.</translation>
     </message>
     <message>
         <source>In this tutorial, we will be using symbol encounters. In this system, troops will each be an event,
 and when touched, battle will start.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans ce tutoriel, nous allons utiliser des rencontres fixes : pour chaque combat, un symbole
+représentant un groupe d'ennemis est visible sur la carte et le combat commence au contact du joueur.
+Ce système permet au joueur de choisir son propre rythme de combat.</translation>
     </message>
     <message>
         <source>Now, the opposite of a &quot;symbol encounter&quot; is a &quot;random encounter&quot;.
 First we&apos;ll explain random encounters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'opposé de ce système, c'est celui de rencontres aléatoires.</translation>
     </message>
     <message>
         <source>Random encounters are an encounter style where battles will suddenly start while the player walks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lors d'une rencontre aléatoire, les combats commencent sans avertissement pendant que le joueur se déplace.</translation>
     </message>
     <message>
         <source>Let&apos;s explain how to set up random encounters.
 Right click &quot;Stone Cave&quot; from the map tree and select &quot;Edit&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons commencer par voir comment régler ces rencontres aléatoires.
+Faites un clic droit sur &quot;Grotte de pierre&quot;, puis sélectionnez &quot;Éditer&quot;.</translation>
     </message>
     <message>
         <source>Double click the first line
 in the Encounters list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne dans la liste de rencontres.</translation>
     </message>
     <message>
         <source>You can set the troops that will appear in that map (or a specified area of the map) and their weight (likelihood to be chosen as the encounter).
 We won&apos;t be configuring this so click cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez choisir quels groupes d'ennemis apparaitront sur la carte et leur probabilité de rencontre. 
+Nous n'allons pas le faire ici, appuyez donc sur Annuler.</translation>
     </message>
     <message>
         <source>Take note of the Encounter Steps.
 This is a reference value for how many steps on average will be walked before a battle starts in the random encounter system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Souvenez-vous bien de la Fréquence de combat, qui définit combien de pas en moyenne
+le joueur effectuera avant qu'une rencontre aléatoire se lance.</translation>
     </message>
     <message>
         <source>That&apos;s it for the random encounter explanation.
 The main feature of random encounters is that you get the thrill of never knowing when a battle will happen, because you can&apos;t see the enemies. Click cancel and close the window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous en avons fini avec l'explication des rencontres aléatoires.
+Elles présentent des avantages, comme l'équilibrage plus précis des combats au long d'un jeu, mais peuvent aussi frustrer un joueur
+si elles sont trop fréquentes. Soyez prudents !
+Cliquez sur Annuler pour fermer la fenêtre.</translation>
     </message>
     <message>
         <source>Now let&apos;s return to symbol encounters.
 Where should we put the enemy symbols?
 As an example, this time we will plan to put them near the treasures we placed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Revenons à nos rencontres fixes.
+Où placer les symboles de rencontres ? Pour commencer, mettons-les près de nos coffres.</translation>
     </message>
     <message>
         <source>If they&apos;re near treasure, players who wish to take the shortest route can avoid excessive battles,
 and it also provides player incentive as they can open the treasures if they do battle.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les joueurs proches des coffres pourront ainsi soit manoeuvrer pour éviter les combats,
+soit les faire pour obtenir une récompense gratifiante.</translation>
     </message>
     <message>
         <source>This time we&apos;ll keep it simple and place 3 enemy symbols.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allons au plus simple avec trois rencontres.</translation>
     </message>
     <message>
         <source>Let&apos;s get to creating the event that will serve as an enemy symbol. If you make one, there&apos;s no issue if you duplicate by copying and pasting and then fine tune.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons commencer par créer l'évènement qui servira de symbole. Vous pourrez après le copier pour placer d'autres rencontres.</translation>
     </message>
     <message>
         <source>First, let&apos;s place troop #1 near our first treasure.
 Scroll the map to display the lower left of the dungeon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons placer le premier près du trésor en bas à gauche de la grotte.</translation>
     </message>
     <message>
         <source>We&apos;ll place them on (8,24). Find those coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trouvez le tile (8,24).</translation>
     </message>
     <message>
         <source>Double click (8,24).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doublez-cliquez sur le tile (8,24).</translation>
     </message>
     <message>
         <source>Enter the name as Enemy Symbol.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom Symbole Rencontre.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Select Monster from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Monstres.</translation>
     </message>
     <message>
         <source>From the bats on the leftmost side of the top half,
 we&apos;ll select the center of the right-facing sprites.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez les chauves-souris regardant vers la droite.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select Approach as the Autonomous Movement type.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez Suit le héros comme Déplacement autonome.</translation>
     </message>
     <message>
         <source>Set the Trigger to Event Touch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En déclenchement, sélectionnez Contact avec le héros.</translation>
     </message>
     <message>
         <source>We won&apos;t change the speed or frequency this time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous ne changerons pas la vitesse ou la fréquence de l'évènement cette fois.</translation>
     </message>
     <message>
         <source>Next, double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 3.</translation>
     </message>
     <message>
         <source>Click Battle Processing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur&quot;Démarrer un combat&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the
 Troop is set to &quot;Direct designation&quot;, and that #1, &quot;Bat*2&quot;, is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que la position soit &quot;Prédéfinie&quot; et que le groupe #1, &quot;Chauve-souris*2&quot;, est sélectionné.</translation>
     </message>
     <message>
         <source>Check off Can Escape.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez la fuite possible.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will describe the process for when the player wins.
 Double click the line under &quot;If Win&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons décrire ce qui va se passer en cas de victoire.
+Double cliquez sur la ligne sous &quot;Si victoire&quot;.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'onglet 2.</translation>
     </message>
     <message>
         <source>Click &quot;Play SE...&quot;.
 We will set the sound effect for when the enemy symbol disappears.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Jouer SE...&quot; afin de choisis un effet sonore à jouer pour quand le 
+symbole de rencontre disparaîtra.</translation>
     </message>
     <message>
         <source>Scroll through the list and select Collapse1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez &quot;Collapse1&quot; dans la liste.</translation>
     </message>
     <message>
         <source>Click OK to set the sound effect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click Erase Event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Effacer l'évènement&quot;.</translation>
     </message>
     <message>
         <source>When &quot;Erase Event&quot; is performed, that event will be changed to a non-existent state.
 But if you change maps, it will be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&quot;Effacer l'évènement&quot; supprimera l'évènement tant que le joueur restera sur cette carte.</translation>
     </message>
     <message>
         <source>Additionally, events that have been temporarily erased may be restored when the author overwrites the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S'il part puis revient, l'évènement sera de retour.</translation>
     </message>
     <message>
         <source>Next, double click the line under &quot;If Escape&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, double-cliquez sur la ligne en dessous de &quot;Si fuite&quot;.</translation>
     </message>
     <message>
         <source>Switch to the page 1 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez sur l'onglet 1.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Modifier un interrupteur local..;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Self Switch is A, and that the Operation is set
 to ON, click OK and set it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'interrupteur local est A et que l'opération est bien sur ON, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make it so that self switch A will be used as the condition
 to switch to page 2 when the player escapes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire en sorte que si le joueur s'échappe, l'interrupteur local A s'active
+et l'évènement passe à la page 2.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Nouvelle page&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll check off Self Switch as the Condition.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez l'interrupteur local comme condition.</translation>
     </message>
     <message>
         <source>Make sure it is set to A.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que ce soit bien l'interrupteur local A qui soit coché.</translation>
     </message>
     <message>
         <source>Click Monster from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Monstre.</translation>
     </message>
     <message>
         <source>Select the middle bat facing right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la chauve-souris regardant vers la droite.</translation>
     </message>
     <message>
         <source>We will set the enemy symbol so that after escaping,
 it stays still for a few seconds
 and during that time even if the player touches the symbol, battle will not start.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire en sorte qu'après la fuite du joueur, le symbole de rencontre
+reste fixe quelques secondes et ne déclenche pas de combat durant cet intervalle.</translation>
     </message>
     <message>
         <source>Check off Through.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Traverser tout.</translation>
     </message>
     <message>
         <source>Set the Trigger to Parallel.
 Parallel will be described later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En déclenchement, sélectionnez Parallèle.</translation>
     </message>
     <message>
         <source>Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez sur la page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur &quot;Déplacer un évènement&quot;.</translation>
     </message>
     <message>
         <source>Set the target to This Event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilisez Cet évènement comme cible.</translation>
     </message>
     <message>
         <source>Click Change Opacity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Changer l'opacité.</translation>
     </message>
     <message>
         <source>Change opacity to 128.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez l'opacité à 128.</translation>
     </message>
     <message>
         <source>Click Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Attendre.</translation>
     </message>
     <message>
         <source>Set the duration to 120.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez une durée de 120.</translation>
     </message>
     <message>
         <source>Make sure the opacity is 255
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'opacité soit bien à 255 et appuyez sur OK.</translation>
     </message>
     <message>
         <source>Make sure the list looks as follows:
@@ -17758,24 +17811,31 @@ Wait: 120 frames
 Opacity: 255
 
 If there&apos;s no issue, click OK and set it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La liste doit ressembler à ceci :
+Opacité : 128
+Attendre : 120 frames
+Opacité : 255
+Si tout va bien, appuyez sur OK.</translation>
     </message>
     <message>
         <source>Make sure the Self Switch is A
 and check off OFF.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez que l'interrupteur local soit bien A et cochez OFF.</translation>
     </message>
     <message>
         <source>Now, after stopping for 120 frames at half opacity,
 it will return to its state in page 1 where it goes after the player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, après s'être arrêté pendant 120 frames avec une opacité réduite,
+ l'évènement reviendra à son état en page 1 dans lequel il poursuit le joueur.</translation>
     </message>
     <message>
         <source>Now we will explain &quot;parallel processing&quot;.
 Usually during event execution, the player
 can&apos;t move, however when the event is set to &quot;parallel&quot;,
 players and other events can move.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Expliquons maintenant le &quot;Processus parallèle&quot;.
+D'ordinaire, pendant l'exécution d'un évènement, le joueur ne peut pas bouger.
+Si un évènement est réglé en &quot;Parallèle&quot;, le joueur et les autres évènements peuvent bouger.</translation>
     </message>
     <message>
         <source>Parallel processing is a feature aimed at advanced users,
@@ -17783,199 +17843,212 @@ so it&apos;s best not to use it too much while you&apos;re unfamiliar with it.
 Parallel processing takes up a particularly large amount of time,
 so if there are multiple events using parallel processing,
 you need to be careful as processing may slow down.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le processus parallèle peut être délicat à utiliser et ralentir le jeu,
+soyez donc prudents lors de son utilisation.</translation>
     </message>
     <message>
         <source>Now the creation and explanation of enemy symbols is complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous savez maintenant créer un symbole de rencontre !
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, let&apos;s duplicate our enemy symbol.
 Right click the symbol we created
 and select Copy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons dupliquer votre symbole afin de le réutiliser.
+Faites un clic droit dessus et cliquez sur &quot;Copier&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll put our second symbol at the entrance of the stairs on the upper left.
 Find (9,16).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons placer notre second symbole devant les escalier en haut à gauche, en (9,16).</translation>
     </message>
     <message>
         <source>Right click on (9,16) and select &quot;Paste&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur (9,16) et cliquez sur &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>Double click the event on (9,16).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (9,16).</translation>
     </message>
     <message>
         <source>Right click Battle Processing and select Edit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur Démarrer un combat et cliquez sur Éditer.</translation>
     </message>
     <message>
         <source>Change the enemy group to #2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilisez plutôt le groupe d'ennemis #2 pour varier les choses.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select the middle slime facing to right from the slimes, second from the left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez le deuxième slime en partant de la gauche qui regarde vers la droite.</translation>
     </message>
     <message>
         <source>Select the same image as on page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la même image en page 2.</translation>
     </message>
     <message>
         <source>Now our changes are complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modifications terminées ! Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll place the third one at the entrance of the space below the boss.
 Show around the middle of the right side of the map and find (32,19).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons reproduire ceci avec le troisième combat, près du boss, en (32,19).</translation>
     </message>
     <message>
         <source>Right click on (32,19) and select &quot;Paste&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit sur (32,19) et cliquez sur &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>Double click the event on (32,19).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doublez-cliquez sur (32,19).</translation>
     </message>
     <message>
         <source>We&apos;ll make it troop #5.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez le groupe d'ennemis #5.</translation>
     </message>
     <message>
         <source>Select the middle slime facing away from you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prenez cette fois le slime du milieu qui regarde vers le haut.</translation>
     </message>
     <message>
         <source>Select the same image as in page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites de même en page 2.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done placing the enemy symbols.
 Next, click Database.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez désormais fini de placer les symboles de rencontre !
+Allons maintenant dans la Base de données.</translation>
     </message>
     <message>
         <source>Click the Enemies tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Allez dans l'onglet Ennemis.</translation>
     </message>
     <message>
         <source>The EXP and Gold from bats and slimes is still 0,
 so let&apos;s enter some appropriate values.
 First, we&apos;ll change the EXP from bats to 50.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons modifier les valeurs d'exp et d'argent des ennemis.
+Commencez par changer l'exp donné par les chauves-souris à 50.</translation>
     </message>
     <message>
         <source>We&apos;ll set their Gold to 20.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, changez l'argent donné à 20.</translation>
     </message>
     <message>
         <source>Click the topmost Drop Item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le Butin en haut.</translation>
     </message>
     <message>
         <source>Click Item, and make sure it&apos;s set to #1, &quot;Potion&quot;,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Objet et choisissez l'objet #1, une &quot;Potion&quot;.</translation>
     </message>
     <message>
         <source>Change the probability denominator to 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Réglez la probabilité à 2.</translation>
     </message>
     <message>
         <source>You can configure up to 3 drop items.
 Click the second line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez choisir jusqu'à 3 butins.
+Cliquez sur la seconde ligne.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #6, &quot;TP Charge&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Objet et choisissez le #6, la charge de PT.</translation>
     </message>
     <message>
         <source>Click #2 from the list, &quot;Slime&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le #2, le Slime.</translation>
     </message>
     <message>
         <source>Set EXP to 50
 and Gold to 40.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mettez les valeurs EXP à 50 et Argent à 40.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #2, &quot;Magic Water&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Objet puis choisissez le #2, Ether.</translation>
     </message>
     <message>
         <source>Click the next Drop Item line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la ligne de butin suivante.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #4, &quot;Stimulant&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez Objet puis choisissez le #4,&quot;Stimulant&quot;.</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the database.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La base de données est maintenant configurée !
+Cliquez sur OK. </translation>
     </message>
     <message>
         <source>Let&apos;s change the player&apos;s initial position.
 Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons modifier la position initiale du joueur.
+Cliquez sur &quot;Ville normale&quot;.</translation>
     </message>
     <message>
         <source>When you turn left from the town entrance, there is an inn immediately nearby.
 Find (10,31) in front of the inn.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cherchez l'auberge dans le village et le tile (10,31) juste devant.</translation>
     </message>
     <message>
         <source>Right click coordinates (10,31),
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Faites un clic droit en (10,31)
+et réglez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Now we&apos;re all set.
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez terminé ! Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Run a playtest.
 First, gather money and shop in town, enter the dungeon,
 battle and escape from enemies, and be careful of damage floors.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test.
+Tout d'abord, faites vos emplettes en ville, entrez dans le donjon,
+combattez et fuyez des ennemis en faisant attention au sol.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest there will be a simple explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous aurez terminé, il y aura une explication toute simple.</translation>
     </message>
     <message>
         <source>You may have noticed certain aspects of RPG Maker MV,
 like how moving enemies don&apos;t stop even when you&apos;re investigating treasure, and that enemy symbols don&apos;t take damage from damage floors.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous avez peut-être remarqué certaines caractéristiques de RPG Maker MV : par exemple,
+les ennemis continuent de bouger pendant que vous ouvrez un coffre et ne prennent pas de dégâts du sol.</translation>
     </message>
     <message>
         <source>Playtest again?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tester de nouveau ?</translation>
     </message>
     <message>
         <source>Well then, nicely done.
 In the next step we&apos;ll place our boss.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué ! 
+Dans la prochaine étape, nous placerons un boss.</translation>
     </message>
 </context>
 <context>
