@@ -20269,325 +20269,327 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>In this step we&apos;ll learn how to create events using switches and conditional branching.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons apprendre à utiliser les interrupteurs et les conditions dans les évènements.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;re going to make three people lined up horizontally.
 The location will be by the right side of statue in the center (25,22).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons placer trois personnes alignées horizontalement. Elles seront à droite de la statue (25,22).</translation>
     </message>
     <message>
         <source>First, we&apos;re going to make an event where an NPC will give you a potion once.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour commencer, nous allons créer un évènement où un PNJ donne une potion une seule fois.</translation>
     </message>
     <message>
         <source>Double click (23,22) to create an event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (23,22) pour créer un évènement.</translation>
     </message>
     <message>
         <source>Let&apos;s call the event PotionWoman.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appelez-le FemmePotion.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Click Actor3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Actor3.</translation>
     </message>
     <message>
         <source>Click the downward facing woman second from the left in the bottom row.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la femme en deuxième en bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Let&apos;s make the contents. Double click the first empty line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créons le contenu. Double-cliquez sur la première ligne vide.</translation>
     </message>
     <message>
         <source>First let&apos;s make a message saying an item has been received.
 Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D'abord, écrivons un message pour dire que l'objet est reçu. Cliquez sur "Afficher le texte".</translation>
     </message>
     <message>
         <source>Enter:
 &quot;I&apos;ll give you a potion.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Je vais vous donner une potion."</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we process the receipt of the potion. Double click the blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Change Items...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Modifier les objets...</translation>
     </message>
     <message>
         <source>Check that the Item is &quot;Potion&quot;, the Operation is &quot;Increase&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;, and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez l'objet Potion, l'opération Augmenter, et la valeur fixe 1, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, if we keep it like this, you can get potions whenever you talk to her.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si nous laissons l'évènement comme ça, vous pourrez lui reparler et gagner des potions à l'infini.</translation>
     </message>
     <message>
         <source>Here we&apos;re going to add a switch that contains the information that a potion was received.
 Double click the blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons ajouter un interrupteur, qui correspondra à l'information que la potion a été donnée. Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Control Switches...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Modifier un interrupteur...</translation>
     </message>
     <message>
         <source>This time we&apos;ll use the first switch. You can name switches so they&apos;re easy to distinguish. Click the switch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons utiliser le premier interrupteur. Vous pouvez les renommer pour les distinguer facilement. Cliquez sur l'interrupteur.</translation>
     </message>
     <message>
         <source>Click the first option in the list (0001).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez le premier élément de la liste (0001).</translation>
     </message>
     <message>
         <source>Enter the name
 as GetPotion.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez le nom PotionObtenue.</translation>
     </message>
     <message>
         <source>Click OK and set the name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Make sure that the switch is set to &quot;Single&quot; &quot;0001: GetPotion&quot;, and that Operation is set to ON, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous souhaitons activer l'interrupteur, donc choisissez l'opération ON et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll use this switch to create a reaction for the NPC after they&apos;ve given a potion. Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons utiliser l'interrupteur pour faire réagir le PNJ après lui avoir donné la potion. Cliquez sur Nouvelle page.</translation>
     </message>
     <message>
         <source>We&apos;ve created a second page.
 We&apos;ll set it up just like page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voici notre deuxième page. Nous allons la configurer comme la première.</translation>
     </message>
     <message>
         <source>Set the image to the same as on page 1.
 Double click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prenez la même apparence que celle de la page 1.</translation>
     </message>
     <message>
         <source>Click the downward facing woman second in the bottom row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur la femme regardant vers le bas, en deuxième en bas.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set the conditions for this event to appear. Put a check next to &quot;Switch&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite nous allons définir les conditions pour que cette page soit active. Cochez Interrupteur.</translation>
     </message>
     <message>
         <source>Make sure the switch number is set to &quot;0001 GetPotion&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que votre interrupteur 0001 est sélectionné.</translation>
     </message>
     <message>
         <source>Now we&apos;ll create the content for after she&apos;s given us a potion.
 Double click the top line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, créons le contenu à exécuter après qu'elle nous ait donné la potion.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Use that potion wisely, okay?&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Utilise cette potion à bon escient !"</translation>
     </message>
     <message>
         <source>Press OK and set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting up this event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons terminé cet évènement.</translation>
     </message>
     <message>
         <source>Here there will be a detailed explanation about event appearance conditions and pages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Expliquons plus en détails le principe des conditions et des pages.</translation>
     </message>
     <message>
         <source>You can create multiple pages for events,
 and when their conditions are fulfilled, the event will change to the appropriate page.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez créer plusieurs pages dans un évènement, et lorsque les conditions sont remplies, l'évènement passera à la page appropriée.</translation>
     </message>
     <message>
         <source>If there are multiple pages when a condition is met,
 the page with the highest number will be executed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si plusieurs pages ont leurs conditions remplies, la page avec le numéro le plus haut sera choisie.</translation>
     </message>
     <message>
         <source>If no condition is specified, that page will always be considered to have its condition met.
 On the other hand, if two or more conditions are specified, the page will be considered to have its conditions met when all conditions are met.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si aucune condition n'est précisée, alors la page est toujours valide. Par contre, si plusieurs conditions sont cochées, la page sera valide seulement si toutes les conditions sont remplies.</translation>
     </message>
     <message>
         <source>Let&apos;s consider our current case.
 -When switch 1 is ON, the &quot;condition&quot; of page 2 is met, and the event is changed to the page 2 event.
 -When switch 1 is not ON, the event will be the page 1 event, which has no condition set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans notre cas :
+-Quand l'interrupteur est ON, la condition de la page 2 est valide et on passe à cette page.
+-Quand l'interrupteur est OFF, l'évènement sera sur la page 1 qui ne nécessite aucune condition.</translation>
     </message>
     <message>
         <source>That&apos;s all. This is pretty important, so would you like to read the explanation again?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C'est tout ! C'est un principe très important, souhaitez-vous relire les explications ?</translation>
     </message>
     <message>
         <source>Let&apos;s move on. Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons à la suite. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;re going to create someone whose dialogue changes depending on whether or not you&apos;ve gotten a potion. Double click (25,22).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, nous allons créer un PNJ dont le texte change si on a récupéré la potion. Double-cliquez sur (25,22).</translation>
     </message>
     <message>
         <source>Name the event PotionJudge.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nomme-le JugePotion.</translation>
     </message>
     <message>
         <source>We&apos;ll use the man with a hood, second from the right in the bottom row.
 Choose the sprite of him facing downward.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons utiliser l'homme en avant-dernier, sur la ligne du bas. Choisissez son sprite qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>This time we&apos;re going to use a &quot;Conditional Branch&quot; to determine whether or not the player has gotten the potion.
 Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette fois, nous utiliserons une branche conditionnelle pour déterminer si le joueur a la potion. Double-cliquez sur la première ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Conditional Branch...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Condition...</translation>
     </message>
     <message>
         <source>Check that &quot;Switch&quot; is checked off and that &quot;0001 GetPotion&quot; is set to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que l'on vérifie que l'interrupteur 0001 soit sur ON.</translation>
     </message>
     <message>
         <source>Check off &quot;Create Else Branch&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez "Exécuter autre chose si la condition n'est pas remplie".</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll enter the dialogue for when you have a potion and for when you don&apos;t. First, let&apos;s do it for when you have one. Double click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons écrire le dialogue pour les deux cas de figure. Double-cliquez ici.</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Use potions wisely!&quot; This is the dialogue after you&apos;ve gotten a potion.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "Utilise les potions à bon escient !" C'est le dialogue qui se joue lorsqu'on a récupéré la potion.</translation>
     </message>
     <message>
         <source>Double click the line under &quot;Else&quot;,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne dans "Sinon".</translation>
     </message>
     <message>
         <source>Enter:
 &quot;You need potions if you&apos;re going adventuring.&quot; This is the dialogue before you&apos;ve gotten a potion.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "Tu as besoin de potions si tu veux partir à l'aventure."</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting up this event.
 Switches record conditions such as completing actions, and are useful for dividing processes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons terminé cet évènement. Les interrupteurs sont utiles pour mémoriser que des actions ont été accomplies tout au long du jeu.</translation>
     </message>
     <message>
         <source>Also, it&apos;s possible to achieve the same results without conditional branching by increasing event pages like you did with PotionWoman.
 You could also use conditional branching with PotionWoman.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous aurions pu obtenir le même résultat sans la branche conditionnelle en créant deux pages d'évènement. De la même façon, vous pourriez refaire le premier évènement avec une condition au lieu des deux pages.</translation>
     </message>
     <message>
         <source>When images or other conditions need to change, you&apos;ll have to use event pages, but in cases like this you are free to choose.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quand l'apparence et d'autres paramètres changent, il est pratique de changer de page, mais dans le cas présent, vous êtes libres de choisir.</translation>
     </message>
     <message>
         <source>Click OK and finish event creation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make an event where you lose a potion.
 Double click two spaces right of the man (27,22).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, nous allons créer un évènement où vous perdez une potion. Double-cliquez deux cases à droite de l'homme (27,22).</translation>
     </message>
     <message>
         <source>Name it PotionBeggar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez-le VoleurPotion.</translation>
     </message>
     <message>
         <source>Click People1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur People1.</translation>
     </message>
     <message>
         <source>Click the kid facing downward, first in the top row.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'enfant en premier qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>Let&apos;s enter the content.
 Double click the first line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrons le contenu. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Enter: &quot;Gimme a potion!&quot;
  Now we&apos;ll enter the process that will forcibly take a potion from the player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Donne-moi une potion !"</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Check that the Item is &quot;Potion&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;.
 Click &quot;Decrease&quot; as the Operation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez</translation>
     </message>
     <message>
         <source>Now the process for losing a potion has been made.
 If you don&apos;t have one, nothing will happen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La perte de potion a été programmée. Si le joueur n'en possède pas, il ne se passera rien.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now event creation is complete.
 Please save your work up until now.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'évènement est terminé. Vous pouvez sauvegarder le projet.</translation>
     </message>
     <message>
         <source>After you get a potion, it will be lost when you talk to the kid, but PotionWoman won&apos;t give you any more. Keep this in mind and conduct a playtest.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Après avoir gagné la potion, elle sera perdue en parlant à l'enfant, mais la femme n'en donnera pas d'autre. Gardez cela en tête et testez le jeu.</translation>
     </message>
     <message>
         <source>Were you able to fully check everything? Did you open the menu screen and check to see if you had a potion?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avez-vous pu tout vérifier ? Vous pouvez ouvrir le menu pour voir votre potion.</translation>
     </message>
     <message>
         <source>Will you test again to check other conditions?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Souhaitez-vous testez une nouvelle fois pour vérifier d'autres conditions ?</translation>
     </message>
     <message>
         <source>Well done. Now we&apos;ll move onto the next step (part 2).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué. Nous allons passer à la prochaine étape (partie 2).</translation>
     </message>
 </context>
 <context>
