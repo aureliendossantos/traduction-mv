@@ -19627,162 +19627,163 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Select Normal Town from the map tree.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez la Ville normale dans la liste des cartes.</translation>
     </message>
     <message>
         <source>In this step we will learn how to move NPC events.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons apprendre à déplacer des évènements de PNJ.</translation>
     </message>
     <message>
         <source> There are two ways to move an event:
 you can set &quot;Autonomous Movement&quot; or use the event command &quot;Set Movement Route&quot;.
 We&apos;ll deal with the former this time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il y a deux façons de déplacer un évènement : les "Déplacements autonomes", ou la commande "Déplacer un évènement".</translation>
     </message>
     <message>
         <source>Let&apos;s set &quot;Autonomous Movement&quot; for the character we created in Step 2. To do this, we will first find where the character is placed.　</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Définissons les Déplacements autonomes du personnage créé à l'étape 2. Pour cela, nous devons d'abord trouvé où nous avions placé l'évènement.</translation>
     </message>
     <message>
         <source>Click &quot;Event Searcher&quot;.
 Here you can search for various events.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le Chercheur d'évènement.</translation>
     </message>
     <message>
         <source>The character we want to look for was called &quot;Villager1&quot;.
 Click Event Name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le personnage était appelé Villageoise1. Cliquez sur Nom.</translation>
     </message>
     <message>
         <source>Enter &quot;Villager1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez Villageoise1.</translation>
     </message>
     <message>
         <source>When you&apos;re done, click Search.
 Their position will be shown.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Chercher.</translation>
     </message>
     <message>
         <source>As you can see, a benefit of naming your events
 is that you can easily search for them.
 Click &quot;Close&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comme vous le voyez, un avantage de bien nommer ses évènements et de facilement pouvoir les retrouver. Cliquez sur Fermer.</translation>
     </message>
     <message>
         <source>Double click Villager1 on (19,33)
 and open the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Villageoise1 en (19,33).</translation>
     </message>
     <message>
         <source>Here we&apos;ll set the autonomous movement.
 You can specify frequency and speed, but we&apos;ll leave those how they are for now.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voici l'espace des Déplacements autonomes. Vous pouvez modifier la fréquence et la vitesse, mais nous allons les laisser ainsi pour le moment.</translation>
     </message>
     <message>
         <source>Select &quot;Random&quot; from &quot;Type&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez le Type Aléatoire.</translation>
     </message>
     <message>
         <source>Now the settings are complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK pour valider.</translation>
     </message>
     <message>
         <source>Let&apos;s playtest here.
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Testons ceci en jeu. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Check that Villager1 is moving randomly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test. Vérifiez que Villageoise1 se déplace aléatoirement.</translation>
     </message>
     <message>
         <source>When the playtest is over, let&apos;s move on.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lorsque vous avez terminé, continuons.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make a character that repeatedly moves in the same places. As an example, let&apos;s make a character that walks around the statue in the town center.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, nous allons créer un personnage qui se déplace toujours aux mêmes endroits. Par exemple, faisons un personnage qui tourne autour de la statue au centre de la ville.</translation>
     </message>
     <message>
         <source>Click under the statue in the center of the town.
 Make sure the coordinate is (19,23).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sous la statue du centre (19,23).</translation>
     </message>
     <message>
         <source>Double click (19,23) and open an event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur (19,23) pour créer un évènement.</translation>
     </message>
     <message>
         <source>We&apos;ll do the various basic settings for the event.
 Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons définir les paramètres basiques de l'évènement. Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select Actor2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez Actor2.</translation>
     </message>
     <message>
         <source>Pick the image of the woman facing to the right at the bottom right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prenez l'image de la femme regardant à droite, en bas à droite.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Name her something like StatueCircler.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez-là quelque chose comme "Femme de la statue".</translation>
     </message>
     <message>
         <source>Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne pour ajouter une commande.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter some simple text, like:
 &quot;I&apos;m circling the statue.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un texte simple, comme
+"Je fais le tour de la statue."</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make this event walk the perimeter of the statue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons faire marcher cet évènement autour de la statue.</translation>
     </message>
     <message>
         <source>First let&apos;s change the movement speed and frequency.
 Set the speed to &quot;4: Normal&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changeons la vitesse et la fréquence. Passez la vitesse à 4: Normale.</translation>
     </message>
     <message>
         <source>Set the freq to &quot;5: Highest&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez la fréquence à 5: Maximum.</translation>
     </message>
     <message>
         <source>Now we&apos;ll set her to walk around the statue.
 Set the &quot;Type&quot; to &quot;Custom&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionnez le Type Personnalisé.</translation>
     </message>
     <message>
         <source>Click &quot;Route...&quot; and you can set the movement route.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Trajectoire pour l'éditer.</translation>
     </message>
     <message>
         <source>If you click a &quot;Movement Command&quot; on the right
 it will be added to the list on the left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si vous cliquez sur une commande à droite, elle sera ajoutée à la liste de gauche.</translation>
     </message>
     <message>
         <source>The events entered are added here.
 Right click when you want to delete or insert an event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les évènements entrés sont ajoutés ici. Cliquez-droit si vous voulez supprimer une commande.</translation>
     </message>
     <message>
         <source>Add these events in the following order.
@@ -19796,49 +19797,59 @@ Move Down
 Move Down
 Move Down
 Move Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajoutez des commandes dans cet ordre.
+Pas vers la droite
+Pas vers le haut
+Pas vers le haut
+Pas vers le haut
+Pas vers la gauche
+Pas vers la gauche
+Pas vers le bas
+Pas vers le bas
+Pas vers le bas
+Pas vers la droite</translation>
     </message>
     <message>
         <source>Make sure that &quot;Repeat Movements&quot; is checked. Now she&apos;ll circle the statue endlessly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que "Répéter en boucle" est coché.</translation>
     </message>
     <message>
         <source>Do not check off &quot;Skip If Cannot Move&quot;. We don&apos;t want her route to change on us.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne cochez pas "Ignorer les mouvements impossibles". Nous ne voulons pas que sa trajectoire change si quelqu'un passe devant.</translation>
     </message>
     <message>
         <source>Click OK to set the movement route.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Run a playtest.
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Testons le jeu. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run the test and check to see if the woman is circling the statue properly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez le test et vérifiez que la femme fasse bien le tour de la statue.</translation>
     </message>
     <message>
         <source>Is the event working properly in the playtest?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Est-ce que l'évènement fonctionne bien ?</translation>
     </message>
     <message>
         <source>Then let&apos;s review the event.
 Double click the event under the statue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alors vérifions l'évènement. Double-cliquez sur l'évènement sous la statue.</translation>
     </message>
     <message>
         <source>Double check the movement route settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vérifiez les paramètres de la trajectoire.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué ! L'étape 3 est terminée.</translation>
     </message>
 </context>
 <context>
