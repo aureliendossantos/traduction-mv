@@ -16119,7 +16119,7 @@ Make sure #1, &quot;Potion&quot;, is selected.</source>
     </message>
     <message>
         <source>Click #2, &quot;Magic Water&quot;.</source>
-        <translation>Cliquez sur le numéro 2, "Eau magique".</translation>
+        <translation>Cliquez sur le numéro 2, "Éther".</translation>
     </message>
     <message>
         <source>Enter Restores 200 MP
@@ -16128,7 +16128,7 @@ Make sure #1, &quot;Potion&quot;, is selected.</source>
     </message>
     <message>
         <source>Click #3, &quot;Dispel Herb&quot;.</source>
-        <translation>Cliquez sur le numéro 4, "Herbe de dissipation".</translation>
+        <translation>Cliquez sur le numéro 4, "Herbe miracle".</translation>
     </message>
     <message>
         <source>Enter Cures status ailments except Knockout
@@ -21301,289 +21301,289 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>In this step we will create an inn and an item shop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dans cette étape, nous allons créer une auberge et un magasin.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;ll make the inn the red-roofed building to the left of the town entrance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons créer l'auberge dans le bâtiment au toît rouge, à gauche de l'entrée de la ville.</translation>
     </message>
     <message>
         <source>As in Step 1, we&apos;ll use a sample map for the interior map of the inn.
 Right click Normal Town and select &quot;Load...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous utiliserons une carte d'exemple pour cet intérieur. Cliquez droit sur Ville normale, et chargez une carte d'exemple.</translation>
     </message>
     <message>
         <source>Scroll a bit down the list to find and click &quot;Inn 1F&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Défilez jusqu'à trouver "Auberge RDC".</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now a map has been created a level under &quot;Normal Town&quot;.
 You can created a layered map structure like this.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Une carte a été crée un niveau en-dessous de "Ville normale". Vous pouvez structurer votre liste ainsi.</translation>
     </message>
     <message>
         <source>Next let&apos;s connect the maps.
 Right click the inn&apos;s entrance (10,19)
 and select Quick Event Creation &gt; Transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connectons les cartes. Cliquez-droit sur l'entrée de l'auberge (10,19) et créez un évènement rapide de téléportation.</translation>
     </message>
     <message>
         <source>Click and edit the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez l'emplacement.</translation>
     </message>
     <message>
         <source>Click just in front of the entrance to the red building on the lower left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez juste en face de l'entrée du bâtiment rouge en bas à gauche.</translation>
     </message>
     <message>
         <source>Click OK and set the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Is the location set to Normal Town (10,30)?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'emplacement est-il réglé sur Ville normale (10,30) ?</translation>
     </message>
     <message>
         <source>Then let&apos;s redo the location settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alors essayons une nouvelle fois.</translation>
     </message>
     <message>
         <source>Click OK. The event will be created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK pour créer l'évènement.</translation>
     </message>
     <message>
         <source>Next we make the entrance from the town to the inn.
 Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, créons le passage de la ville vers l'auberge. Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>Find the coordinates (10,29), the entrance to the inn building.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trouvez les coordonnées (10,29), l'entrée du bâtiment.</translation>
     </message>
     <message>
         <source>Right click (10,29),
 and select Quick Event Creation &gt; Door.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez-droit sur (10,29) et créez un évènement rapide de porte.</translation>
     </message>
     <message>
         <source>Let&apos;s set the location. Click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez l'emplacement.</translation>
     </message>
     <message>
         <source>Click Inn 1F.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Auberge RDC.</translation>
     </message>
     <message>
         <source>Click the inn entrance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur l'entrée de l'auberge.</translation>
     </message>
     <message>
         <source>Make sure the location is (10,19) or beside it and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que l'emplacement est (10,19) et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the town and inn are linked.
 Next is creating the inn sign.
 Click tileset B.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, les deux cartes sont liées. Maintenant, nous devrions placer une enseigne. Ouvrez le tileset B.</translation>
     </message>
     <message>
         <source>Click the inn sign that says &quot;INN&quot;.
 It&apos;s second from the right in the top row of the tile palette. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur le panneau INN (Auberge en anglais) en haut du tileset.</translation>
     </message>
     <message>
         <source>We&apos;ll switch to map mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons au mode carte.</translation>
     </message>
     <message>
         <source>Click above the inn door and place the sign.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez au-dessus de la porte pour placer l'enseigne.</translation>
     </message>
     <message>
         <source>Back to event mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Revenons au mode des évènements.</translation>
     </message>
     <message>
         <source>Next up is the event in the inn. Click Inn 1F.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons créer l'évènement dans l'auberge. Cliquez sur Auberge RDC.</translation>
     </message>
     <message>
         <source>First we&apos;ll make an inn event.
 Look for the counter to the right of the entrance (11,10).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Commençons par l'aubergiste. Repérez le comptoir à (11,10).</translation>
     </message>
     <message>
         <source>Right click on (11,10)
 and select
 Quick Event Creation &gt; Inn.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez-droit sur (11,10) et créez un évènement rapide d'auberge.</translation>
     </message>
     <message>
         <source>This time we won&apos;t change the image or price.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette fois nous n'allons rien changer. Cliquez simplement sur OK.</translation>
     </message>
     <message>
         <source>Now the inn event is complete.
 Next is the item shop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'aubergiste est terminée. Ensuite vient le magasin d'objets.</translation>
     </message>
     <message>
         <source>For this, we&apos;ll make a traveling merchant staying at the inn into an item shop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour cela, nous allons créer un marchand ambulant qui reste à l'auberge.</translation>
     </message>
     <message>
         <source>We&apos;ll make the merchant&apos;s coordinates in the guest room (7,7).
 Click to find those coordinates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le marchand se situera dans la salle des invités (7,7).</translation>
     </message>
     <message>
         <source>Double click the chair above the table, coordinates (7,7).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur le tabouret (7,7).</translation>
     </message>
     <message>
         <source>Name the event TravelingMerchant.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez-le MarchandAmbulant.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Let&apos;s pick someone who looks like a merchant.
 Click People3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prenons quelqu'un qui ressemble à un marchand. Cliquez sur People3.</translation>
     </message>
     <message>
         <source>Pick the man facing downward furthest to the left in the bottom row.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prenez l'homme en bas à gauche.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>For the event content, we&apos;re going to set it so that you can shop after he greets you.
 Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour son contenu, nous ferons en sorte de pouvoir commercer après qu'il nous salue.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter: &quot;I&apos;m a traveling merchant.
 Please buy something.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "Je suis un marchand ambulant. Souhaitez-vous m'acheter quelque chose ?"</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the page 3 tab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 3.</translation>
     </message>
     <message>
         <source>Click &quot;Shop Processing&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Ouvrir un magasin...</translation>
     </message>
     <message>
         <source>We&apos;re going to add merchandise for sale to this list.
 Double click the first line.
 The merchandise selection window will appear.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons ajouter des marchandises à cette liste. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Check that &quot;Item&quot; is checked and set to &quot;Potion&quot;
 and click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez l'objet Potion et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make the second item Magic Water.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le second objet sera un Éther.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make the third item Dispel Herb.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le troisième objet sera une Herbe miracle.</translation>
     </message>
     <message>
         <source>We&apos;ll make the 4th item Stimulant.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le quatrième objet sera un Stimulant.</translation>
     </message>
     <message>
         <source>Click OK and set the items.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;re done adding goods to sell.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous avons ajouté toutes les marchandises. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The items and equipment you can select here for the shop
 are registered in a &quot;database&quot;, which will be explained later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les objets et les équipements que vous pouvez sélectionner dans le magasin sont définis dans la base de données, que nous verrons plus tard.</translation>
     </message>
     <message>
         <source>The price is also determined by the database
 and when the player sells items, they will be bought for half their value.
 If the price is zero, the merchant will not buy the item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le prix est aussi déterminé par la base de données, et quand le joueur vend un objet, il récupère la moitié de sa valeur. Si le prix est 0, le marchand ne pourra jamais racheter l'objet.</translation>
     </message>
     <message>
         <source>That&apos;s it for this explanation. We can get back to work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C'est tout pour ces explications ! Nous pouvons nous remettre au travail.</translation>
     </message>
     <message>
         <source>Lastly, let&apos;s make a message for after the player is done shopping.
 Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour finir, affichons un message quand le joueur a fini ses emplettes. Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Enter: &quot;Thank you.
 Come by again sometime.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez : "Merci. A bientôt !"</translation>
     </message>
     <message>
         <source>Now the traveling merchant event is complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'évènement du marchand est terminé. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now our inn and item shop are finished.
 Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notre auberge et notre magasin sont terminés. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Now let&apos;s run a playtest.
 Since your starting gold will be zero, test it out after you get the gold from the chest and grass patch we made in the last step.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, testez le jeu. Comme vous n'avez pas d'or au début du jeu, récupérez-en dans l'herbe près du bâtiment.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 8.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bien joué ! C'est la fin de l'étape 8.</translation>
     </message>
 </context>
 <context>
