@@ -15083,11 +15083,11 @@ lorsque les PV atteindront 0.</translation>
     </message>
     <message>
         <source>Tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutoriel</translation>
     </message>
     <message>
         <source>The tutorial ends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le tutoriel est terminé.</translation>
     </message>
     <message>
         <source>Parse error: tutorial list</source>
@@ -15378,7 +15378,7 @@ Next we will determine the player&apos;s initial position.</source>
     <message>
         <source>Please select the step 9 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation>Sélectionnez le projet de l&apos;étape 9.</translation>
+        <translation>Sélectionnez le projet de l&apos;étape 9. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
@@ -15386,7 +15386,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation>Nous allons charger les données requises pour commencer cette partie.</translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
@@ -15859,7 +15859,7 @@ but the order doesn&apos;t matter for this.</source>
         <source>Simply enter:
 &quot;You cannot pass.&quot;</source>
         <translation>Ecrivez simplement :
-"Vous ne pouvez pas passer."</translation>
+"Vous ne pouvez pas passer.&quot;</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
@@ -15910,57 +15910,57 @@ Please do challenge yourself to even more complex events.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 11?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 11 ?</translation>
     </message>
     <message>
         <source>Loading the step 11 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 11.</translation>
     </message>
     <message>
         <source>Please select the step 11 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 11. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>From this step onward we&apos;ll be handling a &quot;database&quot;.
 Within the database there are a very large number of items for the configuration of various things in the game,
  so we will explain them in order. </source>
-        <translation>A partir de cet étape, nous allons aborder la base de données. Elle contient un grand nombre d'éléments pour configurer diverses choses dans le jeu, donc nous allons tout expliquer dans l'ordre.</translation>
+        <translation>A partir de cet étape, nous allons aborder la base de données. Elle contient un grand nombre d&apos;éléments pour configurer diverses choses dans le jeu, donc nous allons tout expliquer dans l&apos;ordre.</translation>
     </message>
     <message>
         <source>In this step we will focus on getting acquainted with the main character and enemies,
 as well as battle.
 First, we&apos;ll open the database.</source>
         <translation>Dans cette étape, nous allons nous familiariser avec le personnage principal et les ennemis, ainsi que les combats.
-D'abord, ouvrons la base de données.</translation>
+D&apos;abord, ouvrons la base de données.</translation>
     </message>
     <message>
         <source>The first tab is &quot;Actors&quot;.
@@ -15971,22 +15971,22 @@ and is a very important term in RPG Maker MV.</source>
     <message>
         <source>In this tutorial, we&apos;ll use
 the word &quot;actor&quot; to describe these.</source>
-        <translation>Dans le tutoriel, nous utiliserons le mot "acteur" pour désigner ces personnages.</translation>
+        <translation>Dans le tutoriel, nous utiliserons le mot &quot;acteur&quot; pour désigner ces personnages.</translation>
     </message>
     <message>
         <source>We&apos;ll also call the collection of actors the &quot;party&quot;.
 Now for the explanation of actors.</source>
-        <translation>Nous appellerons une collection d'acteurs une "équipe".</translation>
+        <translation>Nous appellerons une collection d&apos;acteurs une &quot;équipe&quot;.</translation>
     </message>
     <message>
         <source>Note that in the actor configuration there is a &quot;class&quot; setting.
 Within a class, various abilities are configured.
 For example, Harold is a &quot;Hero&quot;.</source>
-        <translation>Notez que dans la configuration des acteurs se trouve la "classe". Dans une classe, différentes propriétés sont configurées. Par exemple, Harold est un Héros.</translation>
+        <translation>Notez que dans la configuration des acteurs se trouve la &quot;classe&quot;. Dans une classe, différentes propriétés sont configurées. Par exemple, Harold est un Héros.</translation>
     </message>
     <message>
         <source>Click the &quot;Classes&quot; tab.</source>
-        <translation>Cliquez sur l'onglet Classes.</translation>
+        <translation>Cliquez sur l&apos;onglet Classes.</translation>
     </message>
     <message>
         <source>Here, you can set class abilities in detail.
@@ -16008,7 +16008,7 @@ This is a setting peculiar to RPG Maker MV so there will be a detailed explanati
         <source>In &quot;Traits&quot;, you can configure various components such as
 basic hit and evasion rate values in addition to types of equipment that can be used,
 usable skill types, and more.</source>
-        <translation>Dans les Attributs, vous pouvez régler le taux de toucher et d'esquive, ainsi que les équipements pouvant être portés, les compétences utilisables, etc.</translation>
+        <translation>Dans les Attributs, vous pouvez régler le taux de toucher et d&apos;esquive, ainsi que les équipements pouvant être portés, les compétences utilisables, etc.</translation>
     </message>
     <message>
         <source>In short, you can list various factors in &quot;Traits&quot; and by setting them, those traits will be the actor&apos;s traits.</source>
@@ -16022,12 +16022,12 @@ and no attacks will land, so be careful.</source>
     </message>
     <message>
         <source>Traits can also be added to weapons and armor, as well as states. Click on the &quot;Weapons&quot; tab to give it a try.</source>
-        <translation>Les attributs peuvent aussi être ajoutés aux armes et armures, tout comme les états. Cliquez sur l'onglet Armes pour essayer.</translation>
+        <translation>Les attributs peuvent aussi être ajoutés aux armes et armures, tout comme les états. Cliquez sur l&apos;onglet Armes pour essayer.</translation>
     </message>
     <message>
         <source>There is a trait list for equipment as well.
 They will be appended to an actor only when they have the equipment on. </source>
-        <translation>Il y a aussi une liste d'attributs pour l'équipement. Ils seront appliqués à l'acteur seulement lorsqu'il portera l'équipement.</translation>
+        <translation>Il y a aussi une liste d&apos;attributs pour l&apos;équipement. Ils seront appliqués à l&apos;acteur seulement lorsqu&apos;il portera l&apos;équipement.</translation>
     </message>
     <message>
         <source>For example, while the trait here is &quot;Hit Rate +0%&quot;,
@@ -16037,34 +16037,34 @@ so in total, hit rate will be 95%. </source>
     </message>
     <message>
         <source>Please click the &quot;States&quot; tab.</source>
-        <translation>Cliquez sur l'onglet Etats.</translation>
+        <translation>Cliquez sur l&apos;onglet Etats.</translation>
     </message>
     <message>
         <source>&quot;States&quot; are temporary status changes such as &quot;Poison&quot; or &quot;Paralyze&quot;.</source>
-        <translation>Les états sont des changements temporaires tels que l'empoisonnement ou la paralysie.</translation>
+        <translation>Les états sont des changements temporaires tels que l&apos;empoisonnement ou la paralysie.</translation>
     </message>
     <message>
         <source>These traits appear only while an actor is in that state.</source>
-        <translation>Ces attributs sont valides pendant que l'acteur subit l'état.</translation>
+        <translation>Ces attributs sont valides pendant que l&apos;acteur subit l&apos;état.</translation>
     </message>
     <message>
         <source>Now let&apos;s go back to &quot;Classes&quot; for a moment.</source>
-        <translation>Maintenant, retournons dans l'onglet des Classes pour un moment.</translation>
+        <translation>Maintenant, retournons dans l&apos;onglet des Classes pour un moment.</translation>
     </message>
     <message>
         <source>Next, take a look at &quot;Skills to Learn&quot;.
 &quot;Skills&quot; are a general name for &quot;Magic&quot; or &quot;Special Moves&quot;.</source>
         <translation>Examinez les compétences à apprendre.
-"Compétence" est un terme général pour désigner les magies et les attaques spéciales.</translation>
+"Compétence&quot; est un terme général pour désigner les magies et les attaques spéciales.</translation>
     </message>
     <message>
         <source>Learned skills can be created/configured in the &quot;Skills&quot; tab. Click the &quot;Skills&quot; tab.</source>
-        <translation>Les compétences peuvent être créées dans l'onglet Compétences. Cliquez sur cet onglet.</translation>
+        <translation>Les compétences peuvent être créées dans l&apos;onglet Compétences. Cliquez sur cet onglet.</translation>
     </message>
     <message>
         <source>&quot;Attack&quot; and &quot;Guard&quot; are configured as skills,
 but there&apos;s no need to worry about those right now.</source>
-        <translation>"Attaque" et "Défense" sont configurés comme des compétences, mais il n'y a pas besoin de s'en soucier pour le moment.</translation>
+        <translation>"Attaque&quot; et &quot;Défense&quot; sont configurés comme des compétences, mais il n&apos;y a pas besoin de s&apos;en soucier pour le moment.</translation>
     </message>
     <message>
         <source>Magic is configured in numbers 8 through 10.</source>
@@ -16077,79 +16077,79 @@ but there&apos;s no need to worry about those right now.</source>
     <message>
         <source>Click #8, &quot;Heal&quot;.
 The settings for Heal are displayed.</source>
-        <translation>Cliquez sur le numéro 8, "Soin". Ses paramètres s'affichent.</translation>
+        <translation>Cliquez sur le numéro 8, &quot;Soin&quot;. Ses paramètres s&apos;affichent.</translation>
     </message>
     <message>
         <source>Enter Restores 200+ HP
  in the description.</source>
-        <translation>Ecrivez "Rétablit 200+ PV" dans la description.</translation>
+        <translation>Ecrivez &quot;Rétablit 200+ PV&quot; dans la description.</translation>
     </message>
     <message>
         <source>Click #9, &quot;Fire&quot;.</source>
-        <translation>Cliquez sur le numéro 9, "Feu".</translation>
+        <translation>Cliquez sur le numéro 9, &quot;Feu&quot;.</translation>
     </message>
     <message>
         <source>Enter Deals around 100 fire damage to a single enemy
  in the description.</source>
-        <translation>Ecrivez "Inflige environ 100 dégâts de feu à un ennemi."</translation>
+        <translation>Ecrivez &quot;Inflige environ 100 dégâts de feu à un ennemi.&quot;</translation>
     </message>
     <message>
         <source>Click #10, &quot;Spark&quot;.</source>
-        <translation>Cliquez sur le numéro 10, "Etincelle".</translation>
+        <translation>Cliquez sur le numéro 10, &quot;Etincelle&quot;.</translation>
     </message>
     <message>
         <source>Enter Deals around 100 electric damage to all enemies
  in the description.</source>
-        <translation>Ecrivez "Inflige environ 100 dégâts électriques à tous les ennemis."</translation>
+        <translation>Ecrivez &quot;Inflige environ 100 dégâts électriques à tous les ennemis.&quot;</translation>
     </message>
     <message>
         <source>These skill descriptions will now appear in game.
 Next, click the Item tab.</source>
-        <translation>Ces descriptions apparaitront désormais dans le jeu. Ensuite, cliquez sur l'onglet Objets.</translation>
+        <translation>Ces descriptions apparaitront désormais dans le jeu. Ensuite, cliquez sur l&apos;onglet Objets.</translation>
     </message>
     <message>
         <source>We&apos;re going to fill in the blank descriptions like we did with skills.
 Make sure #1, &quot;Potion&quot;, is selected.</source>
-        <translation>Nous allons remplir les descriptions vides, comme pour les compétences. Assurez-vous que le numéro 1, "Potion", est sélectionné.</translation>
+        <translation>Nous allons remplir les descriptions vides, comme pour les compétences. Assurez-vous que le numéro 1, &quot;Potion&quot; est sélectionné.</translation>
     </message>
     <message>
         <source>Enter Restores 500 HP
  in the description.</source>
-        <translation>Ecrivez "Rétablit 500 PV."</translation>
+        <translation>Ecrivez &quot;Rétablit 500 PV.&quot;</translation>
     </message>
     <message>
         <source>Click #2, &quot;Magic Water&quot;.</source>
-        <translation>Cliquez sur le numéro 2, "Éther".</translation>
+        <translation>Cliquez sur le numéro 2, &quot;Éther&quot;.</translation>
     </message>
     <message>
         <source>Enter Restores 200 MP
  in the description.</source>
-        <translation>Ecrivez "Rétablit 200 PM."</translation>
+        <translation>Ecrivez &quot;Rétablit 200 PM.&quot;</translation>
     </message>
     <message>
         <source>Click #3, &quot;Dispel Herb&quot;.</source>
-        <translation>Cliquez sur le numéro 4, "Herbe miracle".</translation>
+        <translation>Cliquez sur le numéro 4, &quot;Herbe miracle&quot;.</translation>
     </message>
     <message>
         <source>Enter Cures status ailments except Knockout
 in the description.</source>
-        <translation>Ecrivez "Soigne des altérations d'état hormis KO."</translation>
+        <translation>Ecrivez &quot;Soigne des altérations d&apos;état hormis KO.&quot;</translation>
     </message>
     <message>
         <source>Click #4, &quot;Stimulant&quot;.</source>
-        <translation>Cliquez sur le numéro 4, "Stimulant".</translation>
+        <translation>Cliquez sur le numéro 4, &quot;Stimulant&quot;.</translation>
     </message>
     <message>
         <source>Enter Revives a knocked out ally at half of their max HP
  in the description.</source>
-        <translation>Ecrivez "Relève un allié KO avec la moitié de ses PV."</translation>
+        <translation>Ecrivez &quot;Relève un allié KO avec la moitié de ses PV.&quot;</translation>
     </message>
     <message>
         <source>Item descriptions will now appear.
 Next up, an explanation of enemies the party will fight.
 Click the &quot;Enemies&quot; tab.</source>
-        <translation>Les descriptions d'objet apparaitront désormais.
-Continuons avec une explication des ennemis à combattre. Cliquez sur l'onglet Ennemis.</translation>
+        <translation>Les descriptions d&apos;objet apparaitront désormais.
+Continuons avec une explication des ennemis à combattre. Cliquez sur l&apos;onglet Ennemis.</translation>
     </message>
     <message>
         <source>There are currently 4 enemies registered in the list.</source>
@@ -16164,11 +16164,11 @@ you can set ability values and traits, like with Actors.</source>
         <source>When you change the &quot;Action Pattern&quot;,
 you can make them use skills, and set the skills
 they can use depending on a condition.</source>
-        <translation>Dans la liste des actions, vous pouvez les faire utiliser des compétences en fonction d'une condition.</translation>
+        <translation>Dans la liste des actions, vous pouvez les faire utiliser des compétences en fonction d&apos;une condition.</translation>
     </message>
     <message>
         <source>Now, just making an enemy isn&apos;t enough for them to show up in battle. You&apos;ll need to make &quot;Troops&quot;, and add them there. Click the &quot;Troops&quot; tab.</source>
-        <translation>Créer un ennemi ici n'est pas suffisant pour les faire apparaitre en combat. Vous devez créer une troupe et l'y ajouter. Cliquez sur l'onglet Troupes.</translation>
+        <translation>Créer un ennemi ici n&apos;est pas suffisant pour les faire apparaitre en combat. Vous devez créer une troupe et l&apos;y ajouter. Cliquez sur l&apos;onglet Troupes.</translation>
     </message>
     <message>
         <source>There are 4 enemy troops registered in the list.
@@ -16177,22 +16177,22 @@ Enemies are added alone, or in groups.</source>
     </message>
     <message>
         <source>These &quot;troops&quot; are the groups of enemies the party will actually battle.</source>
-        <translation>Ces troupes sont les groupes d'ennemis que l'équipe va combattre.</translation>
+        <translation>Ces troupes sont les groupes d&apos;ennemis que l&apos;équipe va combattre.</translation>
     </message>
     <message>
         <source>You can add and remove enemies from troops here. In the second half of this step, we&apos;ll actually create a troop.</source>
-        <translation>Ici, vous pouvez ajouter ou retirer des ennemis d'une troupe.</translation>
+        <translation>Ici, vous pouvez ajouter ou retirer des ennemis d&apos;une troupe.</translation>
     </message>
     <message>
         <source>Also, it is possible to test battles here without actually launching the game.
 Click &quot;Battle Test...&quot;.</source>
-        <translation>De plus, il est possible de tester le combat ici sans lancer le jeu entier. Cliquez sur "Test de combat".</translation>
+        <translation>De plus, il est possible de tester le combat ici sans lancer le jeu entier. Cliquez sur &quot;Test de combat&quot;.</translation>
     </message>
     <message>
         <source>A window where you can configure each actor has appeared.
 Here, you can set your hypothetical level and equipment, and run a test where you battle the troop.
 This time, there&apos;s no need to change anything.</source>
-        <translation>Cette fenêtre permet de configurer l'équipe qui combattra. Vous pouvez changer les niveaux et l'équipement, ou laisser tel quel.</translation>
+        <translation>Cette fenêtre permet de configurer l&apos;équipe qui combattra. Vous pouvez changer les niveaux et l&apos;équipement, ou laisser tel quel.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.
@@ -16204,7 +16204,7 @@ so you can check item effects.</source>
     <message>
         <source>You likely noticed a few things in battle.
 For example, there is an unfamiliar value called &quot;TP&quot;, but that will be explained in the next step.</source>
-        <translation>Vous avez peut-être remarqué la présence de la valeur PT, que nous verrons à l'étape suivante.</translation>
+        <translation>Vous avez peut-être remarqué la présence de la valeur PT, que nous verrons à l&apos;étape suivante.</translation>
     </message>
     <message>
         <source>Also, if you choose &quot;Escape&quot;, even if you fail, the success rate
@@ -16213,7 +16213,7 @@ will increase slightly with each turn.</source>
     </message>
     <message>
         <source>How was it? Want to try again?</source>
-        <translation>Comment c'était ? Vous voulez réessayer ?</translation>
+        <translation>Comment c&apos;était ? Vous voulez réessayer ?</translation>
     </message>
     <message>
         <source>Click &quot;Battle Test&quot;.</source>
@@ -16231,16 +16231,16 @@ will increase slightly with each turn.</source>
         <source>Alright. Until now the battles have been front-view,
 but you can also make them side-view.
 Click the &quot;System&quot; tab. </source>
-        <translation>Très bien. Jusqu'à maintenant les combats étaient en vue de face, mais vous pouvez passer en vue de côté. Cliquez sur l'onglet Système.</translation>
+        <translation>Très bien. Jusqu&apos;à maintenant les combats étaient en vue de face, mais vous pouvez passer en vue de côté. Cliquez sur l&apos;onglet Système.</translation>
     </message>
     <message>
         <source>Check &quot;Use Side-view Battle&quot;.</source>
-        <translation>Cochez "Utiliser la vue de côté".</translation>
+        <translation>Cochez &quot;Utiliser la vue de côté&quot;.</translation>
     </message>
     <message>
         <source>Let&apos;s try a battle test under these conditions.
 Click the Troops tab.</source>
-        <translation>Testons un combat avec cette nouvelle vue. Cliquez sur l'onglet Troupes.</translation>
+        <translation>Testons un combat avec cette nouvelle vue. Cliquez sur l&apos;onglet Troupes.</translation>
     </message>
     <message>
         <source>Click Battle Test.</source>
@@ -16253,7 +16253,7 @@ Click the Troops tab.</source>
     <message>
         <source>You probably noticed the change in appearance.
 From now on in this tutorial, it will be assumed that side-view battle is being used.</source>
-        <translation>Vous avez sûrement remarqué le changement d'apparence. A partir de maintenant dans ce tutoriel, nous partirons du principe que la vue de côté est utilisée.</translation>
+        <translation>Vous avez sûrement remarqué le changement d&apos;apparence. A partir de maintenant dans ce tutoriel, nous partirons du principe que la vue de côté est utilisée.</translation>
     </message>
     <message>
         <source>Now then, let&apos;s try making a new troop.
@@ -16275,7 +16275,7 @@ Click &quot;Change Maximum...&quot;.</source>
     <message>
         <source>We&apos;re going to make a troop of Slime*2, and Bat*2.
 First, click Slime.</source>
-        <translation>Nous allons créer une troupe avec 2 Slimes et 2 Chauve-souris. D'abord, cliquez sur Slime.</translation>
+        <translation>Nous allons créer une troupe avec 2 Slimes et 2 Chauve-souris. D&apos;abord, cliquez sur Slime.</translation>
     </message>
     <message>
         <source>Click &quot;&lt; Add&quot; twice. Two slimes will be added.</source>
@@ -16337,44 +16337,44 @@ Next time we&apos;ll handle the database again.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 12?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 12 ?</translation>
     </message>
     <message>
         <source>Loading the step 12 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 12.</translation>
     </message>
     <message>
         <source>Please select the step 12 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 12. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, items and skills will be explained and created.</source>
@@ -16386,7 +16386,7 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>Click the Item tab.</source>
-        <translation>Cliquez sur l'onglet Objets.</translation>
+        <translation>Cliquez sur l&apos;onglet Objets.</translation>
     </message>
     <message>
         <source>Click &quot;Change Maximum...&quot;.</source>
@@ -16410,7 +16410,7 @@ Son effet sera la restauration des PV et PM au maximum. Nous allons le créer en
     </message>
     <message>
         <source>Left click on #1, &quot;Potion&quot;.</source>
-        <translation>Cliquez-droit sur le numéro 1, "Potion".</translation>
+        <translation>Cliquez-droit sur le numéro 1, &quot;Potion&quot;.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Copy&quot;.</source>
@@ -16432,7 +16432,7 @@ Now the configuration for the potion is copied to #5.</source>
     <message>
         <source>Overwrite the description and put
 fully restores HP and MP.</source>
-        <translation>Remplacez la description et écrivez "Restaure entièrement les PV et PM."</translation>
+        <translation>Remplacez la description et écrivez &quot;Restaure entièrement les PV et PM.&quot;</translation>
     </message>
     <message>
         <source>Change the price to 500.</source>
@@ -16441,7 +16441,7 @@ fully restores HP and MP.</source>
     <message>
         <source>Next we will set up the effect.
 Click &quot;Recover HP 500&quot;</source>
-        <translation>Maintenant nous allons paramétrer l'effet. Cliquez sur "Récupération PV 500".</translation>
+        <translation>Maintenant nous allons paramétrer l&apos;effet. Cliquez sur &quot;Récupération PV 500&quot;.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Edit...&quot;.</source>
@@ -16466,34 +16466,34 @@ Double click the next line.</source>
     </message>
     <message>
         <source>Check off &quot;Recover MP&quot;.</source>
-        <translation>Cochez "Récupération PM".</translation>
+        <translation>Cochez &quot;Récupération PM&quot;.</translation>
     </message>
     <message>
         <source>Make sure the effect is &quot;100%&quot;+&quot;0&quot;
 and click OK.</source>
-        <translation>Assurez-vous que l'effet est à 100% + 0 et cliquez sur OK.</translation>
+        <translation>Assurez-vous que l&apos;effet est à 100% + 0 et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;re also going to change the animation when it is used in battle.</source>
-        <translation>Nous allons également changer l'animation pour l'utilisation en combat.</translation>
+        <translation>Nous allons également changer l&apos;animation pour l&apos;utilisation en combat.</translation>
     </message>
     <message>
         <source>Open the Animation menu, and change it to #42 &quot;Heal One 2&quot;.</source>
-        <translation>Ouvrez le menu d'animation, et choisissez "#42 Soin 2".</translation>
+        <translation>Ouvrez le menu d&apos;animation, et choisissez &quot;#42 Soin 2&quot;.</translation>
     </message>
     <message>
         <source>Now the Elixir is complete. You can now put it in chests,
 or add it to shops.
 Of course you can also use it in a battle test.</source>
-        <translation>L'Elixir est terminé. Vous pouvez le mettre dans un coffre ou l'ajouter à un magasin.
-Bien sûr, vous pouvez l'utiliser dans un test de combat.</translation>
+        <translation>L&apos;Elixir est terminé. Vous pouvez le mettre dans un coffre ou l&apos;ajouter à un magasin.
+Bien sûr, vous pouvez l&apos;utiliser dans un test de combat.</translation>
     </message>
     <message>
         <source>Next is the creation of a new skill.
 We&apos;ll make it the special move of Therese, who doesn&apos;t have any skills.
 Click the Skills tab.</source>
-        <translation>Nous allons maintenant créer un compétence. Ce sera un coup spécial pour Thérèse qui n'a aucune compétence.
-Cliquez sur l'onglet Compétences.</translation>
+        <translation>Nous allons maintenant créer un compétence. Ce sera un coup spécial pour Thérèse qui n&apos;a aucune compétence.
+Cliquez sur l&apos;onglet Compétences.</translation>
     </message>
     <message>
         <source>Change the maximum from 10 to 11.</source>
@@ -16502,7 +16502,7 @@ Cliquez sur l'onglet Compétences.</translation>
     <message>
         <source>We&apos;ll make it a skill called Triple Strike. Once again we will transform an existing skill to create it.
 Click #5, &quot;Triple Attack&quot;.</source>
-        <translation>Nous l'appellerons Triple Strike. Une fois de plus, nous allons transformer une compétence existante. Cliquez sur "#5 Triple attaque".</translation>
+        <translation>Nous l&apos;appellerons Triple Strike. Une fois de plus, nous allons transformer une compétence existante. Cliquez sur &quot;#5 Triple attaque&quot;.</translation>
     </message>
     <message>
         <source>Right click and select copy.</source>
@@ -16524,16 +16524,16 @@ It&apos;s been copied to #11.</source>
     <message>
         <source>Write Hits 3 random enemies
  in the description.</source>
-        <translation>Ecrivez dans la description "Touche 3 ennemis aléatoires."</translation>
+        <translation>Ecrivez dans la description &quot;Touche 3 ennemis aléatoires.&quot;</translation>
     </message>
     <message>
         <source>We will change the message when the skill is used.
 Click &quot;uses!&quot;.</source>
-        <translation>Changeons le message qui apparait à l'utilisation. Cliquez sur "utilise".</translation>
+        <translation>Changeons le message qui apparait à l&apos;utilisation. Cliquez sur &quot;utilise&quot;.</translation>
     </message>
     <message>
         <source>Change the Skill Type to &quot;Special&quot;.</source>
-        <translation>Changez le type de compétence en "Spéciale".</translation>
+        <translation>Changez le type de compétence en &quot;Spéciale&quot;.</translation>
     </message>
     <message>
         <source>Let&apos;s go into more detail about skill types.</source>
@@ -16549,23 +16549,23 @@ are skills of the type listed in their &quot;traits&quot;.</source>
 &quot;special&quot; is not set as a skill type in the actor&apos;s traits,
 they cannot use the skill even if they&apos;ve learned it.
 Also, if their skill type is &quot;None&quot;, the actor would be unable to use it.</source>
-        <translation>En bref, pour une compétence Spéciale, si le type Spéciale n'est pas choisi dans ses Attributs, alors l'acteur ne pourra pas utiliser la compétence, même si elle est apprise.
-De plus, si le type est Aucun, l'acteur ne pourra pas l'utiliser.</translation>
+        <translation>En bref, pour une compétence Spéciale, si le type Spéciale n&apos;est pas choisi dans ses Attributs, alors l&apos;acteur ne pourra pas utiliser la compétence, même si elle est apprise.
+De plus, si le type est Aucun, l&apos;acteur ne pourra pas l&apos;utiliser.</translation>
     </message>
     <message>
         <source>Thus, when having actors learn skills, please be sure to check their
 skill type.
 Additionally, enemies can use skills regardless of skill type.</source>
-        <translation>Quand vous apprenez des compétences à vos acteurs, vérifiez bien leur type. Les ennemis peuvent utiliser les compétences quelqu'en soit le type.</translation>
+        <translation>Quand vous apprenez des compétences à vos acteurs, vérifiez bien leur type. Les ennemis peuvent utiliser les compétences quelqu&apos;en soit le type.</translation>
     </message>
     <message>
         <source>That&apos;s all. Would you like to read the explanation again?</source>
-        <translation>C'est tout. Voulez-vous lire ces explications à nouveau ?</translation>
+        <translation>C&apos;est tout. Voulez-vous lire ces explications à nouveau ?</translation>
     </message>
     <message>
         <source>Then we can continue the explanation. Therese doesn&apos;t have &quot;Special&quot; as her skill type,
 so we need to deal with this. Click the &quot;Actor&quot; tab.</source>
-        <translation>Alors continuons. Thérèse ne peut pas utiliser le type Spéciale, donc nous allons régler ce problème. Cliquez sur l'onglet Héros.</translation>
+        <translation>Alors continuons. Thérèse ne peut pas utiliser le type Spéciale, donc nous allons régler ce problème. Cliquez sur l&apos;onglet Héros.</translation>
     </message>
     <message>
         <source>Click the tab for #2, &quot;Therese&quot;.</source>
@@ -16578,7 +16578,7 @@ We will change the &quot;Traits&quot; for &quot;Warrior&quot;.</source>
     </message>
     <message>
         <source>Click the Classes tab.</source>
-        <translation>Cliquez sur l'onglet Classes.</translation>
+        <translation>Cliquez sur l&apos;onglet Classes.</translation>
     </message>
     <message>
         <source>Click #2 from the list, &quot;Warrior&quot;.</source>
@@ -16591,12 +16591,12 @@ It seems natural that a warrior would use special moves.</source>
     </message>
     <message>
         <source>Double click &quot;Add Skill Type Magic&quot;.</source>
-        <translation>Double-cliquez sur "Type de comp. Magie".</translation>
+        <translation>Double-cliquez sur &quot;Type de comp. Magie&quot;.</translation>
     </message>
     <message>
         <source>Make sure that &quot;Add Skill Type&quot; is checked off,
 click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
-        <translation>Assurez-vous que "Type de compétence" est coché, et choisissez Spéciale.</translation>
+        <translation>Assurez-vous que &quot;Type de compétence&quot; est coché, et choisissez Spéciale.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
@@ -16605,7 +16605,7 @@ click &quot;Magic&quot; and change it to &quot;Special&quot;.</source>
     <message>
         <source>Now Theresa is able to use special moves instead of magic. Let&apos;s go back to skill editing.
 Click Skills.</source>
-        <translation>Maintenant, Thérèse peut utiliser des coups spéciaux au lieu de la magie. Retournons à l'édition des compétences. Cliquez sur l'onglet Compétences.</translation>
+        <translation>Maintenant, Thérèse peut utiliser des coups spéciaux au lieu de la magie. Retournons à l&apos;édition des compétences. Cliquez sur l&apos;onglet Compétences.</translation>
     </message>
     <message>
         <source>Triple Strike is a special move, so
@@ -16616,7 +16616,7 @@ Set the TP Cost to 5.</source>
     <message>
         <source>Since it costs TP, we&apos;ll set the TP Gain to 0.
 The TP Gain is how much TP is gained when a skill/item is used.</source>
-        <translation>Puisque cela coûte des PT, nous allons régler le gain de PT à 0. Ce champ définit combien de PT sont gagnés en utilisant la compétence ou l'objet.</translation>
+        <translation>Puisque cela coûte des PT, nous allons régler le gain de PT à 0. Ce champ définit combien de PT sont gagnés en utilisant la compétence ou l&apos;objet.</translation>
     </message>
     <message>
         <source>Now we&apos;re done creating the skill.
@@ -16627,26 +16627,26 @@ Here we&apos;ll give an explanation of TP.</source>
         <source>TP is a value that shifts between 0 and 100.
 It is gained when damage is taken in battle
 and when specific actions are taken.</source>
-        <translation>Les PT (points de technique) varient entre 0 et 100. On en gagne lorsque des dégâts sont reçus ou lors d'actions spécifiques.</translation>
+        <translation>Les PT (points de technique) varient entre 0 et 100. On en gagne lorsque des dégâts sont reçus ou lors d&apos;actions spécifiques.</translation>
     </message>
     <message>
         <source>The value at the start of battle will be from 0 to 25,
 but if the actor has the &quot;Preserve TP&quot; trait,
 the TP value at the end of the battle will be carried over.</source>
-        <translation>La valeur au début d'un combat est entre 0 et 25, mais si l'acteur a l'attribut "Conserver les PT", la valeur sera gardée entre les combats.</translation>
+        <translation>La valeur au début d&apos;un combat est entre 0 et 25, mais si l&apos;acteur a l&apos;attribut &quot;Conserver les PT&quot; la valeur sera gardée entre les combats.</translation>
     </message>
     <message>
         <source>The primary use is for creating powerful skills that cost TP.
 That&apos;s all. Would you like to hear the explanation again?</source>
         <translation>On utilise principalement les PT pour les coût des attaques puissantes.
-C'est tout ! Souhaitez-vous lire l'explication de nouveau ?</translation>
+C&apos;est tout ! Souhaitez-vous lire l&apos;explication de nouveau ?</translation>
     </message>
     <message>
         <source>Then let&apos;s move on.
 We&apos;re going to make Therese learn the skill.
 Click the Classes tab.</source>
         <translation>Alors passons à la suite. Nous allons apprendre la compétence à Thérèse.
-Cliquez sur l'onglet Classes.</translation>
+Cliquez sur l&apos;onglet Classes.</translation>
     </message>
     <message>
         <source>Make sure #2, &quot;Warrior&quot;, is selected.</source>
@@ -16659,7 +16659,7 @@ Cliquez sur l'onglet Classes.</translation>
     <message>
         <source>We won&apos;t change the level or the note.
 Click on the Skill and select #11, &quot;Triple Strike&quot;.</source>
-        <translation>Nous n'allons pas changer le niveau ou la note. Sélectionnez simplement "#11 Triple Strike".</translation>
+        <translation>Nous n&apos;allons pas changer le niveau ou la note. Sélectionnez simplement &quot;#11 Triple Strike&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.
@@ -16670,12 +16670,12 @@ Therese has learned &quot;Triple Strike&quot;.</source>
         <source>Next, we&apos;ll make an item that boosts TP.
 Click the Item tab.</source>
         <translation>Ensuite, nous allons créer un objet qui augmente les PT.
-Cliquez sur l'onglet Objets.</translation>
+Cliquez sur l&apos;onglet Objets.</translation>
     </message>
     <message>
         <source>We&apos;ll make item #6 based on #1, the potion.
 Click Potion.</source>
-        <translation>Nous allons créer l'objet #6 basé sur le #1. Cliquez sur Potion.</translation>
+        <translation>Nous allons créer l&apos;objet #6 basé sur le #1. Cliquez sur Potion.</translation>
     </message>
     <message>
         <source>Click on blank #6.</source>
@@ -16688,20 +16688,20 @@ Now the configuration for the potion is copied to #6.</source>
     </message>
     <message>
         <source>Change the name to TP Charge.</source>
-        <translation>Changer le nom en "Recharge TP".</translation>
+        <translation>Changer le nom en &quot;Recharge TP&quot;.</translation>
     </message>
     <message>
         <source>Rewrite the description as
 Restores 50 TP.</source>
-        <translation>Remplacez la description par "Restaure 50 PT."</translation>
+        <translation>Remplacez la description par &quot;Restaure 50 PT.&quot;</translation>
     </message>
     <message>
         <source>Change the occasion from &quot;Always&quot; to &quot;Battle Screen&quot;.</source>
-        <translation>Précisez que l'objet peut être utilisé en combat seulement.</translation>
+        <translation>Précisez que l&apos;objet peut être utilisé en combat seulement.</translation>
     </message>
     <message>
         <source>Double click the line under Effects that says &quot;Recover HP 500&quot;.</source>
-        <translation>Double-cliquez sur la ligne sous l'effet "Récupération PV 500".</translation>
+        <translation>Double-cliquez sur la ligne sous l&apos;effet &quot;Récupération PV 500&quot;.</translation>
     </message>
     <message>
         <source>Check off Gain TP.</source>
@@ -16732,7 +16732,7 @@ Please open the database once more.</source>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation>Ouvrez l'onglet Troupes.</translation>
+        <translation>Ouvrez l&apos;onglet Troupes.</translation>
     </message>
     <message>
         <source>Select your opponent from the Troops.</source>
@@ -16754,7 +16754,7 @@ Test out Therese&apos;s skill and the new items.</source>
     <message>
         <source>Then we will close the database.
 There were no changes, so click &quot;Cancel&quot;.</source>
-        <translation>Alors fermons la base de données. Il n'y a pas eu de changement,donc vous pouvez cliquer sur Annuler.</translation>
+        <translation>Alors fermons la base de données. Il n&apos;y a pas eu de changement,donc vous pouvez cliquer sur Annuler.</translation>
     </message>
     <message>
         <source>Well done. In these 2 steps you&apos;ve been
@@ -16771,344 +16771,344 @@ but please familiarize yourself with them bit by bit.</source>
     </message>
     <message>
         <source>Do you have the project we finished in step 13?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé à l'étape 13 ?</translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 13 ?</translation>
     </message>
     <message>
         <source>Loading the step 13 project.</source>
-        <translation type="unfinished">Chargement du projet de l'étape 13.</translation>
+        <translation>Chargement du projet de l&apos;étape 13.</translation>
     </message>
     <message>
         <source>Please select the step 13 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 14. Les projets sont situés dans le dossier Games de vos Documents.</translation>
+        <translation>Sélectionnez le projet de l&apos;étape 13. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau Projet.</translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et un titre de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>This time, we&apos;ll make damage floors and a skill to avoid them.</source>
-        <translation type="unfinished">Le but de cette étape sera de créer un sol dangereux ainsi qu'une compétence
+        <translation>Le but de cette étape sera de créer un sol dangereux ainsi qu&apos;une compétence
 permettant de les éviter.</translation>
     </message>
     <message>
         <source>Firstly, there will be an explanation of damage floors.
 Please open the database.</source>
-        <translation type="unfinished">Commençons par une explication des sols dangereux.
+        <translation>Commençons par une explication des sols dangereux.
 Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the &quot;Tileset&quot; tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet &quot;Tileset&quot;.</translation>
+        <translation>Cliquez sur l&apos;onglet &quot;Tileset&quot;.</translation>
     </message>
     <message>
         <source>Click #4, &quot;Dungeon&quot;.</source>
-        <translation type="unfinished">Cliquez sur le #4, &quot;Donjon&quot;.</translation>
+        <translation>Cliquez sur le #4, &quot;Donjon&quot;.</translation>
     </message>
     <message>
         <source>Click &quot;Damage Floors&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Dégâts du sol&quot;.</translation>
+        <translation>Cliquez sur &quot;Dégâts du sol&quot;.</translation>
     </message>
     <message>
         <source>The tiles with a double triangle mark are damage floors.
 You can change them by clicking, but we won&apos;t be changing them this time.</source>
-        <translation type="unfinished">Les tiles marqués d'un double triangle sont des sols dangereux.
-Vous pouvez les changer en cliquant dessus, mais nous ne ferons pas ça cette fois-ci.</translation>
+        <translation>Les tiles marqués d&apos;un double triangle sont des sols dangereux.
+Vous pouvez les changer en cliquant dessus, mais nous ne le ferons pas ici.</translation>
     </message>
     <message>
         <source>When the party leader walks over &quot;damage floor&quot; tiles, all party members will lose 10 HP.</source>
-        <translation type="unfinished">Lorsque le chef d'équipe marche sur un &quot;sol dangereux&quot;, tous les membres
+        <translation>Lorsque le chef d&apos;équipe marche sur un &quot;sol dangereux&quot;, tous les membres
 perdront 10PV.</translation>
     </message>
     <message>
         <source>Click OK and return to the map.
 We will place damage floors on the dungeon map.</source>
-        <translation type="unfinished">Cliquez sur OK et retournez sur la carte.
+        <translation>Cliquez sur OK et retournez sur la carte.
 Nous allons placer des tiles de sol dangereux.</translation>
     </message>
     <message>
         <source>Switch to Map mode.</source>
-        <translation type="unfinished">Passez en Mode carte.</translation>
+        <translation>Passez en Mode carte.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
-        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Click on a damage floor from the tile palette.</source>
-        <translation type="unfinished">Choisissez un sol dangereux dans la palette sur la gauche.</translation>
+        <translation>Choisissez un sol dangereux dans la palette sur la gauche.</translation>
     </message>
     <message>
         <source>Place the damage floor wherever you&apos;d like.
 When you&apos;re done, we&apos;ll move on.</source>
-        <translation type="unfinished">Placez-le où vous voulez.</translation>
+        <translation>Placez-le où vous voulez.</translation>
     </message>
     <message>
         <source>We will go back to event mode.</source>
-        <translation type="unfinished">Repassez en Mode évènement.</translation>
+        <translation>Repassez en Mode évènement.</translation>
     </message>
     <message>
         <source>Because it would be nice to provide a skill that allows the player to negate the effects of a damage floor, we will be making that next.
 Please open the database.</source>
-        <translation type="unfinished">Afin de faciliter la vie du joueur, nous allons créer une compétence invalidant l'effet des 
+        <translation>Afin de faciliter la vie du joueur, nous allons créer une compétence invalidant l&apos;effet des 
 sols dangereux.
 Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>In order to do this, we will first create a state that invalidates damage floors,
 and then create a skill that applies that state when cast.</source>
-        <translation type="unfinished">Pour commencer, il nous faut créer un état qui invalide les sols dangereux,
-puis créer une compétence qui donne cet état lorsqu'elle est lancée.</translation>
+        <translation>Pour commencer, il nous faut créer un état qui invalide les sols dangereux,
+puis créer une compétence qui donne cet état lorsqu&apos;elle est lancée.</translation>
     </message>
     <message>
         <source>So let us first create the state.
 Click the &quot;States&quot; tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet États</translation>
+        <translation>Cliquez sur l&apos;onglet États</translation>
     </message>
     <message>
         <source>Click &quot;Change Maximum...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Changer maximum..;&quot;.</translation>
+        <translation>Cliquez sur &quot;Changer maximum..;&quot;.</translation>
     </message>
     <message>
         <source>Change the maximum from 10 to 11.</source>
-        <translation type="unfinished">Changez le maximum de 10 à 11.</translation>
+        <translation>Changez le maximum de 10 à 11.</translation>
     </message>
     <message>
         <source>Click OK to change the maximum.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click and select #11.</source>
-        <translation type="unfinished">Cliquez sur le #11.</translation>
+        <translation>Cliquez sur le #11.</translation>
     </message>
     <message>
         <source>Enter the name as Floor
 Damage Immunity.</source>
-        <translation type="unfinished">Entrez le nom
+        <translation>Entrez le nom
 Immunité aux dégâts environnementaux.</translation>
     </message>
     <message>
         <source>We will set the icon.
 Double click the image area.</source>
-        <translation type="unfinished">Double-cliquez sur l'image pour choisir une icône.</translation>
+        <translation>Double-cliquez sur l&apos;image pour choisir une icône.</translation>
     </message>
     <message>
         <source>Click and select an appropriate icon.
 (Here we will select a bronze star mark)</source>
-        <translation type="unfinished">Faites votre choix !</translation>
+        <translation>Faites votre choix !</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the top line in Traits.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne dans Attributs.</translation>
+        <translation>Double-cliquez sur la première ligne dans Attributs.</translation>
     </message>
     <message>
         <source>Click the Parameter tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet paramètres.</translation>
+        <translation>Cliquez sur l&apos;onglet paramètres.</translation>
     </message>
     <message>
         <source>Check off &quot;Sp-Parameter&quot;.</source>
-        <translation type="unfinished">Cochez &quot;Paramètre Sp&quot;.</translation>
+        <translation>Cochez &quot;Paramètre Sp&quot;.</translation>
     </message>
     <message>
         <source>Select Floor Damage from the special parameter list.</source>
-        <translation type="unfinished">Choisissez Dégâts du sol dans la liste de paramètres.</translation>
+        <translation>Choisissez Dégâts du sol dans la liste de paramètres.</translation>
     </message>
     <message>
         <source>Change 100% to 0%.</source>
-        <translation type="unfinished">Changez 100% en 0%.</translation>
+        <translation>Changez 100% en 0%.</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting the traits for &quot;Floor Damage Immunity&quot;.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Les attributs de notre compétence sont réglés.
+        <translation>Les attributs de notre compétence sont réglés.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Remove by Walking&quot; under Removal Conditions.</source>
-        <translation type="unfinished">Cochez &quot;Retrait en marchant&quot;.</translation>
+        <translation>Cochez &quot;Retrait en marchant&quot;.</translation>
     </message>
     <message>
         <source>Make sure it is set to 100 steps.</source>
-        <translation type="unfinished">Choisissez un nombre de 100 pas.</translation>
+        <translation>Choisissez un nombre de 100 pas.</translation>
     </message>
     <message>
         <source>Under &quot;If the state is removed&quot;,
 enter:
 &quot;You are vulnerable to floor damage again.&quot;</source>
-        <translation type="unfinished">Sous &quot;Si l'état est supprimé&quot;, écrivez :
+        <translation>Sous &quot;Si l&apos;état est supprimé&quot;, écrivez :
 &quot;Vous êtes de nouveau susceptibles aux dégâts du sol.&quot;</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the state.
 Next, click the &quot;Skill&quot; tab.</source>
-        <translation type="unfinished">Maintenant que l'état est configuré, allez dans l'onglet &quot;Compétences&quot;.</translation>
+        <translation>Maintenant que l&apos;état est configuré, allez dans l&apos;onglet &quot;Compétences&quot;.</translation>
     </message>
     <message>
         <source>Change the maximum from 11 to 12.</source>
-        <translation type="unfinished">Changez le maximum de 11 à 12.</translation>
+        <translation>Changez le maximum de 11 à 12.</translation>
     </message>
     <message>
         <source>Click OK to set the maximum value.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>This time we don&apos;t have any similar skills, so we&apos;ll start from scratch.
 Click on blank #12.</source>
-        <translation type="unfinished">Comme il n'existe pas de compétence similaire, nous allons en créer une.
+        <translation>Comme il n&apos;existe pas de compétence similaire, nous allons en créer une.
 Cliquez sur le #12 vierge.</translation>
     </message>
     <message>
         <source>Let&apos;s give it a skill name.
 Enter:
 Cancel Floor Damage</source>
-        <translation type="unfinished">Appelez la compétence :
+        <translation>Appelez la compétence :
 Lévitation</translation>
     </message>
     <message>
         <source>Enter Grants immunity to floor damage for 100 steps
  in the description.</source>
-        <translation type="unfinished">Entrez comme description:
+        <translation>Entrez comme description:
 Ignore les dégâts du sol pour 100 pas.</translation>
     </message>
     <message>
         <source>Double click the icon image.</source>
-        <translation type="unfinished">Doublez-cliquez sur l'icône.</translation>
+        <translation>Doublez-cliquez sur l&apos;icône.</translation>
     </message>
     <message>
         <source>Choose an icon to your liking.</source>
-        <translation type="unfinished">Faites votre choix !</translation>
+        <translation>Faites votre choix !</translation>
     </message>
     <message>
         <source>Click OK and the icon will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Change the Scope to All Allies.</source>
-        <translation type="unfinished">Changez la portée à Équipe entière.</translation>
+        <translation>Changez la portée à Équipe entière.</translation>
     </message>
     <message>
         <source>Change the Occasion to the Menu Screen.</source>
-        <translation type="unfinished">Réglez la Disponibilité à Écran de menu</translation>
+        <translation>Réglez la Disponibilité à Écran de menu</translation>
     </message>
     <message>
         <source>Change the MP cost to 5.</source>
-        <translation type="unfinished">Changez le coût en PM à 5.</translation>
+        <translation>Changez le coût en PM à 5.</translation>
     </message>
     <message>
         <source>Click &quot;casts *!&quot; as the message.</source>
-        <translation type="unfinished">Cliquez sur &quot;lance *!&quot; en tant que message.</translation>
+        <translation>Cliquez sur &quot;lance *!&quot; en tant que message.</translation>
     </message>
     <message>
         <source>Double click the blank line at the top of Effects.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne vierge en haut de Effets.</translation>
+        <translation>Double-cliquez sur la ligne vierge en haut de Effets.</translation>
     </message>
     <message>
         <source>Click the &quot;State&quot; tab.</source>
-        <translation type="unfinished">Cliquee sur l'onglet &quot;États&quot;.</translation>
+        <translation>Cliquee sur l&apos;onglet &quot;États&quot;.</translation>
     </message>
     <message>
         <source>Check off &quot;Add State&quot;.</source>
-        <translation type="unfinished">Cochez &quot;Ajouter état&quot;.</translation>
+        <translation>Cochez &quot;Ajouter état&quot;.</translation>
     </message>
     <message>
         <source>Select &quot;Floor Damage Immunity&quot; from the states.</source>
-        <translation type="unfinished">Choisissez l'état &quot;Immunité aux dégâts environnementaux&quot;.</translation>
+        <translation>Choisissez l&apos;état &quot;Immunité aux dégâts environnementaux&quot;.</translation>
     </message>
     <message>
         <source>Make sure it&apos;s set to 100%,
 click OK and set it.</source>
-        <translation type="unfinished">Vérifiez qu'il soit réglé à 100%,
+        <translation>Vérifiez qu&apos;il soit réglé à 100%,
 puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the skill is complete. We&apos;ll make someone learn it.
 Click the &quot;Classes&quot; tab.</source>
-        <translation type="unfinished">La compétence est terminée ! Apprenez-la maintenant à quelqu'un.
-Cliquez sur l'onglet &quot;Classes&quot;.</translation>
+        <translation>La compétence est terminée ! Apprenez-la maintenant à quelqu&apos;un.
+Cliquez sur l&apos;onglet &quot;Classes&quot;.</translation>
     </message>
     <message>
         <source>Click #4, &quot;Priest&quot;.</source>
-        <translation type="unfinished">Cliquez sur le Prêtre en #4.</translation>
+        <translation>Cliquez sur le Prêtre en #4.</translation>
     </message>
     <message>
         <source>Click the next line in &quot;Skills to Learn&quot;.</source>
-        <translation type="unfinished">Cliquez sur la ligne suivante dans &quot;Compétences à apprendre&quot;.</translation>
+        <translation>Cliquez sur la ligne suivante dans &quot;Compétences à apprendre&quot;.</translation>
     </message>
     <message>
         <source>With the level at 1, click the skill
 and select #12, Cancel Floor Damage. </source>
-        <translation type="unfinished">Réglez le niveau à 1 puis cliquez sur la compétence
+        <translation>Réglez le niveau à 1 puis cliquez sur la compétence
 #12, Lévitation.</translation>
     </message>
     <message>
         <source>Now Lucius has learned floor damage magic.
 Here&apos;s one more explanation.
 Click the System tab.</source>
-        <translation type="unfinished">Lucius connaît désormais la compétence Lévitation !
-Allez dans l'onglet &quot;Système&quot;.</translation>
+        <translation>Lucius connaît désormais la compétence Lévitation !
+Allez dans l&apos;onglet &quot;Système&quot;.</translation>
     </message>
     <message>
         <source>If the option &quot;Knockout by Floor Damage&quot;
 is not checked off, the HP of the actors will not go below 1 even if they are hit by a damage floor.
 This time we will leave it unchecked.</source>
-        <translation type="unfinished">Si l'option &quot;KO par dégâts du sol&quot; n'est pas cochée,
-les PV des héros ne descendront pas en dessous de 1 même s'ils marchent sur un sol dangereux.
+        <translation>Si l&apos;option &quot;KO par dégâts du sol&quot; n&apos;est pas cochée,
+les PV des héros ne descendront pas en dessous de 1 même s&apos;ils marchent sur un sol dangereux.
 Nous allons laisser cette option décochée pour cette fois.</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the database.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Vous avez fini de configurer la compétence ! 
+        <translation>Vous avez fini de configurer la compétence ! 
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished">Sauvegardez le projet.</translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Please try everything,
 such as taking damage and using the floor damage immunity skill.</source>
-        <translation type="unfinished">Faites un test.
+        <translation>Faites un test.
 Essayez de marcher sur les sols dangereux avec et sans
 la compétence Lévitation activée.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 14.
 In the next step we will continue to deal with dungeon setup.</source>
-        <translation type="unfinished">Bien joué ! Vous avez terminé l'étape 14.
-L'étape suivante vous apprendra à créer un point de rétablissement.</translation>
+        <translation>Bien joué ! Vous avez terminé l&apos;étape 14.
+L&apos;étape suivante vous apprendra à créer un point de rétablissement.</translation>
     </message>
 </context>
-<!-- FAITE A PARTIR D'ICI-->
+<!-- FAITE A PARTIR D&apos;ICI-->
 <context>
     <name>TutorialStep15</name>
     <message>
@@ -17117,269 +17117,269 @@ L'étape suivante vous apprendra à créer un point de rétablissement.</transla
     </message>
     <message>
         <source>Do you have the project we finished in step 14?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé à l'étape 14 ?</translation>
+        <translation>Avez-vous le projet que nous avions terminé à l&apos;étape 14 ?</translation>
     </message>
     <message>
         <source>Loading the step 14 project.</source>
-        <translation type="unfinished">Chargement du projet de l'étape 14.</translation>
+        <translation>Chargement du projet de l&apos;étape 14.</translation>
     </message>
     <message>
         <source>Please select the step 14 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 14. Les projets sont situés dans le dossier Games de vos Documents.</translation>
+        <translation>Lancez le projet de l&apos;étape 14. Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau Projet.</translation>
+        <translation>Cliquez sur Nouveau Projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et un titre de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez un nom de projet et un titre de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we will create a point
 in the dungeon where the player can save and heal.</source>
-        <translation type="unfinished">Dans cette étape, nous allons créer un point de sauvegarde et de soin dans le donjon.</translation>
+        <translation>Dans cette étape, nous allons créer un point de sauvegarde et de soin dans le donjon.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot; from the map tree.</source>
-        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Having a spot where you can save and heal right before a boss is par for the course in RPGs these days, and we&apos;ll be using the same plan here.</source>
-        <translation type="unfinished">De nos jours, il est normal d'avoir un endroit où sauvegarder et se soigner avant un boss dans un RPG. C'est exactement ce que nous allons faire ici.</translation>
+        <translation>De nos jours, il est normal d&apos;avoir un endroit où sauvegarder et se soigner avant un boss dans un RPG. C&apos;est exactement ce que nous allons faire ici.</translation>
     </message>
     <message>
         <source>We will be assuming that the boss will be positioned in the mossy area to the upper right. First, scroll the map far to the upper right.</source>
-        <translation type="unfinished">Le boss sera situé dans la partie en haut à droite de la carte. Déjà, faites défiler la carte jusqu'à ce point.</translation>
+        <translation>Le boss sera situé dans la partie en haut à droite de la carte. Déjà, faites défiler la carte jusqu&apos;à ce point.</translation>
     </message>
     <message>
         <source>We plan to place the boss at (34,7) in a later step.</source>
-        <translation type="unfinished">Nous placerons le boss en (34,7) plus tard.</translation>
+        <translation>Nous placerons le boss en (34,7) plus tard.</translation>
     </message>
     <message>
         <source>This time, we&apos;ll place a restore point on the floor nearby (30,11).
 Find (30,11).</source>
-        <translation type="unfinished">Commençons par placer un point de rétablissement sur le sol en (30,11).</translation>
+        <translation>Commençons par placer un point de rétablissement sur le sol en (30,11).</translation>
     </message>
     <message>
         <source>Double click (30,11).</source>
-        <translation type="unfinished">Double-cliquez sur (30,11).</translation>
+        <translation>Double-cliquez sur (30,11).</translation>
     </message>
     <message>
         <source>Enter the name as Restore Point.</source>
-        <translation type="unfinished">Entrez le nom "Point de rétablissment"</translation>
+        <translation>Entrez le nom &quot;Point de rétablissment"</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Image.</translation>
+        <translation>Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Click !Door2 from the list.</source>
-        <translation type="unfinished">Cliquez sur !Door2.</translation>
+        <translation>Cliquez sur !Door2.</translation>
     </message>
     <message>
         <source>Select the magic circle you like best from the lower half.</source>
-        <translation type="unfinished">Choisissez le pentagramme que vous désirez dans la partie inférieure.</translation>
+        <translation>Choisissez le pentagramme que vous désirez dans la partie inférieure.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Check off &quot;Direction Fix&quot;.</source>
-        <translation type="unfinished">Cochez &quot;Regard Fixe&quot;.</translation>
+        <translation>Cochez &quot;Regard Fixe&quot;.</translation>
     </message>
     <message>
         <source>Change the priority to &quot;Below characters&quot;.</source>
-        <translation type="unfinished">Changez la priorité en &quot;Sous le personnage&quot;.</translation>
+        <translation>Changez la priorité en &quot;Sous le personnage&quot;.</translation>
     </message>
     <message>
         <source>Set the trigger to &quot;Player Touch&quot;.
 Now we&apos;ve made it so the event will be launched when the player stands on it.</source>
-        <translation type="unfinished">Changez l'enclenchement en &quot;Au contact du joueur&quot;.
-L'évènement se déclenchera désormais quand le joueur sera au dessus du cercle magique.</translation>
+        <translation>Changez l&apos;enclenchement en &quot;Au contact du joueur&quot;.
+L&apos;évènement se déclenchera désormais quand le joueur sera au dessus du cercle magique.</translation>
     </message>
     <message>
         <source>Double click the topmost line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Double-cliques sur la première ligne.</translation>
+        <translation>Double-cliques sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to switch to page 2.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 2 pour changer de page.</translation>
+        <translation>Cliquez sur l&apos;onglet 2 pour changer de page.</translation>
     </message>
     <message>
         <source>Click &quot;Gather Followers&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Regrouper la chenille&quot;.</translation>
+        <translation>Cliquez sur &quot;Regrouper la chenille&quot;.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Play SE...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Jouer SE...&quot;.</translation>
+        <translation>Cliquez sur &quot;Jouer SE...&quot;.</translation>
     </message>
     <message>
         <source>Find Heal1 in the list and click it.</source>
-        <translation type="unfinished">Trouvez Heal1 dans la liste et cliquez dessus.</translation>
+        <translation>Trouvez Heal1 dans la liste et cliquez dessus.</translation>
     </message>
     <message>
         <source>Click OK and set the SE (sound effect).</source>
-        <translation type="unfinished">Cliquez sur OK et choissisez un effet sonore.</translation>
+        <translation>Cliquez sur OK et choissisez un effet sonore.</translation>
     </message>
     <message>
         <source>Click &quot;Flash Screen...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Flasher l'écran..;&quot;.</translation>
+        <translation>Cliquez sur &quot;Flasher l&apos;écran..;&quot;.</translation>
     </message>
     <message>
         <source>After making sure that the duration is set to 60 frames and that Wait for Completion is checked off,
 click OK.</source>
-        <translation type="unfinished">Vérifiez que la durée est bien de 60 frames, que Attendre la fin est bien coché,
+        <translation>Vérifiez que la durée est bien de 60 frames, que Attendre la fin est bien coché,
 puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we will heal the party members.
 Double click the next line.</source>
-        <translation type="unfinished">Nous allons maintenant soigner l'équipe.
+        <translation>Nous allons maintenant soigner l&apos;équipe.
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab to switch to page 1.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 1.</translation>
+        <translation>Cliquez sur l&apos;onglet 1.</translation>
     </message>
     <message>
         <source>Note: We will not be using &quot;Recover All&quot; this time.
 This is for removing all states, so even positive states
 like floor damage immunity will be removed.</source>
-        <translation type="unfinished">Note : Nous n'allons pas simplement utiliser &quot;Guérir complètement&quot; cette fois.
-Le but est de retirer toutes les altérations, même positives comme l'immunité aux dégâts du sol.</translation>
+        <translation>Note : Nous n&apos;allons pas simplement utiliser &quot;Guérir complètement&quot; cette fois.
+Le but est de retirer toutes les altérations, même positives comme l&apos;immunité aux dégâts du sol.</translation>
     </message>
     <message>
         <source>Instead we will combine &quot;Change State&quot;, &quot;Change HP&quot; and &quot;Change MP&quot;.</source>
-        <translation type="unfinished">À la place, nous allons combiner &quot;Modifier les états&quot;, &quot;Modifier les PV&quot; et &quot;Modifier les PM&quot;.</translation>
+        <translation>À la place, nous allons combiner &quot;Modifier les états&quot;, &quot;Modifier les PV&quot; et &quot;Modifier les PM&quot;.</translation>
     </message>
     <message>
         <source>First we will remove Knockout.
 Click &quot;Change State...&quot;.</source>
-        <translation type="unfinished">Tout d'abord, retirons l'état KO. Cliquez sur &quot;Modifier les états...&quot;.</translation>
+        <translation>Tout d&apos;abord, retirons l&apos;état KO. Cliquez sur &quot;Modifier les états...&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to Entire Party, and that the State is set to Knockout. Then click &quot;Remove&quot;.</source>
-        <translation type="unfinished">Vérifiez que la cible soit l'équipe entière et que l'état soit KO, puis cliquez sur Retirer.</translation>
+        <translation>Vérifiez que la cible soit l&apos;équipe entière et que l&apos;état soit KO, puis cliquez sur Retirer.</translation>
     </message>
     <message>
         <source>Now Knockout will be removed from the whole party.
 No other negative states will be dealt with in this tutorial, so this is enough.
 Click OK and it will be set.</source>
-        <translation type="unfinished">L'état KO va maintenant être retiré de l'équipe entière.
+        <translation>L&apos;état KO va maintenant être retiré de l&apos;équipe entière.
 Nous ne traiteront aucun autre état négatif dans ce tutoriel. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change HP...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier les PV...&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier les PV...&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;, and then enter 9999 as the constant.</source>
-        <translation type="unfinished">Vérifiez que la cible soit l'équipe entière et que l'opération soit &quot;Augmenter&quot;, puis entrer la valeur fixe 9999.</translation>
+        <translation>Vérifiez que la cible soit l&apos;équipe entière et que l&apos;opération soit &quot;Augmenter&quot;, puis entrer la valeur fixe 9999.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change MP...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier les PM...&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier les PM...&quot;.</translation>
     </message>
     <message>
         <source>Next, we will make it ask about saving.
 Double click the next line.</source>
-        <translation type="unfinished">Au tour de la sauvegarde !
+        <translation>Au tour de la sauvegarde !
 Double-cliques sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher un texte..;&quot;.</translation>
+        <translation>Cliquez sur &quot;Afficher un texte..;&quot;.</translation>
     </message>
     <message>
         <source>Écrivez &quot;Voulez-vous sauvegarder ?&quot;.
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click OK and set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Show Choices...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher les choix...&quot;.</translation>
+        <translation>Cliquez sur &quot;Afficher les choix...&quot;.</translation>
     </message>
     <message>
         <source>Click OK as-is and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>&quot;When Yes&quot; will perform the save process, while &quot;When No&quot; will do nothing.
 Double click the line under &quot;When Yes&quot;.</source>
-        <translation type="unfinished">&quot;Si oui&quot; effectuera la sauvegarde, &quot;Si non&quot; ne fera rien.
+        <translation>&quot;Si oui&quot; effectuera la sauvegarde, &quot;Si non&quot; ne fera rien.
 Double-cliquez sur la ligne en dessous de &quot;Si oui&quot;.</translation>
     </message>
     <message>
         <source>Click the tab and open page 3.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 3.</translation>
+        <translation>Cliquez sur l&apos;onglet 3.</translation>
     </message>
     <message>
         <source>Click Open Save Screen.</source>
-        <translation type="unfinished">Cliquez sur &quot;Ouvrir le menu de sauvegarde&quot;.</translation>
+        <translation>Cliquez sur &quot;Ouvrir le menu de sauvegarde&quot;.</translation>
     </message>
     <message>
         <source>Here we will have a brief explanation on saves.
 You can always save from the menu,
 but if you use the &quot;Change Save Access&quot; event command,
 the player will be unable to save from the menu.</source>
-        <translation type="unfinished">Petite explication sur les sauvegardes :
-La sauvegarde à partir du menu est autorisée à moins que vous n'utilisez la commande &quot;Accès aux sauvegardes&quot; pour la désactiver.</translation>
+        <translation>Petite explication sur les sauvegardes :
+La sauvegarde à partir du menu est autorisée à moins que vous n&apos;utilisez la commande &quot;Accès aux sauvegardes&quot; pour la désactiver.</translation>
     </message>
     <message>
         <source>In this tutorial, we will not disable save access. Therefore, there is no need to ask if the player would like to save,
 but urging the player to save before an important part of the game like this would be a nice thing to do.</source>
-        <translation type="unfinished">Dans ce tutoriel, nous ne le ferons pas ; il est donc inutile de demander au joueur s'il souhaite
-sauvegarder, mais rappeler au joueur qu'il est important de le faire avant un boss est une bonne pratique !</translation>
+        <translation>Dans ce tutoriel, nous ne le ferons pas ; il est donc inutile de demander au joueur s&apos;il souhaite
+sauvegarder, mais rappeler au joueur qu&apos;il est important de le faire avant un boss est une bonne pratique !</translation>
     </message>
     <message>
         <source>Now we&apos;re done making the restore point.
 Click OK.</source>
-        <translation type="unfinished">Nous avons maintenant terminé le point de rétablissement. Cliquez sur OK.</translation>
+        <translation>Nous avons maintenant terminé le point de rétablissement. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished">Sauvegardez le projet.</translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Reduce your HP on the damage floor and then get on the restore point,
 making sure your HP was actually recovered by checking on the menu.</source>
-        <translation type="unfinished">Testez le projet !
+        <translation>Testez le projet !
 Perdez de la vie en marchant sur les endroits dangereux au sol et utiliser le point de rétablissement,
 en vérifiant dans le menu que votre vie est bien restaurée.</translation>
     </message>
@@ -17388,8 +17388,8 @@ en vérifiant dans le menu que votre vie est bien restaurée.</translation>
 This tutorial uses configuration with the minimum number of components,
 so there&apos;s lots of room for improvement. When you make your own projects,
 try adding even more components.</source>
-        <translation type="unfinished">L'étape 15 est terminée, bravo !
-N'hésitez pas à vous amuser avec ces options dans votre jeu, avec par exemple des points de rétablissement limités.
+        <translation>L&apos;étape 15 est terminée, bravo !
+N&apos;hésitez pas à vous amuser avec ces options dans votre jeu, avec par exemple des points de rétablissement limités.
 Laissez parler votre créativité !</translation>
     </message>
 </context>
@@ -17401,176 +17401,176 @@ Laissez parler votre créativité !</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 15?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 15 ?</translation>
+        <translation>Avez-vous le projet que nous avions terminé durant l&apos;étape 15 ?</translation>
     </message>
     <message>
         <source>Loading the step 15 project.</source>
-        <translation type="unfinished">Chargement du projet.</translation>
+        <translation>Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 15 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 15.
-Les projets sont situés dans le dossier Games de vos Documents.</translation>
+        <translation>Lancez le projet de l&apos;étape 15.
+Les projets sont situés dans le dossier RPGMV de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project complete.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we will place treasure chests and enemy troops in the dungeon. For battle, we&apos;ll be using symbol encounters.</source>
-        <translation type="unfinished">Dans cette étape, nous allons placer des coffres et des ennemis dans le donjon.</translation>
+        <translation>Dans cette étape, nous allons placer des coffres et des ennemis dans le donjon.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot; from the tree view.</source>
-        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>First we will place the treasure chests.</source>
-        <translation type="unfinished">Commençons par les coffres.</translation>
+        <translation>Commençons par les coffres.</translation>
     </message>
     <message>
         <source>Scroll to the bottom left of the map, displaying the area around the entrance.</source>
-        <translation type="unfinished">Allez en bas à gauche de la carte, près de l'entrée.</translation>
+        <translation>Allez en bas à gauche de la carte, près de l&apos;entrée.</translation>
     </message>
     <message>
         <source>We&apos;ll use the grotto to the left of the entrance.
 Find the coordinates (3,23).</source>
-        <translation type="unfinished">Nous allons utiliser l'espace à gauche de l'entrée, en (3,23).</translation>
+        <translation>Nous allons utiliser l&apos;espace à gauche de l&apos;entrée, en (3,23).</translation>
     </message>
     <message>
         <source>Right click on (3,23),
 and select
 Quick Event Creation &gt; Treasure.</source>
-        <translation type="unfinished">Faites un clic droit sur (3,23) puis sélectionnez l'évènement rapide Trésor.</translation>
+        <translation>Faites un clic droit sur (3,23) puis sélectionnez l&apos;évènement rapide Trésor.</translation>
     </message>
     <message>
         <source>The contents will be a TP Charge.
 Click Item.</source>
-        <translation type="unfinished">Il contiendra une recharge de PT. Cliquez sur Objet.</translation>
+        <translation>Il contiendra une recharge de PT. Cliquez sur Objet.</translation>
     </message>
     <message>
         <source>Select &quot;TP Charge&quot; from the item list.</source>
-        <translation type="unfinished">Choisissez la recharge de PT.</translation>
+        <translation>Choisissez la recharge de PT.</translation>
     </message>
     <message>
         <source>Click OK and create the treasure.</source>
-        <translation type="unfinished">Cliquez sur OK pour créer le coffre à trésor.</translation>
+        <translation>Cliquez sur OK pour créer le coffre à trésor.</translation>
     </message>
     <message>
         <source>Placing chests at dead ends
 makes it worth the player&apos;s while to explore them.</source>
-        <translation type="unfinished">Placer des coffres dans des impasses est une bonne façon de pousser le joueur à explorer !</translation>
+        <translation>Placer des coffres dans des impasses est une bonne façon de pousser le joueur à explorer !</translation>
     </message>
     <message>
         <source>Now we&apos;ll place our second treasure.
 Scroll to the bottom right.</source>
-        <translation type="unfinished">Maintenant, plaçons notre second coffre en bas à droite de la carte.</translation>
+        <translation>Maintenant, plaçons notre second coffre en bas à droite de la carte.</translation>
     </message>
     <message>
         <source>It&apos;s just south of the room with the boss.
 Find (36,24).</source>
-        <translation type="unfinished">Trouvez le tile (36,24), au sud de la salle du boss.</translation>
+        <translation>Trouvez le tile (36,24), au sud de la salle du boss.</translation>
     </message>
     <message>
         <source>Right click on (36,24),
 and select
 Quick Event Creation &gt; Treasure.</source>
-        <translation type="unfinished">Faites un clic droit sur (36,24) puis sélectionnez l'évènement rapide Trésor.</translation>
+        <translation>Faites un clic droit sur (36,24) puis sélectionnez l&apos;évènement rapide Trésor.</translation>
     </message>
     <message>
         <source>Check off &quot;Item&quot;.</source>
-        <translation type="unfinished">Cochez &quot;Objet&quot;.</translation>
+        <translation>Cochez &quot;Objet&quot;.</translation>
     </message>
     <message>
         <source>Select #5, Elixir, from the item list.
 This item can&apos;t be bought, and it&apos;s useful for bosses.</source>
-        <translation type="unfinished">Choisissez un Elixir dans la liste. Cet objet ne peut être acheté et est très utile contre un boss.</translation>
+        <translation>Choisissez un Elixir dans la liste. Cet objet ne peut être acheté et est très utile contre un boss.</translation>
     </message>
     <message>
         <source>Now we&apos;ve placed 2 treasure chests.
 For a cave of this size, 3 to 5 would be appropriate.
 So we will place a few more chests.</source>
-        <translation type="unfinished">Nous avons placé 2 coffres à trésor. Dans une grotte de cette taille, quelques uns de plus ne seraient pas de refus !</translation>
+        <translation>Nous avons placé 2 coffres à trésor. Dans une grotte de cette taille, quelques uns de plus ne seraient pas de refus !</translation>
     </message>
     <message>
         <source>Place another 1 to 3 chests.
 Where you place them and their contents is up to you.
 Once you&apos;ve placed them, we&apos;ll move on.</source>
-        <translation type="unfinished">Placez un ou deux coffres supplémentaires et remplissez-les comme vous le voulez.</translation>
+        <translation>Placez un ou deux coffres supplémentaires et remplissez-les comme vous le voulez.</translation>
     </message>
     <message>
         <source>Next we will place enemy troops. They will be the typical weaklings that you&apos;d find in a dungeon.</source>
-        <translation type="unfinished">Maintenant, nous allons prévoir des combats contre des ennemis faibles, typiques d'un tel donjon.</translation>
+        <translation>Maintenant, nous allons prévoir des combats contre des ennemis faibles, typiques d&apos;un tel donjon.</translation>
     </message>
     <message>
         <source>In this tutorial, we will be using symbol encounters. In this system, troops will each be an event,
 and when touched, battle will start.</source>
-        <translation type="unfinished">Dans ce tutoriel, nous allons utiliser des rencontres fixes : pour chaque combat, un symbole
-représentant un groupe d'ennemis est visible sur la carte et le combat commence au contact du joueur.
+        <translation>Dans ce tutoriel, nous allons utiliser des rencontres fixes : pour chaque combat, un symbole
+représentant un groupe d&apos;ennemis est visible sur la carte et le combat commence au contact du joueur.
 Ce système permet au joueur de choisir son propre rythme de combat.</translation>
     </message>
     <message>
         <source>Now, the opposite of a &quot;symbol encounter&quot; is a &quot;random encounter&quot;.
 First we&apos;ll explain random encounters.</source>
-        <translation type="unfinished">L'opposé de ce système, c'est celui de rencontres aléatoires.</translation>
+        <translation>L&apos;opposé de ce système, c&apos;est celui de rencontres aléatoires.</translation>
     </message>
     <message>
         <source>Random encounters are an encounter style where battles will suddenly start while the player walks.</source>
-        <translation type="unfinished">Lors d'une rencontre aléatoire, les combats commencent sans avertissement pendant que le joueur se déplace.</translation>
+        <translation>Lors d&apos;une rencontre aléatoire, les combats commencent sans avertissement pendant que le joueur se déplace.</translation>
     </message>
     <message>
         <source>Let&apos;s explain how to set up random encounters.
 Right click &quot;Stone Cave&quot; from the map tree and select &quot;Edit&quot;.</source>
-        <translation type="unfinished">Nous allons commencer par voir comment régler ces rencontres aléatoires.
+        <translation>Nous allons commencer par voir comment régler ces rencontres aléatoires.
 Faites un clic droit sur &quot;Grotte de pierre&quot;, puis sélectionnez &quot;Éditer&quot;.</translation>
     </message>
     <message>
         <source>Double click the first line
 in the Encounters list.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne dans la liste de rencontres.</translation>
+        <translation>Double-cliquez sur la première ligne dans la liste de rencontres.</translation>
     </message>
     <message>
         <source>You can set the troops that will appear in that map (or a specified area of the map) and their weight (likelihood to be chosen as the encounter).
 We won&apos;t be configuring this so click cancel.</source>
-        <translation type="unfinished">Vous pouvez choisir quels groupes d'ennemis apparaitront sur la carte et leur probabilité de rencontre. 
-Nous n'allons pas le faire ici, appuyez donc sur Annuler.</translation>
+        <translation>Vous pouvez choisir quels groupes d&apos;ennemis apparaitront sur la carte et leur probabilité de rencontre. 
+Nous n&apos;allons pas le faire ici, appuyez donc sur Annuler.</translation>
     </message>
     <message>
         <source>Take note of the Encounter Steps.
 This is a reference value for how many steps on average will be walked before a battle starts in the random encounter system.</source>
-        <translation type="unfinished">Souvenez-vous bien de la Fréquence de combat, qui définit combien de pas en moyenne
-le joueur effectuera avant qu'une rencontre aléatoire se lance.</translation>
+        <translation>Souvenez-vous bien de la Fréquence de combat, qui définit combien de pas en moyenne
+le joueur effectuera avant qu&apos;une rencontre aléatoire se lance.</translation>
     </message>
     <message>
         <source>That&apos;s it for the random encounter explanation.
 The main feature of random encounters is that you get the thrill of never knowing when a battle will happen, because you can&apos;t see the enemies. Click cancel and close the window.</source>
-        <translation type="unfinished">Nous en avons fini avec l'explication des rencontres aléatoires.
-Elles présentent des avantages, comme l'équilibrage plus précis des combats au long d'un jeu, mais peuvent aussi frustrer un joueur
+        <translation>Nous en avons fini avec l&apos;explication des rencontres aléatoires.
+Elles présentent des avantages, comme l&apos;équilibrage plus précis des combats au long d&apos;un jeu, mais peuvent aussi frustrer un joueur
 si elles sont trop fréquentes. Soyez prudents !
 Cliquez sur Annuler pour fermer la fenêtre.</translation>
     </message>
@@ -17578,231 +17578,231 @@ Cliquez sur Annuler pour fermer la fenêtre.</translation>
         <source>Now let&apos;s return to symbol encounters.
 Where should we put the enemy symbols?
 As an example, this time we will plan to put them near the treasures we placed.</source>
-        <translation type="unfinished">Revenons à nos rencontres fixes.
+        <translation>Revenons à nos rencontres fixes.
 Où placer les symboles de rencontres ? Pour commencer, mettons-les près de nos coffres.</translation>
     </message>
     <message>
         <source>If they&apos;re near treasure, players who wish to take the shortest route can avoid excessive battles,
 and it also provides player incentive as they can open the treasures if they do battle.</source>
-        <translation type="unfinished">Les joueurs proches des coffres pourront ainsi soit manoeuvrer pour éviter les combats,
+        <translation>Les joueurs proches des coffres pourront ainsi soit manoeuvrer pour éviter les combats,
 soit les faire pour obtenir une récompense gratifiante.</translation>
     </message>
     <message>
         <source>This time we&apos;ll keep it simple and place 3 enemy symbols.</source>
-        <translation type="unfinished">Allons au plus simple avec trois rencontres.</translation>
+        <translation>Allons au plus simple avec trois rencontres.</translation>
     </message>
     <message>
         <source>Let&apos;s get to creating the event that will serve as an enemy symbol. If you make one, there&apos;s no issue if you duplicate by copying and pasting and then fine tune.</source>
-        <translation type="unfinished">Nous allons commencer par créer l'évènement qui servira de symbole. Vous pourrez après le copier pour placer d'autres rencontres.</translation>
+        <translation>Nous allons commencer par créer l&apos;évènement qui servira de symbole. Vous pourrez après le copier pour placer d&apos;autres rencontres.</translation>
     </message>
     <message>
         <source>First, let&apos;s place troop #1 near our first treasure.
 Scroll the map to display the lower left of the dungeon.</source>
-        <translation type="unfinished">Nous allons placer le premier près du trésor en bas à gauche de la grotte.</translation>
+        <translation>Nous allons placer le premier près du trésor en bas à gauche de la grotte.</translation>
     </message>
     <message>
         <source>We&apos;ll place them on (8,24). Find those coordinates.</source>
-        <translation type="unfinished">Trouvez le tile (8,24).</translation>
+        <translation>Trouvez le tile (8,24).</translation>
     </message>
     <message>
         <source>Double click (8,24).</source>
-        <translation type="unfinished">Doublez-cliquez sur le tile (8,24).</translation>
+        <translation>Doublez-cliquez sur le tile (8,24).</translation>
     </message>
     <message>
         <source>Enter the name as Enemy Symbol.</source>
-        <translation type="unfinished">Entrez le nom Symbole Rencontre.</translation>
+        <translation>Entrez le nom Symbole Rencontre.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Image.</translation>
+        <translation>Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Select Monster from the list.</source>
-        <translation type="unfinished">Choisissez Monstres.</translation>
+        <translation>Choisissez Monstres.</translation>
     </message>
     <message>
         <source>From the bats on the leftmost side of the top half,
 we&apos;ll select the center of the right-facing sprites.</source>
-        <translation type="unfinished">Choisissez les chauves-souris regardant vers la droite.</translation>
+        <translation>Choisissez les chauves-souris regardant vers la droite.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select Approach as the Autonomous Movement type.</source>
-        <translation type="unfinished">Sélectionnez Suit le héros comme Déplacement autonome.</translation>
+        <translation>Sélectionnez Suit le héros comme Déplacement autonome.</translation>
     </message>
     <message>
         <source>Set the Trigger to Event Touch.</source>
-        <translation type="unfinished">En déclenchement, sélectionnez Contact avec le héros.</translation>
+        <translation>En déclenchement, sélectionnez Contact avec le héros.</translation>
     </message>
     <message>
         <source>We won&apos;t change the speed or frequency this time.</source>
-        <translation type="unfinished">Nous ne changerons pas la vitesse ou la fréquence de l'évènement cette fois.</translation>
+        <translation>Nous ne changerons pas la vitesse ou la fréquence de l&apos;évènement cette fois.</translation>
     </message>
     <message>
         <source>Next, double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
+        <translation>Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 3.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 3.</translation>
+        <translation>Cliquez sur l&apos;onglet 3.</translation>
     </message>
     <message>
         <source>Click Battle Processing.</source>
-        <translation type="unfinished">Cliquez sur&quot;Démarrer un combat&quot;.</translation>
+        <translation>Cliquez sur&quot;Démarrer un combat&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the
 Troop is set to &quot;Direct designation&quot;, and that #1, &quot;Bat*2&quot;, is selected.</source>
-        <translation type="unfinished">Vérifiez que la position soit &quot;Prédéfinie&quot; et que le groupe #1, &quot;Chauve-souris*2&quot;, est sélectionné.</translation>
+        <translation>Vérifiez que la position soit &quot;Prédéfinie&quot; et que le groupe #1, &quot;Chauve-souris*2&quot;, est sélectionné.</translation>
     </message>
     <message>
         <source>Check off Can Escape.</source>
-        <translation type="unfinished">Cochez la fuite possible.</translation>
+        <translation>Cochez la fuite possible.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will describe the process for when the player wins.
 Double click the line under &quot;If Win&quot;.</source>
-        <translation type="unfinished">Nous allons décrire ce qui va se passer en cas de victoire.
+        <translation>Nous allons décrire ce qui va se passer en cas de victoire.
 Double cliquez sur la ligne sous &quot;Si victoire&quot;.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 2.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 2.</translation>
+        <translation>Cliquez sur l&apos;onglet 2.</translation>
     </message>
     <message>
         <source>Click &quot;Play SE...&quot;.
 We will set the sound effect for when the enemy symbol disappears.</source>
-        <translation type="unfinished">Cliquez sur &quot;Jouer SE...&quot; afin de choisis un effet sonore à jouer pour quand le 
+        <translation>Cliquez sur &quot;Jouer SE...&quot; afin de choisis un effet sonore à jouer pour quand le 
 symbole de rencontre disparaîtra.</translation>
     </message>
     <message>
         <source>Scroll through the list and select Collapse1.</source>
-        <translation type="unfinished">Choisissez &quot;Collapse1&quot; dans la liste.</translation>
+        <translation>Choisissez &quot;Collapse1&quot; dans la liste.</translation>
     </message>
     <message>
         <source>Click OK to set the sound effect.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click Erase Event.</source>
-        <translation type="unfinished">Cliquez sur &quot;Effacer l'évènement&quot;.</translation>
+        <translation>Cliquez sur &quot;Effacer l&apos;évènement&quot;.</translation>
     </message>
     <message>
         <source>When &quot;Erase Event&quot; is performed, that event will be changed to a non-existent state.
 But if you change maps, it will be restored.</source>
-        <translation type="unfinished">&quot;Effacer l'évènement&quot; supprimera l'évènement tant que le joueur restera sur cette carte.</translation>
+        <translation>&quot;Effacer l&apos;évènement&quot; supprimera l&apos;évènement tant que le joueur restera sur cette carte.</translation>
     </message>
     <message>
         <source>Additionally, events that have been temporarily erased may be restored when the author overwrites the project.</source>
-        <translation type="unfinished">S'il part puis revient, l'évènement sera de retour.</translation>
+        <translation>S&apos;il part puis revient, l&apos;évènement sera de retour.</translation>
     </message>
     <message>
         <source>Next, double click the line under &quot;If Escape&quot;.</source>
-        <translation type="unfinished">Ensuite, double-cliquez sur la ligne en dessous de &quot;Si fuite&quot;.</translation>
+        <translation>Ensuite, double-cliquez sur la ligne en dessous de &quot;Si fuite&quot;.</translation>
     </message>
     <message>
         <source>Switch to the page 1 tab.</source>
-        <translation type="unfinished">Allez sur l'onglet 1.</translation>
+        <translation>Allez sur l&apos;onglet 1.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier un interrupteur local..;&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier un interrupteur local..;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Self Switch is A, and that the Operation is set
 to ON, click OK and set it.</source>
-        <translation type="unfinished">Vérifiez que l'interrupteur local est A et que l'opération est bien sur ON, puis cliquez sur OK.</translation>
+        <translation>Vérifiez que l&apos;interrupteur local est A et que l&apos;opération est bien sur ON, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make it so that self switch A will be used as the condition
 to switch to page 2 when the player escapes.</source>
-        <translation type="unfinished">Nous allons faire en sorte que si le joueur s'échappe, l'interrupteur local A s'active
-et l'évènement passe à la page 2.</translation>
+        <translation>Nous allons faire en sorte que si le joueur s&apos;échappe, l&apos;interrupteur local A s&apos;active
+et l&apos;évènement passe à la page 2.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Nouvelle page&quot;.</translation>
+        <translation>Cliquez sur &quot;Nouvelle page&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll check off Self Switch as the Condition.</source>
-        <translation type="unfinished">Cochez l'interrupteur local comme condition.</translation>
+        <translation>Cochez l&apos;interrupteur local comme condition.</translation>
     </message>
     <message>
         <source>Make sure it is set to A.</source>
-        <translation type="unfinished">Vérifiez que ce soit bien l'interrupteur local A qui soit coché.</translation>
+        <translation>Vérifiez que ce soit bien l&apos;interrupteur local A qui soit coché.</translation>
     </message>
     <message>
         <source>Click Monster from the list.</source>
-        <translation type="unfinished">Cliquez sur Monstre.</translation>
+        <translation>Cliquez sur Monstre.</translation>
     </message>
     <message>
         <source>Select the middle bat facing right.</source>
-        <translation type="unfinished">Choisissez la chauve-souris regardant vers la droite.</translation>
+        <translation>Choisissez la chauve-souris regardant vers la droite.</translation>
     </message>
     <message>
         <source>We will set the enemy symbol so that after escaping,
 it stays still for a few seconds
 and during that time even if the player touches the symbol, battle will not start.</source>
-        <translation type="unfinished">Nous allons faire en sorte qu'après la fuite du joueur, le symbole de rencontre
+        <translation>Nous allons faire en sorte qu&apos;après la fuite du joueur, le symbole de rencontre
 reste fixe quelques secondes et ne déclenche pas de combat durant cet intervalle.</translation>
     </message>
     <message>
         <source>Check off Through.</source>
-        <translation type="unfinished">Cochez Traverser tout.</translation>
+        <translation>Cochez Traverser tout.</translation>
     </message>
     <message>
         <source>Set the Trigger to Parallel.
 Parallel will be described later.</source>
-        <translation type="unfinished">En déclenchement, sélectionnez Parallèle.</translation>
+        <translation>En déclenchement, sélectionnez Parallèle.</translation>
     </message>
     <message>
         <source>Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
+        <translation>Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished">Allez sur la page 2.</translation>
+        <translation>Allez sur la page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Déplacer un évènement&quot;.</translation>
+        <translation>Cliquez sur &quot;Déplacer un évènement&quot;.</translation>
     </message>
     <message>
         <source>Set the target to This Event.</source>
-        <translation type="unfinished">Utilisez Cet évènement comme cible.</translation>
+        <translation>Utilisez Cet évènement comme cible.</translation>
     </message>
     <message>
         <source>Click Change Opacity.</source>
-        <translation type="unfinished">Cliquez sur Changer l'opacité.</translation>
+        <translation>Cliquez sur Changer l&apos;opacité.</translation>
     </message>
     <message>
         <source>Change opacity to 128.</source>
-        <translation type="unfinished">Changez l'opacité à 128.</translation>
+        <translation>Changez l&apos;opacité à 128.</translation>
     </message>
     <message>
         <source>Click Wait.</source>
-        <translation type="unfinished">Cliquez sur Attendre.</translation>
+        <translation>Cliquez sur Attendre.</translation>
     </message>
     <message>
         <source>Set the duration to 120.</source>
-        <translation type="unfinished">Choisissez une durée de 120.</translation>
+        <translation>Choisissez une durée de 120.</translation>
     </message>
     <message>
         <source>Make sure the opacity is 255
 and click OK.</source>
-        <translation type="unfinished">Vérifiez que l'opacité soit bien à 255 et appuyez sur OK.</translation>
+        <translation>Vérifiez que l&apos;opacité soit bien à 255 et appuyez sur OK.</translation>
     </message>
     <message>
         <source>Make sure the list looks as follows:
@@ -17811,7 +17811,7 @@ Wait: 120 frames
 Opacity: 255
 
 If there&apos;s no issue, click OK and set it.</source>
-        <translation type="unfinished">La liste doit ressembler à ceci :
+        <translation>La liste doit ressembler à ceci :
 Opacité : 128
 Attendre : 120 frames
 Opacité : 255
@@ -17820,21 +17820,21 @@ Si tout va bien, appuyez sur OK.</translation>
     <message>
         <source>Make sure the Self Switch is A
 and check off OFF.</source>
-        <translation type="unfinished">Vérifiez que l'interrupteur local soit bien A et cochez OFF.</translation>
+        <translation>Vérifiez que l&apos;interrupteur local soit bien A et cochez OFF.</translation>
     </message>
     <message>
         <source>Now, after stopping for 120 frames at half opacity,
 it will return to its state in page 1 where it goes after the player.</source>
-        <translation type="unfinished">Maintenant, après s'être arrêté pendant 120 frames avec une opacité réduite,
- l'évènement reviendra à son état en page 1 dans lequel il poursuit le joueur.</translation>
+        <translation>Maintenant, après s&apos;être arrêté pendant 120 frames avec une opacité réduite,
+ l&apos;évènement reviendra à son état en page 1 dans lequel il poursuit le joueur.</translation>
     </message>
     <message>
         <source>Now we will explain &quot;parallel processing&quot;.
 Usually during event execution, the player
 can&apos;t move, however when the event is set to &quot;parallel&quot;,
 players and other events can move.</source>
-        <translation type="unfinished">Expliquons maintenant le &quot;Processus parallèle&quot;.
-D'ordinaire, pendant l'exécution d'un évènement, le joueur ne peut pas bouger.
+        <translation>Expliquons maintenant le &quot;Processus parallèle&quot;.
+D&apos;ordinaire, pendant l&apos;exécution d&apos;un évènement, le joueur ne peut pas bouger.
 Si un évènement est réglé en &quot;Parallèle&quot;, le joueur et les autres évènements peuvent bouger.</translation>
     </message>
     <message>
@@ -17843,211 +17843,211 @@ so it&apos;s best not to use it too much while you&apos;re unfamiliar with it.
 Parallel processing takes up a particularly large amount of time,
 so if there are multiple events using parallel processing,
 you need to be careful as processing may slow down.</source>
-        <translation type="unfinished">Le processus parallèle peut être délicat à utiliser et ralentir le jeu,
+        <translation>Le processus parallèle peut être délicat à utiliser et ralentir le jeu,
 soyez donc prudents lors de son utilisation.</translation>
     </message>
     <message>
         <source>Now the creation and explanation of enemy symbols is complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Vous savez maintenant créer un symbole de rencontre !
+        <translation>Vous savez maintenant créer un symbole de rencontre !
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, let&apos;s duplicate our enemy symbol.
 Right click the symbol we created
 and select Copy.</source>
-        <translation type="unfinished">Nous allons dupliquer votre symbole afin de le réutiliser.
+        <translation>Nous allons dupliquer votre symbole afin de le réutiliser.
 Faites un clic droit dessus et cliquez sur &quot;Copier&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll put our second symbol at the entrance of the stairs on the upper left.
 Find (9,16).</source>
-        <translation type="unfinished">Nous allons placer notre second symbole devant les escalier en haut à gauche, en (9,16).</translation>
+        <translation>Nous allons placer notre second symbole devant les escalier en haut à gauche, en (9,16).</translation>
     </message>
     <message>
         <source>Right click on (9,16) and select &quot;Paste&quot;.</source>
-        <translation type="unfinished">Faites un clic droit sur (9,16) et cliquez sur &quot;Coller&quot;.</translation>
+        <translation>Faites un clic droit sur (9,16) et cliquez sur &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>Double click the event on (9,16).</source>
-        <translation type="unfinished">Double-cliquez sur (9,16).</translation>
+        <translation>Double-cliquez sur (9,16).</translation>
     </message>
     <message>
         <source>Right click Battle Processing and select Edit.</source>
-        <translation type="unfinished">Faites un clic droit sur Démarrer un combat et cliquez sur Éditer.</translation>
+        <translation>Faites un clic droit sur Démarrer un combat et cliquez sur Éditer.</translation>
     </message>
     <message>
         <source>Change the enemy group to #2.</source>
-        <translation type="unfinished">Utilisez plutôt le groupe d'ennemis #2 pour varier les choses.</translation>
+        <translation>Utilisez plutôt le groupe d&apos;ennemis #2 pour varier les choses.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select the middle slime facing to right from the slimes, second from the left.</source>
-        <translation type="unfinished">Choisissez le deuxième slime en partant de la gauche qui regarde vers la droite.</translation>
+        <translation>Choisissez le deuxième slime en partant de la gauche qui regarde vers la droite.</translation>
     </message>
     <message>
         <source>Select the same image as on page 1.</source>
-        <translation type="unfinished">Choisissez la même image en page 2.</translation>
+        <translation>Choisissez la même image en page 2.</translation>
     </message>
     <message>
         <source>Now our changes are complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Modifications terminées ! Cliquez sur OK.</translation>
+        <translation>Modifications terminées ! Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll place the third one at the entrance of the space below the boss.
 Show around the middle of the right side of the map and find (32,19).</source>
-        <translation type="unfinished">Nous allons reproduire ceci avec le troisième combat, près du boss, en (32,19).</translation>
+        <translation>Nous allons reproduire ceci avec le troisième combat, près du boss, en (32,19).</translation>
     </message>
     <message>
         <source>Right click on (32,19) and select &quot;Paste&quot;.</source>
-        <translation type="unfinished">Faites un clic droit sur (32,19) et cliquez sur &quot;Coller&quot;.</translation>
+        <translation>Faites un clic droit sur (32,19) et cliquez sur &quot;Coller&quot;.</translation>
     </message>
     <message>
         <source>Double click the event on (32,19).</source>
-        <translation type="unfinished">Doublez-cliquez sur (32,19).</translation>
+        <translation>Doublez-cliquez sur (32,19).</translation>
     </message>
     <message>
         <source>We&apos;ll make it troop #5.</source>
-        <translation type="unfinished">Choisissez le groupe d'ennemis #5.</translation>
+        <translation>Choisissez le groupe d&apos;ennemis #5.</translation>
     </message>
     <message>
         <source>Select the middle slime facing away from you.</source>
-        <translation type="unfinished">Prenez cette fois le slime du milieu qui regarde vers le haut.</translation>
+        <translation>Prenez cette fois le slime du milieu qui regarde vers le haut.</translation>
     </message>
     <message>
         <source>Select the same image as in page 1.</source>
-        <translation type="unfinished">Faites de même en page 2.</translation>
+        <translation>Faites de même en page 2.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done placing the enemy symbols.
 Next, click Database.</source>
-        <translation type="unfinished">Vous avez désormais fini de placer les symboles de rencontre !
+        <translation>Vous avez désormais fini de placer les symboles de rencontre !
 Allons maintenant dans la Base de données.</translation>
     </message>
     <message>
         <source>Click the Enemies tab.</source>
-        <translation type="unfinished">Allez dans l'onglet Ennemis.</translation>
+        <translation>Allez dans l&apos;onglet Ennemis.</translation>
     </message>
     <message>
         <source>The EXP and Gold from bats and slimes is still 0,
 so let&apos;s enter some appropriate values.
 First, we&apos;ll change the EXP from bats to 50.</source>
-        <translation type="unfinished">Nous allons modifier les valeurs d'exp et d'argent des ennemis.
-Commencez par changer l'exp donné par les chauves-souris à 50.</translation>
+        <translation>Nous allons modifier les valeurs d&apos;exp et d&apos;argent des ennemis.
+Commencez par changer l&apos;exp donné par les chauves-souris à 50.</translation>
     </message>
     <message>
         <source>We&apos;ll set their Gold to 20.</source>
-        <translation type="unfinished">Ensuite, changez l'argent donné à 20.</translation>
+        <translation>Ensuite, changez l&apos;argent donné à 20.</translation>
     </message>
     <message>
         <source>Click the topmost Drop Item.</source>
-        <translation type="unfinished">Cliquez sur le Butin en haut.</translation>
+        <translation>Cliquez sur le Butin en haut.</translation>
     </message>
     <message>
         <source>Click Item, and make sure it&apos;s set to #1, &quot;Potion&quot;,</source>
-        <translation type="unfinished">Cliquez sur Objet et choisissez l'objet #1, une &quot;Potion&quot;.</translation>
+        <translation>Cliquez sur Objet et choisissez l&apos;objet #1, une &quot;Potion&quot;.</translation>
     </message>
     <message>
         <source>Change the probability denominator to 2.</source>
-        <translation type="unfinished">Réglez la probabilité à 2.</translation>
+        <translation>Réglez la probabilité à 2.</translation>
     </message>
     <message>
         <source>You can configure up to 3 drop items.
 Click the second line.</source>
-        <translation type="unfinished">Vous pouvez choisir jusqu'à 3 butins.
+        <translation>Vous pouvez choisir jusqu&apos;à 3 butins.
 Cliquez sur la seconde ligne.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #6, &quot;TP Charge&quot;.</source>
-        <translation type="unfinished">Cochez Objet et choisissez le #6, la charge de PT.</translation>
+        <translation>Cochez Objet et choisissez le #6, la charge de PT.</translation>
     </message>
     <message>
         <source>Click #2 from the list, &quot;Slime&quot;.</source>
-        <translation type="unfinished">Cliquez sur le #2, le Slime.</translation>
+        <translation>Cliquez sur le #2, le Slime.</translation>
     </message>
     <message>
         <source>Set EXP to 50
 and Gold to 40.</source>
-        <translation type="unfinished">Mettez les valeurs EXP à 50 et Argent à 40.</translation>
+        <translation>Mettez les valeurs EXP à 50 et Argent à 40.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #2, &quot;Magic Water&quot;.</source>
-        <translation type="unfinished">Cochez Objet puis choisissez le #2, Ether.</translation>
+        <translation>Cochez Objet puis choisissez le #2, Ether.</translation>
     </message>
     <message>
         <source>Click the next Drop Item line.</source>
-        <translation type="unfinished">Cliquez sur la ligne de butin suivante.</translation>
+        <translation>Cliquez sur la ligne de butin suivante.</translation>
     </message>
     <message>
         <source>Check off Item,
 and select #4, &quot;Stimulant&quot;.</source>
-        <translation type="unfinished">Cochez Objet puis choisissez le #4,&quot;Stimulant&quot;.</translation>
+        <translation>Cochez Objet puis choisissez le #4,&quot;Stimulant&quot;.</translation>
     </message>
     <message>
         <source>Now we&apos;re done configuring the database.
 Click OK and it will be set.</source>
-        <translation type="unfinished">La base de données est maintenant configurée !
+        <translation>La base de données est maintenant configurée !
 Cliquez sur OK. </translation>
     </message>
     <message>
         <source>Let&apos;s change the player&apos;s initial position.
 Click Normal Town.</source>
-        <translation type="unfinished">Nous allons modifier la position initiale du joueur.
+        <translation>Nous allons modifier la position initiale du joueur.
 Cliquez sur &quot;Ville normale&quot;.</translation>
     </message>
     <message>
         <source>When you turn left from the town entrance, there is an inn immediately nearby.
 Find (10,31) in front of the inn.</source>
-        <translation type="unfinished">Cherchez l'auberge dans le village et le tile (10,31) juste devant.</translation>
+        <translation>Cherchez l&apos;auberge dans le village et le tile (10,31) juste devant.</translation>
     </message>
     <message>
         <source>Right click coordinates (10,31),
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished">Faites un clic droit en (10,31)
+        <translation>Faites un clic droit en (10,31)
 et réglez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Now we&apos;re all set.
 Save the project.</source>
-        <translation type="unfinished">Vous avez terminé ! Sauvegardez votre projet.</translation>
+        <translation>Vous avez terminé ! Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Run a playtest.
 First, gather money and shop in town, enter the dungeon,
 battle and escape from enemies, and be careful of damage floors.</source>
-        <translation type="unfinished">Lancez un test.
-Tout d'abord, faites vos emplettes en ville, entrez dans le donjon,
+        <translation>Lancez un test.
+Tout d&apos;abord, faites vos emplettes en ville, entrez dans le donjon,
 combattez et fuyez des ennemis en faisant attention au sol.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest there will be a simple explanation.</source>
-        <translation type="unfinished">Lorsque vous aurez terminé, il y aura une explication toute simple.</translation>
+        <translation>Lorsque vous aurez terminé, il y aura une explication toute simple.</translation>
     </message>
     <message>
         <source>You may have noticed certain aspects of RPG Maker MV,
 like how moving enemies don&apos;t stop even when you&apos;re investigating treasure, and that enemy symbols don&apos;t take damage from damage floors.</source>
-        <translation type="unfinished">Vous avez peut-être remarqué certaines caractéristiques de RPG Maker MV : par exemple,
+        <translation>Vous avez peut-être remarqué certaines caractéristiques de RPG Maker MV : par exemple,
 les ennemis continuent de bouger pendant que vous ouvrez un coffre et ne prennent pas de dégâts du sol.</translation>
     </message>
     <message>
         <source>Playtest again?</source>
-        <translation type="unfinished">Tester de nouveau ?</translation>
+        <translation>Tester de nouveau ?</translation>
     </message>
     <message>
         <source>Well then, nicely done.
 In the next step we&apos;ll place our boss.</source>
-        <translation type="unfinished">Bien joué ! 
+        <translation>Bien joué ! 
 Dans la prochaine étape, nous placerons un boss.</translation>
     </message>
 </context>
@@ -18059,92 +18059,92 @@ Dans la prochaine étape, nous placerons un boss.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 16?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 16 ?</translation>
+        <translation>Avez-vous le projet que nous avions terminé durant l&apos;étape 16 ?</translation>
     </message>
     <message>
         <source>Loading the step 16 project.</source>
-        <translation type="unfinished">Chargement du projet.</translation>
+        <translation>Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 16 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 16.
+        <translation>Lancez le projet de l&apos;étape 16.
 Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project complete.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we&apos;ll create the cave boss.
 We&apos;ll configure the database and adjust it to have strength suitable for a boss.</source>
-        <translation type="unfinished">Dans cette étape, nous allons créer un boss.
-Il nous faudra configurer la base de données et modifier un ennemi pour le rendre digne d'un boss.</translation>
+        <translation>Dans cette étape, nous allons créer un boss.
+Il nous faudra configurer la base de données et modifier un ennemi pour le rendre digne d&apos;un boss.</translation>
     </message>
     <message>
         <source>Please open the database.</source>
-        <translation type="unfinished">Ouvrez la base de données.</translation>
+        <translation>Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the Enemies tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Ennemis.</translation>
+        <translation>Cliquez sur l&apos;onglet Ennemis.</translation>
     </message>
     <message>
         <source>Click #3 from the list, &quot;Orc&quot;.
 We&apos;ll make this enemy the boss.</source>
-        <translation type="unfinished">Cliquez sur le #3, &quot;Orc&quot;.
+        <translation>Cliquez sur le #3, &quot;Orc&quot;.
 Nous allons faire de lui un vrai petit boss !</translation>
     </message>
     <message>
         <source>Here&apos;s an example of how to adjust balance:
 Consider the player&apos;s assumed level and equipment
 to determine an initial strength, and after that make small adjustments with playtesting.</source>
-        <translation type="unfinished">Voici un exemple d'équilibrage :
-Il vous faut déterminer le niveau moyen et l'équipement du joueur, puis faire
+        <translation>Voici un exemple d&apos;équilibrage :
+Il vous faut déterminer le niveau moyen et l&apos;équipement du joueur, puis faire
 de petis ajustement à la force du boss en testant le combat.</translation>
     </message>
     <message>
         <source>This time we&apos;ll assume a player level of 4.
 We&apos;ll start our adjustments based on this.</source>
-        <translation type="unfinished">Nous allons estimer que le joueur sera niveau 4 et partir de là.</translation>
+        <translation>Nous allons estimer que le joueur sera niveau 4 et partir de là.</translation>
     </message>
     <message>
         <source>Let&apos;s look at the regular attack combat formula.
 Click the Skills tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Compétences.</translation>
+        <translation>Cliquez sur l&apos;onglet Compétences.</translation>
     </message>
     <message>
         <source>Make sure #1, &quot;Attack&quot;, is selected.</source>
-        <translation type="unfinished">Sélectionnez &quot;Attaque&quot; en #1.</translation>
+        <translation>Sélectionnez &quot;Attaque&quot; en #1.</translation>
     </message>
     <message>
         <source>The damage formula is configured here.
 This means &quot;Attack*4 - Defense*2&quot;.</source>
-        <translation type="unfinished">La formule de dégâts est paramétrée ici.
+        <translation>La formule de dégâts est paramétrée ici.
 Par défaut, elle vaut &quot;Attaque*4 - Défense*2&quot;.</translation>
     </message>
     <message>
@@ -18152,26 +18152,26 @@ Par défaut, elle vaut &quot;Attaque*4 - Défense*2&quot;.</translation>
 Critical hits deal 3 times the amount of damage.
 It&apos;s very important to keep these in mind when setting your values, and to adjust
 using playtesting.</source>
-        <translation type="unfinished">Il est possible de régler les &quot;Coups critiques&quot;.
+        <translation>Il est possible de régler les &quot;Coups critiques&quot;.
 Ce sont des coups rares qui font 3 fois plus de dégâts.
-Ne les oubliez pas, ils peuvent totalement changer le flot d'un combat !</translation>
+Ne les oubliez pas, ils peuvent totalement changer le flot d&apos;un combat !</translation>
     </message>
     <message>
         <source>Additionally, there&apos;s no need to always make enemy attacks skill #1. It&apos;s also possible to create enemy-exclusive attack skills with different formulas and other settings.
 We&apos;ll be proceeding in this tutorial without any additional changes.</source>
-        <translation type="unfinished">De plus, vous pouvez créer des attaques de base exclusives à certains ennemis et boss
+        <translation>De plus, vous pouvez créer des attaques de base exclusives à certains ennemis et boss
 avec des paramètres de dégâts uniques !
-Pour cette fois, nous n'y toucherons pas, mais gardez-le à l'esprit.</translation>
+Pour cette fois, nous n&apos;y toucherons pas, mais gardez-le à l&apos;esprit.</translation>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Groupes.</translation>
+        <translation>Cliquez sur l&apos;onglet Groupes.</translation>
     </message>
     <message>
         <source>You can check the party strength of a party
 with an assumed level of 4 using battle testing.
 Click Battle Test.</source>
-        <translation type="unfinished">Vous pouvez lancer un test de combat avec
+        <translation>Vous pouvez lancer un test de combat avec
 une équipe de niveau 4 pour les ajustements.
 Cliquez sur Test de combat.</translation>
     </message>
@@ -18179,60 +18179,60 @@ Cliquez sur Test de combat.</translation>
         <source>Here we can see the ability values of
 actors at each level.
 First, let&apos;s make Harold level 4.</source>
-        <translation type="unfinished">Ici, vous pouvez voir les caractéristiques
+        <translation>Ici, vous pouvez voir les caractéristiques
 des héros à chaque niveau.
 Réglons Harold au niveau 4.</translation>
     </message>
     <message>
         <source>Harold&apos;s level 4 stats will be shown.</source>
-        <translation type="unfinished">Les caractéristiques de Harold au niveau 4 vont être affichées.</translation>
+        <translation>Les caractéristiques de Harold au niveau 4 vont être affichées.</translation>
     </message>
     <message>
         <source>We&apos;ll make the other members level 4 in the same way.
 Switch to the page 2 tab.</source>
-        <translation type="unfinished">Nous allons faire de même pour les autres membres.
-Allez sur l'onglet 2.</translation>
+        <translation>Nous allons faire de même pour les autres membres.
+Allez sur l&apos;onglet 2.</translation>
     </message>
     <message>
         <source>Make Therese level 4.</source>
-        <translation type="unfinished">Réglez Therese au niveau 4.</translation>
+        <translation>Réglez Therese au niveau 4.</translation>
     </message>
     <message>
         <source>Switch to the page 3 tab.</source>
-        <translation type="unfinished">Allez à l'onglet 3.</translation>
+        <translation>Allez à l&apos;onglet 3.</translation>
     </message>
     <message>
         <source>Make Marsha level 4.</source>
-        <translation type="unfinished">Réglez Marsha au niveau 4.</translation>
+        <translation>Réglez Marsha au niveau 4.</translation>
     </message>
     <message>
         <source>Switch to the page 4 tab.</source>
-        <translation type="unfinished">Allez à l'onglet 4.</translation>
+        <translation>Allez à l&apos;onglet 4.</translation>
     </message>
     <message>
         <source>Make Lucius level 4.</source>
-        <translation type="unfinished">Réglez Lucius au niveau 4.</translation>
+        <translation>Réglez Lucius au niveau 4.</translation>
     </message>
     <message>
         <source>Everyone&apos;s level 4 stats will be shown.
 While generally there would be a need to test equipment
 in addition to this, we won&apos;t be changing equipment this time so it&apos;s fine as-is.</source>
-        <translation type="unfinished">Les caractéristiques de tout le monde au niveau 4 vont s'afficher.
-Plus tard, vous devrez églaement faire des tests pour jauger l'équipement,
+        <translation>Les caractéristiques de tout le monde au niveau 4 vont s&apos;afficher.
+Plus tard, vous devrez églaement faire des tests pour jauger l&apos;équipement,
 mais nous ne nous soucierons pas de ce détail pour cette fois.</translation>
     </message>
     <message>
         <source>Additionally, we will configure the enemy&apos;s initial values
 while taking the skills that the actors can use into consideration.</source>
-        <translation type="unfinished">Nous allons cependant modifier les caractéristiques
-de l'ennemi en pensant aux compétences de nos héros.</translation>
+        <translation>Nous allons cependant modifier les caractéristiques
+de l&apos;ennemi en pensant aux compétences de nos héros.</translation>
     </message>
     <message>
         <source>For now, click OK and conduct the battle test.
 You can immediately end the battle test.
 Now the configured values are remembered,
 so next time we can conduct the battle test with all members at level 4.</source>
-        <translation type="unfinished">Pour l'instant, cliquez sur OK et lancez un test de combat.
+        <translation>Pour l&apos;instant, cliquez sur OK et lancez un test de combat.
 Vous pouvez le terminer immédiatement.
 Maintenant que les valeurs sont enregistrées, le prochain test de combat
 sera lancé avec les héros au niveau 4.</translation>
@@ -18240,426 +18240,426 @@ sera lancé avec les héros au niveau 4.</translation>
     <message>
         <source>Now let&apos;s actually configure the boss parameters.
 Click the Enemies tab.</source>
-        <translation type="unfinished">Passons enfin au boss !
-Cliquez sur l'onglet &quot;Ennemis&quot;.</translation>
+        <translation>Passons enfin au boss !
+Cliquez sur l&apos;onglet &quot;Ennemis&quot;.</translation>
     </message>
     <message>
         <source>Make sure #3, &quot;Orc&quot;, is selected.
 This time, enter the following values
 as an example.</source>
-        <translation type="unfinished">Sélectionnez l'Orc en #3.</translation>
+        <translation>Sélectionnez l&apos;Orc en #3.</translation>
     </message>
     <message>
         <source>Set Max HP to 1200.</source>
-        <translation type="unfinished">Réglez les PV Max à 1200.</translation>
+        <translation>Réglez les PV Max à 1200.</translation>
     </message>
     <message>
         <source>Set Max MP to 10.</source>
-        <translation type="unfinished">Réglez les PM Max à 10.</translation>
+        <translation>Réglez les PM Max à 10.</translation>
     </message>
     <message>
         <source>Set Attack to 50.</source>
-        <translation type="unfinished">Réglez l'Attaque à 50.</translation>
+        <translation>Réglez l&apos;Attaque à 50.</translation>
     </message>
     <message>
         <source>Set Defense to 40.</source>
-        <translation type="unfinished">Réglez la Défense à 40.</translation>
+        <translation>Réglez la Défense à 40.</translation>
     </message>
     <message>
         <source>Set Magic Defense to 40.</source>
-        <translation type="unfinished">Réglez la Défense magique à 40.</translation>
+        <translation>Réglez la Défense magique à 40.</translation>
     </message>
     <message>
         <source>Set Agility to 50.</source>
-        <translation type="unfinished">Réglez l'Agilité à 50.</translation>
+        <translation>Réglez l&apos;Agilité à 50.</translation>
     </message>
     <message>
         <source>The game will end when the boss is defeated
 so you can leave the EXP and Gold at 0.</source>
-        <translation type="unfinished">Le jeu se terminera quand le boss sera vaincu,
-vous pouvez donc ignorer l'expérience, l'argent et le butin.</translation>
+        <translation>Le jeu se terminera quand le boss sera vaincu,
+vous pouvez donc ignorer l&apos;expérience, l&apos;argent et le butin.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll edit his action patterns.
 We&apos;ll set the actions that can be taken and their conditions.</source>
-        <translation type="unfinished">Changeons maintenant ses actions et leurs conditions.</translation>
+        <translation>Changeons maintenant ses actions et leurs conditions.</translation>
     </message>
     <message>
         <source>You can set conditions such as use every X turns or use when HP is above or below a fixed amount.
 If a condition is not set, the action can always occur. (Excluding cases such as insufficient MP)</source>
-        <translation type="unfinished">Vous pouvez régler des conditions telles que 
-"Utiliser tous les X tours" ou "Utiliser lorsque les PV passent sous &quot;".
-Si aucune condition n'est choisie, l'ennemi pourra tout le temps utiliser l'action.</translation>
+        <translation>Vous pouvez régler des conditions telles que 
+"Utiliser tous les X tours&quot; ou &quot;Utiliser lorsque les PV passent sous &quot;&quot;.
+Si aucune condition n&apos;est choisie, l&apos;ennemi pourra tout le temps utiliser l&apos;action.</translation>
     </message>
     <message>
         <source>R refers to rating, which pertains to the rate at which the action is taken.
 While you&apos;re still getting used to things, it&apos;s fine to leave them all at 5.</source>
-        <translation type="unfinished">La priorité détermine les chances qu'une action soit utilisée.
-Pour l'instant, vous pouvez toutes les laisser à 5.</translation>
+        <translation>La priorité détermine les chances qu&apos;une action soit utilisée.
+Pour l&apos;instant, vous pouvez toutes les laisser à 5.</translation>
     </message>
     <message>
         <source>First, we&apos;ll make him attack twice in one turn.
 Double click the &quot;Attack&quot; line.</source>
-        <translation type="unfinished">Tout d'abord, faisons-le attaquer deux fois par tour.
+        <translation>Tout d&apos;abord, faisons-le attaquer deux fois par tour.
 Il faut bien du challenge !
 Doublez-cliquez sur la ligne &quot;Attaque&quot;.</translation>
     </message>
     <message>
         <source>Change the skill from #1, &quot;Attack&quot;, to #4, &quot;Double Attack&quot;.</source>
-        <translation type="unfinished">Changez la compétence #1 &quot;Attaque&quot; en la compétence #4 &quot;Double attaque&quot;.</translation>
+        <translation>Changez la compétence #1 &quot;Attaque&quot; en la compétence #4 &quot;Double attaque&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Doublez-cliquez sur la ligne suivante.</translation>
+        <translation>Doublez-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Set it to skill #8, &quot;Heal&quot;.</source>
-        <translation type="unfinished">Choisissez la compétence #8, &quot;Soin&quot;.</translation>
+        <translation>Choisissez la compétence #8, &quot;Soin&quot;.</translation>
     </message>
     <message>
         <source>Check off the HP condition.</source>
-        <translation type="unfinished">Cochez la condition de PV.</translation>
+        <translation>Cochez la condition de PV.</translation>
     </message>
     <message>
         <source>We want to make him use it when his max HP is between 0% and 35%,
 so change the 100 on the right to 35.</source>
-        <translation type="unfinished">Nous voulons qu'il puisse l'utiliser lorsque ses PV sont en dessous de 35%,
+        <translation>Nous voulons qu&apos;il puisse l&apos;utiliser lorsque ses PV sont en dessous de 35%,
 changez donc le 100 sur la droit en 35.</translation>
     </message>
     <message>
         <source>Change the rating from 5 to 6.
 Now when his HP is low,
 there&apos;s a higher chance of him using Heal instead of Double Attack.</source>
-        <translation type="unfinished">Passez la priorité de 5 à 6 afin qu'il ait de plus
+        <translation>Passez la priorité de 5 à 6 afin qu&apos;il ait de plus
 grandes chances de se soigner si sa vie est basse.</translation>
     </message>
     <message>
         <source>Double click on a new line.</source>
-        <translation type="unfinished">Double-cliquez sur une nouvelle ligne.</translation>
+        <translation>Double-cliquez sur une nouvelle ligne.</translation>
     </message>
     <message>
         <source>Set it to skill #10, &quot;Spark&quot;.</source>
-        <translation type="unfinished">Choisissez la compétence #10, &quot;Étincelle&quot;.</translation>
+        <translation>Choisissez la compétence #10, &quot;Étincelle&quot;.</translation>
     </message>
     <message>
         <source>Check off HP under Conditions.</source>
-        <translation type="unfinished">Cochez la condition de PV.</translation>
+        <translation>Cochez la condition de PV.</translation>
     </message>
     <message>
         <source>Change 100 to 50.</source>
-        <translation type="unfinished">Changez 100 en 50.</translation>
+        <translation>Changez 100 en 50.</translation>
     </message>
     <message>
         <source>We&apos;ll change the rating from 5 to 6.
 Now when the condition is filled,
 there&apos;s a higher chance of him choosing Spark instead of Double Attack.</source>
-        <translation type="unfinished">Passez la priorité de 5 à 6.
-Lorsqu'il aura perdu la moitié de sa vie, le boss aura maintenant de
-grandes chances d'utiliser &quot;Étincelle&quot;.</translation>
+        <translation>Passez la priorité de 5 à 6.
+Lorsqu&apos;il aura perdu la moitié de sa vie, le boss aura maintenant de
+grandes chances d&apos;utiliser &quot;Étincelle&quot;.</translation>
     </message>
     <message>
         <source>Heal and Spark both consume 5 MP.
 Since the Orc only has 10 MP, he can only use magic twice.
 When he can no longer use these skills,
 he will use only Double Attack.</source>
-        <translation type="unfinished">Ces deux compétences utilisent 5PM.
-L'Orc n'ayant que 10PM, il ne pourra utiliser de la magie que deux fois ;
+        <translation>Ces deux compétences utilisent 5PM.
+L&apos;Orc n&apos;ayant que 10PM, il ne pourra utiliser de la magie que deux fois ;
 après ça, il ne pourra plus utiliser que &quot;Double attaque&quot;.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set his Traits.
 Double click the next blank line.</source>
-        <translation type="unfinished">Réglons maintenant ses Attributs.
+        <translation>Réglons maintenant ses Attributs.
 Doublez-cliquez sur la ligne vierge.</translation>
     </message>
     <message>
         <source>Click the Other tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Autres.</translation>
+        <translation>Cliquez sur l&apos;onglet Autres.</translation>
     </message>
     <message>
         <source>Check off Collapse Effect.</source>
-        <translation type="unfinished">Cochez l'effet de KO.</translation>
+        <translation>Cochez l&apos;effet de KO.</translation>
     </message>
     <message>
         <source>Select Boss.
 Now when he&apos;s defeated, his collapse animation will be more impressive.</source>
-        <translation type="unfinished">Choisissez Boss.
+        <translation>Choisissez Boss.
 Son animation de KO sera désormais bien plus impressionnante !</translation>
     </message>
     <message>
         <source>Now, we&apos;re done configuring the Orc unit.
 Next, click the Troops tab.</source>
-        <translation type="unfinished">L'ennemi Orc est maintenant terminé.
-Cliquez ensuite sur l'onglet &quot;Groupes&quot;.</translation>
+        <translation>L&apos;ennemi Orc est maintenant terminé.
+Cliquez ensuite sur l&apos;onglet &quot;Groupes&quot;.</translation>
     </message>
     <message>
         <source>Select #3, &quot;Orc&quot;.</source>
-        <translation type="unfinished">Sélectionnez l'Orc #3.</translation>
+        <translation>Sélectionnez l&apos;Orc #3.</translation>
     </message>
     <message>
         <source>Now the preparation is complete. Let&apos;s battle test.</source>
-        <translation type="unfinished">Tout est prêt, démarrons un test de combat.</translation>
+        <translation>Tout est prêt, démarrons un test de combat.</translation>
     </message>
     <message>
         <source>Make sure each actor&apos;s level is 4
 and click OK.</source>
-        <translation type="unfinished">Vérifiez que les héros soient au niveau 4.
+        <translation>Vérifiez que les héros soient au niveau 4.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>How was it? It was a bit tough, wasn&apos;t it?
 We&apos;ll go with this strength.</source>
-        <translation type="unfinished">Alors, c'était comment ? Un peu dur mais pas insurmontable ?
-C'est une bonne difficulté pour un boss.</translation>
+        <translation>Alors, c&apos;était comment ? Un peu dur mais pas insurmontable ?
+C&apos;est une bonne difficulté pour un boss.</translation>
     </message>
     <message>
         <source>Let&apos;s place the boss in the dungeon.
 Click OK and set the database changes.</source>
-        <translation type="unfinished">Plaçons maintenant le boss dans le donjon.
+        <translation>Plaçons maintenant le boss dans le donjon.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Stone Cave&quot; from the tree view.</source>
-        <translation type="unfinished">Cliquez sur la &quot;Grotte de pierre&quot;.</translation>
+        <translation>Cliquez sur la &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Scroll to the upper right of the map.</source>
-        <translation type="unfinished">Allez en haut à droite de la carte.</translation>
+        <translation>Allez en haut à droite de la carte.</translation>
     </message>
     <message>
         <source>The boss coordinates will be in the middle of the moss, (34,6).
 Find those coordinates.</source>
-        <translation type="unfinished">Nous allons placer le boss en (34,6).</translation>
+        <translation>Nous allons placer le boss en (34,6).</translation>
     </message>
     <message>
         <source>Double click on (34,6).</source>
-        <translation type="unfinished">Double-cliquez sur (34,6).</translation>
+        <translation>Double-cliquez sur (34,6).</translation>
     </message>
     <message>
         <source>Enter the name as Boss.</source>
-        <translation type="unfinished">Entrez le nom Boss.</translation>
+        <translation>Entrez le nom Boss.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Image.</translation>
+        <translation>Double-cliquez sur Image.</translation>
     </message>
     <message>
         <source>Click Monster from the list.</source>
-        <translation type="unfinished">Choisissez Monstre dans la liste.</translation>
+        <translation>Choisissez Monstre dans la liste.</translation>
     </message>
     <message>
         <source>Click the middle character facing down, second from the right in the top half.</source>
-        <translation type="unfinished">Cliquez sur le monstre du milieu qui regarde vers le bas.</translation>
+        <translation>Cliquez sur le monstre du milieu qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now let&apos;s set the contents.
 Double click the first empty line.</source>
-        <translation type="unfinished">Ajoutons un peu de piquant au combat !
+        <translation>Ajoutons un peu de piquant au combat !
 Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher un texte...;&quot;.</translation>
+        <translation>Cliquez sur &quot;Afficher un texte...;&quot;.</translation>
     </message>
     <message>
         <source>Enter in two lines:
 &quot;You&apos;ve come far, humans.
 But your judgment is nigh!&quot;
 </source>
-        <translation type="unfinished">Entrez ces deux lignes:
+        <translation>Entrez ces deux lignes:
 &quot;Vous venez de loin, humains...
-Mais c'en est fini de vous !</translation>
+Mais c&apos;en est fini de vous !</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click Battle Processing.</source>
-        <translation type="unfinished">Cliquez sur &quot;Démarrer un combat&quot;.</translation>
+        <translation>Cliquez sur &quot;Démarrer un combat&quot;.</translation>
     </message>
     <message>
         <source>Change it to #3, Orc.</source>
-        <translation type="unfinished">Choisissez le groupe #3, Orc.</translation>
+        <translation>Choisissez le groupe #3, Orc.</translation>
     </message>
     <message>
         <source>Since he&apos;s the boss, we won&apos;t check off &quot;Can Escape&quot;.</source>
-        <translation type="unfinished">Ne cochez pas &quot;Fuite possible&quot; comme c'est un boss.</translation>
+        <translation>Ne cochez pas &quot;Fuite possible&quot; comme c&apos;est un boss.</translation>
     </message>
     <message>
         <source>Now we&apos;ll describe the processing for after the battle is won.
 Double click the next line.</source>
-        <translation type="unfinished">Réglons maintenant ce qui se passera après la victoire d'un joueur doué.
+        <translation>Réglons maintenant ce qui se passera après la victoire d&apos;un joueur doué.
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab for the 1st page and open it.</source>
-        <translation type="unfinished">Cliquez sur l'onglet 1 et &quot;Afficher un texte&quot;.</translation>
+        <translation>Cliquez sur l&apos;onglet 1 et &quot;Afficher un texte&quot;.</translation>
     </message>
     <message>
         <source>Enter: Curses...
  These are the orc&apos;s last words.</source>
-        <translation type="unfinished">Entrez les derniers mots de l'orc:
+        <translation>Entrez les derniers mots de l&apos;orc:
 Soyez maudits, pauvres humains...</translation>
     </message>
     <message>
         <source>Click OK and set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will erase the orc.
 Double click the next line.</source>
-        <translation type="unfinished">Une fois le combat terminé, c'est l'heure de faire le ménage.
+        <translation>Une fois le combat terminé, c&apos;est l&apos;heure de faire le ménage.
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier un interrupteur local&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier un interrupteur local&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Self Switch is A, and that the Operation is set
 to ON, click OK and set it.</source>
-        <translation type="unfinished">Vérifiez que l'interrupteur local soit A, que l'opération soit ON et cliquez sur OK.</translation>
+        <translation>Vérifiez que l&apos;interrupteur local soit A, que l&apos;opération soit ON et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done with setup for page 1.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished">Passons à la page 2.
+        <translation>Passons à la page 2.
 Cliquez sur &quot;Nouvelle page&quot;.</translation>
     </message>
     <message>
         <source>We&apos;ll check off Self Switch as the Condition.</source>
-        <translation type="unfinished">Cochez &quot;Interrupteur local&quot; en condition.</translation>
+        <translation>Cochez &quot;Interrupteur local&quot; en condition.</translation>
     </message>
     <message>
         <source>Make sure it is set to A.</source>
-        <translation type="unfinished">Vérifiez qu'il soit bien réglé sur A.</translation>
+        <translation>Vérifiez qu&apos;il soit bien réglé sur A.</translation>
     </message>
     <message>
         <source>Now the boss event is complete.
 Click OK and set the event.
 We&apos;ll make the ending in the next step.</source>
-        <translation type="unfinished">Le boss est maintenant terminé !
+        <translation>Le boss est maintenant terminé !
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Run a playtest. For the sake of simplicity,
 we&apos;ll start right in front of the boss.</source>
-        <translation type="unfinished">Lancez un test. Pour vous simplifier la vie,
-n'hésitez pas à démarrer juste devant le boss.</translation>
+        <translation>Lancez un test. Pour vous simplifier la vie,
+n&apos;hésitez pas à démarrer juste devant le boss.</translation>
     </message>
     <message>
         <source>We&apos;ll make the player&apos;s initial coordinates close to the boss, at (34,11). Find those coordinates.</source>
-        <translation type="unfinished">Démarrez en (34,11), près du boss.</translation>
+        <translation>Démarrez en (34,11), près du boss.</translation>
     </message>
     <message>
         <source>Right click on (34,11)
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished">Faites un clic droit sur (34,11)
+        <translation>Faites un clic droit sur (34,11)
 et réglez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>However, if we do it like this, the party&apos;s level will be at 1
 and they won&apos;t have any items. Thus we will make a
 temporary event for playtesting.</source>
-        <translation type="unfinished">Cependant, si vous faites ça, l'équipe ne sera que niveau 1 et n'aura
-aucun objet ! Il est temps d'apprendre à tricher un peu.</translation>
+        <translation>Cependant, si vous faites ça, l&apos;équipe ne sera que niveau 1 et n&apos;aura
+aucun objet ! Il est temps d&apos;apprendre à tricher un peu.</translation>
     </message>
     <message>
         <source>We&apos;ll place the venue outside of the map, in a place like (28,9).
 Find (28,9).</source>
-        <translation type="unfinished">Plaçons un évènement dans un endroit inconséquent comme (28,9).</translation>
+        <translation>Plaçons un évènement dans un endroit inconséquent comme (28,9).</translation>
     </message>
     <message>
         <source>Double click (28,9).</source>
-        <translation type="unfinished">Double-cliquez sur (28,9).</translation>
+        <translation>Double-cliquez sur (28,9).</translation>
     </message>
     <message>
         <source>Name it For Testing.</source>
-        <translation type="unfinished">Entrez le nom Test.</translation>
+        <translation>Entrez le nom Test.</translation>
     </message>
     <message>
         <source>Set the Trigger to Autorun.</source>
-        <translation type="unfinished">Sélectionnez le Déclenchement Automatique.</translation>
+        <translation>Sélectionnez le Déclenchement Automatique.</translation>
     </message>
     <message>
         <source>&quot;Autorun&quot; events will execute automatically
 no matter where they are on the map when their condition is met.
 This time, it will be executed as soon as the map is loaded.</source>
-        <translation type="unfinished">Les évènements en déclenchement Automatique se déclencheront tout seuls
-qu'importe leur emplacement. Celui-ci s'exécutera dès le chargement de la carte.</translation>
+        <translation>Les évènements en déclenchement Automatique se déclencheront tout seuls
+qu&apos;importe leur emplacement. Celui-ci s&apos;exécutera dès le chargement de la carte.</translation>
     </message>
     <message>
         <source>The content will make the party the necessary strength to battle the boss.
 Double click the first line.</source>
-        <translation type="unfinished">Nous allons faire en sorte de rendre l'équipe assez forte pour le combat.
+        <translation>Nous allons faire en sorte de rendre l&apos;équipe assez forte pour le combat.
 Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Change EXP...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier l'expérience..;&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier l&apos;expérience..;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;.
 Set the Operand to a Constant of 400.</source>
-        <translation type="unfinished">Ciblez l'&quot;Équipe entière&quot; et cliquez sur &quot;Ajouter&quot;.
+        <translation>Ciblez l&apos;&quot;Équipe entière&quot; et cliquez sur &quot;Ajouter&quot;.
 Choisissez une valeur fixe de 400.</translation>
     </message>
     <message>
         <source>Click &quot;Recover All...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Guérir complètement...;&quot;.</translation>
+        <translation>Cliquez sur &quot;Guérir complètement...;&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot;
 and click OK.</source>
-        <translation type="unfinished">Ciblez l'&quot;Équipe entière&quot;.
+        <translation>Ciblez l&apos;&quot;Équipe entière&quot;.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change Items...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier les objets...&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier les objets...&quot;.</translation>
     </message>
     <message>
         <source>Select item #4, &quot;Stimulant&quot;.</source>
-        <translation type="unfinished">Choisissez l'objet #4, &quot;Stimulant&quot;.</translation>
+        <translation>Choisissez l&apos;objet #4, &quot;Stimulant&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Operation is &quot;Increase&quot;,
 and set the Operand to 5.</source>
-        <translation type="unfinished">Vérifiez que l'opération soit &quot;Ajouter&quot;
+        <translation>Vérifiez que l&apos;opération soit &quot;Ajouter&quot;
 et la valeur 5.</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Select item #5, &quot;Elixir&quot;.</source>
-        <translation type="unfinished">Choisissez l'objet #5, &quot;Elixir&quot;.</translation>
+        <translation>Choisissez l&apos;objet #5, &quot;Elixir&quot;.</translation>
     </message>
     <message>
         <source>Select item #6, &quot;TP Charge&quot;.</source>
-        <translation type="unfinished">Choisissez l'objet #6, &quot;Recharge de PT&quot;.</translation>
+        <translation>Choisissez l&apos;objet #6, &quot;Recharge de PT&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the Operation is &quot;Increase&quot;.
 Set the Operand to a Constant of 5.</source>
-        <translation type="unfinished">Vérifiez que l'opération soit &quot;Ajouter&quot;
+        <translation>Vérifiez que l&apos;opération soit &quot;Ajouter&quot;
 et la valeur fixe 5.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.
 Now we&apos;re all set for a boss battle.</source>
-        <translation type="unfinished">Cliquez sur OK.
+        <translation>Cliquez sur OK.
 Vous voilà prêts pour le boss !</translation>
     </message>
     <message>
@@ -18667,84 +18667,84 @@ Vous voilà prêts pour le boss !</translation>
 endlessly. Thus we need to switch pages
 after it finishes executing.
 Double click the next line.</source>
-        <translation type="unfinished">Si vous le laissez tel quel, l'évènement
+        <translation>Si vous le laissez tel quel, l&apos;évènement
 va se répéter en boucle.
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>With &quot;New Event Page&quot;, create page 2.
 This is the page that will be switched to when autorun is done.</source>
-        <translation type="unfinished">Créez une deuxième page.</translation>
+        <translation>Créez une deuxième page.</translation>
     </message>
     <message>
         <source>Make sure the Self Switch is set to A.</source>
-        <translation type="unfinished">Réglez l'interrupteur l'ocal à 2.</translation>
+        <translation>Réglez l&apos;interrupteur l&apos;ocal à 2.</translation>
     </message>
     <message>
         <source>Because nothing will happen on page 2, the configuration is done now. Click OK and set the event.</source>
-        <translation type="unfinished">Comme rien ne se passe en page 2, l'évènement est terminé. Cliquez sur OK.</translation>
+        <translation>Comme rien ne se passe en page 2, l&apos;évènement est terminé. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll run our playtest in these conditions.
 First, save the project.</source>
-        <translation type="unfinished">Nous pouvons maintenant tester notre combat pour de bon.
+        <translation>Nous pouvons maintenant tester notre combat pour de bon.
 Faites une sauvegarde du projet.</translation>
     </message>
     <message>
         <source>Start a playtest.</source>
-        <translation type="unfinished">Lancez un test.</translation>
+        <translation>Lancez un test.</translation>
     </message>
     <message>
         <source>When you&apos;re done playtesting, we&apos;ll do postprocessing.</source>
-        <translation type="unfinished">Quand vous aurez terminé, nous allons cacher votre petite triche.</translation>
+        <translation>Quand vous aurez terminé, nous allons cacher votre petite triche.</translation>
     </message>
     <message>
         <source>We&apos;ll stop our event for test use from launching during actual play.
 While deleting it is one solution,
 let&apos;s make it so we can use it as necessary.
 Double click the event for test use on (28,9).</source>
-        <translation type="unfinished">Vous ne voulez évidemment pas que vos joueurs profitent de l'évènement
+        <translation>Vous ne voulez évidemment pas que vos joueurs profitent de l&apos;évènement
 rajoutant des niveaux ! Vous pourriez le supprimer,
 mais nous allons faire mieux.
-Double-cliquez sur l'évènement Test en (28,9).</translation>
+Double-cliquez sur l&apos;évènement Test en (28,9).</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished">Allez en page 2.</translation>
+        <translation>Allez en page 2.</translation>
     </message>
     <message>
         <source>Click &quot;New Event Page&quot;.
 Page 3 has been created.</source>
-        <translation type="unfinished">Cliquez sur &quot;Nouvelle page&quot;.
+        <translation>Cliquez sur &quot;Nouvelle page&quot;.
 Vous avez désormais 3 pages.</translation>
     </message>
     <message>
         <source>We won&apos;t do any configuration on page 3.
 Now page 3 will always be shown,
 and it will no longer switch to pages 1 and 2.</source>
-        <translation type="unfinished">La page 3 va être laissée vide.
-Elle sera maintenant toujours active, et l'évènement ne passera plus entre les pages 1 et 2.</translation>
+        <translation>La page 3 va être laissée vide.
+Elle sera maintenant toujours active, et l&apos;évènement ne passera plus entre les pages 1 et 2.</translation>
     </message>
     <message>
         <source>From now on, if you want to enable this event for testing,
 change to the page 3 tab and use
 &quot;Delete Event Page&quot;.</source>
-        <translation type="unfinished">Si vous avez besoin de faire des tests,
+        <translation>Si vous avez besoin de faire des tests,
 passez à la page 3 et utiliser &quot;Supprimer la page&quot;.</translation>
     </message>
     <message>
         <source>Click OK to reflect the changes.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, please save the project once more.</source>
-        <translation type="unfinished">Sauvegardez votre projet une dernière fois.</translation>
+        <translation>Sauvegardez votre projet une dernière fois.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 17.
 In the next step we&apos;ll create
 and ending, so we&apos;ll leave the player starting position as it is.</source>
-        <translation type="unfinished">Bien joué, c'est la fin de l'étape 17 !
+        <translation>Bien joué, c&apos;est la fin de l&apos;étape 17 !
 Dans la prochaine étape, nous allons créer la fin du jeu.</translation>
     </message>
 </context>
@@ -18756,185 +18756,185 @@ Dans la prochaine étape, nous allons créer la fin du jeu.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 17?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 17 ?</translation>
+        <translation>Avez-vous le projet que nous avions terminé durant l&apos;étape 17 ?</translation>
     </message>
     <message>
         <source>Loading the step 17 project.</source>
-        <translation type="unfinished">Chargement du projet.</translation>
+        <translation>Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 17 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 17.
+        <translation>Lancez le projet de l&apos;étape 17.
 Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project complete.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we&apos;ll make an ending.
 After that, we&apos;ll add some necessary flavor,
 including adding BGM to the maps.</source>
-        <translation type="unfinished">Dans cette étape, nous allons créer une séquence de fin au jeu.
+        <translation>Dans cette étape, nous allons créer une séquence de fin au jeu.
 Nous ajouterons ensuite des détails comme des musiques sur les cartes.</translation>
     </message>
     <message>
         <source>On the top row of the map tree view, right click
 and select &quot;New...&quot;.</source>
-        <translation type="unfinished">Dans la liste des cartes, faites un clic droit
+        <translation>Dans la liste des cartes, faites un clic droit
 et sélectionnez &quot;Nouvelle carte...&quot;.</translation>
     </message>
     <message>
         <source>Enter the map name as &quot;Ending&quot;.</source>
-        <translation type="unfinished">Entrez le nom Séquence de fin.</translation>
+        <translation>Entrez le nom Séquence de fin.</translation>
     </message>
     <message>
         <source>Click Autoplay BGM.
 We&apos;ll specify the BGM that is played
 when this map is entered (i.e. when the ending starts).</source>
-        <translation type="unfinished">Cliquez sur BGM (Musique).
+        <translation>Cliquez sur BGM (Musique).
 Nous allons choisir une musique à jouer sur cette carte,
-c'est à dire pendant la séquence de fin.</translation>
+c&apos;est à dire pendant la séquence de fin.</translation>
     </message>
     <message>
         <source>Click the file name.</source>
-        <translation type="unfinished">Cliquez sur le nom du fichier.</translation>
+        <translation>Cliquez sur le nom du fichier.</translation>
     </message>
     <message>
         <source>We&apos;ll pick a song that&apos;s fitting for an ending.
 Let&apos;s click Theme2.</source>
-        <translation type="unfinished">Choisissons une musique adaptée à une séquence de fin,
+        <translation>Choisissons une musique adaptée à une séquence de fin,
 par exemple Theme2.</translation>
     </message>
     <message>
         <source>Click OK and set the BGM.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and the map will be set.
 A new map has been created.</source>
-        <translation type="unfinished">Cliquez de nouveau sur OK.
+        <translation>Cliquez de nouveau sur OK.
 La carte a été créée.</translation>
     </message>
     <message>
         <source>Let&apos;s make an event for when the boss is defeated.
 Click on &quot;Stone Cave&quot;.</source>
-        <translation type="unfinished">Faisons maintenant un évènement pour après la défaite du boss.
+        <translation>Faisons maintenant un évènement pour après la défaite du boss.
 Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Find the boss event at (34,6)
 and double click.</source>
-        <translation type="unfinished">Double-cliquez sur l'évènement du boss
+        <translation>Double-cliquez sur l&apos;évènement du boss
 en (34,6).</translation>
     </message>
     <message>
         <source>Switch to the page 2 tab.</source>
-        <translation type="unfinished">Allez en page 2.</translation>
+        <translation>Allez en page 2.</translation>
     </message>
     <message>
         <source>Set the trigger to Autorun.</source>
-        <translation type="unfinished">Sélectionnez le déclenchement Automatique.</translation>
+        <translation>Sélectionnez le déclenchement Automatique.</translation>
     </message>
     <message>
         <source>Double click the first line under Contents.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
+        <translation>Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click the tab to show page 2.</source>
-        <translation type="unfinished">Allez en page 2.</translation>
+        <translation>Allez en page 2.</translation>
     </message>
     <message>
         <source>Choose Fadeout Screen.
 This command will darken the screen until the &quot;Fadein Screen&quot; is executed later.</source>
-        <translation type="unfinished">Choisissez &quot;Effacer l'écran en fondu&quot;.
-Cela va assombrir l'écran jusqu'à l'exécution de la commande &quot;Afficher l'écran en fondu&quot;.</translation>
+        <translation>Choisissez &quot;Effacer l&apos;écran en fondu&quot;.
+Cela va assombrir l&apos;écran jusqu&apos;à l&apos;exécution de la commande &quot;Afficher l&apos;écran en fondu&quot;.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click Change Transparency.
 This command changes the player transparency.</source>
-        <translation type="unfinished">Cliquez sur &quot;Invisibilité du héros&quot;.
+        <translation>Cliquez sur &quot;Invisibilité du héros&quot;.
 Cette commande modifie la transparence du héros.</translation>
     </message>
     <message>
         <source>Make sure that Transparency is set to ON
 and click OK.</source>
-        <translation type="unfinished">Réglez l'invisibilité sur ON,
+        <translation>Réglez l&apos;invisibilité sur ON,
 cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Transfer Player...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Téléportation...&quot;.</translation>
+        <translation>Cliquez sur &quot;Téléportation...&quot;.</translation>
     </message>
     <message>
         <source>Set the Fade to None.
 We&apos;ll be using &quot;Fadeout Screen&quot; and &quot;Fadein Screen&quot;
 for fade processing instead.</source>
-        <translation type="unfinished">Réglez le fondu sur Aucun.
-Nous allons plutôt nous servir des commandes d'Effacement/Affichage de l'écran en fondu.</translation>
+        <translation>Réglez le fondu sur Aucun.
+Nous allons plutôt nous servir des commandes d&apos;Effacement/Affichage de l&apos;écran en fondu.</translation>
     </message>
     <message>
         <source>Click Location.</source>
-        <translation type="unfinished">Cliquez sur l'emplacement.</translation>
+        <translation>Cliquez sur l&apos;emplacement.</translation>
     </message>
     <message>
         <source>Select Ending from the list.</source>
-        <translation type="unfinished">Choisissez &quot;Séquence de fin&quot;.</translation>
+        <translation>Choisissez &quot;Séquence de fin&quot;.</translation>
     </message>
     <message>
         <source>Any place in the map will do,
 so for now click somewhere around the center.</source>
-        <translation type="unfinished">L'emplacement n'a aucune importance,
-cliquez donc n'importe où.</translation>
+        <translation>L&apos;emplacement n&apos;a aucune importance,
+cliquez donc n&apos;importe où.</translation>
     </message>
     <message>
         <source>Click OK to set the transfer destination.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez de nouveau sur OK.</translation>
+        <translation>Cliquez de nouveau sur OK.</translation>
     </message>
     <message>
         <source>Our processing for this event ends here.
 Next, another event will take over after the location transfer.
 Click OK.</source>
-        <translation type="unfinished">Cet évènement est terminé.
+        <translation>Cet évènement est terminé.
 Un autre prendra en charge ce qui se passera après la téléportation.</translation>
     </message>
     <message>
         <source>Next we&apos;ll create an event on the ending map.
 Select Ending from the list.</source>
-        <translation type="unfinished">Nous allons ensuite créer un évènement sur la carte de fin.
+        <translation>Nous allons ensuite créer un évènement sur la carte de fin.
 Choisissez &quot;Séquence de fin&quot;.</translation>
     </message>
     <message>
@@ -18942,45 +18942,45 @@ Choisissez &quot;Séquence de fin&quot;.</translation>
 Anywhere is fine,
 but in this tutorial we&apos;ll use the top left.
 Double click (0,0).</source>
-        <translation type="unfinished">Créez l'évènement.
-L'emplacement n'a aucune importance, mais pour ce tutoriel,
+        <translation>Créez l&apos;évènement.
+L&apos;emplacement n&apos;a aucune importance, mais pour ce tutoriel,
 nous allons choisir (0,0).
 Double-cliquez en (0,0).</translation>
     </message>
     <message>
         <source>Enter the name as Ending.</source>
-        <translation type="unfinished">Entrez le nom Fin.</translation>
+        <translation>Entrez le nom Fin.</translation>
     </message>
     <message>
         <source>Set the Trigger to Autorun.</source>
-        <translation type="unfinished">Sélectionnez le Déclenchement Automatique.</translation>
+        <translation>Sélectionnez le Déclenchement Automatique.</translation>
     </message>
     <message>
         <source>Let&apos;s enter the content.
 Double click the first line.</source>
-        <translation type="unfinished">Passons au contenu !
+        <translation>Passons au contenu !
 Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Fadein Screen&quot;.
 Just like this, always make sure to
 run Fadein Screen after running Fadeout Screen.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher l'écran en fondu&quot;.
-Il est important de toujours utiliser cette commande après avoir effacé l'écran en fondu.</translation>
+        <translation>Cliquez sur &quot;Afficher l&apos;écran en fondu&quot;.
+Il est important de toujours utiliser cette commande après avoir effacé l&apos;écran en fondu.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make something like a credit roll.
 Double click the next line.</source>
-        <translation type="unfinished">Faisons maintenant des crédits déroulants !
+        <translation>Faisons maintenant des crédits déroulants !
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab and open page 1.</source>
-        <translation type="unfinished">Allez en page 1.</translation>
+        <translation>Allez en page 1.</translation>
     </message>
     <message>
         <source>Click &quot;Show Scrolling Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher un texte défilant...&quot;.</translation>
+        <translation>Cliquez sur &quot;Afficher un texte défilant...&quot;.</translation>
     </message>
     <message>
         <source>It&apos;s a bit long, but enter the text as follows:
@@ -18996,8 +18996,8 @@ And they all lived happily ever after.
 Development Staff
 
 KADOKAWA</source>
-        <translation type="unfinished">C'est un peu long, mais entrez ce texte :
-C'est ainsi qu'Harold et ses alliés
+        <translation>C&apos;est un peu long, mais entrez ce texte :
+C&apos;est ainsi qu&apos;Harold et ses alliés
 
 vainquirent le boss des grottes
 
@@ -19013,73 +19013,73 @@ KADOKAWA</translation>
     <message>
         <source>You can replace KADOKAWA in the last line
 with your own name.</source>
-        <translation type="unfinished">Évidemment, vous pouvez remplacer KADOKAWA
+        <translation>Évidemment, vous pouvez remplacer KADOKAWA
 par votre propre nom...</translation>
     </message>
     <message>
         <source>Click OK and set the credit roll.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll show &quot;The End&quot; at the end.
 Double click the next line.</source>
-        <translation type="unfinished">Nous allons afficher &quot;The End" à la fin.
+        <translation>Nous allons afficher &quot;The End&quot; à la fin.
 Doublez-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Afficher un message...&quot;.</translation>
+        <translation>Cliquez sur &quot;Afficher un message...&quot;.</translation>
     </message>
     <message>
         <source>Set the Window Position to Middle.
 Now it will be shown in the middle of the screen.</source>
-        <translation type="unfinished">Réglez la position de la fenêtre au milieu de l'écran.</translation>
+        <translation>Réglez la position de la fenêtre au milieu de l&apos;écran.</translation>
     </message>
     <message>
         <source>Set the Background to Transparent.
 Now it won&apos;t show the window frame.</source>
-        <translation type="unfinished">Réglez l'arrière-plan en Transparent.
-Votre message s'affichera simplement au milieu, sans fenêtre autour.</translation>
+        <translation>Réglez l&apos;arrière-plan en Transparent.
+Votre message s&apos;affichera simplement au milieu, sans fenêtre autour.</translation>
     </message>
     <message>
         <source>Afterwards, we will simply return to the title screen.
 Double click the next line.</source>
-        <translation type="unfinished">Après cela, nous allons renvoyer le joueur à l'écran titre.
+        <translation>Après cela, nous allons renvoyer le joueur à l&apos;écran titre.
 Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Switch to the page 3 tab.</source>
-        <translation type="unfinished">Allez en page 3.</translation>
+        <translation>Allez en page 3.</translation>
     </message>
     <message>
         <source>Click &quot;Return to Title Screen&quot;.
 Now we&apos;re done setting up this event.</source>
-        <translation type="unfinished">Cliquez sur &quot;Retourner à l'écran titre&quot;.
+        <translation>Cliquez sur &quot;Retourner à l&apos;écran titre&quot;.
 Nous en avons fini avec cet évènement.</translation>
     </message>
     <message>
         <source>Before we playtest, we&apos;ll test within the event. You can select multiple lines, right click and select &quot;Test...&quot;.</source>
-        <translation type="unfinished">Avant de tester le jeu, testons l'évènement lui-même. Vous pouvez sélectionner plusieurs lignes,
+        <translation>Avant de tester le jeu, testons l&apos;évènement lui-même. Vous pouvez sélectionner plusieurs lignes,
 faire un clic droit et appuyer sur &quot;Tester...&quot;.</translation>
     </message>
     <message>
         <source>We will select the range of lines. Click on Text(S).</source>
-        <translation type="unfinished">Cliquez sur Texte(S).</translation>
+        <translation>Cliquez sur Texte(S).</translation>
     </message>
     <message>
         <source>Hold down the shift key on your keyboard
 and click on Text.</source>
-        <translation type="unfinished">Pressez la touche Shift de votre clavier
+        <translation>Pressez la touche Shift de votre clavier
 et cliquez sur Texte.</translation>
     </message>
     <message>
         <source>Right click and select &quot;Test...&quot;.</source>
-        <translation type="unfinished">Faites un clic droit et appuyez sur &quot;Test...&quot;.</translation>
+        <translation>Faites un clic droit et appuyez sur &quot;Test...&quot;.</translation>
     </message>
     <message>
         <source>Now you have an idea of what the scrolling text and message look like. The players were shown,
 but they won&apos;t be in the actual game.</source>
-        <translation type="unfinished">Vous pouvez désormais voir à quoi ressemble la séquence de fin.
+        <translation>Vous pouvez désormais voir à quoi ressemble la séquence de fin.
 Les joueurs sont visibles ici, mais ne le seront pas en jeu.</translation>
     </message>
     <message>
@@ -19088,219 +19088,219 @@ but beating the boss again is a nuisance that takes time.
 So this time, we&apos;ll use a temporary trick for debugging,
 different from last time.
 Please open the database.</source>
-        <translation type="unfinished">Normalement, nous lancerions un test ici ;
-mais vous n'avez pas vraiment envie de rebattre le boss, n'est-ce pas ?
+        <translation>Normalement, nous lancerions un test ici ;
+mais vous n&apos;avez pas vraiment envie de rebattre le boss, n&apos;est-ce pas ?
 Nous allons donc encore tricher !
 Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the Troops tab.</source>
-        <translation type="unfinished">Cliquez sur l'onglet Groupes.</translation>
+        <translation>Cliquez sur l&apos;onglet Groupes.</translation>
     </message>
     <message>
         <source>Select #3, &quot;Orc&quot;.</source>
-        <translation type="unfinished">Choisissez l'Orc #3.</translation>
+        <translation>Choisissez l&apos;Orc #3.</translation>
     </message>
     <message>
         <source>We&apos;ll use a battle event
 to make the battle start and end simultaneously.
 Click Conditions.</source>
-        <translation type="unfinished">Nous allons utiliser un évènement de combat
+        <translation>Nous allons utiliser un évènement de combat
 pour le faire démarrer et terminer en même temps.
 Cliquez sur Conditions.</translation>
     </message>
     <message>
         <source>Check off Turn.</source>
-        <translation type="unfinished">Cochez Tour.</translation>
+        <translation>Cochez Tour.</translation>
     </message>
     <message>
         <source>Both values are set to 0
 Thus, the event will occur on turn 0.
 Turn 0 is the interval where commands can be input after the battle starts.</source>
-        <translation type="unfinished">Les deux valeurs sont à 0 : l'évènement ser
+        <translation>Les deux valeurs sont à 0 : l&apos;évènement ser
 terminera donc au tour 0.
-C'est le tour durant laquelle des commandes peuvent être entrées après le début du combat.</translation>
+C&apos;est le tour durant laquelle des commandes peuvent être entrées après le début du combat.</translation>
     </message>
     <message>
         <source>Click OK to set the condition.
 It is possible to launch events during battle in this way.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll describe the event so that the battle ends instantly.
 Double click the first line.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
+        <translation>Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Change Enemy State...&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Modifier l'état de l'ennemi&quot;.</translation>
+        <translation>Cliquez sur &quot;Modifier l&apos;état de l&apos;ennemi&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Entire Troop&quot; is selected so that &quot;Knockout&quot; will be Added.
 Click OK and set the event.</source>
-        <translation type="unfinished">Ciblez le &quot;Groupe entier&quot; et infligez l'effet &quot;KO&quot;.
+        <translation>Ciblez le &quot;Groupe entier&quot; et infligez l&apos;effet &quot;KO&quot;.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now as soon as the battle is started, it will end.
 In order to check, click Battle Test.</source>
-        <translation type="unfinished">Le combat va se terminer dès le début.
+        <translation>Le combat va se terminer dès le début.
 Faites un Test de combat.</translation>
     </message>
     <message>
         <source>Click OK and start the battle test.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The Orc was instantly knocked out.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Bravo à vous, l'Orc n'a pas eu le temps de dire ouf !
+        <translation>Bravo à vous, l&apos;Orc n&apos;a pas eu le temps de dire ouf !
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished">Sauvegardez votre projet.</translation>
+        <translation>Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 If you can talk to the boss, watch the ending,
 and return to the title screen, it&apos;s a success.</source>
-        <translation type="unfinished">Faites un dernier test.
+        <translation>Faites un dernier test.
 Le but est de parler au boss, regarder la séquence de fin et 
-de retourner à l'écran titre.</translation>
+de retourner à l&apos;écran titre.</translation>
     </message>
     <message>
         <source>When you&apos;re done playtesting,
 we&apos;ll continue our finalization work.</source>
-        <translation type="unfinished">Quand vous aurez fini, nous allons passer
+        <translation>Quand vous aurez fini, nous allons passer
 aux finitions.</translation>
     </message>
     <message>
         <source>We&apos;ll delete the debug event we created.
 Click Database.</source>
-        <translation type="unfinished">Supprimez l'évènement de triche que nous avons créé.
+        <translation>Supprimez l&apos;évènement de triche que nous avons créé.
 Cliquez sur Base de données.</translation>
     </message>
     <message>
         <source>Click the Battle Event Condition.</source>
-        <translation type="unfinished">Allez dans les conditions de l'évènement de combat.</translation>
+        <translation>Allez dans les conditions de l&apos;évènement de combat.</translation>
     </message>
     <message>
         <source>Remove the check from Turn.
 Now the battle event won&apos;t occur.</source>
-        <translation type="unfinished">Retirez la condition que nous avions placé.
+        <translation>Retirez la condition que nous avions placé.
 Le boss se déroulera désormais normalement.</translation>
     </message>
     <message>
         <source>Click OK.
 Unlike map events, when no condition
 is set for battle events, they won&apos;t occur.</source>
-        <translation type="unfinished">Cliquez sur OK. 
-L'évènement de combat ne se lancera pas si aucune condition n'est cochée,
+        <translation>Cliquez sur OK. 
+L&apos;évènement de combat ne se lancera pas si aucune condition n&apos;est cochée,
 contrairement aux évènements sur la carte.</translation>
     </message>
     <message>
         <source>This time we just barely touched on battle events but it&apos;s possible to use them in more complex ways.</source>
-        <translation type="unfinished">Nous avons à peine touché aux évènements de combats, mais n'hésitez pas à
+        <translation>Nous avons à peine touché aux évènements de combats, mais n&apos;hésitez pas à
 tester des choses plus complexes dans votre jeu !</translation>
     </message>
     <message>
         <source>Next, we&apos;ll return the player starting position
 to the original start place.
 Click Normal Town.</source>
-        <translation type="unfinished">Remettons également la position de départ du personnage
+        <translation>Remettons également la position de départ du personnage
 à son emplacement normal.</translation>
     </message>
     <message>
         <source>We&apos;ll place the player at the town entrance.
 Scroll along the map
 and find the coordinates (19,36).</source>
-        <translation type="unfinished">Plaçons le joueur à l'entrée du village.
+        <translation>Plaçons le joueur à l&apos;entrée du village.
 Trouvez les coordonnées (19,36).</translation>
     </message>
     <message>
         <source>Right click on the town entrance at (19,36)
 and select
 Set Starting Position &gt; Player.</source>
-        <translation type="unfinished">Faites un clic droit en (19,36) et réglez
+        <translation>Faites un clic droit en (19,36) et réglez
 la position de départ.</translation>
     </message>
     <message>
         <source>Now we&apos;ve completed a minimal game.
 But we&apos;ll do one more important thing.</source>
-        <translation type="unfinished">Mais dites, vous avez terminé votre premier jeu... bravo !
-Il ne reste qu'un détail important à ajouter.</translation>
+        <translation>Mais dites, vous avez terminé votre premier jeu... bravo !
+Il ne reste qu&apos;un détail important à ajouter.</translation>
     </message>
     <message>
         <source>That will be playing BGM on each map.
 First, right click on Normal Town
 and select Edit.</source>
-        <translation type="unfinished">L'ambiance est un peu triste, ajoutons de la musique.
+        <translation>L&apos;ambiance est un peu triste, ajoutons de la musique.
 Faites un clic droit sur &quot;Ville normale&quot; et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Check off Autoplay BGM.</source>
-        <translation type="unfinished">Cochez Musique (BGM).</translation>
+        <translation>Cochez Musique (BGM).</translation>
     </message>
     <message>
         <source>Click Town1.</source>
-        <translation type="unfinished">Choisissez Town1.</translation>
+        <translation>Choisissez Town1.</translation>
     </message>
     <message>
         <source>Click OK and set the map.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click on &quot;Stone Cave&quot;.</source>
-        <translation type="unfinished">Cliquez sur &quot;Grotte de pierre&quot;.</translation>
+        <translation>Cliquez sur &quot;Grotte de pierre&quot;.</translation>
     </message>
     <message>
         <source>Right click on Stone Cave
 and select Edit.</source>
-        <translation type="unfinished">Faites un clic droit sur &quot;Grotte de pierre&quot;
+        <translation>Faites un clic droit sur &quot;Grotte de pierre&quot;
 et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Click and select Dungeon1.</source>
-        <translation type="unfinished">Choisissez la musique Dungeon1.</translation>
+        <translation>Choisissez la musique Dungeon1.</translation>
     </message>
     <message>
         <source>Click and select the Field Map.</source>
-        <translation type="unfinished">Allez maintenant sur la &quot;Carte du monde&quot;.</translation>
+        <translation>Allez maintenant sur la &quot;Carte du monde&quot;.</translation>
     </message>
     <message>
         <source>Right click on Field Map
 and select Edit.</source>
-        <translation type="unfinished">Faites un clic droit sur &quot;Carte du monde&quot;
+        <translation>Faites un clic droit sur &quot;Carte du monde&quot;
 et choisissez Éditer.</translation>
     </message>
     <message>
         <source>Click and select Field1.</source>
-        <translation type="unfinished">Choisissez la musique Field1.</translation>
+        <translation>Choisissez la musique Field1.</translation>
     </message>
     <message>
         <source>Click OK and set the map.
 Now we&apos;re done configuring the BGM.</source>
-        <translation type="unfinished">Cliquez sur OK.
+        <translation>Cliquez sur OK.
 Vos cartes sont désormais un peu plus guillerettes !</translation>
     </message>
     <message>
         <source>Start a playtest.
 Make sure the BGM is playing in each map.</source>
-        <translation type="unfinished">Lancez un test.
+        <translation>Lancez un test.
 Vérifiez que les musiques se jouent bien.</translation>
     </message>
     <message>
         <source>Well done. Now we&apos;re done making the game content.
 The next step will finally be the last one.</source>
-        <translation type="unfinished">Bravo ! Nous avons pratiquement fini.
+        <translation>Bravo ! Nous avons pratiquement fini.
 La prochaine étape sera la dernière.</translation>
     </message>
     <message>
         <source>Enter:　　　　　　　　　\{\{\{THE END
 
 The first characters are 12 spaces.</source>
-        <translation type="unfinished">Entrez :            \{\{\{THE END
+        <translation>Entrez :            \{\{\{THE END
 
 Les premiers caractères sont 12 espaces.
 </translation>
@@ -19314,153 +19314,153 @@ Les premiers caractères sont 12 espaces.
     </message>
     <message>
         <source>Do you have the project we finished in step 18?</source>
-        <translation type="unfinished">Avez-vous le projet que nous avions terminé durant l'étape 18 ?</translation>
+        <translation>Avez-vous le projet que nous avions terminé durant l&apos;étape 18 ?</translation>
     </message>
     <message>
         <source>Loading the step 18 project.</source>
-        <translation type="unfinished">Chargement du projet.</translation>
+        <translation>Chargement du projet.</translation>
     </message>
     <message>
         <source>Please select the step 18 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished">Lancez le projet de l'étape 18.
+        <translation>Lancez le projet de l&apos;étape 18.
 Les projets sont situés dans le dossier Games de vos Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished">Projet chargé.</translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished">Nous allons maintenant charger les données nécessaires à cette étape.</translation>
+        <translation>Nous allons maintenant charger les données nécessaires à cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished">Cliquez sur Nouveau projet.</translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished">Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
+        <translation>Entrez un nom de projet et de jeu, puis appuyez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished">Attendez que le projet finisse de charger.</translation>
+        <translation>Attendez que le projet finisse de charger.</translation>
     </message>
     <message>
         <source>New project complete.</source>
-        <translation type="unfinished">Nouveau projet créé.</translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished">Nous allons maintenant démarrer le tutoriel.</translation>
+        <translation>Nous allons maintenant démarrer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, as a final touch,
 we&apos;ll deal with the title screen.
 We will also deal with plugins.</source>
-        <translation type="unfinished">Cette étape est là pour peaufiner votre jeu,
+        <translation>Cette étape est là pour peaufiner votre jeu,
 notamment son écran titre.
 Nous jetterons également un œil aux plugins.</translation>
     </message>
     <message>
         <source>First, let&apos;s adjust the game title screen.
 Please open the database.</source>
-        <translation type="unfinished">Commençons par modifier l'écran titre.
+        <translation>Commençons par modifier l&apos;écran titre.
 Ouvrez la base de données.</translation>
     </message>
     <message>
         <source>Click the &quot;System&quot; tab. </source>
-        <translation type="unfinished">Cliquez sur l'onglet &quot;Système&quot;.</translation>
+        <translation>Cliquez sur l&apos;onglet &quot;Système&quot;.</translation>
     </message>
     <message>
         <source>First we&apos;ll edit the game title.
 Enter a title that you like.</source>
-        <translation type="unfinished">Nous allons modifier le titre du jeu.
+        <translation>Nous allons modifier le titre du jeu.
 Entrez un titre qui vous inspire.</translation>
     </message>
     <message>
         <source>Make sure not to edit the game title after you&apos;ve released your game.
 When you release it online and change the title, the game will be unable to read save data from before the change.</source>
-        <translation type="unfinished">Attention : décidez d'un titre avant de publier votre jeu !
+        <translation>Attention : décidez d&apos;un titre avant de publier votre jeu !
 Si vous changez le titre après publiation, les sauvegardes précédant le changement seront illisibles.</translation>
     </message>
     <message>
         <source>Next, let&apos;s change the title screen image.
 Click Images.</source>
-        <translation type="unfinished">Changeons maintenant l'image de l'écran-titre.
+        <translation>Changeons maintenant l&apos;image de l&apos;écran-titre.
 Cliquez sur Images.</translation>
     </message>
     <message>
         <source>For title screens, you can combine two images. We&apos;ll select an image from the list on the left as a base,
 and an accent from the list on the right.
 Combine whatever images you like.</source>
-        <translation type="unfinished">Vous pouvez combiner deux images. Choisissez une image à gauche comme base
+        <translation>Vous pouvez combiner deux images. Choisissez une image à gauche comme base
 et une à droite qui sera affichée au dessus.
 Faites une combinaison de votre choix.</translation>
     </message>
     <message>
         <source>Once you found images you like,
 click OK to set them.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>You can change the title BGM from the topmost line
 of the music list. Double click it.</source>
-        <translation type="unfinished">Pour changer la musique de l'écran titre, double-cliquez sur la
+        <translation>Pour changer la musique de l&apos;écran titre, double-cliquez sur la
 première ligne de la liste de musiques.</translation>
     </message>
     <message>
         <source>Play them and sample them. If you change the pitch, the feel of the song will change, so compare and contrast.</source>
-        <translation type="unfinished">Faites des tests. Vous pouvez aussi changer le volume et la vitesse des musiques. </translation>
+        <translation>Faites des tests. Vous pouvez aussi changer le volume et la vitesse des musiques. </translation>
     </message>
     <message>
         <source>Once you found something you like,
 click OK to set it.
 If nothing is really doing it for you, go back to Theme6.</source>
-        <translation type="unfinished">Une fois que vous avez trouvé quelque chose qui vous plaît,
+        <translation>Une fois que vous avez trouvé quelque chose qui vous plaît,
 cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK to set the changes
 and close the database.</source>
-        <translation type="unfinished">Cliquez de nouveau sur OK
+        <translation>Cliquez de nouveau sur OK
 et fermez la base de données.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll change the position of the title screen
 command window. We&apos;ll be using a plugin to do this.
 Click the puzzle piece icon.</source>
-        <translation type="unfinished">Ensuite, nous allons changer la position de la fenêtre de commandes.
-Pour ce faire, utilisons un plugin. Cliquez sur l'icône de pièce de puzzle.</translation>
+        <translation>Ensuite, nous allons changer la position de la fenêtre de commandes.
+Pour ce faire, utilisons un plugin. Cliquez sur l&apos;icône de pièce de puzzle.</translation>
     </message>
     <message>
         <source>Double click the first blank line.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne vierge.</translation>
+        <translation>Double-cliquez sur la première ligne vierge.</translation>
     </message>
     <message>
         <source>When you click under Name, several plugin names will appear.
 Choose TitleCommandPosition from the list of names.</source>
-        <translation type="unfinished">Cliquez sous Nom. Plusieurs plugins vont apparaître.
+        <translation>Cliquez sous Nom. Plusieurs plugins vont apparaître.
 Choisissez le plugin TitleCommandPosition dans la liste.</translation>
     </message>
     <message>
         <source>The description and author of the plugin,
 as well as its parameters are displayed.</source>
-        <translation type="unfinished">Les paramètres du plugin, sa description
+        <translation>Les paramètres du plugin, sa description
 et son auteur son affichés.</translation>
     </message>
     <message>
         <source>We&apos;ve done all kinds of things using event commands and the database,
 but there are some things that are hard to accomplish using those alone.
 What makes these things possible is a plugin.</source>
-        <translation type="unfinished">Les évènements permettent de faire beaucoup, mais certains systèmes
+        <translation>Les évènements permettent de faire beaucoup, mais certains systèmes
 sont trop compliqués pour eux.
 Les plugins sont là pour combler ces manques.</translation>
     </message>
     <message>
         <source>There are many other useful plugins
 aside from those included initially.</source>
-        <translation type="unfinished">Il existe bien d'autres plugins utiles
+        <translation>Il existe bien d&apos;autres plugins utiles
 en dehors de ceux inclus par défaut.</translation>
     </message>
     <message>
@@ -19468,7 +19468,7 @@ en dehors de ceux inclus par défaut.</translation>
 This one requires configuration of &quot;parameters&quot;.
 There are also plugins that require
 configuration via notes and plugin commands, but we&apos;ll skip that explanation for now.</source>
-        <translation type="unfinished">Certains demandent à être paramétrés.
+        <translation>Certains demandent à être paramétrés.
 Celui-ci en est un bon exemple.
 Il existe aussi des plugins demandant à être paramétrés via des notes
 et commandes spéciales, mais passons pour le moment.</translation>
@@ -19476,83 +19476,83 @@ et commandes spéciales, mais passons pour le moment.</translation>
     <message>
         <source>Now let us configure the title command position for ourselves. We&apos;re going to shift it to the bottom right.
 Double click the Offset X parameter.</source>
-        <translation type="unfinished">Nous allons paramétrer la position des commandes du titre. Plaçons-les en bas à droite.
+        <translation>Nous allons paramétrer la position des commandes du titre. Plaçons-les en bas à droite.
 Double-cliquez sur le paramètre Offset X.</translation>
     </message>
     <message>
         <source>The name and description of the parameter will appear.
 &quot;The offset value for the X coordinate&quot; is difficult to understand,
 but a positive value will shift it to the right and a negative value will shift it to the left.</source>
-        <translation type="unfinished">Le nom et la description de ce paramètre vont apparaître.
+        <translation>Le nom et la description de ce paramètre vont apparaître.
 &quot;Le décalage de la coordonnée X&quot; est un peu compliqué. Pour faire simple, une valeur
 positive décale vers la droite et une valeur négative, vers la gauche.</translation>
     </message>
     <message>
         <source>This time we&apos;ll move it 200 pixels to the right.
 Enter 200.</source>
-        <translation type="unfinished">Cette fois, faisons un décalage de 200 pixels vers la droite.
+        <translation>Cette fois, faisons un décalage de 200 pixels vers la droite.
 Entrez 200.</translation>
     </message>
     <message>
         <source>When you&apos;re done with the input, click OK and set it.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next, double click Offset Y.</source>
-        <translation type="unfinished">Ensuite, double cliquez sur Offset Y.</translation>
+        <translation>Ensuite, double cliquez sur Offset Y.</translation>
     </message>
     <message>
         <source>The offset value for the Y coordinate
 means that a positive value will move it down, and a negative will move it up.</source>
-        <translation type="unfinished">Le décalage Y marche sur le même principe :
+        <translation>Le décalage Y marche sur le même principe :
 une valeur positive décale vers le bas, une négative vers le haut.</translation>
     </message>
     <message>
         <source>This time we&apos;ll move it down 40 pixels.
 Enter 40.</source>
-        <translation type="unfinished">Cette fois, faisons un décalage de 40 pixels vers le bas.
+        <translation>Cette fois, faisons un décalage de 40 pixels vers le bas.
 Entrez 40.</translation>
     </message>
     <message>
         <source>There are other parameters, but for now we&apos;ve just changed the two above.
 Click OK and set the map.</source>
-        <translation type="unfinished">Il y a d'autres paramètres mais restons-en là.
+        <translation>Il y a d&apos;autres paramètres mais restons-en là.
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done editing the title screen using a plugin.
 Click OK and set the map.</source>
-        <translation type="unfinished">Vous avez édité votre écran-titre en utilisant un plugin, bravo !
+        <translation>Vous avez édité votre écran-titre en utilisant un plugin, bravo !
 Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;ll run a playtest,
 so please save the project first.</source>
-        <translation type="unfinished">Sauvegardez votre projet.</translation>
+        <translation>Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Please check and see
 how the title screen has changed.</source>
-        <translation type="unfinished">Lancez un test.
+        <translation>Lancez un test.
 Vous pouvez admirer le changement
-de l'écran titre.</translation>
+de l&apos;écran titre.</translation>
     </message>
     <message>
         <source>Well done. You&apos;ve now completed this tutorial. Like a house with no doors or an empty field,
 there is still room to grow.
 Please try to come up with ways to innovate on your own.</source>
-        <translation type="unfinished">Vous avez terminé le tutoriel de RPG Maker MV... félicitations !
+        <translation>Vous avez terminé le tutoriel de RPG Maker MV... félicitations !
 Il vous reste beaucoup de choses à tester par vous-même et à apprendre.</translation>
     </message>
     <message>
         <source>Additionally, on the RPG Maker MV official site, there are courses for beginners. Please read them and further enrich your knowledge.</source>
-        <translation type="unfinished">Il existe d'autres tutoriels sur le site officiel de RPG Maker MV
-ou en français sur RPG Maker Alliance. </translation>
+        <translation>Il existe d&apos;autres tutoriels sur le site officiel de RPG Maker MV, ou en français sur
+RPG Maker Alliance. </translation>
     </message>
     <message>
         <source>We hope that your technical skills in RPG Maker MV never stop growing.</source>
-        <translation type="unfinished">Nous espérons que vous continuerez de vous améliorer !</translation>
+        <translation>Nous espérons que vous continuerez de vous améliorer !</translation>
     </message>
 </context>
 <context>
@@ -19714,7 +19714,7 @@ Hello, \N[1]　.</source>
 Essayons d&apos;afficher &quot;Villageoise&quot; dans une couleur différente.
 Ecrivez pour cela &quot;\C[2]Villageoise :\C[0]&quot;.
 
-Ensuite, écrivez &quot;Bonjour, \N[1]."</translation>
+Ensuite, écrivez &quot;Bonjour, \N[1].&quot;</translation>
     </message>
     <message>
         <source>Please preview your text.</source>
@@ -19829,208 +19829,207 @@ Save the project.</source>
     <name>TutorialStep3</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 2 ?</translation>
     </message>
     <message>
         <source>Loading the step 2 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 2.</translation>
     </message>
     <message>
         <source>Please select the step 2 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 2. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
-        <source>Input the project name and game title, then press OK.</source>
-        <translation type="unfinished"></translation>
+        <source>Input the project name and game title, then click OK.</source>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>Select Normal Town from the map tree.</source>
-        <translation type="unfinished">Sélectionnez la Ville normale dans la liste des cartes.</translation>
+        <translation>Sélectionnez la Ville normale dans la liste des cartes.</translation>
     </message>
     <message>
         <source>In this step we will learn how to move NPC events.</source>
-        <translation type="unfinished">Dans cette étape, nous allons apprendre à déplacer des évènements de PNJ.</translation>
+        <translation>Dans cette étape, nous allons apprendre à déplacer des évènements de PNJ.</translation>
     </message>
     <message>
         <source> There are two ways to move an event:
 you can set &quot;Autonomous Movement&quot; or use the event command &quot;Set Movement Route&quot;.
 We&apos;ll deal with the former this time.</source>
-        <translation type="unfinished">Il y a deux façons de déplacer un évènement : les "Déplacements autonomes", ou la commande "Déplacer un évènement".</translation>
+        <translation>Il y a deux façons de déplacer un évènement : les &quot;Déplacements autonomes&quot; ou la commande &quot;Déplacer un évènement&quot;.</translation>
     </message>
     <message>
         <source>Let&apos;s set &quot;Autonomous Movement&quot; for the character we created in Step 2. To do this, we will first find where the character is placed.　</source>
-        <translation type="unfinished">Définissons les Déplacements autonomes du personnage créé à l'étape 2. Pour cela, nous devons d'abord trouvé où nous avions placé l'évènement.</translation>
+        <translation>Définissons les Déplacements autonomes du personnage créé à l&apos;étape 2. Pour cela, nous devons d&apos;abord trouvé où nous avions placé l&apos;évènement.</translation>
     </message>
     <message>
         <source>Click &quot;Event Searcher&quot;.
 Here you can search for various events.</source>
-        <translation type="unfinished">Cliquez sur le Chercheur d'évènement.</translation>
+        <translation>Cliquez sur le Chercheur d&apos;évènement.</translation>
     </message>
     <message>
         <source>The character we want to look for was called &quot;Villager1&quot;.
 Click Event Name.</source>
-        <translation type="unfinished">Le personnage était appelé Villageoise1. Cliquez sur Nom.</translation>
+        <translation>Le personnage était appelé Villageoise1. Cliquez sur Nom.</translation>
     </message>
     <message>
         <source>Enter &quot;Villager1&quot;.</source>
-        <translation type="unfinished">Ecrivez Villageoise1.</translation>
+        <translation>Ecrivez Villageoise1.</translation>
     </message>
     <message>
         <source>When you&apos;re done, click Search.
 Their position will be shown.</source>
-        <translation type="unfinished">Cliquez sur Chercher.</translation>
+        <translation>Cliquez sur Chercher.</translation>
     </message>
     <message>
         <source>As you can see, a benefit of naming your events
 is that you can easily search for them.
 Click &quot;Close&quot;.</source>
-        <translation type="unfinished">Comme vous le voyez, un avantage de bien nommer ses évènements et de facilement pouvoir les retrouver. Cliquez sur Fermer.</translation>
+        <translation>Comme vous le voyez, un avantage de bien nommer ses évènements et de facilement pouvoir les retrouver. Cliquez sur Fermer.</translation>
     </message>
     <message>
         <source>Double click Villager1 on (19,33)
 and open the event.</source>
-        <translation type="unfinished">Double-cliquez sur Villageoise1 en (19,33).</translation>
+        <translation>Double-cliquez sur Villageoise1 en (19,33).</translation>
     </message>
     <message>
         <source>Here we&apos;ll set the autonomous movement.
 You can specify frequency and speed, but we&apos;ll leave those how they are for now.</source>
-        <translation type="unfinished">Voici l'espace des Déplacements autonomes. Vous pouvez modifier la fréquence et la vitesse, mais nous allons les laisser ainsi pour le moment.</translation>
+        <translation>Voici l&apos;espace des Déplacements autonomes. Vous pouvez modifier la fréquence et la vitesse, mais nous allons les laisser ainsi pour le moment.</translation>
     </message>
     <message>
         <source>Select &quot;Random&quot; from &quot;Type&quot;.</source>
-        <translation type="unfinished">Choisissez le Type Aléatoire.</translation>
+        <translation>Choisissez le Type Aléatoire.</translation>
     </message>
     <message>
         <source>Now the settings are complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK pour valider.</translation>
+        <translation>Cliquez sur OK pour valider.</translation>
     </message>
     <message>
         <source>Let&apos;s playtest here.
 Save the project.</source>
-        <translation type="unfinished">Testons ceci en jeu. Sauvegardez le projet.</translation>
+        <translation>Testons ceci en jeu. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start a playtest.
 Check that Villager1 is moving randomly.</source>
-        <translation type="unfinished">Lancez un test. Vérifiez que Villageoise1 se déplace aléatoirement.</translation>
+        <translation>Lancez un test. Vérifiez que Villageoise1 se déplace aléatoirement.</translation>
     </message>
     <message>
         <source>When the playtest is over, let&apos;s move on.</source>
-        <translation type="unfinished">Lorsque vous avez terminé, continuons.</translation>
+        <translation>Lorsque vous avez terminé, continuons.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make a character that repeatedly moves in the same places. As an example, let&apos;s make a character that walks around the statue in the town center.</source>
-        <translation type="unfinished">Maintenant, nous allons créer un personnage qui se déplace toujours aux mêmes endroits. Par exemple, faisons un personnage qui tourne autour de la statue au centre de la ville.</translation>
+        <translation>Maintenant, nous allons créer un personnage qui se déplace toujours aux mêmes endroits. Par exemple, faisons un personnage qui tourne autour de la statue au centre de la ville.</translation>
     </message>
     <message>
         <source>Click under the statue in the center of the town.
 Make sure the coordinate is (19,23).</source>
-        <translation type="unfinished">Cliquez sous la statue du centre (19,23).</translation>
+        <translation>Cliquez sous la statue du centre (19,23).</translation>
     </message>
     <message>
         <source>Double click (19,23) and open an event.</source>
-        <translation type="unfinished">Double-cliquez sur (19,23) pour créer un évènement.</translation>
+        <translation>Double-cliquez sur (19,23) pour créer un évènement.</translation>
     </message>
     <message>
         <source>We&apos;ll do the various basic settings for the event.
 Double click Image.</source>
-        <translation type="unfinished">Nous allons définir les paramètres basiques de l'évènement. Double-cliquez sur Apparence.</translation>
+        <translation>Nous allons définir les paramètres basiques de l&apos;évènement. Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select Actor2.</source>
-        <translation type="unfinished">Choisissez Actor2.</translation>
+        <translation>Choisissez Actor2.</translation>
     </message>
     <message>
         <source>Pick the image of the woman facing to the right at the bottom right.</source>
-        <translation type="unfinished">Prenez l'image de la femme regardant à droite, en bas à droite.</translation>
+        <translation>Prenez l&apos;image de la femme regardant à droite, en bas à droite.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Name her something like StatueCircler.</source>
-        <translation type="unfinished">Nommez-là quelque chose comme "Femme de la statue".</translation>
+        <translation>Nommez-là quelque chose comme &quot;Femme de la statue&quot;.</translation>
     </message>
     <message>
         <source>Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne pour ajouter une commande.</translation>
+        <translation>Double-cliquez sur la première ligne pour ajouter une commande.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
+        <translation>Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter some simple text, like:
 &quot;I&apos;m circling the statue.&quot;</source>
-        <translation type="unfinished">Entrez un texte simple, comme
-"Je fais le tour de la statue."</translation>
+        <translation>Entrez un texte simple, comme &quot;Je fais le tour de la statue.&quot;</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make this event walk the perimeter of the statue.</source>
-        <translation type="unfinished">Nous allons faire marcher cet évènement autour de la statue.</translation>
+        <translation>Nous allons faire marcher cet évènement autour de la statue.</translation>
     </message>
     <message>
         <source>First let&apos;s change the movement speed and frequency.
 Set the speed to &quot;4: Normal&quot;.</source>
-        <translation type="unfinished">Changeons la vitesse et la fréquence. Passez la vitesse à 4: Normale.</translation>
+        <translation>Changeons la vitesse et la fréquence. Passez la vitesse à 4: Normale.</translation>
     </message>
     <message>
         <source>Set the freq to &quot;5: Highest&quot;.</source>
-        <translation type="unfinished">Passez la fréquence à 5: Maximum.</translation>
+        <translation>Passez la fréquence à 5: Maximum.</translation>
     </message>
     <message>
         <source>Now we&apos;ll set her to walk around the statue.
 Set the &quot;Type&quot; to &quot;Custom&quot;.</source>
-        <translation type="unfinished">Sélectionnez le Type Personnalisé.</translation>
+        <translation>Sélectionnez le Type Personnalisé.</translation>
     </message>
     <message>
         <source>Click &quot;Route...&quot; and you can set the movement route.</source>
-        <translation type="unfinished">Cliquez sur Trajectoire pour l'éditer.</translation>
+        <translation>Cliquez sur Trajectoire pour l&apos;éditer.</translation>
     </message>
     <message>
         <source>If you click a &quot;Movement Command&quot; on the right
 it will be added to the list on the left.</source>
-        <translation type="unfinished">Si vous cliquez sur une commande à droite, elle sera ajoutée à la liste de gauche.</translation>
+        <translation>Si vous cliquez sur une commande à droite, elle sera ajoutée à la liste de gauche.</translation>
     </message>
     <message>
         <source>The events entered are added here.
 Right click when you want to delete or insert an event.</source>
-        <translation type="unfinished">Les évènements entrés sont ajoutés ici. Cliquez-droit si vous voulez supprimer une commande.</translation>
+        <translation>Les évènements entrés sont ajoutés ici. Cliquez-droit si vous voulez supprimer une commande.</translation>
     </message>
     <message>
         <source>Add these events in the following order.
@@ -20044,7 +20043,7 @@ Move Down
 Move Down
 Move Down
 Move Right</source>
-        <translation type="unfinished">Ajoutez des commandes dans cet ordre.
+        <translation>Ajoutez des commandes dans cet ordre.
 Pas vers la droite
 Pas vers le haut
 Pas vers le haut
@@ -20058,172 +20057,172 @@ Pas vers la droite</translation>
     </message>
     <message>
         <source>Make sure that &quot;Repeat Movements&quot; is checked. Now she&apos;ll circle the statue endlessly.</source>
-        <translation type="unfinished">Assurez-vous que "Répéter en boucle" est coché.</translation>
+        <translation>Assurez-vous que &quot;Répéter en boucle&quot; est coché.</translation>
     </message>
     <message>
         <source>Do not check off &quot;Skip If Cannot Move&quot;. We don&apos;t want her route to change on us.</source>
-        <translation type="unfinished">Ne cochez pas "Ignorer les mouvements impossibles". Nous ne voulons pas que sa trajectoire change si quelqu'un passe devant.</translation>
+        <translation>Ne cochez pas &quot;Ignorer les mouvements impossibles&quot;. Nous ne voulons pas que sa trajectoire change si quelqu&apos;un passe devant.</translation>
     </message>
     <message>
         <source>Click OK to set the movement route.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Run a playtest.
 Save the project.</source>
-        <translation type="unfinished">Testons le jeu. Sauvegardez le projet.</translation>
+        <translation>Testons le jeu. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run the test and check to see if the woman is circling the statue properly.</source>
-        <translation type="unfinished">Lancez le test et vérifiez que la femme fasse bien le tour de la statue.</translation>
+        <translation>Lancez le test et vérifiez que la femme fasse bien le tour de la statue.</translation>
     </message>
     <message>
         <source>Is the event working properly in the playtest?</source>
-        <translation type="unfinished">Est-ce que l'évènement fonctionne bien ?</translation>
+        <translation>Est-ce que l&apos;évènement fonctionne bien ?</translation>
     </message>
     <message>
         <source>Then let&apos;s review the event.
 Double click the event under the statue.</source>
-        <translation type="unfinished">Alors vérifions l'évènement. Double-cliquez sur l'évènement sous la statue.</translation>
+        <translation>Alors vérifions l&apos;évènement. Double-cliquez sur l&apos;évènement sous la statue.</translation>
     </message>
     <message>
         <source>Double check the movement route settings.</source>
-        <translation type="unfinished">Vérifiez les paramètres de la trajectoire.</translation>
+        <translation>Vérifiez les paramètres de la trajectoire.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 3.</source>
-        <translation type="unfinished">Bien joué ! L'étape 3 est terminée.</translation>
+        <translation>Bien joué ! L&apos;étape 3 est terminée.</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep4</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 3 ?</translation>
     </message>
     <message>
         <source>Loading the step 3 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 3.</translation>
     </message>
     <message>
         <source>Please select the step 3 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 3. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step we will learn how to make an event move
 using the event command &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished">Dans cette étape, nous allons apprendre à déplacer un évènement avec la commande d'évènement.</translation>
+        <translation>Dans cette étape, nous allons apprendre à déplacer un évènement avec la commande d&apos;évènement.</translation>
     </message>
     <message>
         <source>First let&apos;s make a new character event.
 In the northern road of the town, click near the middle
 of the long path that runs from left to right (at the T junction).</source>
-        <translation type="unfinished">D'abord, créons un nouvel évènement sur la route au nord de la ville, au milieu de la jonction (19,10).</translation>
+        <translation>D&apos;abord, créons un nouvel évènement sur la route au nord de la ville, au milieu de la jonction (19,10).</translation>
     </message>
     <message>
         <source>Find (19,10) and double click it.
 Open the event window.</source>
-        <translation type="unfinished">Double-cliquez sur (19,10).</translation>
+        <translation>Double-cliquez sur (19,10).</translation>
     </message>
     <message>
         <source>Set the image. Double click.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Click People1.</source>
-        <translation type="unfinished">Choisissez People1.</translation>
+        <translation>Choisissez People1.</translation>
     </message>
     <message>
         <source>Click the right-facing woman, second from the left in the bottom row.</source>
-        <translation type="unfinished">Cliquez sur la femme regardant à droite, en deuxième en bas.</translation>
+        <translation>Cliquez sur la femme regardant à droite, en deuxième en bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Set her name to MovingLady.</source>
-        <translation type="unfinished">Appelez-la FemmeQuiMarche.</translation>
+        <translation>Appelez-la FemmeQuiMarche.</translation>
     </message>
     <message>
         <source>Double click the first blank line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne vide pour ajouter une commande.</translation>
+        <translation>Double-cliquez sur la première ligne vide pour ajouter une commande.</translation>
     </message>
     <message>
         <source>First she&apos;ll talk about where she&apos;s going to move.
 Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Elle va d'abord parler de sa façon de bouger. Cliquez sur "Afficher le texte".</translation>
+        <translation>Elle va d&apos;abord parler de sa façon de bouger. Cliquez sur &quot;Afficher le texte&quot;.</translation>
     </message>
     <message>
         <source>Type in:
 &quot;I&apos;m moving 4 steps to the right now.&quot;</source>
-        <translation type="unfinished">Ecrivez "Je vais avancer de 4 pas vers la droite."</translation>
+        <translation>Ecrivez &quot;Je vais avancer de 4 pas vers la droite.&quot;</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Up until now has just been a review. Now we&apos;re going to &quot;Set Movement Route&quot;. Double click the blank line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne vide suivante.</translation>
+        <translation>Double-cliquez sur la ligne vide suivante.</translation>
     </message>
     <message>
         <source>Switch to Page 2.</source>
-        <translation type="unfinished">Ouvrez la page 2.</translation>
+        <translation>Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route&quot;.</source>
-        <translation type="unfinished">Cliquez sur Déplacer un évènement.</translation>
+        <translation>Cliquez sur Déplacer un évènement.</translation>
     </message>
     <message>
         <source>The movement target is currently set to &quot;Player&quot;.
 Please change it to &quot;This Event&quot;.</source>
-        <translation type="unfinished">La cible du déplacement est actuellement le joueur. Changez-la pour Cet évènement.</translation>
+        <translation>La cible du déplacement est actuellement le joueur. Changez-la pour Cet évènement.</translation>
     </message>
     <message>
         <source>Check off &quot;Skip If Cannot Move&quot;.</source>
-        <translation type="unfinished">Cochez "Ignorer les mouvements impossibles".</translation>
+        <translation>Cochez &quot;Ignorer les mouvements impossibles&quot;.</translation>
     </message>
     <message>
         <source>Remove the check from &quot;Wait for Completion&quot;.</source>
-        <translation type="unfinished">Décochez "Attendre la fin".</translation>
+        <translation>Décochez &quot;Attendre la fin&quot;.</translation>
     </message>
     <message>
         <source>Set the movement route as follows:
@@ -20231,7 +20230,7 @@ Move Right
 Move Right
 Move Right
 Move Right</source>
-        <translation type="unfinished">Créez la trajectoire suivante :
+        <translation>Créez la trajectoire suivante :
 Pas vers la droite
 Pas vers la droite
 Pas vers la droite
@@ -20239,866 +20238,866 @@ Pas vers la droite</translation>
     </message>
     <message>
         <source>Make sure that there are four instances of &quot;Move Right&quot; in the list.</source>
-        <translation type="unfinished">Assurez-vous qu'il y ait 4 pas vers la droite dans la liste.</translation>
+        <translation>Assurez-vous qu&apos;il y ait 4 pas vers la droite dans la liste.</translation>
     </message>
     <message>
         <source>Click OK to set the movement route.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK to set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the event preparation is ready. Let&apos;s change the player&apos;s initial position to make playtesting easier.
 After clicking a few squares away from the event, right click.</source>
-        <translation type="unfinished">Maintenant que la préparation est terminée, changeons la position de départ du joueur pour faciliter le test. Cliquez-droit sur une case près de l'évènement.</translation>
+        <translation>Maintenant que la préparation est terminée, changeons la position de départ du joueur pour faciliter le test. Cliquez-droit sur une case près de l&apos;évènement.</translation>
     </message>
     <message>
         <source>Select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished">Définissez la position de départ du héros.</translation>
+        <translation>Définissez la position de départ du héros.</translation>
     </message>
     <message>
         <source>First we&apos;ll save the project.</source>
-        <translation type="unfinished">Sauvegardez le projet.</translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Now conduct a playtest.
 Talk to the NPC a few times and check the movement.</source>
-        <translation type="unfinished">Lancez un test. Parlez au PNJ quelques fois et regardez-la bouger.</translation>
+        <translation>Lancez un test. Parlez au PNJ quelques fois et regardez-la bouger.</translation>
     </message>
     <message>
         <source>Once you&apos;re done, there&apos;s some more explanation.</source>
-        <translation type="unfinished">Lorsque vous aurez fini, nous expliquerons quelques notions.</translation>
+        <translation>Lorsque vous aurez fini, nous expliquerons quelques notions.</translation>
     </message>
     <message>
         <source>If the player character talks to her from their right or the path is blocked, her movement will be stopped.
 This is the effect of &quot;Skip If Cannot Move&quot;.</source>
-        <translation type="unfinished">Si le joueur lui parle depuis sa droite, ou que le chemin est bloqué par autre chose, le mouvement n'aura pas lieu. C'est grâce à "Ignorer les mouvements impossibles".</translation>
+        <translation>Si le joueur lui parle depuis sa droite, ou que le chemin est bloqué par autre chose, le mouvement n&apos;aura pas lieu. C&apos;est grâce à &quot;Ignorer les mouvements impossibles&quot;.</translation>
     </message>
     <message>
         <source>Could you playtest again to check that this is working?</source>
-        <translation type="unfinished">Pourriez-vous tester une autre fois pour vérifier que cela fonctionne ?</translation>
+        <translation>Pourriez-vous tester une autre fois pour vérifier que cela fonctionne ?</translation>
     </message>
     <message>
         <source>Next, we&apos;ll make two events move simultaneously.</source>
-        <translation type="unfinished">Maintenant, nous allons déplacer deux évènements en même temps.</translation>
+        <translation>Maintenant, nous allons déplacer deux évènements en même temps.</translation>
     </message>
     <message>
         <source>Let&apos;s make a male NPC event parallel to the woman.
 Double-click the coordinate (19,9) above &quot;MovingLady&quot;.</source>
-        <translation type="unfinished">Créons un autre PNJ au-dessus la femme. Double-cliquez sur (19,9).</translation>
+        <translation>Créons un autre PNJ au-dessus la femme. Double-cliquez sur (19,9).</translation>
     </message>
     <message>
         <source>Set his name to MovingDude.</source>
-        <translation type="unfinished">Nommez-le HommeQuiMarche.</translation>
+        <translation>Nommez-le HommeQuiMarche.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select People1.</source>
-        <translation type="unfinished">Choisissez People1.</translation>
+        <translation>Choisissez People1.</translation>
     </message>
     <message>
         <source>Choose the man facing right on the left in the bottom row.</source>
-        <translation type="unfinished">Choisissez l'homme regardant à droite, en premier en bas.</translation>
+        <translation>Choisissez l&apos;homme regardant à droite, en premier en bas.</translation>
     </message>
     <message>
         <source>Switch to Page 1.</source>
-        <translation type="unfinished">Ouvrez la page 1.</translation>
+        <translation>Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur "Afficher le texte".</translation>
+        <translation>Cliquez sur &quot;Afficher le texte&quot;.</translation>
     </message>
     <message>
         <source>Type in:
 &quot;I&apos;m going to move with that lady.&quot;</source>
-        <translation type="unfinished">Ecrivez "Je vais marcher avec cette femme."</translation>
+        <translation>Ecrivez &quot;Je vais marcher avec cette femme.&quot;</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;ll make it so the man moves with the lady when you talk to her.
 Double click MovingLady.</source>
-        <translation type="unfinished">Nous allons faire en sorte que l'homme bouge avec la femme quand on parle à celle-ci. Double-cliquez sur FemmeQuiMarche.</translation>
+        <translation>Nous allons faire en sorte que l&apos;homme bouge avec la femme quand on parle à celle-ci. Double-cliquez sur FemmeQuiMarche.</translation>
     </message>
     <message>
         <source>If we add an event to make the man move in the same way as the lady after her event, it&apos;ll look like they&apos;re walking together.</source>
-        <translation type="unfinished">Si nous ajoutons une commande pour déplacer l'homme, ils bougeront en même temps.</translation>
+        <translation>Si nous ajoutons une commande pour déplacer l&apos;homme, ils bougeront en même temps.</translation>
     </message>
     <message>
         <source>But it&apos;s a pain to do the setup all over again. Here we will take advantage of copying &amp; pasting.</source>
-        <translation type="unfinished">Mais c'est ennuyeux de tout refaire une deuxième fois. Nous allons copier et coller la commande.</translation>
+        <translation>Mais c&apos;est ennuyeux de tout refaire une deuxième fois. Nous allons copier et coller la commande.</translation>
     </message>
     <message>
         <source>Click &quot;Set Movement Route...&quot; so it&apos;s selected.</source>
-        <translation type="unfinished">Cliquez sur "Déplacer un évènement..." pour sélectionner la commande.</translation>
+        <translation>Cliquez sur &quot;Déplacer un évènement...&quot; pour sélectionner la commande.</translation>
     </message>
     <message>
         <source>While it&apos;s selected, right click and choose &quot;Copy&quot;.</source>
-        <translation type="unfinished">Quand elle est sélectionnée, cliquez-droit et choisissez Copier.</translation>
+        <translation>Quand elle est sélectionnée, cliquez-droit et choisissez Copier.</translation>
     </message>
     <message>
         <source>Now right click the last empty line.</source>
-        <translation type="unfinished">Maintenant, cliquez-droit sur la ligne vide.</translation>
+        <translation>Maintenant, cliquez-droit sur la ligne vide.</translation>
     </message>
     <message>
         <source>Choose &quot;Paste&quot;.</source>
-        <translation type="unfinished">Choisissez Coller.</translation>
+        <translation>Choisissez Coller.</translation>
     </message>
     <message>
         <source>We&apos;ll edit the event command you just pasted.
 Right click and select &quot;Edit...&quot;.</source>
-        <translation type="unfinished">Nous allons éditer la commande que vous venez de coller. Cliquez-droit et choisissez Editer.</translation>
+        <translation>Nous allons éditer la commande que vous venez de coller. Cliquez-droit et choisissez Editer.</translation>
     </message>
     <message>
         <source>Change &quot;This Event&quot; to &quot;MovingDude&quot;.</source>
-        <translation type="unfinished">Changez la cible "Cet évènement" en "HommeQuiMarche".</translation>
+        <translation>Changez la cible &quot;Cet évènement&quot; en &quot;HommeQuiMarche&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click OK and set the event changes.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The preparation is complete. Save the project.</source>
-        <translation type="unfinished">La préparation est terminée. Sauvegardez le projet.</translation>
+        <translation>La préparation est terminée. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run a playtest, and make sure the man moves with the woman when you talk to her.
 Also, check to see that if you block one of their paths that they will no longer be lined up.</source>
-        <translation type="unfinished">Lancez un test, et assurez-vous que l'homme bouge avec la femme quand vous lui parlez. Remarquez que lorsque vous bloquez l'un des deux, ils ne seront plus alignés.</translation>
+        <translation>Lancez un test, et assurez-vous que l&apos;homme bouge avec la femme quand vous lui parlez. Remarquez que lorsque vous bloquez l&apos;un des deux, ils ne seront plus alignés.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest we have a quick note.</source>
-        <translation type="unfinished">Lorsque vous aurez terminé, nous expliquerons quelque chose.</translation>
+        <translation>Lorsque vous aurez terminé, nous expliquerons quelque chose.</translation>
     </message>
     <message>
         <source>Although this time we removed the check from &quot;Wait for Completion&quot;, when you want one to move after the other, check it off.</source>
-        <translation type="unfinished">Bien que cette fois nous avons décoché "Attendre la fin", si vous voulez que les évènements bougent l'un après l'autre, cochez l'option.</translation>
+        <translation>Bien que cette fois nous avons décoché &quot;Attendre la fin&quot; si vous voulez que les évènements bougent l&apos;un après l&apos;autre, cochez l&apos;option.</translation>
     </message>
     <message>
         <source>However, sometimes when you use &quot;Wait for Completion&quot; and the path is blocked by an obstacle, you may no longer be able to progress in the game, so be careful.</source>
-        <translation type="unfinished">Cependant, si vous utiliser "Attendre la fin" est que la trajectoire est en attente à cause d'un obstacle, le jeu pourrait se bloquer, donc faites attention.</translation>
+        <translation>Cependant, si vous utiliser &quot;Attendre la fin&quot; est que la trajectoire est en attente à cause d&apos;un obstacle, le jeu pourrait se bloquer, donc faites attention.</translation>
     </message>
     <message>
         <source>That&apos;s it for this explanation. Well done.</source>
-        <translation type="unfinished">C'est tout ! Bien joué.</translation>
+        <translation>C&apos;est tout ! Bien joué.</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep5</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 4?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 4 ?</translation>
     </message>
     <message>
         <source>Loading the step 4 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 4.</translation>
     </message>
     <message>
         <source>Please select the step 4 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 4. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step we&apos;ll learn how to create events using switches and conditional branching.</source>
-        <translation type="unfinished">Dans cette étape, nous allons apprendre à utiliser les interrupteurs et les conditions dans les évènements.</translation>
+        <translation>Dans cette étape, nous allons apprendre à utiliser les interrupteurs et les conditions dans les évènements.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished">Cliquez sur Ville normale.</translation>
+        <translation>Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;re going to make three people lined up horizontally.
 The location will be by the right side of statue in the center (25,22).</source>
-        <translation type="unfinished">Nous allons placer trois personnes alignées horizontalement. Elles seront à droite de la statue (25,22).</translation>
+        <translation>Nous allons placer trois personnes alignées horizontalement. Elles seront à droite de la statue (25,22).</translation>
     </message>
     <message>
         <source>First, we&apos;re going to make an event where an NPC will give you a potion once.</source>
-        <translation type="unfinished">Pour commencer, nous allons créer un évènement où un PNJ donne une potion une seule fois.</translation>
+        <translation>Pour commencer, nous allons créer un évènement où un PNJ donne une potion une seule fois.</translation>
     </message>
     <message>
         <source>Double click (23,22) to create an event.</source>
-        <translation type="unfinished">Double-cliquez sur (23,22) pour créer un évènement.</translation>
+        <translation>Double-cliquez sur (23,22) pour créer un évènement.</translation>
     </message>
     <message>
         <source>Let&apos;s call the event PotionWoman.</source>
-        <translation type="unfinished">Appelez-le FemmePotion.</translation>
+        <translation>Appelez-le FemmePotion.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Click Actor3.</source>
-        <translation type="unfinished">Cliquez sur Actor3.</translation>
+        <translation>Cliquez sur Actor3.</translation>
     </message>
     <message>
         <source>Click the downward facing woman second from the left in the bottom row.</source>
-        <translation type="unfinished">Cliquez sur la femme en deuxième en bas.</translation>
+        <translation>Cliquez sur la femme en deuxième en bas.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Let&apos;s make the contents. Double click the first empty line.</source>
-        <translation type="unfinished">Créons le contenu. Double-cliquez sur la première ligne vide.</translation>
+        <translation>Créons le contenu. Double-cliquez sur la première ligne vide.</translation>
     </message>
     <message>
         <source>First let&apos;s make a message saying an item has been received.
 Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">D'abord, écrivons un message pour dire que l'objet est reçu. Cliquez sur "Afficher le texte".</translation>
+        <translation>D&apos;abord, écrivons un message pour dire que l&apos;objet est reçu. Cliquez sur &quot;Afficher le texte&quot;.</translation>
     </message>
     <message>
         <source>Enter:
 &quot;I&apos;ll give you a potion.&quot;</source>
-        <translation type="unfinished">Ecrivez "Je vais vous donner une potion."</translation>
+        <translation>Ecrivez &quot;Je vais vous donner une potion.&quot;</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we process the receipt of the potion. Double click the blank line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne vide.</translation>
+        <translation>Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Change Items...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Modifier les objets...</translation>
+        <translation>Cliquez sur Modifier les objets...</translation>
     </message>
     <message>
         <source>Check that the Item is &quot;Potion&quot;, the Operation is &quot;Increase&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;, and click OK.</source>
-        <translation type="unfinished">Sélectionnez l'objet Potion, l'opération Augmenter, et la valeur fixe 1, puis cliquez sur OK.</translation>
+        <translation>Sélectionnez l&apos;objet Potion, l&apos;opération Augmenter, et la valeur fixe 1, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now, if we keep it like this, you can get potions whenever you talk to her.</source>
-        <translation type="unfinished">Si nous laissons l'évènement comme ça, vous pourrez lui reparler et gagner des potions à l'infini.</translation>
+        <translation>Si nous laissons l&apos;évènement comme ça, vous pourrez lui reparler et gagner des potions à l&apos;infini.</translation>
     </message>
     <message>
         <source>Here we&apos;re going to add a switch that contains the information that a potion was received.
 Double click the blank line.</source>
-        <translation type="unfinished">Nous allons ajouter un interrupteur, qui correspondra à l'information que la potion a été donnée. Double-cliquez sur la ligne vide.</translation>
+        <translation>Nous allons ajouter un interrupteur, qui correspondra à l&apos;information que la potion a été donnée. Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Control Switches...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Modifier un interrupteur...</translation>
+        <translation>Cliquez sur Modifier un interrupteur...</translation>
     </message>
     <message>
         <source>This time we&apos;ll use the first switch. You can name switches so they&apos;re easy to distinguish. Click the switch.</source>
-        <translation type="unfinished">Nous allons utiliser le premier interrupteur. Vous pouvez les renommer pour les distinguer facilement. Cliquez sur l'interrupteur.</translation>
+        <translation>Nous allons utiliser le premier interrupteur. Vous pouvez les renommer pour les distinguer facilement. Cliquez sur l&apos;interrupteur.</translation>
     </message>
     <message>
         <source>Click the first option in the list (0001).</source>
-        <translation type="unfinished">Sélectionnez le premier élément de la liste (0001).</translation>
+        <translation>Sélectionnez le premier élément de la liste (0001).</translation>
     </message>
     <message>
         <source>Enter the name
 as GetPotion.</source>
-        <translation type="unfinished">Entrez le nom PotionObtenue.</translation>
+        <translation>Entrez le nom PotionObtenue.</translation>
     </message>
     <message>
         <source>Click OK and set the name.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Make sure that the switch is set to &quot;Single&quot; &quot;0001: GetPotion&quot;, and that Operation is set to ON, then click OK.</source>
-        <translation type="unfinished">Nous souhaitons activer l'interrupteur, donc choisissez l'opération ON et cliquez sur OK.</translation>
+        <translation>Nous souhaitons activer l&apos;interrupteur, donc choisissez l&apos;opération ON et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll use this switch to create a reaction for the NPC after they&apos;ve given a potion. Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished">Nous allons utiliser l'interrupteur pour faire réagir le PNJ après lui avoir donné la potion. Cliquez sur Nouvelle page.</translation>
+        <translation>Nous allons utiliser l&apos;interrupteur pour faire réagir le PNJ après lui avoir donné la potion. Cliquez sur Nouvelle page.</translation>
     </message>
     <message>
         <source>We&apos;ve created a second page.
 We&apos;ll set it up just like page 1.</source>
-        <translation type="unfinished">Voici notre deuxième page. Nous allons la configurer comme la première.</translation>
+        <translation>Voici notre deuxième page. Nous allons la configurer comme la première.</translation>
     </message>
     <message>
         <source>Set the image to the same as on page 1.
 Double click.</source>
-        <translation type="unfinished">Prenez la même apparence que celle de la page 1.</translation>
+        <translation>Prenez la même apparence que celle de la page 1.</translation>
     </message>
     <message>
         <source>Click the downward facing woman second in the bottom row</source>
-        <translation type="unfinished">Cliquez sur la femme regardant vers le bas, en deuxième en bas.</translation>
+        <translation>Cliquez sur la femme regardant vers le bas, en deuxième en bas.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set the conditions for this event to appear. Put a check next to &quot;Switch&quot;.</source>
-        <translation type="unfinished">Ensuite nous allons définir les conditions pour que cette page soit active. Cochez Interrupteur.</translation>
+        <translation>Ensuite nous allons définir les conditions pour que cette page soit active. Cochez Interrupteur.</translation>
     </message>
     <message>
         <source>Make sure the switch number is set to &quot;0001 GetPotion&quot;.</source>
-        <translation type="unfinished">Assurez-vous que votre interrupteur 0001 est sélectionné.</translation>
+        <translation>Assurez-vous que votre interrupteur 0001 est sélectionné.</translation>
     </message>
     <message>
         <source>Now we&apos;ll create the content for after she&apos;s given us a potion.
 Double click the top line.</source>
-        <translation type="unfinished">Maintenant, créons le contenu à exécuter après qu'elle nous ait donné la potion.</translation>
+        <translation>Maintenant, créons le contenu à exécuter après qu&apos;elle nous ait donné la potion.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
+        <translation>Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Use that potion wisely, okay?&quot;</source>
-        <translation type="unfinished">Ecrivez "Utilise cette potion à bon escient !"</translation>
+        <translation>Ecrivez &quot;Utilise cette potion à bon escient !&quot;</translation>
     </message>
     <message>
         <source>Press OK and set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting up this event.</source>
-        <translation type="unfinished">Nous avons terminé cet évènement.</translation>
+        <translation>Nous avons terminé cet évènement.</translation>
     </message>
     <message>
         <source>Here there will be a detailed explanation about event appearance conditions and pages.</source>
-        <translation type="unfinished">Expliquons plus en détails le principe des conditions et des pages.</translation>
+        <translation>Expliquons plus en détails le principe des conditions et des pages.</translation>
     </message>
     <message>
         <source>You can create multiple pages for events,
 and when their conditions are fulfilled, the event will change to the appropriate page.</source>
-        <translation type="unfinished">Vous pouvez créer plusieurs pages dans un évènement, et lorsque les conditions sont remplies, l'évènement passera à la page appropriée.</translation>
+        <translation>Vous pouvez créer plusieurs pages dans un évènement, et lorsque les conditions sont remplies, l&apos;évènement passera à la page appropriée.</translation>
     </message>
     <message>
         <source>If there are multiple pages when a condition is met,
 the page with the highest number will be executed.</source>
-        <translation type="unfinished">Si plusieurs pages ont leurs conditions remplies, la page avec le numéro le plus haut sera choisie.</translation>
+        <translation>Si plusieurs pages ont leurs conditions remplies, la page avec le numéro le plus haut sera choisie.</translation>
     </message>
     <message>
         <source>If no condition is specified, that page will always be considered to have its condition met.
 On the other hand, if two or more conditions are specified, the page will be considered to have its conditions met when all conditions are met.</source>
-        <translation type="unfinished">Si aucune condition n'est précisée, alors la page est toujours valide. Par contre, si plusieurs conditions sont cochées, la page sera valide seulement si toutes les conditions sont remplies.</translation>
+        <translation>Si aucune condition n&apos;est précisée, alors la page est toujours valide. Par contre, si plusieurs conditions sont cochées, la page sera valide seulement si toutes les conditions sont remplies.</translation>
     </message>
     <message>
         <source>Let&apos;s consider our current case.
 -When switch 1 is ON, the &quot;condition&quot; of page 2 is met, and the event is changed to the page 2 event.
 -When switch 1 is not ON, the event will be the page 1 event, which has no condition set.</source>
-        <translation type="unfinished">Dans notre cas :
--Quand l'interrupteur est ON, la condition de la page 2 est valide et on passe à cette page.
--Quand l'interrupteur est OFF, l'évènement sera sur la page 1 qui ne nécessite aucune condition.</translation>
+        <translation>Dans notre cas :
+-Quand l&apos;interrupteur est ON, la condition de la page 2 est valide et on passe à cette page.
+-Quand l&apos;interrupteur est OFF, l&apos;évènement sera sur la page 1 qui ne nécessite aucune condition.</translation>
     </message>
     <message>
         <source>That&apos;s all. This is pretty important, so would you like to read the explanation again?</source>
-        <translation type="unfinished">C'est tout ! C'est un principe très important, souhaitez-vous relire les explications ?</translation>
+        <translation>C&apos;est tout ! C&apos;est un principe très important, souhaitez-vous relire les explications ?</translation>
     </message>
     <message>
         <source>Let&apos;s move on. Click OK.</source>
-        <translation type="unfinished">Passons à la suite. Cliquez sur OK.</translation>
+        <translation>Passons à la suite. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;re going to create someone whose dialogue changes depending on whether or not you&apos;ve gotten a potion. Double click (25,22).</source>
-        <translation type="unfinished">Maintenant, nous allons créer un PNJ dont le texte change si on a récupéré la potion. Double-cliquez sur (25,22).</translation>
+        <translation>Maintenant, nous allons créer un PNJ dont le texte change si on a récupéré la potion. Double-cliquez sur (25,22).</translation>
     </message>
     <message>
         <source>Name the event PotionJudge.</source>
-        <translation type="unfinished">Nomme-le JugePotion.</translation>
+        <translation>Nomme-le JugePotion.</translation>
     </message>
     <message>
         <source>We&apos;ll use the man with a hood, second from the right in the bottom row.
 Choose the sprite of him facing downward.</source>
-        <translation type="unfinished">Nous allons utiliser l'homme en avant-dernier, sur la ligne du bas. Choisissez son sprite qui regarde vers le bas.</translation>
+        <translation>Nous allons utiliser l&apos;homme en avant-dernier, sur la ligne du bas. Choisissez son sprite qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>This time we&apos;re going to use a &quot;Conditional Branch&quot; to determine whether or not the player has gotten the potion.
 Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Cette fois, nous utiliserons une branche conditionnelle pour déterminer si le joueur a la potion. Double-cliquez sur la première ligne vide.</translation>
+        <translation>Cette fois, nous utiliserons une branche conditionnelle pour déterminer si le joueur a la potion. Double-cliquez sur la première ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Conditional Branch...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Condition...</translation>
+        <translation>Cliquez sur Condition...</translation>
     </message>
     <message>
         <source>Check that &quot;Switch&quot; is checked off and that &quot;0001 GetPotion&quot; is set to ON.</source>
-        <translation type="unfinished">Assurez-vous que l'on vérifie que l'interrupteur 0001 soit sur ON.</translation>
+        <translation>Assurez-vous que l&apos;on vérifie que l&apos;interrupteur 0001 soit sur ON.</translation>
     </message>
     <message>
         <source>Check off &quot;Create Else Branch&quot;.</source>
-        <translation type="unfinished">Cochez "Exécuter autre chose si la condition n'est pas remplie".</translation>
+        <translation>Cochez &quot;Exécuter autre chose si la condition n&apos;est pas remplie&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll enter the dialogue for when you have a potion and for when you don&apos;t. First, let&apos;s do it for when you have one. Double click.</source>
-        <translation type="unfinished">Nous allons écrire le dialogue pour les deux cas de figure. Double-cliquez ici.</translation>
+        <translation>Nous allons écrire le dialogue pour les deux cas de figure. Double-cliquez ici.</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Use potions wisely!&quot; This is the dialogue after you&apos;ve gotten a potion.</source>
-        <translation type="unfinished">Ecrivez : "Utilise les potions à bon escient !" C'est le dialogue qui se joue lorsqu'on a récupéré la potion.</translation>
+        <translation>Ecrivez : &quot;Utilise les potions à bon escient !&quot; C&apos;est le dialogue qui se joue lorsqu&apos;on a récupéré la potion.</translation>
     </message>
     <message>
         <source>Double click the line under &quot;Else&quot;,</source>
-        <translation type="unfinished">Double-cliquez sur la ligne dans "Sinon".</translation>
+        <translation>Double-cliquez sur la ligne dans &quot;Sinon&quot;.</translation>
     </message>
     <message>
         <source>Enter:
 &quot;You need potions if you&apos;re going adventuring.&quot; This is the dialogue before you&apos;ve gotten a potion.</source>
-        <translation type="unfinished">Ecrivez : "Tu as besoin de potions si tu veux partir à l'aventure."</translation>
+        <translation>Ecrivez : &quot;Tu as besoin de potions si tu veux partir à l&apos;aventure.&quot;</translation>
     </message>
     <message>
         <source>Now we&apos;re done setting up this event.
 Switches record conditions such as completing actions, and are useful for dividing processes.</source>
-        <translation type="unfinished">Nous avons terminé cet évènement. Les interrupteurs sont utiles pour mémoriser que des actions ont été accomplies tout au long du jeu.</translation>
+        <translation>Nous avons terminé cet évènement. Les interrupteurs sont utiles pour mémoriser que des actions ont été accomplies tout au long du jeu.</translation>
     </message>
     <message>
         <source>Also, it&apos;s possible to achieve the same results without conditional branching by increasing event pages like you did with PotionWoman.
 You could also use conditional branching with PotionWoman.</source>
-        <translation type="unfinished">Nous aurions pu obtenir le même résultat sans la branche conditionnelle en créant deux pages d'évènement. De la même façon, vous pourriez refaire le premier évènement avec une condition au lieu des deux pages.</translation>
+        <translation>Nous aurions pu obtenir le même résultat sans la branche conditionnelle en créant deux pages d&apos;évènement. De la même façon, vous pourriez refaire le premier évènement avec une condition au lieu des deux pages.</translation>
     </message>
     <message>
         <source>When images or other conditions need to change, you&apos;ll have to use event pages, but in cases like this you are free to choose.</source>
-        <translation type="unfinished">Quand l'apparence et d'autres paramètres changent, il est pratique de changer de page, mais dans le cas présent, vous êtes libres de choisir.</translation>
+        <translation>Quand l&apos;apparence et d&apos;autres paramètres changent, il est pratique de changer de page, mais dans le cas présent, vous êtes libres de choisir.</translation>
     </message>
     <message>
         <source>Click OK and finish event creation.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make an event where you lose a potion.
 Double click two spaces right of the man (27,22).</source>
-        <translation type="unfinished">Ensuite, nous allons créer un évènement où vous perdez une potion. Double-cliquez deux cases à droite de l'homme (27,22).</translation>
+        <translation>Ensuite, nous allons créer un évènement où vous perdez une potion. Double-cliquez deux cases à droite de l&apos;homme (27,22).</translation>
     </message>
     <message>
         <source>Name it PotionBeggar.</source>
-        <translation type="unfinished">Nommez-le VoleurPotion.</translation>
+        <translation>Nommez-le VoleurPotion.</translation>
     </message>
     <message>
         <source>Click People1.</source>
-        <translation type="unfinished">Cliquez sur People1.</translation>
+        <translation>Cliquez sur People1.</translation>
     </message>
     <message>
         <source>Click the kid facing downward, first in the top row.</source>
-        <translation type="unfinished">Choisissez l'enfant en premier qui regarde vers le bas.</translation>
+        <translation>Choisissez l&apos;enfant en premier qui regarde vers le bas.</translation>
     </message>
     <message>
         <source>Let&apos;s enter the content.
 Double click the first line.</source>
-        <translation type="unfinished">Entrons le contenu. Double-cliquez sur la première ligne.</translation>
+        <translation>Entrons le contenu. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Enter: &quot;Gimme a potion!&quot;
  Now we&apos;ll enter the process that will forcibly take a potion from the player.</source>
-        <translation type="unfinished">Ecrivez "Donne-moi une potion !"</translation>
+        <translation>Ecrivez &quot;Donne-moi une potion !&quot;</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Check that the Item is &quot;Potion&quot; and that the Operand is &quot;Constant&quot; at &quot;1&quot;.
 Click &quot;Decrease&quot; as the Operation.</source>
-        <translation type="unfinished">Vérifiez</translation>
+        <translation>Vérifiez</translation>
     </message>
     <message>
         <source>Now the process for losing a potion has been made.
 If you don&apos;t have one, nothing will happen.</source>
-        <translation type="unfinished">La perte de potion a été programmée. Si le joueur n'en possède pas, il ne se passera rien.</translation>
+        <translation>La perte de potion a été programmée. Si le joueur n&apos;en possède pas, il ne se passera rien.</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now event creation is complete.
 Please save your work up until now.</source>
-        <translation type="unfinished">L'évènement est terminé. Vous pouvez sauvegarder le projet.</translation>
+        <translation>L&apos;évènement est terminé. Vous pouvez sauvegarder le projet.</translation>
     </message>
     <message>
         <source>After you get a potion, it will be lost when you talk to the kid, but PotionWoman won&apos;t give you any more. Keep this in mind and conduct a playtest.</source>
-        <translation type="unfinished">Après avoir gagné la potion, elle sera perdue en parlant à l'enfant, mais la femme n'en donnera pas d'autre. Gardez cela en tête et testez le jeu.</translation>
+        <translation>Après avoir gagné la potion, elle sera perdue en parlant à l&apos;enfant, mais la femme n&apos;en donnera pas d&apos;autre. Gardez cela en tête et testez le jeu.</translation>
     </message>
     <message>
         <source>Were you able to fully check everything? Did you open the menu screen and check to see if you had a potion?</source>
-        <translation type="unfinished">Avez-vous pu tout vérifier ? Vous pouvez ouvrir le menu pour voir votre potion.</translation>
+        <translation>Avez-vous pu tout vérifier ? Vous pouvez ouvrir le menu pour voir votre potion.</translation>
     </message>
     <message>
         <source>Will you test again to check other conditions?</source>
-        <translation type="unfinished">Souhaitez-vous testez une nouvelle fois pour vérifier d'autres conditions ?</translation>
+        <translation>Souhaitez-vous testez une nouvelle fois pour vérifier d&apos;autres conditions ?</translation>
     </message>
     <message>
         <source>Well done. Now we&apos;ll move onto the next step (part 2).</source>
-        <translation type="unfinished">Bien joué. Nous allons passer à la prochaine étape (partie 2).</translation>
+        <translation>Bien joué. Nous allons passer à la prochaine étape (partie 2).</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep6</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 5?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 5 ?</translation>
     </message>
     <message>
         <source>Loading the step 5 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 5.</translation>
     </message>
     <message>
         <source>Please select the step 5 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 5. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step, we&apos;ll change up the previous step and learn more about conditional branching.</source>
-        <translation type="unfinished">Dans cette étape, nous allons modifier les créations de l'étape précédente pour en apprendre plus sur les conditions.</translation>
+        <translation>Dans cette étape, nous allons modifier les créations de l&apos;étape précédente pour en apprendre plus sur les conditions.</translation>
     </message>
     <message>
         <source>In Step 5 we used a switch to determine if conditions were met.
 However, it&apos;s also possible to determine if the player has a potion or not without using switches.
 Let&apos;s try it for ourselves.</source>
-        <translation type="unfinished">Dans l'étape 5, nous utilisions un interrupteur pour vérifier les conditions. Cependant, nous pouvons savoir si le joueur possède une potion ou non sans utiliser d'interrupteur. Essayons cela.</translation>
+        <translation>Dans l&apos;étape 5, nous utilisions un interrupteur pour vérifier les conditions. Cependant, nous pouvons savoir si le joueur possède une potion ou non sans utiliser d&apos;interrupteur. Essayons cela.</translation>
     </message>
     <message>
         <source>Double click PotionWoman (23,22).</source>
-        <translation type="unfinished">Double-cliquez sur FemmePotion (23,22).</translation>
+        <translation>Double-cliquez sur FemmePotion (23,22).</translation>
     </message>
     <message>
         <source>Open page 2.</source>
-        <translation type="unfinished">Ouvrez la page 2.</translation>
+        <translation>Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>We&apos;re going to change the appearance condition from Switch to Item.
 Remove the check from Switch.</source>
-        <translation type="unfinished">Nous allons changer cette condition d'Interrupeur à Objet. Décochez Interrupteur.</translation>
+        <translation>Nous allons changer cette condition d&apos;Interrupeur à Objet. Décochez Interrupteur.</translation>
     </message>
     <message>
         <source>Check off Item.</source>
-        <translation type="unfinished">Cochez Objet.</translation>
+        <translation>Cochez Objet.</translation>
     </message>
     <message>
         <source>Make sure it is set to &quot;Potion&quot;.
 It will be fulfilled when you have the item in question.</source>
-        <translation type="unfinished">Assurez-vous que ce soit réglé sur la Potion. La page sera valide tant que vous aurez l'objet.</translation>
+        <translation>Assurez-vous que ce soit réglé sur la Potion. La page sera valide tant que vous aurez l&apos;objet.</translation>
     </message>
     <message>
         <source>Open page 1.</source>
-        <translation type="unfinished">Ouvrez la page 1.</translation>
+        <translation>Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Now we no longer need the &quot;Control Switch&quot;, so we&apos;ll delete it.
 This can be done by right clicking and selecting &quot;Delete&quot;.</source>
-        <translation type="unfinished">Nous n'avons plus besoin de "Modifier un interrupteur..." donc nous allons le supprimer. Cliquez-droit et choisissez Supprimer.</translation>
+        <translation>Nous n&apos;avons plus besoin de &quot;Modifier un interrupteur...&quot; donc nous allons le supprimer. Cliquez-droit et choisissez Supprimer.</translation>
     </message>
     <message>
         <source>Now we&apos;ve set her to give you a potion any time that you don&apos;t have one.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Maintenant, la femme donnera une potion lorsque vous n'en avez aucune.</translation>
+        <translation>Maintenant, la femme donnera une potion lorsque vous n&apos;en avez aucune.</translation>
     </message>
     <message>
         <source>Next, double click the man who judges whether or not you have a potion (25,22).</source>
-        <translation type="unfinished">Ensuite, double-cliquez sur l'homme qui vérifie si vous avez une potion (25,22).</translation>
+        <translation>Ensuite, double-cliquez sur l&apos;homme qui vérifie si vous avez une potion (25,22).</translation>
     </message>
     <message>
         <source>We&apos;ll change the condition in the conditional branch.
 Right click and select &quot;Edit...&quot;.</source>
-        <translation type="unfinished">Nous allons changer sa branche conditionnelle. Cliquez-droit et choisissez Editer...</translation>
+        <translation>Nous allons changer sa branche conditionnelle. Cliquez-droit et choisissez Editer...</translation>
     </message>
     <message>
         <source>Click the tab for the 4th page and open it.</source>
-        <translation type="unfinished">Ouvrez la page 4.</translation>
+        <translation>Ouvrez la page 4.</translation>
     </message>
     <message>
         <source>Check off &quot;Item&quot;.</source>
-        <translation type="unfinished">Cochez Objet.</translation>
+        <translation>Cochez Objet.</translation>
     </message>
     <message>
         <source>Please make sure that the item is set to &quot;Potion&quot;.</source>
-        <translation type="unfinished">Assurez-vous que la Potion est sélectionnée.</translation>
+        <translation>Assurez-vous que la Potion est sélectionnée.</translation>
     </message>
     <message>
         <source>Click OK and set the changes.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the condition is &quot;the party possesses a potion&quot;.</source>
-        <translation type="unfinished">Maintenant, la condition est "l'équipe possède une potion".</translation>
+        <translation>Maintenant, la condition est &quot;l&apos;équipe possède une potion&quot;.</translation>
     </message>
     <message>
         <source>Now we&apos;re done editing the event.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Nous avons fini de modifier l'évènement. Cliquez sur OK.</translation>
+        <translation>Nous avons fini de modifier l&apos;évènement. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Save your project before running a playtest.</source>
-        <translation type="unfinished">Sauvegardez le projet avant de le tester.</translation>
+        <translation>Sauvegardez le projet avant de le tester.</translation>
     </message>
     <message>
         <source>Run a play test, and check the events.
 Pay attention to whether you can receive another potion
 after getting a potion and losing it by talking to the child.</source>
-        <translation type="unfinished">Lancez un test et remarquez que vous pouvez reprendre une potion après l'avoir perdue.</translation>
+        <translation>Lancez un test et remarquez que vous pouvez reprendre une potion après l&apos;avoir perdue.</translation>
     </message>
     <message>
         <source>Once you&apos;re done with the playtest, there&apos;s some more explanation.</source>
-        <translation type="unfinished">Lorsque vous aurez terminé votre test, nous expliquerons certaines choses.</translation>
+        <translation>Lorsque vous aurez terminé votre test, nous expliquerons certaines choses.</translation>
     </message>
     <message>
         <source>We learned that by making a condition that generates items, we can perform different actions than with a switch. </source>
-        <translation type="unfinished">Nous avons vu qu'en créant une condition qui crée des objets, nous pouvons réaliser des actions différentes qu'avec un interrupteur.</translation>
+        <translation>Nous avons vu qu&apos;en créant une condition qui crée des objets, nous pouvons réaliser des actions différentes qu&apos;avec un interrupteur.</translation>
     </message>
     <message>
         <source>To create a situation where once you get an item you can never get it again, we use switches,
 and for a situation where you can receive the item continually it&apos;s best to branch using items.</source>
-        <translation type="unfinished">Quand on ne doit jamais pouvoir récupérer l'objet une nouvelle fois, on utilise un interrupteur. Quand on peut le recevoir à nouveau, c'est mieux de faire une condition avec l'objet.</translation>
+        <translation>Quand on ne doit jamais pouvoir récupérer l&apos;objet une nouvelle fois, on utilise un interrupteur. Quand on peut le recevoir à nouveau, c&apos;est mieux de faire une condition avec l&apos;objet.</translation>
     </message>
     <message>
         <source>There are still many other conditions you can specify,
 so please try them out for yourself to learn about them.
 But the one you will have the most opportunities to use is the switch.</source>
-        <translation type="unfinished">Il existe un tas d'autres conditions possibles, n'hésitez donc pas à les essayer par vous-même. Celle que vous utiliserez le plus souvent est probablement l'interrupteur.</translation>
+        <translation>Il existe un tas d&apos;autres conditions possibles, n&apos;hésitez donc pas à les essayer par vous-même. Celle que vous utiliserez le plus souvent est probablement l&apos;interrupteur.</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep7</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 6?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 6 ?</translation>
     </message>
     <message>
         <source>Loading the step 6 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 6.</translation>
     </message>
     <message>
         <source>Please select the step 6 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 6. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please wait for loading to finish.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>This time we&apos;re going to learn about self-switches.</source>
-        <translation type="unfinished">Cette fois, nous allons aborder les interrupteurs locaux.</translation>
+        <translation>Cette fois, nous allons aborder les interrupteurs locaux.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished">Cliquez sur Ville normale.</translation>
+        <translation>Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;re going to make 2 events in the grass in the corner, when you go left from the town entrance.
 Scroll along the map until the area is displayed.</source>
-        <translation type="unfinished">Nous allons créer 2 évènements dans l'herbe, à gauche de l'entrée de la ville. Faites défiler la carte jusqu'à cet endroit.</translation>
+        <translation>Nous allons créer 2 évènements dans l&apos;herbe, à gauche de l&apos;entrée de la ville. Faites défiler la carte jusqu&apos;à cet endroit.</translation>
     </message>
     <message>
         <source>First we&apos;ll make a chest in the grass.
 Since the player initially has no money, we&apos;ll make it a treasure chest of money.</source>
-        <translation type="unfinished">Pour commencer, nous allons créer un coffre dans l'herbe, qui contiendra de l'argent.</translation>
+        <translation>Pour commencer, nous allons créer un coffre dans l&apos;herbe, qui contiendra de l&apos;argent.</translation>
     </message>
     <message>
         <source>Let&apos;s place the treasure below the wooden crate (4,31).
 Click on the map and find (4,31).</source>
-        <translation type="unfinished">Localisez la case en bas de la caisse en bois (4,31).</translation>
+        <translation>Localisez la case en bas de la caisse en bois (4,31).</translation>
     </message>
     <message>
         <source>Right click under the wooden crate (4,31)
 and select Quick Event Creation &gt; Treasure...</source>
-        <translation type="unfinished">Cliquez-droit sur (4,31) et créez un évènement rapide de trésor.</translation>
+        <translation>Cliquez-droit sur (4,31) et créez un évènement rapide de trésor.</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Content&quot; is checked off as &quot;Gold&quot;
 and enter 1000 as the amount.</source>
-        <translation type="unfinished">Entrez un gain de 1000 Or.</translation>
+        <translation>Entrez un gain de 1000 Or.</translation>
     </message>
     <message>
         <source>Click OK. A treasure chest will be created.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the treasure chest.</source>
-        <translation type="unfinished">Double-cliquez sur le coffre pour l'examiner.</translation>
+        <translation>Double-cliquez sur le coffre pour l&apos;examiner.</translation>
     </message>
     <message>
         <source>Check for &quot;Control Self Switch: A&quot; in the content list.</source>
-        <translation type="unfinished">Repérez la ligne "Modifier un interrupteur local : A = ON"</translation>
+        <translation>Repérez la ligne &quot;Modifier un interrupteur local : A = ON"</translation>
     </message>
     <message>
         <source>Click the tab to go to page 2.</source>
-        <translation type="unfinished">Ouvrez la page 2.</translation>
+        <translation>Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>You can see from the image that this page is for the chest in an opened state.</source>
-        <translation type="unfinished">Vous pouvez voir que cette page représente le coffre lorsqu'il a été ouvert.</translation>
+        <translation>Vous pouvez voir que cette page représente le coffre lorsqu&apos;il a été ouvert.</translation>
     </message>
     <message>
         <source>Check that the appearance condition is set to &quot;Self Switch A&quot;.</source>
-        <translation type="unfinished">La condition pour que cette page soit valide est que l'interrupteur local A soit activé.</translation>
+        <translation>La condition pour que cette page soit valide est que l&apos;interrupteur local A soit activé.</translation>
     </message>
     <message>
         <source>These settings are similar to the switch settings we learned in Step 5.
 So now to explain how self switches and switches differ.</source>
-        <translation type="unfinished">Cela ressemble beaucoup aux interrupteurs que l'on a vus dans l'étape 5. Alors quelle est la différence entre un interrupteur et un interrupteur local ?</translation>
+        <translation>Cela ressemble beaucoup aux interrupteurs que l&apos;on a vus dans l&apos;étape 5. Alors quelle est la différence entre un interrupteur et un interrupteur local ?</translation>
     </message>
     <message>
         <source>Like switches, self switches can be turned on and off.
 But unlike switches, they cannot be referred to by other events.</source>
-        <translation type="unfinished">Comme les interrupteurs, les interrupteurs locaux peuvent être ON ou OFF. Par contre, ils ne peuvent pas être référencés par d'autres évènements.</translation>
+        <translation>Comme les interrupteurs, les interrupteurs locaux peuvent être ON ou OFF. Par contre, ils ne peuvent pas être référencés par d&apos;autres évènements.</translation>
     </message>
     <message>
         <source>Each event can have self switches from A to D.
 Since they&apos;re unaffected by other events, one benefit is that they&apos;re easy to understand.</source>
-        <translation type="unfinished">Chaque évènement possède des interrupteurs locaus de A à D. Comme ils ne sont pas affectés par les autres évènements, un avantage est qu'ils sont faciles à comprendre.</translation>
+        <translation>Chaque évènement possède des interrupteurs locaus de A à D. Comme ils ne sont pas affectés par les autres évènements, un avantage est qu&apos;ils sont faciles à comprendre.</translation>
     </message>
     <message>
         <source>However, when you need to make references from other events, you will have to use regular switches.</source>
-        <translation type="unfinished">Cependant, si vous avez besoin d'utiliser le même interrupteur à travers plusieurs évènements, alors il faut utiliser un interrupteur normal (appelé aussi interrupteur global).</translation>
+        <translation>Cependant, si vous avez besoin d&apos;utiliser le même interrupteur à travers plusieurs évènements, alors il faut utiliser un interrupteur normal (appelé aussi interrupteur global).</translation>
     </message>
     <message>
         <source>That ends the explanation of self switches.
 Would you like to read the explanation again?</source>
-        <translation type="unfinished">Voulez-vous relire ces explications ?</translation>
+        <translation>Voulez-vous relire ces explications ?</translation>
     </message>
     <message>
         <source>Now, click Cancel.</source>
-        <translation type="unfinished">Maintenant, cliquez sur Annuler.</translation>
+        <translation>Maintenant, cliquez sur Annuler.</translation>
     </message>
     <message>
         <source>We&apos;re going to make an event using self switches. Let&apos;s make it so you get gold if you investigate something sparkling in a patch of grass.</source>
-        <translation type="unfinished">Nous allons créer un évènement utilisant les interrupteurs locaux. Il donnera de l'or quand le joueur observera une étincelle dans l'herbe.</translation>
+        <translation>Nous allons créer un évènement utilisant les interrupteurs locaux. Il donnera de l&apos;or quand le joueur observera une étincelle dans l&apos;herbe.</translation>
     </message>
     <message>
         <source>We&apos;ll make the event so that page 1 is for before you get the gold
 and page 2 is for after you get the gold.</source>
-        <translation type="unfinished">La page 1 de l'évènement sera pour récupérer l'or, et la page 2 pour quand on l'aura déjà récupéré.</translation>
+        <translation>La page 1 de l&apos;évènement sera pour récupérer l&apos;or, et la page 2 pour quand on l&apos;aura déjà récupéré.</translation>
     </message>
     <message>
         <source>Let&apos;s place the gold on (2,33). Double click (2,33).</source>
-        <translation type="unfinished">Double-cliquez sur la case (2,33).</translation>
+        <translation>Double-cliquez sur la case (2,33).</translation>
     </message>
     <message>
         <source>Name the event.
 Type in &quot;Dropped Gold&quot;.</source>
-        <translation type="unfinished">Nommez l'évènement OrTombé.</translation>
+        <translation>Nommez l&apos;évènement OrTombé.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select !Flame from the list.
 It&apos;s near the bottom, so scroll down to find it.</source>
-        <translation type="unfinished">Choisissez !Flame vers le bas de la liste.</translation>
+        <translation>Choisissez !Flame vers le bas de la liste.</translation>
     </message>
     <message>
         <source>Select the topmost sparkle in the bottom half, 5th column from the right.
 We&apos;ll make this animate vertically.</source>
-        <translation type="unfinished">Choisissez la 5ème étincelle en partant de la droite. Nous l'animerons verticalement.</translation>
+        <translation>Choisissez la 5ème étincelle en partant de la droite. Nous l&apos;animerons verticalement.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll get things set up to animate the sparkle.
 Set the Autonomous Movement type to &quot;Custom&quot;.</source>
-        <translation type="unfinished">Paramétrons l'animation de l'étincelle. Passez le Déplacement autonome en Type Personnalisé.</translation>
+        <translation>Paramétrons l&apos;animation de l&apos;étincelle. Passez le Déplacement autonome en Type Personnalisé.</translation>
     </message>
     <message>
         <source>Click &quot;Route...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Trajectoire...</translation>
+        <translation>Cliquez sur Trajectoire...</translation>
     </message>
     <message>
         <source>Set the movement route as follows:
@@ -21106,7 +21105,7 @@ Turn Left
 Turn Right
 Turn Up
 Turn Down</source>
-        <translation type="unfinished">Créez le mouvement suivant :
+        <translation>Créez le mouvement suivant :
 Regarder à gauche
 Regarder à droite
 Regarder en haut
@@ -21115,665 +21114,665 @@ Regarder en bas</translation>
     <message>
         <source>Now we&apos;ve set the light to animate.
 Click OK to set the movement route.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will set the animation speed.
 Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
-        <translation type="unfinished">Passez la fréquence du mouvement à 4: Haute.</translation>
+        <translation>Passez la fréquence du mouvement à 4: Haute.</translation>
     </message>
     <message>
         <source>Change the priority to &quot;Below characters&quot; and make sure the condition for the event to launch is to press the action button.</source>
-        <translation type="unfinished">Changez la priorité d'affichage pour "Sous le héros" et assurez-vous que la condition d'activation est la touche action.</translation>
+        <translation>Changez la priorité d&apos;affichage pour &quot;Sous le héros&quot; et assurez-vous que la condition d&apos;activation est la touche action.</translation>
     </message>
     <message>
         <source>The condition for the event to launch is for the action button to be pressed when the player is standing on the event.</source>
-        <translation type="unfinished">L'évènement se lancera quand le joueur se tiendra dessus et appuiera sur la touche action.</translation>
+        <translation>L&apos;évènement se lancera quand le joueur se tiendra dessus et appuiera sur la touche action.</translation>
     </message>
     <message>
         <source>Next, let&apos;s make the contents.</source>
-        <translation type="unfinished">Passons au contenu.</translation>
+        <translation>Passons au contenu.</translation>
     </message>
     <message>
         <source>Double click the first empty line.</source>
-        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
+        <translation>Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished">Cliquez sur "Modifier un interrupteur local..."</translation>
+        <translation>Cliquez sur &quot;Modifier un interrupteur local...&quot;</translation>
     </message>
     <message>
         <source>Check that the Self Switch is &quot;A&quot; and that Operation is set to &quot;ON&quot;, then click OK.</source>
-        <translation type="unfinished">Assurez-vous que l'interrupteur local est A et que l'opération est ON, puis cliquez sur OK.</translation>
+        <translation>Assurez-vous que l&apos;interrupteur local est A et que l&apos;opération est ON, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">double-cliquez sur la ligne suivante.</translation>
+        <translation>double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Change Gold...&quot;.</source>
-        <translation type="unfinished">Cliquez sur "Modifier l'argent..."</translation>
+        <translation>Cliquez sur &quot;Modifier l&apos;argent...&quot;</translation>
     </message>
     <message>
         <source>Check that the Operation is set to &quot;Increase&quot;, and that the Operand is &quot;Constant&quot;.
 Enter the value as 1000.</source>
-        <translation type="unfinished">Augmentez l'argent de la valeur fixe 1000.</translation>
+        <translation>Augmentez l&apos;argent de la valeur fixe 1000.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the blank line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne vide.</translation>
+        <translation>Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur "Afficher le texte..."</translation>
+        <translation>Cliquez sur &quot;Afficher le texte...&quot;</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Picked up 1000\G in the grass.&quot; \G will be converted into the currency unit.</source>
-        <translation type="unfinished">Ecrivez "Ramassé 1000\G dans l'herbe."
+        <translation>Ecrivez &quot;Ramassé 1000\G dans l&apos;herbe.&quot;
 \G affichera le nom de la monnaie défini dans la base de données.</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make a second page.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished">Ensuite, créons une deuxième page. Cliquez sur Nouvelle page.</translation>
+        <translation>Ensuite, créons une deuxième page. Cliquez sur Nouvelle page.</translation>
     </message>
     <message>
         <source>Make sure you&apos;re on page 2.</source>
-        <translation type="unfinished">Assurez-vous d'être sur la page 2.</translation>
+        <translation>Assurez-vous d&apos;être sur la page 2.</translation>
     </message>
     <message>
         <source>Check &quot;Self Switch&quot; under Conditions.</source>
-        <translation type="unfinished">Cochez "Interrupteur local" dans les Conditions.</translation>
+        <translation>Cochez &quot;Interrupteur local&quot; dans les Conditions.</translation>
     </message>
     <message>
         <source>Make sure that A is selected.
 That&apos;s all for page 2.
 This is because after you get the gold, there&apos;s nothing left.</source>
-        <translation type="unfinished">Assurez-vous que A est sélectionné. C'est tout pour la page 2 ! Après avoir récupéré l'or, il ne reste plus rien.</translation>
+        <translation>Assurez-vous que A est sélectionné. C&apos;est tout pour la page 2 ! Après avoir récupéré l&apos;or, il ne reste plus rien.</translation>
     </message>
     <message>
         <source>Now for a little more explanation.
 Open page 1.</source>
-        <translation type="unfinished">Maintenant, quelques explications s'imposent. Ouvrez la page 1.</translation>
+        <translation>Maintenant, quelques explications s&apos;imposent. Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>The reason the self switch is controlled before the text is displayed
 is so that the image will change to the one on page 2.</source>
-        <translation type="unfinished">Nous contrôlons l'interrupteur local avant que le texte soit affiché, afin que l'apparence change pour celle de la page 2.</translation>
+        <translation>Nous contrôlons l&apos;interrupteur local avant que le texte soit affiché, afin que l&apos;apparence change pour celle de la page 2.</translation>
     </message>
     <message>
         <source>The image will become the image of the relevant page the moment the switch is triggered.
 Basically, even if the content on page 1 is still being executed, this is where only the image is changed to that of page 2.</source>
-        <translation type="unfinished">L'image changera pour celle de la bonne page quand l'interrupteur sera déclenché, mais le contenu de la page 1 continuera à être exécuté.</translation>
+        <translation>L&apos;image changera pour celle de la bonne page quand l&apos;interrupteur sera déclenché, mais le contenu de la page 1 continuera à être exécuté.</translation>
     </message>
     <message>
         <source>Keep in mind this concept of an event that is still executing, while the image of another page is showing.</source>
-        <translation type="unfinished">Gardez en tête ce concept d'un évènement qui s'exécute toujours, pendant que l'image d'une autre page est affichée.</translation>
+        <translation>Gardez en tête ce concept d&apos;un évènement qui s&apos;exécute toujours, pendant que l&apos;image d&apos;une autre page est affichée.</translation>
     </message>
     <message>
         <source>Would you like to read the explanation again?</source>
-        <translation type="unfinished">Voulez-vous lire ces explications à nouveau ?</translation>
+        <translation>Voulez-vous lire ces explications à nouveau ?</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Let&apos;s change the player&apos;s initial position for playtesting.
 Let&apos;s make it (8,33), near the grass.</source>
-        <translation type="unfinished">Changeons la position initale du joueur pour tester le jeu. Disons (8,33), près de l'herbe.</translation>
+        <translation>Changeons la position initale du joueur pour tester le jeu. Disons (8,33), près de l&apos;herbe.</translation>
     </message>
     <message>
         <source>Right click on (8,33),
 and select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished">Cliquez-droit sur (8,33) et changez la position de départ du joueur.</translation>
+        <translation>Cliquez-droit sur (8,33) et changez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished">Sauvegardez le projet.</translation>
+        <translation>Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run a playtest.
 Investigate both events, and check the menu to see if your gold has increased. </source>
-        <translation type="unfinished">Lancez un test. Essayez les deux évènements, et vérifiez dans le menu que votre Or a augmenté.</translation>
+        <translation>Lancez un test. Essayez les deux évènements, et vérifiez dans le menu que votre Or a augmenté.</translation>
     </message>
     <message>
         <source>This is the end of Step 7. Well done.
 We&apos;ll reuse the gold spot later, so don&apos;t forget about it.</source>
-        <translation type="unfinished">C'est la fin de l'étape 7 ! Bien joué.</translation>
+        <translation>C&apos;est la fin de l&apos;étape 7 ! Bien joué.</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep8</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 7?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 7 ?</translation>
     </message>
     <message>
         <source>Loading the step 7 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 7.</translation>
     </message>
     <message>
         <source>Please select the step 7 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 7. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Please hold on while the project finishes loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>In this step we will create an inn and an item shop.</source>
-        <translation type="unfinished">Dans cette étape, nous allons créer une auberge et un magasin.</translation>
+        <translation>Dans cette étape, nous allons créer une auberge et un magasin.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished">Cliquez sur Ville normale.</translation>
+        <translation>Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;ll make the inn the red-roofed building to the left of the town entrance.</source>
-        <translation type="unfinished">Nous allons créer l'auberge dans le bâtiment au toît rouge, à gauche de l'entrée de la ville.</translation>
+        <translation>Nous allons créer l&apos;auberge dans le bâtiment au toît rouge, à gauche de l&apos;entrée de la ville.</translation>
     </message>
     <message>
         <source>As in Step 1, we&apos;ll use a sample map for the interior map of the inn.
 Right click Normal Town and select &quot;Load...&quot;.</source>
-        <translation type="unfinished">Nous utiliserons une carte d'exemple pour cet intérieur. Cliquez droit sur Ville normale, et chargez une carte d'exemple.</translation>
+        <translation>Nous utiliserons une carte d&apos;exemple pour cet intérieur. Cliquez droit sur Ville normale, et chargez une carte d&apos;exemple.</translation>
     </message>
     <message>
         <source>Scroll a bit down the list to find and click &quot;Inn 1F&quot;.</source>
-        <translation type="unfinished">Défilez jusqu'à trouver "Auberge RDC".</translation>
+        <translation>Défilez jusqu&apos;à trouver &quot;Auberge RDC&quot;.</translation>
     </message>
     <message>
         <source>Click OK.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now a map has been created a level under &quot;Normal Town&quot;.
 You can created a layered map structure like this.</source>
-        <translation type="unfinished">Une carte a été crée un niveau en-dessous de "Ville normale". Vous pouvez structurer votre liste ainsi.</translation>
+        <translation>Une carte a été crée un niveau en-dessous de &quot;Ville normale&quot;. Vous pouvez structurer votre liste ainsi.</translation>
     </message>
     <message>
         <source>Next let&apos;s connect the maps.
 Right click the inn&apos;s entrance (10,19)
 and select Quick Event Creation &gt; Transfer.</source>
-        <translation type="unfinished">Connectons les cartes. Cliquez-droit sur l'entrée de l'auberge (10,19) et créez un évènement rapide de téléportation.</translation>
+        <translation>Connectons les cartes. Cliquez-droit sur l&apos;entrée de l&apos;auberge (10,19) et créez un évènement rapide de téléportation.</translation>
     </message>
     <message>
         <source>Click and edit the location.</source>
-        <translation type="unfinished">Changez l'emplacement.</translation>
+        <translation>Changez l&apos;emplacement.</translation>
     </message>
     <message>
         <source>Click just in front of the entrance to the red building on the lower left.</source>
-        <translation type="unfinished">Cliquez juste en face de l'entrée du bâtiment rouge en bas à gauche.</translation>
+        <translation>Cliquez juste en face de l&apos;entrée du bâtiment rouge en bas à gauche.</translation>
     </message>
     <message>
         <source>Click OK and set the location.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Is the location set to Normal Town (10,30)?</source>
-        <translation type="unfinished">L'emplacement est-il réglé sur Ville normale (10,30) ?</translation>
+        <translation>L&apos;emplacement est-il réglé sur Ville normale (10,30) ?</translation>
     </message>
     <message>
         <source>Then let&apos;s redo the location settings.</source>
-        <translation type="unfinished">Alors essayons une nouvelle fois.</translation>
+        <translation>Alors essayons une nouvelle fois.</translation>
     </message>
     <message>
         <source>Click OK. The event will be created.</source>
-        <translation type="unfinished">Cliquez sur OK pour créer l'évènement.</translation>
+        <translation>Cliquez sur OK pour créer l&apos;évènement.</translation>
     </message>
     <message>
         <source>Next we make the entrance from the town to the inn.
 Click Normal Town.</source>
-        <translation type="unfinished">Ensuite, créons le passage de la ville vers l'auberge. Cliquez sur Ville normale.</translation>
+        <translation>Ensuite, créons le passage de la ville vers l&apos;auberge. Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>Find the coordinates (10,29), the entrance to the inn building.</source>
-        <translation type="unfinished">Trouvez les coordonnées (10,29), l'entrée du bâtiment.</translation>
+        <translation>Trouvez les coordonnées (10,29), l&apos;entrée du bâtiment.</translation>
     </message>
     <message>
         <source>Right click (10,29),
 and select Quick Event Creation &gt; Door.</source>
-        <translation type="unfinished">Cliquez-droit sur (10,29) et créez un évènement rapide de porte.</translation>
+        <translation>Cliquez-droit sur (10,29) et créez un évènement rapide de porte.</translation>
     </message>
     <message>
         <source>Let&apos;s set the location. Click.</source>
-        <translation type="unfinished">Changez l'emplacement.</translation>
+        <translation>Changez l&apos;emplacement.</translation>
     </message>
     <message>
         <source>Click Inn 1F.</source>
-        <translation type="unfinished">Cliquez sur Auberge RDC.</translation>
+        <translation>Cliquez sur Auberge RDC.</translation>
     </message>
     <message>
         <source>Click the inn entrance.</source>
-        <translation type="unfinished">Cliquez sur l'entrée de l'auberge.</translation>
+        <translation>Cliquez sur l&apos;entrée de l&apos;auberge.</translation>
     </message>
     <message>
         <source>Make sure the location is (10,19) or beside it and click OK.</source>
-        <translation type="unfinished">Assurez-vous que l'emplacement est (10,19) et cliquez sur OK.</translation>
+        <translation>Assurez-vous que l&apos;emplacement est (10,19) et cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now the town and inn are linked.
 Next is creating the inn sign.
 Click tileset B.</source>
-        <translation type="unfinished">Maintenant, les deux cartes sont liées. Maintenant, nous devrions placer une enseigne. Ouvrez le tileset B.</translation>
+        <translation>Maintenant, les deux cartes sont liées. Maintenant, nous devrions placer une enseigne. Ouvrez le tileset B.</translation>
     </message>
     <message>
         <source>Click the inn sign that says &quot;INN&quot;.
 It&apos;s second from the right in the top row of the tile palette. </source>
-        <translation type="unfinished">Cliquez sur le panneau INN (Auberge en anglais) en haut du tileset.</translation>
+        <translation>Cliquez sur le panneau INN (Auberge en anglais) en haut du tileset.</translation>
     </message>
     <message>
         <source>We&apos;ll switch to map mode.</source>
-        <translation type="unfinished">Passons au mode carte.</translation>
+        <translation>Passons au mode carte.</translation>
     </message>
     <message>
         <source>Click above the inn door and place the sign.</source>
-        <translation type="unfinished">Cliquez au-dessus de la porte pour placer l'enseigne.</translation>
+        <translation>Cliquez au-dessus de la porte pour placer l&apos;enseigne.</translation>
     </message>
     <message>
         <source>Back to event mode.</source>
-        <translation type="unfinished">Revenons au mode des évènements.</translation>
+        <translation>Revenons au mode des évènements.</translation>
     </message>
     <message>
         <source>Next up is the event in the inn. Click Inn 1F.</source>
-        <translation type="unfinished">Nous allons créer l'évènement dans l'auberge. Cliquez sur Auberge RDC.</translation>
+        <translation>Nous allons créer l&apos;évènement dans l&apos;auberge. Cliquez sur Auberge RDC.</translation>
     </message>
     <message>
         <source>First we&apos;ll make an inn event.
 Look for the counter to the right of the entrance (11,10).</source>
-        <translation type="unfinished">Commençons par l'aubergiste. Repérez le comptoir à (11,10).</translation>
+        <translation>Commençons par l&apos;aubergiste. Repérez le comptoir à (11,10).</translation>
     </message>
     <message>
         <source>Right click on (11,10)
 and select
 Quick Event Creation &gt; Inn.</source>
-        <translation type="unfinished">Cliquez-droit sur (11,10) et créez un évènement rapide d'auberge.</translation>
+        <translation>Cliquez-droit sur (11,10) et créez un évènement rapide d&apos;auberge.</translation>
     </message>
     <message>
         <source>This time we won&apos;t change the image or price.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Cette fois nous n'allons rien changer. Cliquez simplement sur OK.</translation>
+        <translation>Cette fois nous n&apos;allons rien changer. Cliquez simplement sur OK.</translation>
     </message>
     <message>
         <source>Now the inn event is complete.
 Next is the item shop.</source>
-        <translation type="unfinished">L'aubergiste est terminée. Ensuite vient le magasin d'objets.</translation>
+        <translation>L&apos;aubergiste est terminée. Ensuite vient le magasin d&apos;objets.</translation>
     </message>
     <message>
         <source>For this, we&apos;ll make a traveling merchant staying at the inn into an item shop.</source>
-        <translation type="unfinished">Pour cela, nous allons créer un marchand ambulant qui reste à l'auberge.</translation>
+        <translation>Pour cela, nous allons créer un marchand ambulant qui reste à l&apos;auberge.</translation>
     </message>
     <message>
         <source>We&apos;ll make the merchant&apos;s coordinates in the guest room (7,7).
 Click to find those coordinates.</source>
-        <translation type="unfinished">Le marchand se situera dans la salle des invités (7,7).</translation>
+        <translation>Le marchand se situera dans la salle des invités (7,7).</translation>
     </message>
     <message>
         <source>Double click the chair above the table, coordinates (7,7).</source>
-        <translation type="unfinished">Double-cliquez sur le tabouret (7,7).</translation>
+        <translation>Double-cliquez sur le tabouret (7,7).</translation>
     </message>
     <message>
         <source>Name the event TravelingMerchant.</source>
-        <translation type="unfinished">Nommez-le MarchandAmbulant.</translation>
+        <translation>Nommez-le MarchandAmbulant.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Let&apos;s pick someone who looks like a merchant.
 Click People3.</source>
-        <translation type="unfinished">Prenons quelqu'un qui ressemble à un marchand. Cliquez sur People3.</translation>
+        <translation>Prenons quelqu&apos;un qui ressemble à un marchand. Cliquez sur People3.</translation>
     </message>
     <message>
         <source>Pick the man facing downward furthest to the left in the bottom row.</source>
-        <translation type="unfinished">Prenez l'homme en bas à gauche.</translation>
+        <translation>Prenez l&apos;homme en bas à gauche.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>For the event content, we&apos;re going to set it so that you can shop after he greets you.
 Double click the first line in &quot;Contents&quot;.</source>
-        <translation type="unfinished">Pour son contenu, nous ferons en sorte de pouvoir commercer après qu'il nous salue.</translation>
+        <translation>Pour son contenu, nous ferons en sorte de pouvoir commercer après qu&apos;il nous salue.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
+        <translation>Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter: &quot;I&apos;m a traveling merchant.
 Please buy something.&quot;</source>
-        <translation type="unfinished">Ecrivez : "Je suis un marchand ambulant. Souhaitez-vous m'acheter quelque chose ?"</translation>
+        <translation>Ecrivez : &quot;Je suis un marchand ambulant. Souhaitez-vous m&apos;acheter quelque chose ?&quot;</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished">Double-cliquez sur la ligne suivante.</translation>
+        <translation>Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the page 3 tab.</source>
-        <translation type="unfinished">Ouvrez la page 3.</translation>
+        <translation>Ouvrez la page 3.</translation>
     </message>
     <message>
         <source>Click &quot;Shop Processing&quot;.</source>
-        <translation type="unfinished">Cliquez sur Ouvrir un magasin...</translation>
+        <translation>Cliquez sur Ouvrir un magasin...</translation>
     </message>
     <message>
         <source>We&apos;re going to add merchandise for sale to this list.
 Double click the first line.
 The merchandise selection window will appear.</source>
-        <translation type="unfinished">Nous allons ajouter des marchandises à cette liste. Double-cliquez sur la première ligne.</translation>
+        <translation>Nous allons ajouter des marchandises à cette liste. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Check that &quot;Item&quot; is checked and set to &quot;Potion&quot;
 and click OK.</source>
-        <translation type="unfinished">Choisissez l'objet Potion et cliquez sur OK.</translation>
+        <translation>Choisissez l&apos;objet Potion et cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make the second item Magic Water.</source>
-        <translation type="unfinished">Le second objet sera un Éther.</translation>
+        <translation>Le second objet sera un Éther.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll make the third item Dispel Herb.</source>
-        <translation type="unfinished">Le troisième objet sera une Herbe miracle.</translation>
+        <translation>Le troisième objet sera une Herbe miracle.</translation>
     </message>
     <message>
         <source>We&apos;ll make the 4th item Stimulant.</source>
-        <translation type="unfinished">Le quatrième objet sera un Stimulant.</translation>
+        <translation>Le quatrième objet sera un Stimulant.</translation>
     </message>
     <message>
         <source>Click OK and set the items.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;re done adding goods to sell.
 Click OK and it will be set.</source>
-        <translation type="unfinished">Nous avons ajouté toutes les marchandises. Cliquez sur OK.</translation>
+        <translation>Nous avons ajouté toutes les marchandises. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>The items and equipment you can select here for the shop
 are registered in a &quot;database&quot;, which will be explained later.</source>
-        <translation type="unfinished">Les objets et les équipements que vous pouvez sélectionner dans le magasin sont définis dans la base de données, que nous verrons plus tard.</translation>
+        <translation>Les objets et les équipements que vous pouvez sélectionner dans le magasin sont définis dans la base de données, que nous verrons plus tard.</translation>
     </message>
     <message>
         <source>The price is also determined by the database
 and when the player sells items, they will be bought for half their value.
 If the price is zero, the merchant will not buy the item.</source>
-        <translation type="unfinished">Le prix est aussi déterminé par la base de données, et quand le joueur vend un objet, il récupère la moitié de sa valeur. Si le prix est 0, le marchand ne pourra jamais racheter l'objet.</translation>
+        <translation>Le prix est aussi déterminé par la base de données, et quand le joueur vend un objet, il récupère la moitié de sa valeur. Si le prix est 0, le marchand ne pourra jamais racheter l&apos;objet.</translation>
     </message>
     <message>
         <source>That&apos;s it for this explanation. We can get back to work.</source>
-        <translation type="unfinished">C'est tout pour ces explications ! Nous pouvons nous remettre au travail.</translation>
+        <translation>C&apos;est tout pour ces explications ! Nous pouvons nous remettre au travail.</translation>
     </message>
     <message>
         <source>Lastly, let&apos;s make a message for after the player is done shopping.
 Double click the next line.</source>
-        <translation type="unfinished">Pour finir, affichons un message quand le joueur a fini ses emplettes. Double-cliquez sur la ligne suivante.</translation>
+        <translation>Pour finir, affichons un message quand le joueur a fini ses emplettes. Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click the tab to go to page 1.</source>
-        <translation type="unfinished">Ouvrez la page 1.</translation>
+        <translation>Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>Enter: &quot;Thank you.
 Come by again sometime.&quot;</source>
-        <translation type="unfinished">Ecrivez : "Merci. A bientôt !"</translation>
+        <translation>Ecrivez : &quot;Merci. A bientôt !&quot;</translation>
     </message>
     <message>
         <source>Now the traveling merchant event is complete.
 Click OK and it will be set.</source>
-        <translation type="unfinished">L'évènement du marchand est terminé. Cliquez sur OK.</translation>
+        <translation>L&apos;évènement du marchand est terminé. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now our inn and item shop are finished.
 Save the project.</source>
-        <translation type="unfinished">Notre auberge et notre magasin sont terminés. Sauvegardez le projet.</translation>
+        <translation>Notre auberge et notre magasin sont terminés. Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Now let&apos;s run a playtest.
 Since your starting gold will be zero, test it out after you get the gold from the chest and grass patch we made in the last step.</source>
-        <translation type="unfinished">Maintenant, testez le jeu. Comme vous n'avez pas d'or au début du jeu, récupérez-en dans l'herbe près du bâtiment.</translation>
+        <translation>Maintenant, testez le jeu. Comme vous n&apos;avez pas d&apos;or au début du jeu, récupérez-en dans l&apos;herbe près du bâtiment.</translation>
     </message>
     <message>
         <source>Well done. This is the end of Step 8.</source>
-        <translation type="unfinished">Bien joué ! C'est la fin de l'étape 8.</translation>
+        <translation>Bien joué ! C&apos;est la fin de l&apos;étape 8.</translation>
     </message>
 </context>
 <context>
     <name>TutorialStep9</name>
     <message>
         <source>WARNING: During a tutorial, if you execute a command other than the one the tutorial indicates to, you can go to the %1/%2 to stop the current tutorial and start over.</source>
-        <translation type="unfinished">ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
+        <translation>ATTENTION : Pendant un tutoriel, si vous exécutez une autre commande que celle indiquée, vous pouvez aller dans le menu Aide pour arrêter le tutoriel et recommencer.</translation>
     </message>
     <message>
         <source>Do you have the project we finished in step 8?</source>
-        <translation type="unfinished"></translation>
+        <translation>Avez-vous le projet terminé à l&apos;étape 8 ?</translation>
     </message>
     <message>
         <source>Loading the step 8 project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du projet de l&apos;étape 8.</translation>
     </message>
     <message>
         <source>Please select the step 8 project.
 Projects are in the Games folder in My Documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le projet de l&apos;étape 8. Les projets sont dans le dossier RPGMV des Documents.</translation>
     </message>
     <message>
         <source>Project loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projet chargé.</translation>
     </message>
     <message>
         <source>Now we will load the data required to start this step.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons charger les données requises pour commencer cette étape.</translation>
     </message>
     <message>
         <source>Click New Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur Nouveau projet.</translation>
     </message>
     <message>
         <source>Input the project name and game title, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nom du projet puis cliquez sur OK.</translation>
     </message>
     <message>
-        <source>Please hold on while the project loads.</source>
-        <translation type="unfinished"></translation>
+        <source>Please hold on while the project finishes loading.</source>
+        <translation>Patientez pendant la création du projet.</translation>
     </message>
     <message>
         <source>New project created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau projet créé.</translation>
     </message>
     <message>
         <source>Now we will start the tutorial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous allons maintenant commencer le tutoriel.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll take several steps and using event commands,
 create a somewhat elaborate setup.</source>
-        <translation type="unfinished">Au cours des prochaines étapes, nous utiliserons les évènements pour créer des scènes plus élaborées.</translation>
+        <translation>Au cours des prochaines étapes, nous utiliserons les évènements pour créer des scènes plus élaborées.</translation>
     </message>
     <message>
         <source>In this step we&apos;re going to make a noticeboard in the town.</source>
-        <translation type="unfinished">Dans cette étape, nous allons créer un panneau d'affichage dans la ville.</translation>
+        <translation>Dans cette étape, nous allons créer un panneau d&apos;affichage dans la ville.</translation>
     </message>
     <message>
         <source>Select &quot;Normal Town&quot; from the map tree.</source>
-        <translation type="unfinished">Sélectionnez la Ville normale dans la liste des cartes.</translation>
+        <translation>Sélectionnez la Ville normale dans la liste des cartes.</translation>
     </message>
     <message>
         <source>The position is going to be on the upper left side of the first intersection from the town entrance, to the right of the barrel, coordinates (17,31).</source>
-        <translation type="unfinished">La position sera en haut à gauche de la première intersection depuis l'entrée de la ville, à droite du baril, aux coordonnées (17,31).</translation>
+        <translation>La position sera en haut à gauche de la première intersection depuis l&apos;entrée de la ville, à droite du baril, aux coordonnées (17,31).</translation>
     </message>
     <message>
         <source>Double click coordinates (17,31).</source>
-        <translation type="unfinished">Double-cliquez sur (17,31).</translation>
+        <translation>Double-cliquez sur (17,31).</translation>
     </message>
     <message>
         <source>Enter &quot;Noticeboard&quot; as the event name.</source>
-        <translation type="unfinished">Nommez l'évènement "Panneau".</translation>
+        <translation>Nommez l&apos;évènement &quot;Panneau&quot;.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
+        <translation>Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select Tileset B, second from the bottom of the list.</source>
-        <translation type="unfinished">Choisissez Tileset B en bas de la liste.</translation>
+        <translation>Choisissez Tileset B en bas de la liste.</translation>
     </message>
     <message>
         <source>Click the tile with the noticeboard.</source>
-        <translation type="unfinished">Cliquez sur le tile avec le panneau d'affichage.</translation>
+        <translation>Cliquez sur le tile avec le panneau d&apos;affichage.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>This way we can also set tiles on the layers above the event image (B-E).</source>
-        <translation type="unfinished">De cette façon, nous pouvons aussi placer des tiles sur les couches au-dessus de l'image de l'évènement (B-E).</translation>
+        <translation>De cette façon, nous pouvons aussi placer des tiles sur les couches au-dessus de l&apos;image de l&apos;évènement (B-E).</translation>
     </message>
     <message>
         <source>Set the priority to &quot;Same as characters&quot;.</source>
-        <translation type="unfinished">Passez la priorité à "Même que les personnages".</translation>
+        <translation>Passez la priorité à &quot;Même que les personnages&quot;.</translation>
     </message>
     <message>
         <source>Next we&apos;ll set up the content. Double click the first line.</source>
-        <translation type="unfinished">Passons au contenu. Double-cliquez sur la première ligne.</translation>
+        <translation>Passons au contenu. Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>First we want to determine which way the character is facing when they investigate the board. Click &quot;Conditional Branch...&quot;</source>
-        <translation type="unfinished">D'abord, nous souhaitons déterminer dans quelle direction le joueur regarde quand il interagit. Cliquez sur Condition...</translation>
+        <translation>D&apos;abord, nous souhaitons déterminer dans quelle direction le joueur regarde quand il interagit. Cliquez sur Condition...</translation>
     </message>
     <message>
         <source>What we want to know for branching is which way the player is facing.
 Click the page 3 tab.</source>
-        <translation type="unfinished">Pour vérifier la direction du joueur, rendez-vous sur la page 3.</translation>
+        <translation>Pour vérifier la direction du joueur, rendez-vous sur la page 3.</translation>
     </message>
     <message>
         <source>Check off &quot;Character&quot;.</source>
-        <translation type="unfinished">Cochez "L'évènement".</translation>
+        <translation>Cochez &quot;L&apos;évènement&quot;.</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Player&quot; is facing &quot;Down&quot;.</source>
-        <translation type="unfinished">Assurez-vous que le Joueur regarde vers le bas.</translation>
+        <translation>Assurez-vous que le Joueur regarde vers le bas.</translation>
     </message>
     <message>
         <source>Check off &quot;Create Else Branch&quot;.</source>
-        <translation type="unfinished">Cochez "Exécuter autre chose si la condition n'est pas remplie".</translation>
+        <translation>Cochez &quot;Exécuter autre chose si la condition n&apos;est pas remplie&quot;.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Since you can&apos;t read a noticeboard from the back, we&apos;ll set it up so that it can&apos;t be read when the player is facing down, but it will be read in all other cases.</source>
-        <translation type="unfinished">Comme vous ne pouvez pas lire un panneau depuis derrière, nous allons l'empêcher d'être lu quand le joueur regarde en bas.</translation>
+        <translation>Comme vous ne pouvez pas lire un panneau depuis derrière, nous allons l&apos;empêcher d&apos;être lu quand le joueur regarde en bas.</translation>
     </message>
     <message>
         <source>Double click the blank line under &quot;Else&quot;,</source>
-        <translation type="unfinished">Double-cliquez sur la ligne vide sous "Sinon".</translation>
+        <translation>Double-cliquez sur la ligne vide sous &quot;Sinon&quot;.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished">Cliquez sur Afficher le texte...</translation>
+        <translation>Cliquez sur Afficher le texte...</translation>
     </message>
     <message>
         <source>Enter:
 &quot;\&gt;Someone, get rid of the monsters in the eastern cave.&quot;</source>
-        <translation type="unfinished">Ecrivez : "\&gt;S'il vous plaît, débarrassez-nous des monstres dans la grotte à l'est."</translation>
+        <translation>Ecrivez : &quot;\&gt;S&apos;il vous plaît, débarrassez-nous des monstres dans la grotte à l&apos;est.&quot;</translation>
     </message>
     <message>
         <source>\&gt; is a control character that will instantly display all the text of the line. This is appropriate for the text display on a noticeboard.</source>
-        <translation type="unfinished">\&gt; est une commande pour afficher instantanément le texte sur cette ligne. C'est approprié à l'affichage du texte d'un panneau.</translation>
+        <translation>\&gt; est une commande pour afficher instantanément le texte sur cette ligne. C&apos;est approprié à l&apos;affichage du texte d&apos;un panneau.</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished">Cliquez sur OK.</translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next, we&apos;ll enter the text for when the noticeboard is read from behind. Double click the line under &quot;If: Player is facing Down&quot;.</source>
-        <translation type="unfinished">Maintenant, entrons le texte qui sera affiché lorsque le panneau est lu depuis l'arrière. Double-cliquez sur la ligne sous "Si : Joueur regarde Bas".</translation>
+        <translation>Maintenant, entrons le texte qui sera affiché lorsque le panneau est lu depuis l&apos;arrière. Double-cliquez sur la ligne sous &quot;Si : Joueur regarde Bas&quot;.</translation>
     </message>
     <message>
         <source>Enter:
 &quot;\&gt;You can&apos;t read it from the back.&quot;</source>
-        <translation type="unfinished">Ecrivez : "\&gt;Vous ne pouvez pas le lire depuis l'arrière."</translation>
+        <translation>Ecrivez : &quot;\&gt;Vous ne pouvez pas le lire depuis l&apos;arrière.&quot;</translation>
     </message>
     <message>
         <source>Now we&apos;re done creating the noticeboard event.
 Click OK and set the event.</source>
-        <translation type="unfinished">Nous avons terminé la création de ce panneau. Cliquez sur OK.</translation>
+        <translation>Nous avons terminé la création de ce panneau. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now let&apos;s run a playtest.
 First, save the project.</source>
-        <translation type="unfinished">Maintenant, testons le jeu. D'abord, sauvegardez le projet.</translation>
+        <translation>Maintenant, testons le jeu. D&apos;abord, sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Start your playtest,
 and read the noticeboard from the top, sides, and bottom.</source>
-        <translation type="unfinished">Lancez le test, et lisez le panneau depuis les différentes directions.</translation>
+        <translation>Lancez le test, et lisez le panneau depuis les différentes directions.</translation>
     </message>
     <message>
         <source>When you&apos;re done, there will be a short explanation.</source>
-        <translation type="unfinished">Lorsque vous aurez terminé, il y aura une courte explication.</translation>
+        <translation>Lorsque vous aurez terminé, il y aura une courte explication.</translation>
     </message>
     <message>
         <source>We&apos;ve set up a noticeboard as the event image,
 but you can place the noticeboard on the map, and then place
 an event with no image above that as well.</source>
-        <translation type="unfinished">Nous avons configuré un panneau comme image de l'évènement, mais vous pourriez aussi dessiner le panneau sur la carte, puis placer un évènement sans image dessus.</translation>
+        <translation>Nous avons configuré un panneau comme image de l&apos;évènement, mais vous pourriez aussi dessiner le panneau sur la carte, puis placer un évènement sans image dessus.</translation>
     </message>
     <message>
         <source>A noticeboard event has various applications.
 That&apos;s the end of the explanation of Step 9.</source>
 </message>
-<translation type="unfinished">C'est la fin de l'étape 9 !</translation>
+<translation>C&apos;est la fin de l&apos;étape 9 !</translation>
 </context>
 </TS>
