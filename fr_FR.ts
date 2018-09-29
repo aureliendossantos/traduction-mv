@@ -20972,133 +20972,133 @@ Projects are in the Games folder in My Documents.</source>
     </message>
     <message>
         <source>This time we&apos;re going to learn about self-switches.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cette fois, nous allons aborder les interrupteurs locaux.</translation>
     </message>
     <message>
         <source>Click Normal Town.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Ville normale.</translation>
     </message>
     <message>
         <source>We&apos;re going to make 2 events in the grass in the corner, when you go left from the town entrance.
 Scroll along the map until the area is displayed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons créer 2 évènements dans l'herbe, à gauche de l'entrée de la ville. Faites défiler la carte jusqu'à cet endroit.</translation>
     </message>
     <message>
         <source>First we&apos;ll make a chest in the grass.
 Since the player initially has no money, we&apos;ll make it a treasure chest of money.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour commencer, nous allons créer un coffre dans l'herbe, qui contiendra de l'argent.</translation>
     </message>
     <message>
         <source>Let&apos;s place the treasure below the wooden crate (4,31).
 Click on the map and find (4,31).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Localisez la case en bas de la caisse en bois (4,31).</translation>
     </message>
     <message>
         <source>Right click under the wooden crate (4,31)
 and select Quick Event Creation &gt; Treasure...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez-droit sur (4,31) et créez un évènement rapide de trésor.</translation>
     </message>
     <message>
         <source>Make sure that the &quot;Content&quot; is checked off as &quot;Gold&quot;
 and enter 1000 as the amount.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrez un gain de 1000 Or.</translation>
     </message>
     <message>
         <source>Click OK. A treasure chest will be created.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the treasure chest.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur le coffre pour l'examiner.</translation>
     </message>
     <message>
         <source>Check for &quot;Control Self Switch: A&quot; in the content list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Repérez la ligne "Modifier un interrupteur local : A = ON"</translation>
     </message>
     <message>
         <source>Click the tab to go to page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez la page 2.</translation>
     </message>
     <message>
         <source>You can see from the image that this page is for the chest in an opened state.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous pouvez voir que cette page représente le coffre lorsqu'il a été ouvert.</translation>
     </message>
     <message>
         <source>Check that the appearance condition is set to &quot;Self Switch A&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La condition pour que cette page soit valide est que l'interrupteur local A soit activé.</translation>
     </message>
     <message>
         <source>These settings are similar to the switch settings we learned in Step 5.
 So now to explain how self switches and switches differ.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cela ressemble beaucoup aux interrupteurs que l'on a vus dans l'étape 5. Alors quelle est la différence entre un interrupteur et un interrupteur local ?</translation>
     </message>
     <message>
         <source>Like switches, self switches can be turned on and off.
 But unlike switches, they cannot be referred to by other events.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comme les interrupteurs, les interrupteurs locaux peuvent être ON ou OFF. Par contre, ils ne peuvent pas être référencés par d'autres évènements.</translation>
     </message>
     <message>
         <source>Each event can have self switches from A to D.
 Since they&apos;re unaffected by other events, one benefit is that they&apos;re easy to understand.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chaque évènement possède des interrupteurs locaus de A à D. Comme ils ne sont pas affectés par les autres évènements, un avantage est qu'ils sont faciles à comprendre.</translation>
     </message>
     <message>
         <source>However, when you need to make references from other events, you will have to use regular switches.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cependant, si vous avez besoin d'utiliser le même interrupteur à travers plusieurs évènements, alors il faut utiliser un interrupteur normal (appelé aussi interrupteur global).</translation>
     </message>
     <message>
         <source>That ends the explanation of self switches.
 Would you like to read the explanation again?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voulez-vous relire ces explications ?</translation>
     </message>
     <message>
         <source>Now, click Cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, cliquez sur Annuler.</translation>
     </message>
     <message>
         <source>We&apos;re going to make an event using self switches. Let&apos;s make it so you get gold if you investigate something sparkling in a patch of grass.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous allons créer un évènement utilisant les interrupteurs locaux. Il donnera de l'or quand le joueur observera une étincelle dans l'herbe.</translation>
     </message>
     <message>
         <source>We&apos;ll make the event so that page 1 is for before you get the gold
 and page 2 is for after you get the gold.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La page 1 de l'évènement sera pour récupérer l'or, et la page 2 pour quand on l'aura déjà récupéré.</translation>
     </message>
     <message>
         <source>Let&apos;s place the gold on (2,33). Double click (2,33).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la case (2,33).</translation>
     </message>
     <message>
         <source>Name the event.
 Type in &quot;Dropped Gold&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nommez l'évènement OrTombé.</translation>
     </message>
     <message>
         <source>Double click Image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur Apparence.</translation>
     </message>
     <message>
         <source>Select !Flame from the list.
 It&apos;s near the bottom, so scroll down to find it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez !Flame vers le bas de la liste.</translation>
     </message>
     <message>
         <source>Select the topmost sparkle in the bottom half, 5th column from the right.
 We&apos;ll make this animate vertically.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisissez la 5ème étincelle en partant de la droite. Nous l'animerons verticalement.</translation>
     </message>
     <message>
         <source>Click OK and set the image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We&apos;ll get things set up to animate the sparkle.
 Set the Autonomous Movement type to &quot;Custom&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paramétrons l'animation de l'étincelle. Passez le Déplacement autonome en Type Personnalisé.</translation>
     </message>
     <message>
         <source>Click &quot;Route...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur Trajectoire...</translation>
     </message>
     <message>
         <source>Set the movement route as follows:
@@ -21106,145 +21106,150 @@ Turn Left
 Turn Right
 Turn Up
 Turn Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Créez le mouvement suivant :
+Regarder à gauche
+Regarder à droite
+Regarder en haut
+Regarder en bas</translation>
     </message>
     <message>
         <source>Now we&apos;ve set the light to animate.
 Click OK to set the movement route.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>We will set the animation speed.
 Set the autonomous movement frequency to &quot;4: Higher&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passez la fréquence du mouvement à 4: Haute.</translation>
     </message>
     <message>
         <source>Change the priority to &quot;Below characters&quot; and make sure the condition for the event to launch is to press the action button.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changez la priorité d'affichage pour "Sous le héros" et assurez-vous que la condition d'activation est la touche action.</translation>
     </message>
     <message>
         <source>The condition for the event to launch is for the action button to be pressed when the player is standing on the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'évènement se lancera quand le joueur se tiendra dessus et appuiera sur la touche action.</translation>
     </message>
     <message>
         <source>Next, let&apos;s make the contents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Passons au contenu.</translation>
     </message>
     <message>
         <source>Double click the first empty line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la première ligne.</translation>
     </message>
     <message>
         <source>Click &quot;Control Self Switch...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur "Modifier un interrupteur local..."</translation>
     </message>
     <message>
         <source>Check that the Self Switch is &quot;A&quot; and that Operation is set to &quot;ON&quot;, then click OK.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que l'interrupteur local est A et que l'opération est ON, puis cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the next line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Change Gold...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur "Modifier l'argent..."</translation>
     </message>
     <message>
         <source>Check that the Operation is set to &quot;Increase&quot;, and that the Operand is &quot;Constant&quot;.
 Enter the value as 1000.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Augmentez l'argent de la valeur fixe 1000.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Double click the blank line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Double-cliquez sur la ligne vide.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur "Afficher le texte..."</translation>
     </message>
     <message>
         <source>Enter:
 &quot;Picked up 1000\G in the grass.&quot; \G will be converted into the currency unit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecrivez "Ramassé 1000\G dans l'herbe."
+\G affichera le nom de la monnaie défini dans la base de données.</translation>
     </message>
     <message>
         <source>Click OK to set the text.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Next we&apos;ll make a second page.
 Click &quot;New Event Page&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensuite, créons une deuxième page. Cliquez sur Nouvelle page.</translation>
     </message>
     <message>
         <source>Make sure you&apos;re on page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous d'être sur la page 2.</translation>
     </message>
     <message>
         <source>Check &quot;Self Switch&quot; under Conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cochez "Interrupteur local" dans les Conditions.</translation>
     </message>
     <message>
         <source>Make sure that A is selected.
 That&apos;s all for page 2.
 This is because after you get the gold, there&apos;s nothing left.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Assurez-vous que A est sélectionné. C'est tout pour la page 2 ! Après avoir récupéré l'or, il ne reste plus rien.</translation>
     </message>
     <message>
         <source>Now for a little more explanation.
 Open page 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maintenant, quelques explications s'imposent. Ouvrez la page 1.</translation>
     </message>
     <message>
         <source>The reason the self switch is controlled before the text is displayed
 is so that the image will change to the one on page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nous contrôlons l'interrupteur local avant que le texte soit affiché, afin que l'apparence change pour celle de la page 2.</translation>
     </message>
     <message>
         <source>The image will become the image of the relevant page the moment the switch is triggered.
 Basically, even if the content on page 1 is still being executed, this is where only the image is changed to that of page 2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'image changera pour celle de la bonne page quand l'interrupteur sera déclenché, mais le contenu de la page 1 continuera à être exécuté.</translation>
     </message>
     <message>
         <source>Keep in mind this concept of an event that is still executing, while the image of another page is showing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gardez en tête ce concept d'un évènement qui s'exécute toujours, pendant que l'image d'une autre page est affichée.</translation>
     </message>
     <message>
         <source>Would you like to read the explanation again?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voulez-vous lire ces explications à nouveau ?</translation>
     </message>
     <message>
         <source>Click OK and set the event.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Let&apos;s change the player&apos;s initial position for playtesting.
 Let&apos;s make it (8,33), near the grass.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Changeons la position initale du joueur pour tester le jeu. Disons (8,33), près de l'herbe.</translation>
     </message>
     <message>
         <source>Right click on (8,33),
 and select Set Starting Position &gt; Player.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cliquez-droit sur (8,33) et changez la position de départ du joueur.</translation>
     </message>
     <message>
         <source>Save the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sauvegardez le projet.</translation>
     </message>
     <message>
         <source>Run a playtest.
 Investigate both events, and check the menu to see if your gold has increased. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lancez un test. Essayez les deux évènements, et vérifiez dans le menu que votre Or a augmenté.</translation>
     </message>
     <message>
         <source>This is the end of Step 7. Well done.
 We&apos;ll reuse the gold spot later, so don&apos;t forget about it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">C'est la fin de l'étape 7 ! Bien joué.</translation>
     </message>
 </context>
 <context>
