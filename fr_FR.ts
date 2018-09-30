@@ -17293,7 +17293,7 @@ Click &quot;Change State...&quot;.</source>
 No other negative states will be dealt with in this tutorial, so this is enough.
 Click OK and it will be set.</source>
         <translation>L&apos;état KO va maintenant être retiré de l&apos;équipe entière.
-Nous ne traiteront aucun autre état négatif dans ce tutoriel. Cliquez sur OK.</translation>
+Nous ne traiterons aucun autre état négatif dans ce tutoriel. Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Click &quot;Change HP...&quot;.</source>
@@ -17301,7 +17301,7 @@ Nous ne traiteront aucun autre état négatif dans ce tutoriel. Cliquez sur OK.<
     </message>
     <message>
         <source>Make sure that the Actor is set to &quot;Entire Party&quot; and that the Operation is &quot;Increase&quot;, and then enter 9999 as the constant.</source>
-        <translation>Vérifiez que la cible soit l&apos;équipe entière et que l&apos;opération soit &quot;Augmenter&quot;, puis entrer la valeur fixe 9999.</translation>
+        <translation>Vérifiez que la cible soit l&apos;équipe entière et que l&apos;opération soit &quot;Augmenter&quot;, puis entrez la valeur fixe 9999.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
@@ -17315,16 +17315,16 @@ Nous ne traiteront aucun autre état négatif dans ce tutoriel. Cliquez sur OK.<
         <source>Next, we will make it ask about saving.
 Double click the next line.</source>
         <translation>Au tour de la sauvegarde !
-Double-cliques sur la ligne suivante.</translation>
+Double-cliquez sur la ligne suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Text...&quot;.</source>
         <translation>Cliquez sur &quot;Afficher un texte..;&quot;.</translation>
     </message>
     <message>
-        <source>Écrivez &quot;Voulez-vous sauvegarder ?&quot;.
+        <source>Enter Do you want to save? 
 </source>
-        <translation></translation>
+        <translation>Écrivez &quot;Voulez-vous sauvegarder ?&quot;.</translation>
     </message>
     <message>
         <source>Click OK and set the text.</source>
@@ -19739,90 +19739,100 @@ Cliquez sur OK pour valider le texte.</translation>
     <message>
         <source>Next, we&apos;ll show choices.
 Double click the next empty line after the text.</source>
-        <translation></translation>
+        <translation>Voyons maintenant les choix.
+Double-cliquez sur la ligne vierge après le texte.</translation>
     </message>
     <message>
         <source>First, we&apos;ll open &quot;Show Text...&quot; once more to write a question.</source>
-        <translation></translation>
+        <translation>Tout d&apos;abord, cliquez sur &quot;Afficher texte...&quot; pour écrire une question.</translation>
     </message>
     <message>
         <source>Input the question text:
  something like &quot;Please get rid of the beasts in the neighboring cave.&quot;
 will do.</source>
-        <translation></translation>
+        <translation>Écrivez votre question. Quelque chose comme :
+Pitié, débarrassez-nous des monstres dans la grotte
+au bord du village !</translation>
     </message>
     <message>
         <source>When you&apos;re done entering the text, click OK to confirm.</source>
-        <translation></translation>
+        <translation>Une fois que vous avez terminé, cliquez sur OK pour confirmer.</translation>
     </message>
     <message>
         <source>Double click the lowest empty line in &quot;Contents&quot;.</source>
-        <translation></translation>
+        <translation>Double-cliquez sur la ligne vierge suivante.</translation>
     </message>
     <message>
         <source>Click &quot;Show Choices...&quot;.</source>
-        <translation></translation>
+        <translation>Cliquez sur &quot;Afficher choix...&quot;.</translation>
     </message>
     <message>
         <source>You can choose up to 6 choices, but this time we will make them just &quot;Yes&quot; and &quot;No&quot;. There are other options, but they&apos;re fine as-is for now.</source>
-        <translation></translation>
+        <translation>Vous pouvez proposer jusqu&apos;à 6 réponses. Cette fois, nous allons seulement proposer &quot;Oui&quot; et &quot;Non&quot;.
+Vous pouvez laisser les autres options telles quelles.</translation>
     </message>
     <message>
         <source>Click OK and it will be set.</source>
-        <translation></translation>
+        <translation>Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now fields labeled &quot;When Yes&quot; and &quot;When No&quot; have appeared.
 You can describe the event for each case within these fields.</source>
-        <translation></translation>
+        <translation>De nouveaux champs nommés &quot;Si oui&quot; et &quot;Si non&quot; sont apparus.
+Vous pouvez y décrire les évènements suivant chaque choix.</translation>
     </message>
     <message>
         <source>Now for an explanation about Balloon Icons.
 These are music notes, hearts, and other symbols that display above the event.
 This time we&apos;ll use them in place of dialogue.</source>
-        <translation></translation>
+        <translation>Nous allons maintenant parler des Bulles d&apos;Émotion.
+Ce sont des petites symboles comme des coeurs ou des notes de musiques qui s&apos;affichent
+au dessus d&apos;un évènement. Nous allons les utiliser
+en lieu de dialogue.</translation>
     </message>
     <message>
         <source>Double click the line under &quot;When Yes&quot;.</source>
-        <translation></translation>
+        <translation>Double-cliquez sur la ligne juste en dessous de &quot;Si oui&quot;.</translation>
     </message>
     <message>
         <source>Go to Page 2 of the Event Commands.</source>
-        <translation></translation>
+        <translation>Allez sur l&apos;onglet 2.</translation>
     </message>
     <message>
         <source>Click &quot;Show Balloon Icon...&quot;.</source>
-        <translation></translation>
+        <translation>Cliquez sur &quot;Afficher une bulle d&apos;émotion...&quot;.</translation>
     </message>
     <message>
         <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Heart&quot; for the &quot;Balloon Icon&quot;.</source>
-        <translation></translation>
+        <translation>Choisissez &quot;Cet évènement&quot; pour cible et l&apos;icône de &quot;Coeur&quot;.</translation>
     </message>
     <message>
         <source>Please check off &quot;Wait for Completion&quot;.</source>
-        <translation></translation>
+        <translation>Pensez à cocher &quot;Attendre la fin&quot;.</translation>
     </message>
     <message>
         <source>Double click the line under &quot;When No&quot;.</source>
-        <translation></translation>
+        <translation>Double-cliquez sur la ligne juste en dessous de &quot;Si non&quot;.</translation>
     </message>
     <message>
         <source>Choose &quot;This Event&quot; for the &quot;Character&quot;, and &quot;Cobweb&quot; for the &quot;Balloon Icon&quot;.</source>
-        <translation></translation>
+        <translation>Cette fois-ci, choisissez &quot;Cet évènement&quot; pour cible et l&apos;icône de &quot;Toile&quot;.</translation>
     </message>
     <message>
         <source>You can add dialogue after a balloon icon, but even if you don&apos;t the sentiment should be clear.
 Click OK and set the event.</source>
-        <translation></translation>
+        <translation>Vous pouvez ajouter du dialogue après une bulle si vous le souhaitez !
+Cliquez sur OK.</translation>
     </message>
     <message>
         <source>Now Step 2&apos;s preparations are complete.
 Save the project.</source>
-        <translation></translation>
+        <translation>Vous en avez terminé avec l&apos;étape 2, bravo !
+Sauvegardez votre projet.</translation>
     </message>
     <message>
         <source>Playtest and make sure that everything runs as expected.</source>
-        <translation></translation>
+        <translation>Lancez un test, et vérifiez que tout marche bien.</translation>
     </message>
 </context>
 <context>
